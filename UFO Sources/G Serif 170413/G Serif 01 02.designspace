@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0.0" maximum="800.0" minimum="0.0" name="serif" tag="x3" />
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="width" tag="wdth" />
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="xheight" tag="x2" />
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="proportion" tag="x1" />
+        <axis default="0.0" maximum="100.0" minimum="0.0" name="descender" tag="ds" />
+        <axis default="0.0" maximum="100.0" minimum="0.0" name="ascender" tag="as" />
+        <axis default="0.0" maximum="100.0" minimum="0.0" name="contrast" tag="ct" />
+    </axes>
+    <sources>
+        <source familyname="G Serif WideLowTallAsc" filename="G Serif 01 WideLowTallAsc02.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="100" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowSrfBrckt2" filename="G Serif 01 WideLowSrfBrckt2.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="500" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowSrfBrckt2Tis" filename="G Serif 01 WideLowSrfBrckt2Tis.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="400" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowSrfBrckt1Tis" filename="G Serif 01 WideLowSrfBrckt1Tis.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="300" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowSrfBrckt1" filename="G Serif 01 WideLowSrfBrckt1.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="200" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowSrfBrckt" filename="G Serif 01 WideLowSrfBrckt.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="100" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowLowDesc" filename="G Serif 01 WideLowLowDesc 02.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="100" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLowBgXhght" filename="G Serif 01 WideLowBgXhght.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="1000" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideLow" filename="G Serif 01 WideLow 03.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif WideHighBgXhght" filename="G Serif 01 WideHighBgXhght.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="1000" />
+                <dimension name="contrast" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="G Serif WideHigh" filename="G Serif 01 WideHigh 03.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="G Serif NarrowLowBgXhght" filename="G Serif 01 NarrowLowBgXhght.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="0" />
+                <dimension name="width" xvalue="0" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif NarrowLow" filename="G Serif 01 NarrowLow 02.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="500" />
+                <dimension name="width" xvalue="0" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif LowTOS" filename="G Serif 01 LowTOS.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="0" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="G Serif Low REG" filename="G Serif 01 LowREG.ufo" stylename="Regular">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="1000" />
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="0" />
+                <dimension name="contrast" xvalue="0" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular1.ufo" postscriptfontname="GSerif01-Regular1" stylename="Regular 1">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="60" />
+                <dimension name="proportion" xvalue="200" />
+                <dimension name="width" xvalue="700" />
+                <dimension name="serif" xvalue="250" />
+                <dimension name="xheight" xvalue="185" />
+                <dimension name="contrast" xvalue="55" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular2.ufo" postscriptfontname="GSerif01-Regular2" stylename="Regular 2">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="20" />
+                <dimension name="proportion" xvalue="1000" />
+                <dimension name="width" xvalue="200" />
+                <dimension name="serif" xvalue="320" />
+                <dimension name="xheight" xvalue="700" />
+                <dimension name="contrast" xvalue="25" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular3.ufo" postscriptfontname="GSerif01-Regular3" stylename="Regular 3">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="100" />
+                <dimension name="width" xvalue="700" />
+                <dimension name="serif" xvalue="300" />
+                <dimension name="xheight" xvalue="700" />
+                <dimension name="contrast" xvalue="30" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular4Slab.ufo" postscriptfontname="GSerif01-Regular4Slab" stylename="Regular 4 Slab">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="0" />
+                <dimension name="proportion" xvalue="1000" />
+                <dimension name="width" xvalue="200" />
+                <dimension name="serif" xvalue="40" />
+                <dimension name="xheight" xvalue="700" />
+                <dimension name="contrast" xvalue="55" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular5Ball.ufo" postscriptfontname="GSerif01-Regular5Ball" stylename="Regular 5 Ball">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="50" />
+                <dimension name="proportion" xvalue="1000" />
+                <dimension name="width" xvalue="610" />
+                <dimension name="serif" xvalue="45" />
+                <dimension name="xheight" xvalue="700" />
+                <dimension name="contrast" xvalue="45" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular7Horizontal.ufo" postscriptfontname="GSerif01-Regular7Horizontal" stylename="Regular 7 Horizontal">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="15" />
+                <dimension name="proportion" xvalue="1000" />
+                <dimension name="width" xvalue="700" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="600" />
+                <dimension name="contrast" xvalue="50" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular8Wide.ufo" postscriptfontname="GSerif01-Regular8Wide" stylename="Regular 8 Wide">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="40" />
+                <dimension name="proportion" xvalue="220" />
+                <dimension name="width" xvalue="900" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="230" />
+                <dimension name="contrast" xvalue="30" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="G Serif 01" filename="instances/GSerif01-Regular9Slab.ufo" postscriptfontname="GSerif01-Regular9Slab" stylename="Regular 9 Slab">
+            <location>
+                <dimension name="descender" xvalue="0" />
+                <dimension name="ascender" xvalue="40" />
+                <dimension name="proportion" xvalue="300" />
+                <dimension name="width" xvalue="800" />
+                <dimension name="serif" xvalue="0" />
+                <dimension name="xheight" xvalue="700" />
+                <dimension name="contrast" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

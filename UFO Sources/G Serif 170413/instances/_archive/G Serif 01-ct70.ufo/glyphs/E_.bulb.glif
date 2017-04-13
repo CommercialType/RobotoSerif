@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.bulb" format="1">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="710" type="line"/>
+      <point x="153" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="390" type="line"/>
+      <point x="213" y="336" type="line"/>
+      <point x="490" y="336" type="line"/>
+      <point x="490" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="517" type="curve"/>
+      <point x="572" y="517" type="line"/>
+      <point x="562" y="710" type="line"/>
+      <point x="53" y="710" type="line"/>
+      <point x="53" y="655" type="line"/>
+      <point x="398" y="655" type="line"/>
+      <point x="477" y="655"/>
+      <point x="510" y="627"/>
+    </contour>
+    <contour>
+      <point x="53" y="55" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="602" y="221" type="line"/>
+      <point x="549" y="221" type="line"/>
+      <point x="536" y="86"/>
+      <point x="498" y="55"/>
+      <point x="415" y="55" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
