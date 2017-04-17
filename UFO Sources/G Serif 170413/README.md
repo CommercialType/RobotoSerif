@@ -1,3 +1,4 @@
+Breakdown of naming convention used for UFO poles
 
 Family:
 G Serif
@@ -21,5 +22,3 @@ G Serif-whatever
 
 
 We will need to figure out named instances (the names someone would see in InDesign) but that can happen later. 
-
-}
