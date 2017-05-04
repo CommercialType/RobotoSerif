@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.bulb" format="1">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="710" type="line"/>
+      <point x="153" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="50" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="612" y="221" type="line"/>
+      <point x="563" y="221" type="line"/>
+      <point x="549" y="82"/>
+      <point x="512" y="50"/>
+      <point x="429" y="50" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="53" y="710" type="line"/>
+      <point x="53" y="660" type="line"/>
+      <point x="341" y="660" type="line"/>
+      <point x="341" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>
