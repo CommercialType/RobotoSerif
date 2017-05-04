@@ -40,9 +40,37 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>659</integer>
+			<integer>0</integer>
 			<key>y</key>
-			<integer>-230</integer>
+			<integer>204</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>514</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>-193</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -62,25 +90,42 @@
 			<array>
 				<string>space</string>
 				<string>A</string>
+				<string>B</string>
+				<string>C</string>
 				<string>D</string>
 				<string>E</string>
 				<string>F</string>
+				<string>G</string>
 				<string>H</string>
 				<string>I</string>
+				<string>J</string>
+				<string>K</string>
 				<string>L</string>
 				<string>M</string>
 				<string>N</string>
 				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
 				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
 				<string>V</string>
+				<string>W</string>
+				<string>X</string>
+				<string>Y</string>
+				<string>Z</string>
 				<string>a</string>
 				<string>b</string>
+				<string>c</string>
 				<string>d</string>
 				<string>e</string>
 				<string>f</string>
 				<string>g</string>
 				<string>h</string>
 				<string>i</string>
+				<string>j</string>
+				<string>k</string>
 				<string>l</string>
 				<string>m</string>
 				<string>n</string>
@@ -91,44 +136,94 @@
 				<string>s</string>
 				<string>t</string>
 				<string>u</string>
+				<string>v</string>
+				<string>w</string>
+				<string>x</string>
+				<string>y</string>
+				<string>z</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
 				<string>hyphen</string>
+				<string>endash</string>
+				<string>emdash</string>
+				<string>quoteleft</string>
+				<string>quoteright</string>
+				<string>quotedblleft</string>
+				<string>quotedblright</string>
 				<string>period</string>
-				<string>E.bulb</string>
-				<string>F.bulb</string>
-				<string>L.bulb</string>
-				<string>a.bulb</string>
-				<string>f.bulb</string>
-				<string>g.bulb</string>
-				<string>r.bulb</string>
-				<string>s.bulb</string>
-				<string>a.fullball</string>
-				<string>f.fullball</string>
-				<string>g.ball</string>
-				<string>r.fullball</string>
-				<string>s.fullball</string>
-				<string>a.ball</string>
-				<string>f.ball</string>
-				<string>r.ball</string>
-				<string>s.ball</string>
-				<string>a.hori</string>
-				<string>f.hori</string>
-				<string>r.hori</string>
-				<string>s.hori</string>
-				<string>a.oval</string>
-				<string>f.oval</string>
-				<string>r.oval</string>
-				<string>s.oval</string>
-				<string>a.slab</string>
-				<string>f.slab</string>
-				<string>r.slab</string>
-				<string>s.slab</string>
+				<string>comma</string>
+				<string>colon</string>
+				<string>semicolon</string>
+				<string>ellipsis</string>
+				<string>exclam</string>
+				<string>question</string>
+				<string>zero.old</string>
+				<string>one.old</string>
+				<string>two.old</string>
+				<string>three.old</string>
+				<string>four.old</string>
+				<string>five.old</string>
+				<string>seven.old</string>
+				<string>C.srf</string>
+				<string>G.srf</string>
+				<string>S.srf</string>
+				<string>a.srf</string>
+				<string>c.srf</string>
+				<string>s.srf</string>
+				<string>W.alt</string>
+				<string>w.alt</string>
+				<string>C.alt1</string>
+				<string>G.alt1</string>
+				<string>c.alt1</string>
+				<string>g.alt4</string>
+				<string>y.alt4</string>
+				<string>y.alt5</string>
+				<string>y.alt</string>
+				<string>y.alt3</string>
+				<string>y.alt2</string>
 				<string>E.alt</string>
 				<string>F.alt</string>
+				<string>J.alt</string>
+				<string>K.alt</string>
+				<string>e.alt</string>
 				<string>g.alt</string>
-				<string>g.alt2</string>
-				<string>R.legalt</string>
-				<string>s.slabalt</string>
-				<string>s.ball.copy_1</string>
+				<string>j.alt</string>
+				<string>k.alt</string>
+				<string>one.alt</string>
+				<string>two.alt</string>
+				<string>four.alt</string>
+				<string>five.alt</string>
+				<string>seven.alt</string>
+				<string>K.alt2</string>
+				<string>k.alt2</string>
+				<string>five.alt2</string>
+				<string>seven.alt2</string>
+				<string>G.alt3</string>
+				<string>K.alt3</string>
+				<string>k.alt3</string>
+				<string>five.alt3</string>
+				<string>four.oldalt</string>
+				<string>seven.oldalt2</string>
+				<string>seven.oldalt</string>
+				<string>five.oldalt2</string>
+				<string>five.oldalt</string>
+				<string>one.oldalt</string>
+				<string>two.oldalt</string>
+				<string>C.copy_1</string>
+				<string>a.srf2</string>
+				<string>c.srf2</string>
+				<string>s.srf2</string>
+				<string>c.alt2</string>
+				<string>f.srf2</string>
+				<string>e.alt2</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -138,25 +233,42 @@
 	<array>
 		<string>space</string>
 		<string>A</string>
+		<string>B</string>
+		<string>C</string>
 		<string>D</string>
 		<string>E</string>
 		<string>F</string>
+		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>J</string>
+		<string>K</string>
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
 		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
 		<string>R</string>
+		<string>S</string>
+		<string>T</string>
+		<string>U</string>
 		<string>V</string>
+		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Z</string>
 		<string>a</string>
 		<string>b</string>
+		<string>c</string>
 		<string>d</string>
 		<string>e</string>
 		<string>f</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>j</string>
+		<string>k</string>
 		<string>l</string>
 		<string>m</string>
 		<string>n</string>
@@ -167,44 +279,94 @@
 		<string>s</string>
 		<string>t</string>
 		<string>u</string>
+		<string>v</string>
+		<string>w</string>
+		<string>x</string>
+		<string>y</string>
+		<string>z</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>hyphen</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
 		<string>period</string>
-		<string>E.bulb</string>
-		<string>F.bulb</string>
-		<string>L.bulb</string>
-		<string>a.bulb</string>
-		<string>f.bulb</string>
-		<string>g.bulb</string>
-		<string>r.bulb</string>
-		<string>s.bulb</string>
-		<string>a.fullball</string>
-		<string>f.fullball</string>
-		<string>g.ball</string>
-		<string>r.fullball</string>
-		<string>s.fullball</string>
-		<string>a.ball</string>
-		<string>f.ball</string>
-		<string>r.ball</string>
-		<string>s.ball</string>
-		<string>a.hori</string>
-		<string>f.hori</string>
-		<string>r.hori</string>
-		<string>s.hori</string>
-		<string>a.oval</string>
-		<string>f.oval</string>
-		<string>r.oval</string>
-		<string>s.oval</string>
-		<string>a.slab</string>
-		<string>f.slab</string>
-		<string>r.slab</string>
-		<string>s.slab</string>
+		<string>comma</string>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>ellipsis</string>
+		<string>exclam</string>
+		<string>question</string>
+		<string>zero.old</string>
+		<string>one.old</string>
+		<string>two.old</string>
+		<string>three.old</string>
+		<string>four.old</string>
+		<string>five.old</string>
+		<string>seven.old</string>
+		<string>C.srf</string>
+		<string>G.srf</string>
+		<string>S.srf</string>
+		<string>a.srf</string>
+		<string>c.srf</string>
+		<string>s.srf</string>
+		<string>W.alt</string>
+		<string>w.alt</string>
+		<string>C.alt1</string>
+		<string>G.alt1</string>
+		<string>c.alt1</string>
+		<string>g.alt4</string>
+		<string>y.alt4</string>
+		<string>y.alt5</string>
+		<string>y.alt</string>
+		<string>y.alt3</string>
+		<string>y.alt2</string>
 		<string>E.alt</string>
 		<string>F.alt</string>
+		<string>J.alt</string>
+		<string>K.alt</string>
+		<string>e.alt</string>
 		<string>g.alt</string>
-		<string>g.alt2</string>
-		<string>R.legalt</string>
-		<string>s.slabalt</string>
-		<string>s.ball.copy_1</string>
+		<string>j.alt</string>
+		<string>k.alt</string>
+		<string>one.alt</string>
+		<string>two.alt</string>
+		<string>four.alt</string>
+		<string>five.alt</string>
+		<string>seven.alt</string>
+		<string>K.alt2</string>
+		<string>k.alt2</string>
+		<string>five.alt2</string>
+		<string>seven.alt2</string>
+		<string>G.alt3</string>
+		<string>K.alt3</string>
+		<string>k.alt3</string>
+		<string>five.alt3</string>
+		<string>four.oldalt</string>
+		<string>seven.oldalt2</string>
+		<string>seven.oldalt</string>
+		<string>five.oldalt2</string>
+		<string>five.oldalt</string>
+		<string>one.oldalt</string>
+		<string>two.oldalt</string>
+		<string>C.copy_1</string>
+		<string>a.srf2</string>
+		<string>c.srf2</string>
+		<string>s.srf2</string>
+		<string>c.alt2</string>
+		<string>f.srf2</string>
+		<string>e.alt2</string>
 	</array>
 </dict>
 </plist>
