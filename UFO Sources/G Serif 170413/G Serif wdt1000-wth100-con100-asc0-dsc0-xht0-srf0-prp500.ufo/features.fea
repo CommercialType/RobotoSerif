@@ -1,1 +1,85 @@
-include(G Serif 01 alts.fea);
+#include(G Serif 01 alts.fea);
+
+
+
+
+
+feature onum {
+	sub five by five.old;
+	sub four by four.old;
+	sub one by one.old;
+	sub seven by seven.old;
+	sub three by three.old;
+	sub two by two.old;
+	sub zero by zero.old;
+} onum;
+
+feature ss01 {
+    sub one by one.alt;
+    sub two by two.alt;
+    sub four by four.alt;
+    sub five by five.alt;
+    sub seven by seven.alt;
+} ss01;
+
+feature ss02 {
+    sub five by five.alt2;
+    sub seven by seven.alt2;
+} ss02;
+
+
+
+feature ss04{
+    sub g by g.alt4;
+    sub y by y.alt4;
+} ss04;
+
+feature ss05{
+    sub K by K.alt;
+    sub k by k.alt;
+} ss05;
+
+feature ss06{
+    sub K by K.alt2;
+    sub k by k.alt2;
+} ss06;
+
+feature ss07{
+    sub K by K.alt3;
+    sub k by k.alt3;
+} ss07;
+
+feature ss08{
+    sub J by J.alt;
+    sub j by j.alt;
+    sub y by y.alt3;
+} ss08;
+
+
+feature ss10{
+    sub g by g.alt;
+    sub y by y.alt;
+} ss10;
+
+feature ss11 {
+	sub C by C.srf;
+	sub G by G.srf;
+	sub S by S.srf;
+	sub a by a.srf;
+	sub c by c.srf;
+	sub e by e.alt2;
+	sub s by s.srf;
+} ss11;
+
+feature ss12 {
+    	sub C by C.srf;
+	sub G by G.srf;
+	sub S by S.srf;
+	sub a by a.srf2;
+	sub c by c.srf2;
+	sub e by e.alt2;
+	sub f by f.srf2;
+	sub s by s.srf2;
+} ss12;
+
+
