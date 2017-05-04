@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="OSF height"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/GregGazdowiczCommercial/Dropbox/__WORK__/Google/UFOs/G Serif 01/instances"/>
+    <data name="previewtext" value="Hello 123457 Jobs being created 37 cats lost in 731 days since the beginning of time"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="OSF height" shortname="x1">
+        <color a="1.000" b="1.000" g="0.394" r="0.972"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="G Serif WideLow" filename="G Serif Old style pole.ufo" sortorder="1" stylename="Regular Old Style Pole">
+        <location>
+            <dimension name="OSF height" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif WideLow" filename="G Serif wdt1000-wth100-con0-asc0-dsc0-xht0-srf0-prp500.ufo" sortorder="0" stylename="Regular">
+        <location>
+            <dimension name="OSF height" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="G Serif WideLow" filename="instances/GSerifWideLow-250.ufo" sortorder="2" stylename="250">
+        <location>
+            <dimension name="OSF height" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif WideLow" filename="instances/GSerifWideLow-500.ufo" sortorder="4" stylename="500">
+        <location>
+            <dimension name="OSF height" xvalue="500.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif WideLow" filename="instances/GSerifWideLow-650.ufo" sortorder="5" stylename="650">
+        <location>
+            <dimension name="OSF height" xvalue="650.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif WideLow" filename="instances/GSerifWideLow-370.ufo" sortorder="3" stylename="370">
+        <location>
+            <dimension name="OSF height" xvalue="370.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif WideLow" filename="instances/GSerifWideLow-325.ufo" sortorder="6" stylename="325">
+        <location>
+            <dimension name="OSF height" xvalue="325.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>
