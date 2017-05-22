@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Q" format="1">
+<glyph name="Q.alt" format="1">
   <advance width="760"/>
-  <unicode hex="0051"/>
   <outline>
+    <contour>
+      <point x="351" y="229" type="line"/>
+      <point x="488" y="27"/>
+      <point x="564" y="-11"/>
+      <point x="763" y="0" type="curve"/>
+      <point x="763" y="70" type="line"/>
+      <point x="593" y="57"/>
+      <point x="530" y="75"/>
+      <point x="405" y="261" type="curve"/>
+    </contour>
     <contour>
       <point x="380" y="-10" type="curve" smooth="yes"/>
       <point x="566" y="-10"/>
@@ -30,16 +39,6 @@
       <point x="600" y="355" type="curve" smooth="yes"/>
       <point x="600" y="162"/>
       <point x="515" y="47"/>
-    </contour>
-    <contour>
-      <point x="351" y="17" type="line"/>
-      <point x="380" y="-122"/>
-      <point x="468" y="-183"/>
-      <point x="659" y="-182" type="curve"/>
-      <point x="659" y="-97" type="line"/>
-      <point x="510" y="-95"/>
-      <point x="435" y="-85"/>
-      <point x="410" y="44" type="curve"/>
     </contour>
   </outline>
   <lib>

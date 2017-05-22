@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Q" format="1">
+<glyph name="Q.alt4" format="1">
   <advance width="760"/>
-  <unicode hex="0051"/>
   <outline>
     <contour>
       <point x="380" y="-10" type="curve" smooth="yes"/>
@@ -32,14 +31,20 @@
       <point x="515" y="47"/>
     </contour>
     <contour>
-      <point x="351" y="17" type="line"/>
-      <point x="380" y="-122"/>
-      <point x="468" y="-183"/>
-      <point x="659" y="-182" type="curve"/>
-      <point x="659" y="-97" type="line"/>
-      <point x="510" y="-95"/>
-      <point x="435" y="-85"/>
-      <point x="410" y="44" type="curve"/>
+      <point x="342.0" y="-7.0" type="line"/>
+      <point x="334.0" y="-129.0"/>
+      <point x="433" y="-183"/>
+      <point x="562" y="-183" type="curve" smooth="yes"/>
+      <point x="599" y="-183"/>
+      <point x="644" y="-178"/>
+      <point x="688" y="-169" type="curve"/>
+      <point x="688" y="-79" type="line"/>
+      <point x="639" y="-93"/>
+      <point x="603" y="-105"/>
+      <point x="539" y="-105" type="curve" smooth="yes"/>
+      <point x="461" y="-105"/>
+      <point x="403.0" y="-75.0"/>
+      <point x="408.0" y="10.0" type="curve"/>
     </contour>
   </outline>
   <lib>
