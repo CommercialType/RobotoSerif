@@ -9,18 +9,22 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
 	<true/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<false/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>0</integer>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Work/Commercial Type/Commercial/Google/170509 G Serif/GSerif01-MicroRegular03_WebProof0/GSerif01-DisplayRegular03.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -43,6 +47,20 @@
 			<integer>0</integer>
 			<key>y</key>
 			<integer>710</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>618</integer>
+			<key>y</key>
+			<integer>558</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -156,7 +174,7 @@
 				<string>G.srf</string>
 				<string>S.srf</string>
 				<string>s.srf</string>
-				<string>g.alt4</string>
+				<string>g.alt</string>
 				<string>C.alt</string>
 				<string>G.alt</string>
 				<string>E.alt</string>
@@ -176,6 +194,11 @@
 				<string>five.alt2</string>
 				<string>seven.alt2</string>
 				<string>s.alt</string>
+				<string>Q.alt</string>
+				<string>Q.alt4</string>
+				<string>Q.alt5</string>
+				<string>Q.alt6</string>
+				<string>Q.alt2</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -279,7 +302,7 @@
 		<string>G.srf</string>
 		<string>S.srf</string>
 		<string>s.srf</string>
-		<string>g.alt4</string>
+		<string>g.alt</string>
 		<string>C.alt</string>
 		<string>G.alt</string>
 		<string>E.alt</string>
@@ -299,6 +322,12 @@
 		<string>five.alt2</string>
 		<string>seven.alt2</string>
 		<string>s.alt</string>
+		<string>Q.alt</string>
+		<string>Q.alt4</string>
+		<string>Q.alt5</string>
+		<string>Q.alt6</string>
+		<string>Q.alt2</string>
+		<string>f.alt</string>
 	</array>
 </dict>
 </plist>

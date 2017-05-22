@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="786"/>
+  <advance width="768"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
@@ -10,10 +10,10 @@
       <point x="135" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="729" y="357" type="curve" smooth="yes"/>
-      <point x="729" y="574"/>
-      <point x="577" y="710"/>
-      <point x="354" y="710" type="curve" smooth="yes"/>
+      <point x="723" y="357" type="curve" smooth="yes"/>
+      <point x="723" y="574"/>
+      <point x="571" y="710"/>
+      <point x="348" y="710" type="curve" smooth="yes"/>
       <point x="49" y="710" type="line"/>
       <point x="49" y="686" type="line"/>
       <point x="55" y="686" type="line" smooth="yes"/>
@@ -21,13 +21,13 @@
       <point x="135" y="679"/>
       <point x="135" y="650" type="curve"/>
       <point x="193" y="676" type="line"/>
-      <point x="354" y="676" type="line" smooth="yes"/>
-      <point x="523" y="676"/>
-      <point x="629" y="561"/>
-      <point x="629" y="357" type="curve" smooth="yes"/>
-      <point x="629" y="154"/>
-      <point x="523" y="34"/>
-      <point x="354" y="34" type="curve" smooth="yes"/>
+      <point x="348" y="676" type="line" smooth="yes"/>
+      <point x="517" y="676"/>
+      <point x="623" y="561"/>
+      <point x="623" y="357" type="curve" smooth="yes"/>
+      <point x="623" y="154"/>
+      <point x="517" y="34"/>
+      <point x="348" y="34" type="curve" smooth="yes"/>
       <point x="217" y="34" type="line"/>
       <point x="135" y="60" type="line"/>
       <point x="135" y="31"/>
@@ -35,9 +35,9 @@
       <point x="55" y="24" type="curve" smooth="yes"/>
       <point x="49" y="24" type="line"/>
       <point x="49" y="0" type="line"/>
-      <point x="354" y="0" type="line" smooth="yes"/>
-      <point x="577" y="0"/>
-      <point x="729" y="141"/>
+      <point x="348" y="0" type="line" smooth="yes"/>
+      <point x="571" y="0"/>
+      <point x="723" y="141"/>
     </contour>
   </outline>
   <lib>
@@ -370,7 +370,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>786</integer>
+          <integer>768</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
