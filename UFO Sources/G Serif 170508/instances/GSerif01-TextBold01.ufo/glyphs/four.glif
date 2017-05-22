@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="650"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="255" y="97" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="626" y="97" type="line"/>
+      <point x="520" y="97" type="line"/>
+      <point x="520" y="97" type="line"/>
+      <point x="362" y="97" type="line"/>
+      <point x="362" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="710" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="208" type="line"/>
+      <point x="632" y="208" type="line"/>
+      <point x="632" y="299" type="line"/>
+      <point x="92" y="299" type="line"/>
+      <point x="112" y="252" type="line"/>
+      <point x="409" y="652" type="line"/>
+      <point x="445" y="710" type="line"/>
+      <point x="335" y="710" type="line"/>
+      <point x="25" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3901</real>
+        <real>0.3797</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
