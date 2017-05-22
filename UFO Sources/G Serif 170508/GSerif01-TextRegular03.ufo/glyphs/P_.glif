@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="682"/>
+  <advance width="660"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
@@ -11,22 +11,22 @@
     </contour>
     <contour>
       <point x="239" y="653" type="line"/>
-      <point x="364" y="653" type="line" smooth="yes"/>
-      <point x="476" y="653"/>
-      <point x="531" y="596"/>
-      <point x="531" y="500" type="curve"/>
-      <point x="531" y="404"/>
-      <point x="476" y="340"/>
-      <point x="359" y="340" type="curve" smooth="yes"/>
+      <point x="351" y="653" type="line" smooth="yes"/>
+      <point x="463" y="653"/>
+      <point x="518" y="596"/>
+      <point x="518" y="500" type="curve"/>
+      <point x="518" y="404"/>
+      <point x="463" y="340"/>
+      <point x="346" y="340" type="curve" smooth="yes"/>
       <point x="200" y="340" type="line"/>
       <point x="200" y="285" type="line"/>
-      <point x="360" y="285" type="line" smooth="yes"/>
-      <point x="526" y="285"/>
-      <point x="628" y="374"/>
-      <point x="628" y="501" type="curve"/>
-      <point x="628" y="628"/>
-      <point x="531" y="710"/>
-      <point x="365" y="710" type="curve" smooth="yes"/>
+      <point x="347" y="285" type="line" smooth="yes"/>
+      <point x="513" y="285"/>
+      <point x="615" y="374"/>
+      <point x="615" y="501" type="curve"/>
+      <point x="615" y="628"/>
+      <point x="518" y="710"/>
+      <point x="352" y="710" type="curve" smooth="yes"/>
       <point x="55" y="710" type="line"/>
       <point x="55" y="663" type="line"/>
       <point x="66" y="663" type="line" smooth="yes"/>
@@ -35,12 +35,12 @@
       <point x="151" y="627" type="curve"/>
     </contour>
     <contour>
-      <point x="336" y="0" type="line"/>
-      <point x="336" y="47" type="line"/>
-      <point x="321" y="47" type="line" smooth="yes"/>
-      <point x="287" y="47"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="47" type="line"/>
+      <point x="333" y="47" type="line"/>
+      <point x="289" y="47"/>
       <point x="244" y="50"/>
-      <point x="244" y="57" type="curve"/>
+      <point x="244" y="88" type="curve"/>
       <point x="151" y="83" type="line"/>
       <point x="151" y="54"/>
       <point x="115" y="47"/>
@@ -402,7 +402,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>682</integer>
+          <integer>660</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
