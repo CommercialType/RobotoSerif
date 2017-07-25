@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="511"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="298" y="258"/>
+      <point x="458" y="459"/>
+      <point x="494" y="662" type="curve"/>
+      <point x="509" y="636" type="line"/>
+      <point x="169" y="636" type="line"/>
+      <point x="175" y="651" type="line"/>
+      <point x="150" y="504" type="line"/>
+      <point x="86" y="504" type="line"/>
+      <point x="122" y="710" type="line"/>
+      <point x="571" y="710" type="line"/>
+      <point x="562" y="665" type="line" smooth="yes"/>
+      <point x="525" y="448"/>
+      <point x="389" y="248"/>
+      <point x="184" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3901</real>
+        <real>0.3797</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
