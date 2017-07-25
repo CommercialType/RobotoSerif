@@ -1,0 +1,42 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+
+feature ss01{
+    sub f by f.alt;
+} ss01;
+
+feature ss02{
+    sub f by f.alt2;
+} ss02;
+
+feature ss03{
+    sub f by f.alt4;
+} ss03;
+
+feature ss04{ 
+    sub f by f.alt3;
+} ss04;
+
+feature ss05{
+    sub f by f.alt5;
+} ss05;
+
+
+feature ss06{
+    sub v by v.alt1;
+} ss06;
+
+feature ss07{
+    sub v by v.alt2;
+} ss07;
+
+feature ss08{
+    sub g by g.alt;
+} ss08;
+
+feature ss09{
+    sub E by E.alt;
+    sub F by F.alt;
+} ss09;
