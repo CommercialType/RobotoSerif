@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="539"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="76" y="64" type="line"/>
+      <point x="84" y="49" type="line"/>
+      <point x="520" y="499" type="line"/>
+      <point x="532" y="565" type="line"/>
+      <point x="107" y="565" type="line"/>
+      <point x="76" y="393" type="line"/>
+      <point x="132" y="393" type="line"/>
+      <point x="157" y="459" type="line" smooth="yes"/>
+      <point x="170" y="496"/>
+      <point x="200" y="502"/>
+      <point x="276" y="502" type="curve" smooth="yes"/>
+      <point x="450" y="502" type="line"/>
+      <point x="436" y="513" type="line"/>
+      <point x="4" y="70" type="line"/>
+      <point x="-8" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="473" y="184" type="line"/>
+      <point x="415" y="184" type="line"/>
+      <point x="389" y="107" type="line" smooth="yes"/>
+      <point x="376" y="70"/>
+      <point x="346" y="64"/>
+      <point x="270" y="64" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>446</integer>
+          <key>y</key>
+          <integer>107</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3901</real>
+        <real>0.3797</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

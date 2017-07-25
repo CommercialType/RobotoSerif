@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="author"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/GregGazdowiczCommercial/Dropbox/__WORK__/Google/UFOs/G Serif 01/G Serif 170601/instances"/>
+    <data name="previewtext" value="Material Design"/>
+    <data name="verticalPreviewAxis" value="contrast"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="72.000000" minimum="0.000000" name="optical" shortname="opsz">
+        <color a="1.000" b="0.056" g="0.775" r="0.752"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="100.000000" minimum="0.000000" name="contrast" shortname="cntr">
+        <color a="1.000" b="0.060" g="0.000" r="1.000"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="author" shortname="x2">
+        <color a="1.000" b="0.955" g="0.000" r="1.000"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="G Serif 01" filename="GSerif01-AuthorTextRegular03.ufo" sortorder="6" stylename="Author Text Regular 03">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-DisplayBlack.ufo" sortorder="1" stylename="Display Black">
+        <location>
+            <dimension name="optical" xvalue="72.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-DisplayRegular 03.ufo" sortorder="0" stylename="Display Regular 03">
+        <location>
+            <dimension name="optical" xvalue="72.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-MicroRegular03.ufo" sortorder="5" stylename="Micro Regular 03">
+        <location>
+            <dimension name="optical" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-TextBlack.ufo" sortorder="4" stylename="Text Black">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+            <dimension name="contrast" xvalue="100.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-TextBlack02.ufo" sortorder="3" stylename="Text Black 02">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="G Serif 01" filename="GSerif01-TextRegular03.ufo" sortorder="2" stylename="Text Regular 03">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="G Serif 01" filename="instances/GSerif01-MicroRegular.ufo" sortorder="7" stylename="Micro Regular">
+        <location>
+            <dimension name="optical" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="100.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-DisplayRegular.ufo" sortorder="8" stylename="Display Regular">
+        <location>
+            <dimension name="optical" xvalue="72.000000"/>
+            <dimension name="weight" xvalue="105.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextRegular01.ufo" sortorder="9" stylename="Text Regular 01">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="70.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextRegular02.ufo" sortorder="10" stylename="Text Regular 02">
+        <location>
+            <dimension name="optical" xvalue="30.000000"/>
+            <dimension name="weight" xvalue="83.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextRegular03.ufo" sortorder="11" stylename="Text Regular 03">
+        <location>
+            <dimension name="optical" xvalue="48.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextBold01.ufo" sortorder="12" stylename="Text Bold 01">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="525.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextBold02.ufo" sortorder="13" stylename="Text Bold 02">
+        <location>
+            <dimension name="optical" xvalue="30.000000"/>
+            <dimension name="weight" xvalue="550.000000"/>
+            <dimension name="contrast" xvalue="30.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-TextBold03.ufo" sortorder="14" stylename="Text Bold 03">
+        <location>
+            <dimension name="optical" xvalue="48.000000"/>
+            <dimension name="weight" xvalue="560.000000"/>
+            <dimension name="contrast" xvalue="90.000000"/>
+            <dimension name="author" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-AuthorTextRegular01.ufo" sortorder="15" stylename="Author Text Regular 01">
+        <location>
+            <dimension name="optical" xvalue="16.000000"/>
+            <dimension name="weight" xvalue="70.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-AuthorTextRegular02.ufo" sortorder="16" stylename="Author Text Regular 02">
+        <location>
+            <dimension name="optical" xvalue="30.000000"/>
+            <dimension name="weight" xvalue="83.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="G Serif 01" filename="instances/GSerif01-AuthorTextRegular03.ufo" sortorder="17" stylename="Author Text Regular 03">
+        <location>
+            <dimension name="optical" xvalue="48.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+            <dimension name="contrast" xvalue="0.000000"/>
+            <dimension name="author" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>
