@@ -1,0 +1,64 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@CGS_SERIF_OFF = [C G S s];
+@CGS_SERIF_ON = [C.srf G.srf S.srf s.srf];
+
+@EF_ALT_OFF = [E F];
+@EF_ALT_ON = [E.alt F.alt];
+
+@CGJW_ALT_OFF = [C G J W j];
+@CGJW_ALT_ON = [C.alt G.alt J.alt W.alt j.alt];
+
+@K_ALT_OFF = [K k];
+@K_ALT_ON = [K.alt k.alt];
+
+feature ss01 {
+	sub @CGS_SERIF_OFF by @CGS_SERIF_ON;
+} ss01;
+
+feature ss02 {
+	sub @EF_ALT_OFF by @EF_ALT_ON;
+} ss02;
+
+feature ss03 {
+	sub @CGJW_ALT_OFF by @CGJW_ALT_ON;
+} ss03;
+
+feature ss04 {
+	sub @K_ALT_OFF by @K_ALT_OFF;
+} ss04;
+
+feature ss05 {
+	sub a by a.alt;
+} ss05;
+
+feature ss06 {
+	sub g by g.alt;
+} ss06;
+
+feature ss12 {
+	sub f by f.alt;
+} ss12;
+
+feature ss11 {
+	sub Q by Q.alt6;
+} ss11;
+
+feature ss10 {
+	sub Q by Q.alt5;
+} ss10;
+
+feature ss09 {
+	sub Q by Q.alt4;
+} ss09;
+
+feature ss08 {
+	sub Q by Q.alt2;
+} ss08;
+
+feature ss07 {
+	sub Q by Q.alt;
+} ss07;
+
+
