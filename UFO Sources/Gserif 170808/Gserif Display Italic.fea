@@ -1,0 +1,30 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+
+feature ss01{
+    sub f by f.alt;
+} ss01;
+
+feature ss02{
+    sub f by f.alt2;
+} ss02;
+
+feature ss03{
+    sub f by f.alt4;
+} ss03;
+
+
+feature ss04{
+    sub v by v.alt1;
+} ss04;
+
+feature ss05{
+    sub v by v.soft;
+} ss05;
+
+
+feature ss06{
+    sub g by g.alt;
+} ss06;
