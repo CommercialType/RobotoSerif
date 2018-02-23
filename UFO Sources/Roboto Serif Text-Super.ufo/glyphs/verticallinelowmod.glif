@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmod" format="1">
+  <advance width="500"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="210" y="-250" type="line"/>
+      <point x="290" y="-250" type="line"/>
+      <point x="290" y="-47" type="line"/>
+      <point x="210" y="-47" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5769</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

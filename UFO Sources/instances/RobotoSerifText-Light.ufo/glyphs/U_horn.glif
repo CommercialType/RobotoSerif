@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="823"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="511" y="710" type="line"/>
+      <point x="511" y="672" type="line"/>
+      <point x="520" y="672" type="line" smooth="yes"/>
+      <point x="558" y="672"/>
+      <point x="607" y="664"/>
+      <point x="607" y="650" type="curve" smooth="yes"/>
+      <point x="607" y="271" type="line" smooth="yes"/>
+      <point x="607" y="99"/>
+      <point x="521" y="40"/>
+      <point x="407" y="40" type="curve" smooth="yes"/>
+      <point x="292" y="40"/>
+      <point x="205" y="98"/>
+      <point x="205" y="271" type="curve" smooth="yes"/>
+      <point x="205" y="662" type="line" smooth="yes"/>
+      <point x="205" y="669"/>
+      <point x="254" y="672"/>
+      <point x="292" y="672" type="curve" smooth="yes"/>
+      <point x="301" y="672" type="line"/>
+      <point x="301" y="710" type="line"/>
+      <point x="44" y="710" type="line"/>
+      <point x="44" y="672" type="line"/>
+      <point x="55" y="672" type="line" smooth="yes"/>
+      <point x="104" y="672"/>
+      <point x="140" y="665"/>
+      <point x="140" y="636" type="curve" smooth="yes"/>
+      <point x="140" y="271" type="line" smooth="yes"/>
+      <point x="140" y="69"/>
+      <point x="250" y="-10"/>
+      <point x="399" y="-10" type="curve" smooth="yes"/>
+      <point x="541" y="-10"/>
+      <point x="655" y="69"/>
+      <point x="655" y="271" type="curve" smooth="yes"/>
+      <point x="655" y="633" type="line" smooth="yes"/>
+      <point x="655" y="664"/>
+      <point x="678" y="666"/>
+      <point x="735" y="682" type="curve" smooth="yes"/>
+      <point x="820" y="703"/>
+      <point x="863" y="764"/>
+      <point x="864" y="878" type="curve"/>
+      <point x="803" y="878" type="line"/>
+      <point x="799" y="744"/>
+      <point x="766" y="710"/>
+      <point x="619" y="710" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="413" y="663" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

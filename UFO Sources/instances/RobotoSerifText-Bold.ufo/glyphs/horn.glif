@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horn" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="133" y="473" type="curve"/>
+      <point x="346" y="459"/>
+      <point x="424" y="511"/>
+      <point x="424" y="680" type="curve"/>
+      <point x="293" y="680" type="line"/>
+      <point x="291" y="556"/>
+      <point x="246" y="522"/>
+      <point x="94" y="522" type="curve"/>
+      <point x="100" y="509"/>
+      <point x="123" y="479"/>
+    </contour>
+    <contour>
+      <point x="258" y="444" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

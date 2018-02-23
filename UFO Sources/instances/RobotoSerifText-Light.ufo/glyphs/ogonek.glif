@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="600"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="384" y="28" type="line"/>
+      <point x="300" y="-22"/>
+      <point x="233" y="-73"/>
+      <point x="233" y="-142" type="curve" smooth="yes"/>
+      <point x="233" y="-200"/>
+      <point x="277" y="-234"/>
+      <point x="334" y="-234" type="curve" smooth="yes"/>
+      <point x="381" y="-234"/>
+      <point x="412" y="-214"/>
+      <point x="438" y="-185" type="curve"/>
+      <point x="414" y="-158" type="line"/>
+      <point x="396" y="-176"/>
+      <point x="376" y="-194"/>
+      <point x="348" y="-194" type="curve" smooth="yes"/>
+      <point x="319" y="-194"/>
+      <point x="297" y="-175"/>
+      <point x="297" y="-138" type="curve" smooth="yes"/>
+      <point x="297" y="-89"/>
+      <point x="327" y="-48"/>
+      <point x="408" y="4" type="curve"/>
+    </contour>
+    <contour>
+      <point x="362" y="20" type="move" name="_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

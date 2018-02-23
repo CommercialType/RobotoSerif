@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="560"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="422" y="346" type="line"/>
+      <point x="422" y="167" type="line"/>
+      <point x="471" y="167" type="line"/>
+      <point x="471" y="366" type="line"/>
+      <point x="89" y="366" type="line"/>
+      <point x="89" y="320" type="line"/>
+      <point x="454" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

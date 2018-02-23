@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="730"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="167" y="308" type="line"/>
+      <point x="154" y="226" type="line"/>
+      <point x="431" y="226" type="line"/>
+      <point x="430" y="308" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="0" type="line"/>
+      <point x="720" y="73" type="line"/>
+      <point x="716" y="73" type="line"/>
+      <point x="690" y="73"/>
+      <point x="674" y="78"/>
+      <point x="667" y="101" type="curve" smooth="yes"/>
+      <point x="469" y="710" type="line"/>
+      <point x="290" y="710" type="line"/>
+      <point x="270" y="645" type="line"/>
+      <point x="448" y="83" type="line"/>
+      <point x="448" y="76"/>
+      <point x="418" y="73"/>
+      <point x="390" y="73" type="curve" smooth="yes"/>
+      <point x="375" y="73" type="line"/>
+      <point x="375" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="73" type="line"/>
+      <point x="204" y="73" type="line" smooth="yes"/>
+      <point x="176" y="73"/>
+      <point x="148" y="80"/>
+      <point x="148" y="91" type="curve"/>
+      <point x="345" y="710" type="line"/>
+      <point x="257" y="710" type="line"/>
+      <point x="64" y="116" type="line" smooth="yes"/>
+      <point x="54" y="82"/>
+      <point x="40" y="73"/>
+      <point x="15" y="73" type="curve"/>
+      <point x="10" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="721" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="553" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="349" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

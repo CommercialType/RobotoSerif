@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_tilde" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="328" y="762" type="curve" smooth="yes"/>
+      <point x="390" y="762"/>
+      <point x="430" y="808"/>
+      <point x="448" y="890" type="curve"/>
+      <point x="379" y="915" type="line"/>
+      <point x="369" y="880"/>
+      <point x="357" y="860"/>
+      <point x="332" y="860" type="curve" smooth="yes"/>
+      <point x="291" y="860"/>
+      <point x="261" y="913"/>
+      <point x="193" y="913" type="curve" smooth="yes"/>
+      <point x="125" y="913"/>
+      <point x="93" y="868"/>
+      <point x="77" y="784" type="curve"/>
+      <point x="146" y="761" type="line"/>
+      <point x="153" y="797"/>
+      <point x="165" y="816"/>
+      <point x="190" y="816" type="curve" smooth="yes"/>
+      <point x="225" y="816"/>
+      <point x="253" y="762"/>
+    </contour>
+    <contour>
+      <point x="328" y="720" type="line"/>
+      <point x="436" y="579" type="line"/>
+      <point x="436" y="562" type="line"/>
+      <point x="361" y="562" type="line"/>
+      <point x="213" y="659" type="line"/>
+      <point x="296" y="659" type="line"/>
+      <point x="147" y="562" type="line"/>
+      <point x="82" y="562" type="line"/>
+      <point x="82" y="579" type="line"/>
+      <point x="191" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="551" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

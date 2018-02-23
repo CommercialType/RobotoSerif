@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="300.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text-Hairline.ufo" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text-Regular.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="300" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text-Super.ufo" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Roboto Serif Text" filename="Roboto Serif Text-Hairline.ufo" postscriptfontname="RobotoSerifText-Hairline" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Light.ufo" postscriptfontname="RobotoSerifText-Light" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="140" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="Roboto Serif Text-Regular.ufo" postscriptfontname="RobotoSerifText-Regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Medium.ufo" postscriptfontname="RobotoSerifText-Medium" stylename="Medium">
+            <location>
+                <dimension name="weight" xvalue="520" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Semibold.ufo" postscriptfontname="RobotoSerifText-Semibold" stylename="Semibold">
+            <location>
+                <dimension name="weight" xvalue="650" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Bold.ufo" postscriptfontname="RobotoSerifText-Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="745" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Black.ufo" postscriptfontname="RobotoSerifText-Black" stylename="Black">
+            <location>
+                <dimension name="weight" xvalue="825" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="Roboto Serif Text-Super.ufo" postscriptfontname="RobotoSerifText-Super" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+
+    </instances>
+</designspace>

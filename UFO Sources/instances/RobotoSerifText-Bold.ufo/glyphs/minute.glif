@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minute" format="1">
+  <advance width="251"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="219" y="710" type="line"/>
+      <point x="208" y="611"/>
+      <point x="175" y="581"/>
+      <point x="158" y="453" type="curve"/>
+      <point x="65" y="453" type="line"/>
+      <point x="83" y="602"/>
+      <point x="65" y="635"/>
+      <point x="78" y="710" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

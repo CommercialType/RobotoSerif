@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="-310" y="-282" type="line"/>
+      <point x="-260" y="-241"/>
+      <point x="-235" y="-201"/>
+      <point x="-235" y="-145" type="curve" smooth="yes"/>
+      <point x="-235" y="-106"/>
+      <point x="-257" y="-87"/>
+      <point x="-286" y="-87" type="curve" smooth="yes"/>
+      <point x="-311" y="-87"/>
+      <point x="-330" y="-104"/>
+      <point x="-330" y="-129" type="curve" smooth="yes"/>
+      <point x="-330" y="-154"/>
+      <point x="-312" y="-172"/>
+      <point x="-282" y="-172" type="curve" smooth="yes"/>
+      <point x="-271" y="-172"/>
+      <point x="-262" y="-169"/>
+      <point x="-256" y="-159" type="curve"/>
+      <point x="-264" y="-157"/>
+      <point x="-267" y="-155"/>
+      <point x="-269" y="-158" type="curve"/>
+      <point x="-270" y="-192"/>
+      <point x="-303" y="-232"/>
+      <point x="-350" y="-261" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-144" y="33" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat.proportional" format="1">
+  <advance width="699"/>
+  <outline>
+    <contour>
+      <point x="312" y="720" type="line"/>
+      <point x="312" y="160" type="line"/>
+      <point x="386" y="160" type="line"/>
+      <point x="386" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="514" type="curve" smooth="yes"/>
+      <point x="461" y="514"/>
+      <point x="485" y="390"/>
+      <point x="485" y="0" type="curve"/>
+      <point x="667" y="0" type="line"/>
+      <point x="667" y="334"/>
+      <point x="545" y="590"/>
+      <point x="349" y="590" type="curve" smooth="yes"/>
+      <point x="154" y="590"/>
+      <point x="32" y="334"/>
+      <point x="32" y="0" type="curve"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="390"/>
+      <point x="237" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
