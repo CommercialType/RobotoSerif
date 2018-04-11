@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.uc" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="275" y="756" type="line"/>
+      <point x="340" y="756" type="line"/>
+      <point x="340" y="787" type="line"/>
+      <point x="295" y="869" type="line" smooth="yes"/>
+      <point x="263" y="927"/>
+      <point x="230" y="953"/>
+      <point x="172" y="953" type="curve" smooth="yes"/>
+      <point x="117" y="953"/>
+      <point x="87" y="920"/>
+      <point x="87" y="880" type="curve" smooth="yes"/>
+      <point x="87" y="829"/>
+      <point x="119" y="798"/>
+      <point x="205" y="775" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="227" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>906</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondotaccent" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="caron"/>
+    <component base="dotaccent" xOffset="17" yOffset="175"/>
+    <contour>
+      <point x="245" y="497" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

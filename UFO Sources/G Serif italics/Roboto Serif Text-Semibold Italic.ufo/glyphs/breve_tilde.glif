@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve_tilde" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="222" y="911" type="curve" smooth="yes"/>
+      <point x="160" y="911"/>
+      <point x="123" y="876"/>
+      <point x="99" y="793" type="curve"/>
+      <point x="166" y="763" type="line"/>
+      <point x="176" y="801"/>
+      <point x="190" y="818"/>
+      <point x="212" y="818" type="curve" smooth="yes"/>
+      <point x="247" y="818"/>
+      <point x="270" y="764"/>
+      <point x="342" y="764" type="curve" smooth="yes"/>
+      <point x="401" y="764"/>
+      <point x="443" y="800"/>
+      <point x="468" y="883" type="curve"/>
+      <point x="402" y="915" type="line"/>
+      <point x="389" y="878"/>
+      <point x="375" y="860"/>
+      <point x="353" y="860" type="curve" smooth="yes"/>
+      <point x="312" y="860"/>
+      <point x="293" y="911"/>
+    </contour>
+    <contour>
+      <point x="269" y="665" type="curve" smooth="yes"/>
+      <point x="213" y="665"/>
+      <point x="197" y="691"/>
+      <point x="199" y="725" type="curve"/>
+      <point x="115" y="725" type="line"/>
+      <point x="114" y="721"/>
+      <point x="113" y="709"/>
+      <point x="113" y="701" type="curve" smooth="yes"/>
+      <point x="113" y="623"/>
+      <point x="163" y="568"/>
+      <point x="262" y="568" type="curve" smooth="yes"/>
+      <point x="354" y="568"/>
+      <point x="417" y="616"/>
+      <point x="431" y="725" type="curve"/>
+      <point x="351" y="725" type="line"/>
+      <point x="340" y="684"/>
+      <point x="317" y="665"/>
+    </contour>
+    <contour>
+      <point x="253" y="524" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>722</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

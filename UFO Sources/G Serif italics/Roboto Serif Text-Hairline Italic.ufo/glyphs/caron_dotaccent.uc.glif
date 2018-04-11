@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron_dotaccent.uc" format="1">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="315" y="881" type="curve" smooth="yes"/>
+      <point x="338" y="881"/>
+      <point x="355" y="895"/>
+      <point x="355" y="921" type="curve" smooth="yes"/>
+      <point x="355" y="947"/>
+      <point x="338" y="961"/>
+      <point x="315" y="961" type="curve" smooth="yes"/>
+      <point x="292" y="961"/>
+      <point x="275" y="947"/>
+      <point x="275" y="921" type="curve" smooth="yes"/>
+      <point x="275" y="895"/>
+      <point x="292" y="881"/>
+    </contour>
+    <contour>
+      <point x="261" y="763" type="line"/>
+      <point x="330" y="763" type="line"/>
+      <point x="461" y="887" type="line"/>
+      <point x="463" y="897" type="line"/>
+      <point x="443" y="897" type="line"/>
+      <point x="302" y="796" type="line"/>
+      <point x="196" y="897" type="line"/>
+      <point x="175" y="897" type="line"/>
+      <point x="173" y="887" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3901</real>
+        <real>0.3797</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
