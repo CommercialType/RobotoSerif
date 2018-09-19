@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+
+	<!-- axis definitions -->
+	<axes>
+    <axis default="0" maximum="100" minimum="-100" name="serif" tag="serf" />
+    <axis default="0" maximum="100" minimum="0" name="narrow" tag="narr" />
+    <axis default="0" maximum="1000" minimum="-500" name="weight" tag="wght" />
+    <axis default="0" maximum="125" minimum="-120" name="gap" tag="gap_" />
+	</axes>
+	
+	
+  <!-- source definitions -->
+	<sources>
+    <source familyname="Roboto Serif Micro" filename="Roboto Micro-Regular.ufo" sortorder="0" stylename="Regular">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+        <features copy="1"/>
+        <groups copy="1"/>
+        <info copy="1"/>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Micro-Regular Long Serifs.ufo" sortorder="1" stylename="Regular Long Serifs">
+        <location>
+            <dimension name="serif" xvalue="100"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Micro-Regular Narrower.ufo" sortorder="2" stylename="Narrow Regular">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="100"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Micro-Regular Stub Serif.ufo" sortorder="3" stylename="Stub Serif">
+        <location>
+            <dimension name="serif" xvalue="-100"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Hairline.ufo" sortorder="4" stylename="Hairline">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="-500"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Super.ufo" sortorder="5" stylename="Super">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="1000"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </source>
+    <source familyname="Roboto Serif Micro" filename="Roboto Micro-Regular No Gaps.ufo" sortorder="6" stylename="No Gaps">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </source>
+	</sources>
+
+
+	<!-- instance definitions -->
+	<instances>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-RegularGapsPlus.ufo" sortorder="7" stylename="Regular Gaps Plus">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="-120"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-RegularNoGaps.ufo" sortorder="8" stylename="Regular No Gaps">
+        <location>
+            <dimension name="serif" xvalue="0"/>
+            <dimension name="narrow" xvalue="0"/>
+            <dimension name="weight" xvalue="0"/>
+            <dimension name="gap" xvalue="125"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular1.ufo" sortorder="9" stylename="Regular 1">
+        <location>
+            <dimension name="serif" xvalue="-20"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="-20"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold1.ufo" sortorder="10" stylename="Bold 1">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="-20"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular2.ufo" sortorder="11" stylename="Regular 2">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="30"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="-10"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold2.ufo" sortorder="12" stylename="Bold 2">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="70"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="-10"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular3.ufo" sortorder="13" stylename="Regular 3">
+        <location>
+            <dimension name="serif" xvalue="75"/>
+            <dimension name="narrow" xvalue="80"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="0"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold3.ufo" sortorder="14" stylename="Bold 3">
+        <location>
+            <dimension name="serif" xvalue="75"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="-5"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular4.ufo" sortorder="15" stylename="Regular 4">
+        <location>
+            <dimension name="serif" xvalue="-70"/>
+            <dimension name="narrow" xvalue="40"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="-10"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold4.ufo" sortorder="16" stylename="Bold 4">
+        <location>
+            <dimension name="serif" xvalue="-60"/>
+            <dimension name="narrow" xvalue="65"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="-20"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular1NoGaps.ufo" sortorder="17" stylename="Regular 1 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-20"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold1NoGaps.ufo" sortorder="18" stylename="Bold 1 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular2NoGaps.ufo" sortorder="19" stylename="Regular 2 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="30"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold2NoGaps.ufo" sortorder="20" stylename="Bold 2 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-25"/>
+            <dimension name="narrow" xvalue="70"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular3NoGaps.ufo" sortorder="21" stylename="Regular 3 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="75"/>
+            <dimension name="narrow" xvalue="80"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold3NoGaps.ufo" sortorder="22" stylename="Bold 3 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="75"/>
+            <dimension name="narrow" xvalue="60"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular4NoGaps.ufo" sortorder="23" stylename="Regular 4 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-70"/>
+            <dimension name="narrow" xvalue="40"/>
+            <dimension name="weight" xvalue="100"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold4NoGaps.ufo" sortorder="24" stylename="Bold 4 No Gaps">
+        <location>
+            <dimension name="serif" xvalue="-60"/>
+            <dimension name="narrow" xvalue="65"/>
+            <dimension name="weight" xvalue="720"/>
+            <dimension name="gap" xvalue="100"/>
+        </location>
+    </instance>
+	</instances>
+</designspace>
