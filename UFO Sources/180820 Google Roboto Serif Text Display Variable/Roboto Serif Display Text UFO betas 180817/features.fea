@@ -1,0 +1,9 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature rvrn {
+sub E by E.alt;
+sub F by F.alt;
+sub f by f.alt;
+sub g by g.alt;
+} rvrn;

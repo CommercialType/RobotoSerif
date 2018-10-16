@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="width" tag="wdth" />
+        <axis default="500.0" maximum="1000.0" minimum="0.0" name="serifLength" tag="srfl" />
+    </axes>
+    <sources>
+        <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Regular Stub Serif.ufo" stylename="Stub Serif">
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="serifLength" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Regular Narrower.ufo" stylename="Narrow Regular">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serifLength" xvalue="500" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Regular Long Serifs.ufo" stylename="Regular Long Serifs">
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="serifLength" xvalue="1000" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="Roboto Serif Micro-Regular.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="serifLength" xvalue="500" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-NarrowStubSerifs.ufo" postscriptfontname="RobotoSerifMicro-NarrowStubSerifs" stylename="Narrow Stub Serifs">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serifLength" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-NarrowLongSerifs.ufo" postscriptfontname="RobotoSerifMicro-NarrowLongSerifs" stylename="Narrow Long Serifs">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serifLength" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd500.ufo" postscriptfontname="RobotoSerifMicro-Srf500Wd500" stylename="Srf500Wd500">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="serifLength" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd250.ufo" postscriptfontname="RobotoSerifMicro-Srf500Wd250" stylename="Srf500Wd250">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="serifLength" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd750.ufo" postscriptfontname="RobotoSerifMicro-Srf500Wd750" stylename="Srf500Wd750">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="serifLength" xvalue="500" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd500.ufo" postscriptfontname="RobotoSerifMicro-Srf0Wd500" stylename="Srf0Wd500">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="serifLength" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd500.ufo" postscriptfontname="RobotoSerifMicro-Srf250Wd500" stylename="Srf250Wd500">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="serifLength" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd500.ufo" postscriptfontname="RobotoSerifMicro-Srf750Wd500" stylename="Srf750Wd500">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="serifLength" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd500.ufo" postscriptfontname="RobotoSerifMicro-Srf1000Wd500" stylename="Srf1000Wd500">
+            <location>
+                <dimension name="width" xvalue="500" />
+                <dimension name="serifLength" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd750.ufo" postscriptfontname="RobotoSerifMicro-Srf0Wd750" stylename="Srf0Wd750">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="serifLength" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd250.ufo" postscriptfontname="RobotoSerifMicro-Srf0Wd250" stylename="Srf0Wd250">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="serifLength" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd750.ufo" postscriptfontname="RobotoSerifMicro-Srf1000Wd750" stylename="Srf1000Wd750">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="serifLength" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd250.ufo" postscriptfontname="RobotoSerifMicro-Srf1000Wd250" stylename="Srf1000Wd250">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="serifLength" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd0.ufo" postscriptfontname="RobotoSerifMicro-Srf250Wd0" stylename="Srf250Wd0">
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="serifLength" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd0.ufo" postscriptfontname="RobotoSerifMicro-Srf750Wd0" stylename="Srf750Wd0">
+            <location>
+                <dimension name="width" xvalue="0" />
+                <dimension name="serifLength" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd1000.ufo" postscriptfontname="RobotoSerifMicro-Srf750Wd1000" stylename="Srf750Wd1000">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serifLength" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd1000.ufo" postscriptfontname="RobotoSerifMicro-Srf250Wd1000" stylename="Srf250Wd1000">
+            <location>
+                <dimension name="width" xvalue="1000" />
+                <dimension name="serifLength" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd250.ufo" postscriptfontname="RobotoSerifMicro-Srf750Wd250" stylename="Srf750Wd250">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="serifLength" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd750.ufo" postscriptfontname="RobotoSerifMicro-Srf750Wd750" stylename="Srf750Wd750">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="serifLength" xvalue="750" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd250.ufo" postscriptfontname="RobotoSerifMicro-Srf250Wd250" stylename="Srf250Wd250">
+            <location>
+                <dimension name="width" xvalue="250" />
+                <dimension name="serifLength" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd750.ufo" postscriptfontname="RobotoSerifMicro-Srf250Wd750" stylename="Srf250Wd750">
+            <location>
+                <dimension name="width" xvalue="750" />
+                <dimension name="serifLength" xvalue="250" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+
+</designspace>

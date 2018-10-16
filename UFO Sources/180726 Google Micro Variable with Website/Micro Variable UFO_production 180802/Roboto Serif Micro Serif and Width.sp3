@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="serifLength"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/GregGazdowiczCommercial/Dropbox/__WORK__/Google/UFOs/G Serif 01/Roboto Serif 180725/instances"/>
+    <data name="previewtext" value="HoMaterial Design Micro"/>
+    <data name="verticalPreviewAxis" value="width"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="width" shortname="wdth">
+        <color a="1.000" b="0.612" g="0.993" r="0.053"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="serifLength" shortname="x1">
+        <color a="1.000" b="0.741" g="0.485" r="1.000"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Roboto Serif Micro" filename="Roboto-MicroRegular 01.ufo" sortorder="3" stylename="Regular">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="serifLength" xvalue="500.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Micro" filename="Roboto-MicroRegular Long Serifs.ufo" sortorder="2" stylename="Regular Long Serifs">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="serifLength" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Micro" filename="Roboto-MicroRegular Narrower.ufo" sortorder="1" stylename="Narrow Regular">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="serifLength" xvalue="500.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Micro" filename="Roboto-MicroRegular StubSerif.ufo" sortorder="0" stylename="Stub Serif">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="serifLength" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-NarrowStubSerifs.ufo" sortorder="4" stylename="Narrow Stub Serifs">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="serifLength" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-NarrowLongSerifs.ufo" sortorder="5" stylename="Narrow Long Serifs">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="serifLength" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd500.ufo" sortorder="6" stylename="Srf500Wd500">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="serifLength" xvalue="500.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd250.ufo" sortorder="7" stylename="Srf500Wd250">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="serifLength" xvalue="500.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf500Wd750.ufo" sortorder="8" stylename="Srf500Wd750">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="serifLength" xvalue="500.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd500.ufo" sortorder="9" stylename="Srf0Wd500">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="serifLength" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd500.ufo" sortorder="10" stylename="Srf250Wd500">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="serifLength" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd500.ufo" sortorder="11" stylename="Srf750Wd500">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="serifLength" xvalue="750.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd500.ufo" sortorder="12" stylename="Srf1000Wd500">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="serifLength" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd750.ufo" sortorder="13" stylename="Srf0Wd750">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="serifLength" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf0Wd250.ufo" sortorder="14" stylename="Srf0Wd250">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="serifLength" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd750.ufo" sortorder="15" stylename="Srf1000Wd750">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="serifLength" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf1000Wd250.ufo" sortorder="16" stylename="Srf1000Wd250">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="serifLength" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd0.ufo" sortorder="17" stylename="Srf250Wd0">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="serifLength" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd0.ufo" sortorder="18" stylename="Srf750Wd0">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="serifLength" xvalue="750.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd1000.ufo" sortorder="19" stylename="Srf750Wd1000">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="serifLength" xvalue="750.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd1000.ufo" sortorder="20" stylename="Srf250Wd1000">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="serifLength" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd250.ufo" sortorder="21" stylename="Srf750Wd250">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="serifLength" xvalue="750.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf750Wd750.ufo" sortorder="22" stylename="Srf750Wd750">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="serifLength" xvalue="750.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd250.ufo" sortorder="23" stylename="Srf250Wd250">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="serifLength" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Srf250Wd750.ufo" sortorder="24" stylename="Srf250Wd750">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="serifLength" xvalue="250.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

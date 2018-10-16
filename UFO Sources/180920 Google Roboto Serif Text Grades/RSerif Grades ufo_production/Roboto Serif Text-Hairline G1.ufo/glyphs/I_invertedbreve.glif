@@ -1,0 +1,14 @@
+<glyph name="Iinvertedbreve" format="2">
+  <advance width="322"/>
+  <unicode hex="020A"/>
+  <outline>
+    <component base="I"/>
+    <component base="breveinverted.uc" xOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

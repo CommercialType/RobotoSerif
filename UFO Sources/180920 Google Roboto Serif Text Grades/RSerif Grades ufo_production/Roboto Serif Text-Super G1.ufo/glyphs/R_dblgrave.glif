@@ -1,0 +1,14 @@
+<glyph name="Rdblgrave" format="2">
+  <advance width="775"/>
+  <unicode hex="0210"/>
+  <outline>
+    <component base="R"/>
+    <component base="dblgrave.uc" xOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

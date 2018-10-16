@@ -1,0 +1,14 @@
+<glyph name="abrevetilde" format="2">
+  <advance width="526"/>
+  <unicode hex="1EB5"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve_tilde" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

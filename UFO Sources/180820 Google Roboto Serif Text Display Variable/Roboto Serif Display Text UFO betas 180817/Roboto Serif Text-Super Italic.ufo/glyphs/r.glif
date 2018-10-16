@@ -1,0 +1,75 @@
+<glyph name="r" format="2">
+  <advance width="478"/>
+  <unicode hex="0072"/>
+  <guideline x="0" y="518" angle="0" identifier="31Os4C1SL2"/>
+  <guideline x="0" y="320" angle="0" identifier="cLK8NjMdt7"/>
+  <guideline x="0" y="474" angle="0" identifier="OUewgGgDFr"/>
+  <guideline x="0" y="518" angle="0" identifier="aYs8MJypWT"/>
+  <guideline x="312" y="576" angle="80" name="center" identifier="ZCPSVY4oPw"/>
+  <anchor x="216" y="545" name="top"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="384" y="311" type="curve" smooth="yes"/>
+      <point x="419" y="311"/>
+      <point x="444" y="306"/>
+      <point x="461" y="301" type="curve"/>
+      <point x="498" y="511" type="line"/>
+      <point x="493" y="513"/>
+      <point x="477" y="518"/>
+      <point x="451" y="518" type="curve" smooth="yes"/>
+      <point x="360" y="518"/>
+      <point x="321" y="427"/>
+      <point x="281" y="291" type="curve"/>
+      <point x="270" y="268" type="line"/>
+      <point x="296" y="303"/>
+      <point x="340" y="311"/>
+    </contour>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="305" y="334" type="line"/>
+      <point x="297" y="327" type="line"/>
+      <point x="325" y="514" type="line"/>
+      <point x="53" y="514" type="line"/>
+      <point x="39" y="434" type="line"/>
+      <point x="48" y="432" type="line" smooth="yes"/>
+      <point x="67" y="428"/>
+      <point x="76" y="422"/>
+      <point x="73" y="406" type="curve" smooth="yes"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.31Os4C1SL2</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.OUewgGgDFr</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.ZCPSVY4oPw</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.aYs8MJypWT</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.cLK8NjMdt7</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>0.9962,1,0.5137,1</string>
+</dict>
+  </lib>
+</glyph>

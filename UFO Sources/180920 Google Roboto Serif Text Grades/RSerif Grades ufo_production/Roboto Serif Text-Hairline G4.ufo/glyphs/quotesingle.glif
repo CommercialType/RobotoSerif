@@ -1,0 +1,22 @@
+<glyph name="quotesingle" format="2">
+  <advance width="243"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="152" y="710" type="line"/>
+      <point x="152" y="626"/>
+      <point x="140" y="582"/>
+      <point x="140" y="456" type="curve"/>
+      <point x="103" y="456" type="line"/>
+      <point x="103" y="582"/>
+      <point x="91" y="625"/>
+      <point x="91" y="710" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>
