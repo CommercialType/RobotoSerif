@@ -1,0 +1,13 @@
+<glyph name="Edieresis.alt" format="2">
+  <advance width="625"/>
+  <outline>
+    <component base="E.alt"/>
+    <component base="dieresis.uc" xOffset="110.8"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

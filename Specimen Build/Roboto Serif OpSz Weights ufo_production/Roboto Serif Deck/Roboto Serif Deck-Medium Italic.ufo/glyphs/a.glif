@@ -1,0 +1,89 @@
+<glyph name="a" format="2">
+  <advance width="615"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="206" y="-11" type="curve" smooth="yes"/>
+      <point x="277" y="-11"/>
+      <point x="323" y="27"/>
+      <point x="366" y="93" type="curve"/>
+      <point x="366" y="26"/>
+      <point x="409" y="-9"/>
+      <point x="475" y="-9" type="curve" smooth="yes"/>
+      <point x="520" y="-9"/>
+      <point x="559" y="8"/>
+      <point x="579" y="23" type="curve"/>
+      <point x="589" y="71" type="line"/>
+      <point x="578" y="66"/>
+      <point x="553" y="52"/>
+      <point x="527" y="52" type="curve" smooth="yes"/>
+      <point x="506" y="52"/>
+      <point x="496" y="61"/>
+      <point x="496" y="81" type="curve" smooth="yes"/>
+      <point x="496" y="95"/>
+      <point x="500" y="121"/>
+      <point x="507" y="156" type="curve" smooth="yes"/>
+      <point x="571" y="519" type="line"/>
+      <point x="490" y="519" type="line"/>
+      <point x="448" y="472" type="line"/>
+      <point x="420" y="504"/>
+      <point x="380" y="525"/>
+      <point x="325" y="525" type="curve" smooth="yes"/>
+      <point x="145" y="525"/>
+      <point x="34" y="358"/>
+      <point x="34" y="188" type="curve" smooth="yes"/>
+      <point x="34" y="60"/>
+      <point x="104" y="-11"/>
+    </contour>
+    <contour>
+      <point x="177" y="175" type="curve" smooth="yes"/>
+      <point x="177" y="307"/>
+      <point x="240" y="469"/>
+      <point x="340" y="469" type="curve" smooth="yes"/>
+      <point x="373" y="469"/>
+      <point x="399" y="456"/>
+      <point x="418" y="432" type="curve"/>
+      <point x="373" y="174" type="line"/>
+      <point x="334" y="101"/>
+      <point x="296" y="56"/>
+      <point x="247" y="56" type="curve" smooth="yes"/>
+      <point x="202" y="56"/>
+      <point x="177" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.MGHern1OCf</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>right</key>
+		<dict>
+			<key>name</key>
+			<string>right</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

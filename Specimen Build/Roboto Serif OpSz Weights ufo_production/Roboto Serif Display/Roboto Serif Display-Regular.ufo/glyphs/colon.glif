@@ -1,0 +1,40 @@
+<glyph name="colon" format="2">
+  <advance width="240"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="178" y="459" type="curve" smooth="yes"/>
+      <point x="178" y="493"/>
+      <point x="154" y="517"/>
+      <point x="120" y="517" type="curve" smooth="yes"/>
+      <point x="86" y="517"/>
+      <point x="62" y="493"/>
+      <point x="62" y="459" type="curve" smooth="yes"/>
+      <point x="62" y="425"/>
+      <point x="86" y="401"/>
+      <point x="120" y="401" type="curve" smooth="yes"/>
+      <point x="155" y="401"/>
+      <point x="178" y="425"/>
+    </contour>
+    <contour>
+      <point x="178" y="51" type="curve" smooth="yes"/>
+      <point x="178" y="85"/>
+      <point x="154" y="109"/>
+      <point x="120" y="109" type="curve" smooth="yes"/>
+      <point x="86" y="109"/>
+      <point x="62" y="85"/>
+      <point x="62" y="51" type="curve" smooth="yes"/>
+      <point x="62" y="17"/>
+      <point x="86" y="-7"/>
+      <point x="120" y="-7" type="curve" smooth="yes"/>
+      <point x="155" y="-7"/>
+      <point x="178" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,85 @@
+<glyph name="H" format="2">
+  <advance width="805"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="-30" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="318" y="39" type="line"/>
+      <point x="309" y="39" type="line" smooth="yes"/>
+      <point x="286" y="39"/>
+      <point x="257" y="41"/>
+      <point x="258" y="48" type="curve" smooth="yes"/>
+      <point x="310" y="342" type="line"/>
+      <point x="500" y="342" type="line"/>
+      <point x="448" y="48" type="line" smooth="yes"/>
+      <point x="448" y="41"/>
+      <point x="418" y="39"/>
+      <point x="395" y="39" type="curve" smooth="yes"/>
+      <point x="387" y="39" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="727" y="39" type="line"/>
+      <point x="718" y="39" type="line" smooth="yes"/>
+      <point x="688" y="39"/>
+      <point x="667" y="45"/>
+      <point x="672" y="73" type="curve" smooth="yes"/>
+      <point x="770" y="637" type="line" smooth="yes"/>
+      <point x="776" y="664"/>
+      <point x="800" y="671"/>
+      <point x="829" y="671" type="curve" smooth="yes"/>
+      <point x="838" y="671" type="line"/>
+      <point x="845" y="710" type="line"/>
+      <point x="505" y="710" type="line"/>
+      <point x="498" y="671" type="line"/>
+      <point x="506" y="671" type="line" smooth="yes"/>
+      <point x="530" y="671"/>
+      <point x="558" y="669"/>
+      <point x="557" y="662" type="curve" smooth="yes"/>
+      <point x="509" y="390" type="line"/>
+      <point x="319" y="390" type="line"/>
+      <point x="367" y="662" type="line" smooth="yes"/>
+      <point x="368" y="669"/>
+      <point x="397" y="671"/>
+      <point x="420" y="671" type="curve" smooth="yes"/>
+      <point x="429" y="671" type="line"/>
+      <point x="436" y="710" type="line"/>
+      <point x="96" y="710" type="line"/>
+      <point x="89" y="671" type="line"/>
+      <point x="98" y="671" type="line" smooth="yes"/>
+      <point x="126" y="671"/>
+      <point x="149" y="665"/>
+      <point x="144" y="639" type="curve" smooth="yes"/>
+      <point x="45" y="72" type="line" smooth="yes"/>
+      <point x="40" y="45"/>
+      <point x="15" y="39"/>
+      <point x="-14" y="39" type="curve" smooth="yes"/>
+      <point x="-22" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.aI4O73TyzX</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

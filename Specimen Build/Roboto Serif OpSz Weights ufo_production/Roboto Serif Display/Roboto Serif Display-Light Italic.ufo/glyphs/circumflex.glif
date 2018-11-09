@@ -1,0 +1,43 @@
+<glyph name="circumflex" format="2">
+  <advance width="500"/>
+  <unicode hex="02C6"/>
+  <anchor x="244.46666666666667" y="529.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="319.06666666666666" y="743.2" type="line"/>
+      <point x="326.53333333333336" y="672.8" type="line"/>
+      <point x="262.0" y="594.2" type="line"/>
+      <point x="249.33333333333331" y="589.5333333333333" type="line"/>
+      <point x="207.8" y="658.3333333333334" type="line"/>
+      <point x="296.8" y="712.9333333333333" type="line"/>
+      <point x="204.26666666666665" y="645.5333333333333" type="line"/>
+      <point x="244.93333333333334" y="589.5333333333333" type="line"/>
+      <point x="256.26666666666665" y="594.8666666666667" type="line"/>
+      <point x="322.8" y="669.9333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

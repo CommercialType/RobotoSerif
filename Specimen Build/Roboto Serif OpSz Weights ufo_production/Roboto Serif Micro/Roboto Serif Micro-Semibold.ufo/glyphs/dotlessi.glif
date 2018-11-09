@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="333"/>
+  <unicode hex="0131"/>
+  <anchor x="171.0" y="539.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="255.23684210526318" y="507.8421052631579" type="line"/>
+      <point x="27.789473684210524" y="507.8421052631579" type="line"/>
+      <point x="27.789473684210524" y="436.0" type="line"/>
+      <point x="36.473684210526315" y="434.0" type="line" smooth="yes"/>
+      <point x="72.92105263157895" y="426.0263157894737"/>
+      <point x="88.23684210526315" y="420.6842105263158"/>
+      <point x="88.23684210526315" y="398.1842105263158" type="curve" smooth="yes"/>
+      <point x="88.23684210526315" y="100.18421052631578" type="line" smooth="yes"/>
+      <point x="88.23684210526315" y="75.6842105263158"/>
+      <point x="62.921052631578945" y="68.71052631578948"/>
+      <point x="29.289473684210524" y="68.71052631578948" type="curve" smooth="yes"/>
+      <point x="28.44736842105263" y="68.71052631578948" type="line"/>
+      <point x="28.44736842105263" y="0.0" type="line"/>
+      <point x="315.1842105263158" y="0.0" type="line"/>
+      <point x="315.1842105263158" y="68.71052631578948" type="line"/>
+      <point x="314.3421052631579" y="68.71052631578948" type="line" smooth="yes"/>
+      <point x="280.7105263157895" y="68.71052631578948"/>
+      <point x="255.23684210526318" y="75.6842105263158"/>
+      <point x="255.23684210526318" y="100.18421052631578" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

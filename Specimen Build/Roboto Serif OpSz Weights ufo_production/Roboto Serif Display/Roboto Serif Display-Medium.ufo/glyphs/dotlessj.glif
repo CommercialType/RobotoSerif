@@ -1,0 +1,44 @@
+<glyph name="dotlessj" format="2">
+  <advance width="303"/>
+  <unicode hex="0237"/>
+  <anchor x="155.34285714285716" y="529.8" name="top"/>
+  <outline>
+    <contour>
+      <point x="89.51428571428572" y="-66.54285714285714" type="line" smooth="yes"/>
+      <point x="89.51428571428572" y="-162.68571428571428"/>
+      <point x="60.17142857142857" y="-198.5142857142857"/>
+      <point x="10.628571428571428" y="-198.5142857142857" type="curve" smooth="yes"/>
+      <point x="-9.57142857142857" y="-198.5142857142857"/>
+      <point x="-30.142857142857146" y="-192.2"/>
+      <point x="-38.542857142857144" y="-189.0" type="curve"/>
+      <point x="-38.542857142857144" y="-230.6" type="line"/>
+      <point x="-22.542857142857144" y="-234.85714285714286"/>
+      <point x="-1.000000000000007" y="-238.05714285714285"/>
+      <point x="23.514285714285712" y="-238.05714285714285" type="curve" smooth="yes"/>
+      <point x="137.51428571428573" y="-238.05714285714285"/>
+      <point x="227.54285714285714" y="-186.62857142857143"/>
+      <point x="227.54285714285714" y="-30.4" type="curve" smooth="yes"/>
+      <point x="227.54285714285714" y="519.8857142857142" type="line"/>
+      <point x="18.085714285714285" y="519.8857142857142" type="line"/>
+      <point x="18.085714285714285" y="486.74285714285713" type="line"/>
+      <point x="28.771428571428572" y="484.74285714285713" type="line" smooth="yes"/>
+      <point x="68.34285714285714" y="477.3142857142857"/>
+      <point x="89.51428571428572" y="471.25714285714287"/>
+      <point x="89.51428571428572" y="446.34285714285716" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

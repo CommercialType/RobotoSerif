@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="510"/>
+  <anchor x="245.0" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="352.5263157894737" y="940.4736842105264" type="line"/>
+      <point x="355.87472721382926" y="982.2440789398773"/>
+      <point x="392.58496240601505" y="1020.0"/>
+      <point x="474.8421052631579" y="1020.0" type="curve" smooth="yes"/>
+      <point x="551.1436090225563" y="1020.0"/>
+      <point x="595.0" y="991.5"/>
+      <point x="595.0" y="943.078947368421" type="curve" smooth="yes"/>
+      <point x="595.0" y="888.578947368421"/>
+      <point x="543.2299766555494" y="867.5132395841914"/>
+      <point x="475.1842105263158" y="862.5263157894736" type="curve"/>
+      <point x="510.7105263157895" y="890.421052631579" type="line"/>
+      <point x="510.7105263157895" y="838.5" type="line"/>
+      <point x="424.2631578947368" y="838.5" type="line"/>
+      <point x="424.2631578947368" y="901.0263157894736" type="line"/>
+      <point x="476.57228860788837" y="902.8685923906822"/>
+      <point x="498.0263157894737" y="916.7631578947369"/>
+      <point x="498.0263157894737" y="939.7105263157895" type="curve" smooth="yes"/>
+      <point x="498.0263157894737" y="955.3157894736842"/>
+      <point x="488.8421052631579" y="965.0263157894736"/>
+      <point x="471.10526315789474" y="965.0263157894736" type="curve" smooth="yes"/>
+      <point x="453.5263157894737" y="965.0263157894736"/>
+      <point x="444.13157894736844" y="955.4473684210526"/>
+      <point x="440.8157894736842" y="940.4736842105264" type="curve"/>
+    </contour>
+    <component base="circumflex.uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

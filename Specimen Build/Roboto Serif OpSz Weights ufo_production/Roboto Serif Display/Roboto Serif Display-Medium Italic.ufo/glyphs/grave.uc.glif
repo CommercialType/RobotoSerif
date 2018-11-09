@@ -1,0 +1,47 @@
+<glyph name="grave.uc" format="2">
+  <advance width="500"/>
+  <anchor x="253.05714285714285" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="316" y="869" type="line"/>
+      <point x="293" y="908"/>
+      <point x="273" y="928"/>
+      <point x="239" y="928" type="curve"/>
+      <point x="207" y="928"/>
+      <point x="186" y="905"/>
+      <point x="186" y="879" type="curve"/>
+      <point x="186" y="847"/>
+      <point x="211" y="822"/>
+      <point x="256" y="803" type="curve" smooth="yes"/>
+      <point x="346" y="763" type="line" smooth="yes"/>
+      <point x="374" y="763" type="line" smooth="yes"/>
+      <point x="374" y="779" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.Z1nLt7ney1</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>UC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

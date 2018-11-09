@@ -1,0 +1,13 @@
+<glyph name="gcommaaccent.alt" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="g.alt"/>
+    <component base="commaaccent.alt" xOffset="76.66666666666667" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

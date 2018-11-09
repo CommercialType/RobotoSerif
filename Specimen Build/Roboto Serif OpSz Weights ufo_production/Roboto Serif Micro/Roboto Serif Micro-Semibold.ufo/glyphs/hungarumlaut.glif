@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="500"/>
+  <unicode hex="02DD"/>
+  <anchor x="259.0" y="525.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="134.81578947368422" y="690.0526315789474" type="curve" smooth="yes"/>
+      <point x="122.07894736842105" y="585.8157894736842" type="line"/>
+      <point x="122.07894736842105" y="559.6315789473684" type="line"/>
+      <point x="182.26315789473685" y="559.6315789473684" type="line"/>
+      <point x="230.76315789473685" y="633.2894736842105" type="line" smooth="yes"/>
+      <point x="258.55263157894734" y="674.1052631578947"/>
+      <point x="270.86842105263156" y="699.7894736842105"/>
+      <point x="270.86842105263156" y="725.7894736842105" type="curve" smooth="yes"/>
+      <point x="270.86842105263156" y="755.1315789473684"/>
+      <point x="250.68421052631578" y="778.6315789473684"/>
+      <point x="209.60526315789474" y="778.6315789473684" type="curve" smooth="yes"/>
+      <point x="163.18421052631578" y="778.6315789473684"/>
+      <point x="139.68421052631578" y="749.8157894736842"/>
+    </contour>
+    <contour>
+      <point x="314.57894736842104" y="690.0526315789474" type="curve" smooth="yes"/>
+      <point x="301.8421052631579" y="585.8157894736842" type="line"/>
+      <point x="301.8421052631579" y="559.6315789473684" type="line"/>
+      <point x="362.0263157894737" y="559.6315789473684" type="line"/>
+      <point x="410.5263157894737" y="633.2894736842105" type="line" smooth="yes"/>
+      <point x="438.3157894736842" y="674.1052631578947"/>
+      <point x="450.63157894736844" y="699.7894736842105"/>
+      <point x="450.63157894736844" y="725.7894736842105" type="curve" smooth="yes"/>
+      <point x="450.63157894736844" y="755.1315789473684"/>
+      <point x="430.4473684210526" y="778.6315789473684"/>
+      <point x="389.36842105263156" y="778.6315789473684" type="curve" smooth="yes"/>
+      <point x="342.94736842105266" y="778.6315789473684"/>
+      <point x="319.44736842105266" y="749.8157894736842"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

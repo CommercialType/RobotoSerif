@@ -1,0 +1,53 @@
+<glyph name="Z" format="2">
+  <advance width="627"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="578" y="223" type="line"/>
+      <point x="515" y="223" type="line"/>
+      <point x="479" y="107" type="line" smooth="yes"/>
+      <point x="467" y="69"/>
+      <point x="435" y="61"/>
+      <point x="354" y="61" type="curve" smooth="yes"/>
+      <point x="161" y="61" type="line"/>
+      <point x="633" y="634" type="line"/>
+      <point x="647" y="710" type="line"/>
+      <point x="114" y="710" type="line"/>
+      <point x="78" y="511" type="line"/>
+      <point x="140" y="511" type="line"/>
+      <point x="170" y="603" type="line" smooth="yes"/>
+      <point x="183" y="641"/>
+      <point x="217" y="649"/>
+      <point x="285" y="649" type="curve" smooth="yes"/>
+      <point x="454" y="649" type="line"/>
+      <point x="-15" y="80" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.tBH4io7e9p</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<glyph name="tilde_macron" format="2">
+  <advance width="523"/>
+  <anchor x="262" y="535" name="_top"/>
+  <outline>
+    <contour>
+      <point x="95" y="868" type="line"/>
+      <point x="95" y="803" type="line"/>
+      <point x="425" y="803" type="line"/>
+      <point x="425" y="868" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="579" type="curve" smooth="yes"/>
+      <point x="395" y="579"/>
+      <point x="430" y="642"/>
+      <point x="449" y="737" type="curve"/>
+      <point x="402" y="754" type="line"/>
+      <point x="389" y="710"/>
+      <point x="374" y="699"/>
+      <point x="345" y="699" type="curve" smooth="yes"/>
+      <point x="296" y="699"/>
+      <point x="252" y="749"/>
+      <point x="193" y="749" type="curve" smooth="yes"/>
+      <point x="118" y="749"/>
+      <point x="85" y="689"/>
+      <point x="70" y="592" type="curve"/>
+      <point x="117" y="577" type="line"/>
+      <point x="128" y="615"/>
+      <point x="142" y="629"/>
+      <point x="169" y="629" type="curve" smooth="yes"/>
+      <point x="212" y="629"/>
+      <point x="265" y="579"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

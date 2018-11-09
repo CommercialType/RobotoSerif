@@ -1,0 +1,13 @@
+<glyph name="Ebreve.alt" format="2">
+  <advance width="632"/>
+  <outline>
+    <component base="E.alt"/>
+    <component base="breve.uc" xOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

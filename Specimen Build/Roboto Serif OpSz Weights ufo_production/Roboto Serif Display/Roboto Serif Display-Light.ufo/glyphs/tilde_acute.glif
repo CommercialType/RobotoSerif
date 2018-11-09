@@ -1,0 +1,32 @@
+<glyph name="tilde_acute" format="2">
+  <advance width="581"/>
+  <anchor x="287.73333333333335" y="515.0" name="_top"/>
+  <outline>
+    <component base="tilde" xOffset="42" yOffset="-16"/>
+    <component base="acute" xOffset="70.8" yOffset="186.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

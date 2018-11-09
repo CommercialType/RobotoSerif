@@ -1,0 +1,32 @@
+<glyph name="tilde_macron" format="2">
+  <advance width="514"/>
+  <anchor x="255.6" y="535.0" name="_top"/>
+  <outline>
+    <component base="tilde" xOffset="5.6" yOffset="-16"/>
+    <component base="macron" xOffset="2.9333333333333336" yOffset="130.13333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

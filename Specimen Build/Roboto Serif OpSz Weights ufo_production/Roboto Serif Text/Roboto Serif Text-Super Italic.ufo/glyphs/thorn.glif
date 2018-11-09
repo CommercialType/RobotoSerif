@@ -1,0 +1,65 @@
+<glyph name="thorn" format="2">
+  <advance width="675"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="376" y="735" type="line"/>
+      <point x="93" y="735" type="line"/>
+      <point x="79" y="655" type="line"/>
+      <point x="88" y="653" type="line" smooth="yes"/>
+      <point x="108" y="649"/>
+      <point x="116" y="643"/>
+      <point x="113" y="627" type="curve" smooth="yes"/>
+      <point x="-22" y="-121" type="line" smooth="yes"/>
+      <point x="-26" y="-141"/>
+      <point x="-42" y="-147"/>
+      <point x="-60" y="-147" type="curve" smooth="yes"/>
+      <point x="-61" y="-147" type="line"/>
+      <point x="-74" y="-223" type="line"/>
+      <point x="261" y="-223" type="line"/>
+      <point x="274" y="-147" type="line"/>
+      <point x="272" y="-147" type="line" smooth="yes"/>
+      <point x="250" y="-147"/>
+      <point x="219" y="-145"/>
+      <point x="220" y="-139" type="curve"/>
+      <point x="245" y="2" type="line"/>
+      <point x="269" y="-8"/>
+      <point x="298" y="-14"/>
+      <point x="331" y="-14" type="curve" smooth="yes"/>
+      <point x="534" y="-14"/>
+      <point x="655" y="143"/>
+      <point x="655" y="315" type="curve" smooth="yes"/>
+      <point x="655" y="445"/>
+      <point x="579" y="524"/>
+      <point x="482" y="524" type="curve" smooth="yes"/>
+      <point x="415" y="524"/>
+      <point x="366" y="493"/>
+      <point x="324" y="441" type="curve"/>
+    </contour>
+    <contour>
+      <point x="293" y="71" type="curve" smooth="yes"/>
+      <point x="279" y="71"/>
+      <point x="268" y="75"/>
+      <point x="259" y="81" type="curve"/>
+      <point x="311" y="370" type="line"/>
+      <point x="328" y="393"/>
+      <point x="345" y="405"/>
+      <point x="365" y="405" type="curve" smooth="yes"/>
+      <point x="392" y="405"/>
+      <point x="405" y="385"/>
+      <point x="405" y="331" type="curve" smooth="yes"/>
+      <point x="405" y="241"/>
+      <point x="374" y="71"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.RL7kf2wrwo</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.XfWdoK0afP</key>
+	<real>5.0</real>
+	<key>public.markColor</key>
+	<string>0.9962,1,0.5137,1</string>
+</dict>
+  </lib>
+</glyph>

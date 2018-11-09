@@ -1,0 +1,44 @@
+<glyph name="dotlessj" format="2">
+  <advance width="253"/>
+  <unicode hex="0237"/>
+  <anchor x="132.4" y="542.3333333333334" name="top"/>
+  <outline>
+    <contour>
+      <point x="103.13333333333333" y="-73.06666666666666" type="line" smooth="yes"/>
+      <point x="103.13333333333333" y="-176.33333333333334"/>
+      <point x="68.13333333333334" y="-212.86666666666667"/>
+      <point x="13.533333333333333" y="-212.86666666666667" type="curve" smooth="yes"/>
+      <point x="-2.8666666666666636" y="-212.86666666666667"/>
+      <point x="-16.0" y="-209.53333333333333"/>
+      <point x="-26.93333333333333" y="-206.93333333333334" type="curve"/>
+      <point x="-26.93333333333333" y="-231.8" type="line"/>
+      <point x="-12.533333333333339" y="-234.8"/>
+      <point x="-0.6666666666666679" y="-235.8"/>
+      <point x="13.533333333333333" y="-235.8" type="curve" smooth="yes"/>
+      <point x="85.46666666666667" y="-235.8"/>
+      <point x="166.0" y="-200.73333333333332"/>
+      <point x="166.0" y="-67.73333333333333" type="curve" smooth="yes"/>
+      <point x="166.0" y="518.0" type="line"/>
+      <point x="22.333333333333336" y="518.0" type="line"/>
+      <point x="22.333333333333336" y="497.6" type="line"/>
+      <point x="37.6" y="495.6" type="line" smooth="yes"/>
+      <point x="86.6" y="488.73333333333335"/>
+      <point x="103.13333333333333" y="483.3333333333333"/>
+      <point x="103.13333333333333" y="460.73333333333335" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

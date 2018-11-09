@@ -1,0 +1,32 @@
+<glyph name="macron_grave" format="2">
+  <advance width="625"/>
+  <anchor x="312.3333333333333" y="526.0" name="_top"/>
+  <outline>
+    <component base="macron" xOffset="62.333333333333336" yOffset="-29.333333333333332"/>
+    <component base="grave" xOffset="93.13333333333333" yOffset="132.13333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<glyph name="dotaccent" format="2">
+  <advance width="500"/>
+  <unicode hex="02D9"/>
+  <anchor x="250.0" y="526.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="250.53333333333333" y="652.1333333333333" type="curve" smooth="yes"/>
+      <point x="276.46666666666664" y="652.1333333333333"/>
+      <point x="295.53333333333336" y="669.2666666666667"/>
+      <point x="295.53333333333336" y="697.1333333333333" type="curve" smooth="yes"/>
+      <point x="295.53333333333336" y="725.0666666666667"/>
+      <point x="276.46666666666664" y="742.2"/>
+      <point x="250.53333333333333" y="742.2" type="curve" smooth="yes"/>
+      <point x="224.6" y="742.2"/>
+      <point x="205.53333333333333" y="725.0666666666667"/>
+      <point x="205.53333333333333" y="697.1333333333333" type="curve" smooth="yes"/>
+      <point x="205.53333333333333" y="669.2666666666667"/>
+      <point x="224.6" y="652.1333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

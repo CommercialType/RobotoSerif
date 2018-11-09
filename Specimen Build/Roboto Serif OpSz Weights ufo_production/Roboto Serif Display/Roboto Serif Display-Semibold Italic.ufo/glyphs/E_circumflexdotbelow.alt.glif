@@ -1,0 +1,14 @@
+<glyph name="Ecircumflexdotbelow.alt" format="2">
+  <advance width="632"/>
+  <outline>
+    <component base="E.alt"/>
+    <component base="circumflex.uc" xOffset="118.5"/>
+    <component base="dotbelow" xOffset="30.5"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

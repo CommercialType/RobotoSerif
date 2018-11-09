@@ -1,0 +1,56 @@
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="510"/>
+  <anchor x="244.46666666666667" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="311.46666666666664" y="945.3333333333334" type="line"/>
+      <point x="314.9813617902379" y="982.8786111332513"/>
+      <point x="349.2266666666667" y="1016.6666666666666"/>
+      <point x="412.26666666666665" y="1016.6666666666666" type="curve" smooth="yes"/>
+      <point x="472.9866666666667" y="1016.6666666666666"/>
+      <point x="508.6" y="991.8"/>
+      <point x="508.6" y="948.3333333333334" type="curve" smooth="yes"/>
+      <point x="508.6" y="900.9171171171171"/>
+      <point x="455.41912327706524" y="876.9719170786293"/>
+      <point x="396.2" y="873.0" type="curve"/>
+      <point x="417.46666666666664" y="889.6" type="line"/>
+      <point x="417.46666666666664" y="839.6666666666666" type="line"/>
+      <point x="388.3333333333333" y="839.6666666666666" type="line"/>
+      <point x="388.3333333333333" y="889.4" type="line"/>
+      <point x="429.4812049315164" y="893.5433401299872"/>
+      <point x="452.26666666666665" y="910.1525423728814"/>
+      <point x="452.26666666666665" y="946.9333333333333" type="curve" smooth="yes"/>
+      <point x="452.26666666666665" y="976.0"/>
+      <point x="437.5333333333333" y="994.1333333333333"/>
+      <point x="408.8666666666667" y="994.1333333333333" type="curve" smooth="yes"/>
+      <point x="377.53333333333336" y="994.1333333333333"/>
+      <point x="361.93333333333334" y="975.0666666666667"/>
+      <point x="358.8666666666667" y="945.3333333333334" type="curve"/>
+    </contour>
+    <component base="circumflex.uc"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>UC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

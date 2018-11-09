@@ -1,0 +1,48 @@
+<glyph name="V" format="2">
+  <advance width="767"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="664" y="562" type="line" smooth="yes"/>
+      <point x="679" y="612"/>
+      <point x="703" y="626"/>
+      <point x="735" y="626" type="curve" smooth="yes"/>
+      <point x="741" y="626" type="line"/>
+      <point x="741" y="710" type="line"/>
+      <point x="508" y="710" type="line"/>
+      <point x="508" y="626" type="line"/>
+      <point x="517" y="626" type="line" smooth="yes"/>
+      <point x="566" y="626"/>
+      <point x="587" y="616"/>
+      <point x="587" y="603" type="curve"/>
+      <point x="433" y="85" type="line"/>
+      <point x="277" y="615" type="line"/>
+      <point x="277" y="622"/>
+      <point x="298" y="626"/>
+      <point x="346" y="626" type="curve" smooth="yes"/>
+      <point x="356" y="626" type="line"/>
+      <point x="356" y="710" type="line"/>
+      <point x="26" y="710" type="line"/>
+      <point x="26" y="626" type="line"/>
+      <point x="32" y="626" type="line" smooth="yes"/>
+      <point x="67" y="626"/>
+      <point x="91" y="613"/>
+      <point x="106" y="562" type="curve" smooth="yes"/>
+      <point x="281" y="-12" type="line"/>
+      <point x="490" y="-12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>1.0</real>
+		<real>0.5769</real>
+		<real>0.0</real>
+		<real>1.0</real>
+	</array>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

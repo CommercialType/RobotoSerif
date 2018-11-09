@@ -1,0 +1,61 @@
+<glyph name="T" format="2">
+  <advance width="691"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="215" y="86" type="line" smooth="yes"/>
+      <point x="210" y="58"/>
+      <point x="181" y="51"/>
+      <point x="146" y="51" type="curve" smooth="yes"/>
+      <point x="131" y="51" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="462" y="51" type="line"/>
+      <point x="447" y="51" type="line" smooth="yes"/>
+      <point x="412" y="51"/>
+      <point x="386" y="58"/>
+      <point x="391" y="86" type="curve" smooth="yes"/>
+      <point x="490" y="649" type="line"/>
+      <point x="542" y="649" type="line" smooth="yes"/>
+      <point x="614" y="649"/>
+      <point x="639" y="641"/>
+      <point x="637" y="603" type="curve" smooth="yes"/>
+      <point x="631" y="494" type="line"/>
+      <point x="692" y="494" type="line"/>
+      <point x="730" y="710" type="line"/>
+      <point x="97" y="710" type="line"/>
+      <point x="59" y="494" type="line"/>
+      <point x="121" y="494" type="line"/>
+      <point x="155" y="602" type="line" smooth="yes"/>
+      <point x="168" y="640"/>
+      <point x="194" y="649"/>
+      <point x="263" y="649" type="curve" smooth="yes"/>
+      <point x="314" y="649" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.7dUPASFb2M</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

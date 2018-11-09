@@ -1,0 +1,14 @@
+<glyph name="semicolon" format="2">
+  <advance width="205"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma"/>
+    <component base="period" xOffset="1.6000000000000014" yOffset="408"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

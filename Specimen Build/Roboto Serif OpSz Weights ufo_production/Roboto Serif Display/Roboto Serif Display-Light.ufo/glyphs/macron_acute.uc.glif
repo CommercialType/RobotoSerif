@@ -1,0 +1,32 @@
+<glyph name="macron_acute.uc" format="2">
+  <advance width="542"/>
+  <anchor x="271.2" y="694.0" name="_top"/>
+  <outline>
+    <component base="macron.uc" xOffset="21.2" yOffset="-13.333333333333334"/>
+    <component base="acute.uc" xOffset="50.53333333333333" yOffset="110.13333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>UC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

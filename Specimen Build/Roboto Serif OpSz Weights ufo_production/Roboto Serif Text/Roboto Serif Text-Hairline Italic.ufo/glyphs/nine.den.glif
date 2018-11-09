@@ -1,0 +1,48 @@
+<glyph name="nine.den" format="2">
+  <advance width="324"/>
+  <unicode hex="E40B"/>
+  <outline>
+    <contour>
+      <point x="148" y="346" type="curve" smooth="yes"/>
+      <point x="66" y="346"/>
+      <point x="21" y="290"/>
+      <point x="21" y="226" type="curve" smooth="yes"/>
+      <point x="21" y="168"/>
+      <point x="63" y="123"/>
+      <point x="128" y="123" type="curve" smooth="yes"/>
+      <point x="166" y="123"/>
+      <point x="200" y="143"/>
+      <point x="223" y="173" type="curve"/>
+      <point x="210" y="85"/>
+      <point x="148" y="26"/>
+      <point x="28" y="12" type="curve"/>
+      <point x="30" y="-18" type="line"/>
+      <point x="192" y="-2"/>
+      <point x="271" y="90"/>
+      <point x="271" y="213" type="curve" smooth="yes"/>
+      <point x="271" y="302"/>
+      <point x="217" y="346"/>
+    </contour>
+    <contour>
+      <point x="66" y="226" type="curve" smooth="yes"/>
+      <point x="66" y="275"/>
+      <point x="93" y="316"/>
+      <point x="148" y="316" type="curve" smooth="yes"/>
+      <point x="192" y="316"/>
+      <point x="226" y="285"/>
+      <point x="226" y="213" type="curve" smooth="yes"/>
+      <point x="226" y="211" type="line"/>
+      <point x="201" y="172"/>
+      <point x="171" y="154"/>
+      <point x="135" y="154" type="curve" smooth="yes"/>
+      <point x="92" y="154"/>
+      <point x="66" y="185"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>0.9962,1,0.5137,1</string>
+</dict>
+  </lib>
+</glyph>

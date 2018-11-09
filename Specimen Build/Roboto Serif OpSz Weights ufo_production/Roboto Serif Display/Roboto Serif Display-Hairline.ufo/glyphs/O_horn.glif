@@ -1,0 +1,73 @@
+<glyph name="Ohorn" format="2">
+  <advance width="737"/>
+  <unicode hex="01A0"/>
+  <anchor x="368.0" y="742.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="368" y="-10" type="curve" smooth="yes"/>
+      <point x="554" y="-10"/>
+      <point x="695" y="139"/>
+      <point x="695" y="355" type="curve" smooth="yes"/>
+      <point x="695" y="518"/>
+      <point x="616" y="641"/>
+      <point x="497" y="693" type="curve"/>
+      <point x="505" y="693" type="line" smooth="yes"/>
+      <point x="670" y="693"/>
+      <point x="714" y="781"/>
+      <point x="724" y="878" type="curve"/>
+      <point x="684" y="878" type="line"/>
+      <point x="672" y="766"/>
+      <point x="633" y="710"/>
+      <point x="494" y="710" type="curve" smooth="yes"/>
+      <point x="456" y="710"/>
+      <point x="428" y="716"/>
+      <point x="398" y="719" type="curve"/>
+      <point x="391" y="719"/>
+      <point x="385" y="720"/>
+      <point x="378" y="720" type="curve"/>
+      <point x="368" y="720" type="line" smooth="yes"/>
+      <point x="183" y="720"/>
+      <point x="42" y="572"/>
+      <point x="42" y="355" type="curve" smooth="yes"/>
+      <point x="42" y="139"/>
+      <point x="183" y="-10"/>
+    </contour>
+    <contour>
+      <point x="368" y="6" type="curve" smooth="yes"/>
+      <point x="202" y="6"/>
+      <point x="85" y="141"/>
+      <point x="85" y="355" type="curve" smooth="yes"/>
+      <point x="85" y="569"/>
+      <point x="202" y="704"/>
+      <point x="368" y="704" type="curve" smooth="yes"/>
+      <point x="534" y="704"/>
+      <point x="652" y="569"/>
+      <point x="652" y="355" type="curve" smooth="yes"/>
+      <point x="652" y="141"/>
+      <point x="534" y="6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

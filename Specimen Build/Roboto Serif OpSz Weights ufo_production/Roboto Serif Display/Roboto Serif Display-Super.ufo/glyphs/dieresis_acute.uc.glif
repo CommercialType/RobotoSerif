@@ -1,0 +1,75 @@
+<glyph name="dieresis_acute.uc" format="2">
+  <advance width="566"/>
+  <anchor x="289" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="283" y="1069" type="curve" smooth="yes"/>
+      <point x="239" y="986" type="line"/>
+      <point x="239" y="963" type="line"/>
+      <point x="290" y="963" type="line"/>
+      <point x="381" y="992" type="line" smooth="yes"/>
+      <point x="448" y="1013"/>
+      <point x="475" y="1046"/>
+      <point x="475" y="1089" type="curve" smooth="yes"/>
+      <point x="475" y="1130"/>
+      <point x="440" y="1160"/>
+      <point x="397" y="1160" type="curve" smooth="yes"/>
+      <point x="344" y="1160"/>
+      <point x="315" y="1129"/>
+    </contour>
+    <contour>
+      <point x="161" y="763" type="curve" smooth="yes"/>
+      <point x="228" y="763"/>
+      <point x="268" y="796"/>
+      <point x="268" y="852" type="curve" smooth="yes"/>
+      <point x="268" y="908"/>
+      <point x="228" y="941"/>
+      <point x="161" y="941" type="curve" smooth="yes"/>
+      <point x="94" y="941"/>
+      <point x="54" y="908"/>
+      <point x="54" y="852" type="curve" smooth="yes"/>
+      <point x="54" y="795"/>
+      <point x="94" y="763"/>
+    </contour>
+    <contour>
+      <point x="404" y="763" type="curve" smooth="yes"/>
+      <point x="473" y="763"/>
+      <point x="512" y="796"/>
+      <point x="512" y="852" type="curve" smooth="yes"/>
+      <point x="512" y="908"/>
+      <point x="473" y="941"/>
+      <point x="404" y="941" type="curve" smooth="yes"/>
+      <point x="338" y="941"/>
+      <point x="297" y="908"/>
+      <point x="297" y="852" type="curve" smooth="yes"/>
+      <point x="297" y="795"/>
+      <point x="338" y="763"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>UC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

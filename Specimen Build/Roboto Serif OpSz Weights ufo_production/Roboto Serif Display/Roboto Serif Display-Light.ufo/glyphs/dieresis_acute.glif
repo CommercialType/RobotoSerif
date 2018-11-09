@@ -1,0 +1,32 @@
+<glyph name="dieresis_acute" format="2">
+  <advance width="577"/>
+  <anchor x="298.8666666666667" y="526.0" name="_top"/>
+  <outline>
+    <component base="dieresis" xOffset="37.666666666666664" yOffset="-16"/>
+    <component base="acute" xOffset="75" yOffset="168.13333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>LC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

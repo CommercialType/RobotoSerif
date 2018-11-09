@@ -1,0 +1,13 @@
+<glyph name="gcaron.alt" format="2">
+  <advance width="622"/>
+  <outline>
+    <component base="g.alt"/>
+    <component base="caron" xOffset="121.5" yOffset="1.5"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

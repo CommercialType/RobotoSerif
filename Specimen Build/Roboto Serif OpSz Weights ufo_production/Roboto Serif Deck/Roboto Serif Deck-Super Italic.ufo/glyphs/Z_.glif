@@ -1,0 +1,55 @@
+<glyph name="Z" format="2">
+  <advance width="640"/>
+  <unicode hex="005A"/>
+  <anchor x="332.0" y="741.0" name="top"/>
+  <anchor x="332.0" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="609" y="235" type="line"/>
+      <point x="530" y="235" type="line"/>
+      <point x="493" y="117" type="line" smooth="yes"/>
+      <point x="482" y="81"/>
+      <point x="453" y="74"/>
+      <point x="377" y="74" type="curve" smooth="yes"/>
+      <point x="233" y="74" type="line"/>
+      <point x="656" y="613" type="line"/>
+      <point x="674" y="710" type="line"/>
+      <point x="104" y="710" type="line"/>
+      <point x="67" y="500" type="line"/>
+      <point x="146" y="500" type="line"/>
+      <point x="175" y="593" type="line" smooth="yes"/>
+      <point x="187" y="629"/>
+      <point x="220" y="636"/>
+      <point x="270" y="636" type="curve" smooth="yes"/>
+      <point x="397" y="636" type="line"/>
+      <point x="-24" y="101" type="line"/>
+      <point x="-43" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.tBH4io7e9p</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

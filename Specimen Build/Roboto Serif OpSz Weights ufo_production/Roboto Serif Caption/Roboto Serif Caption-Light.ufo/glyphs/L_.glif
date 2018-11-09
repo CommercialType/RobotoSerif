@@ -1,0 +1,44 @@
+<glyph name="L" format="2">
+  <advance width="636"/>
+  <unicode hex="004C"/>
+  <anchor x="383.1333333333333" y="741.0" name="top"/>
+  <anchor x="475.56666666666666" y="710.0" name="right"/>
+  <anchor x="476.0333333333333" y="410.0" name="mid"/>
+  <anchor x="383.1333333333333" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="319" y="710" type="line"/>
+      <point x="50" y="710" type="line"/>
+      <point x="50" y="664" type="line"/>
+      <point x="61" y="664" type="line" smooth="yes"/>
+      <point x="110" y="664"/>
+      <point x="146" y="657"/>
+      <point x="146" y="628" type="curve" smooth="yes"/>
+      <point x="146" y="82" type="line" smooth="yes"/>
+      <point x="146" y="53"/>
+      <point x="110" y="46"/>
+      <point x="61" y="46" type="curve" smooth="yes"/>
+      <point x="50" y="46" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="223" type="line"/>
+      <point x="531" y="223" type="line"/>
+      <point x="519" y="92" type="line" smooth="yes"/>
+      <point x="515" y="56"/>
+      <point x="480" y="48"/>
+      <point x="394" y="48" type="curve" smooth="yes"/>
+      <point x="214" y="48" type="line"/>
+      <point x="214" y="628" type="line" smooth="yes"/>
+      <point x="214" y="657"/>
+      <point x="251" y="664"/>
+      <point x="304" y="664" type="curve" smooth="yes"/>
+      <point x="319" y="664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<glyph name="t" format="2">
+  <advance width="390"/>
+  <unicode hex="0074"/>
+  <anchor x="156.0" y="675.0" name="top"/>
+  <anchor x="292.0" y="681.0" name="right"/>
+  <anchor x="244.0" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="224" y="177" type="curve" smooth="yes"/>
+      <point x="224" y="444" type="line"/>
+      <point x="364" y="444" type="line"/>
+      <point x="364" y="510" type="line"/>
+      <point x="224" y="510" type="line"/>
+      <point x="224" y="650" type="line"/>
+      <point x="92" y="650" type="line"/>
+      <point x="92" y="551" type="line"/>
+      <point x="92" y="513"/>
+      <point x="61" y="505"/>
+      <point x="10" y="505" type="curve" smooth="yes"/>
+      <point x="5" y="505" type="line"/>
+      <point x="5" y="444" type="line"/>
+      <point x="86" y="444" type="line"/>
+      <point x="86" y="174" type="line" smooth="yes"/>
+      <point x="86" y="33"/>
+      <point x="173" y="-10"/>
+      <point x="278" y="-10" type="curve" smooth="yes"/>
+      <point x="320" y="-10"/>
+      <point x="355" y="-1"/>
+      <point x="372" y="7" type="curve"/>
+      <point x="372" y="75" type="line"/>
+      <point x="358" y="71"/>
+      <point x="333" y="64"/>
+      <point x="306" y="64" type="curve" smooth="yes"/>
+      <point x="255" y="64"/>
+      <point x="224" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>1.0</real>
+		<real>0.5769</real>
+		<real>0.0</real>
+		<real>1.0</real>
+	</array>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

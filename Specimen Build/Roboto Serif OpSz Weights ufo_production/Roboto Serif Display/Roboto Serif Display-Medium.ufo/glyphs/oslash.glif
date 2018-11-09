@@ -1,0 +1,55 @@
+<glyph name="oslash" format="2">
+  <advance width="621"/>
+  <unicode hex="00F8"/>
+  <anchor x="307.0" y="551.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="565.4" y="529.8857142857142" type="line"/>
+      <point x="5.542857142857143" y="-10.0" type="line"/>
+      <point x="57.400000000000006" y="-10.0" type="line"/>
+      <point x="617.2571428571429" y="529.8857142857142" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.6857142857143" y="-11.371428571428572" type="curve"/>
+      <point x="475.51428571428573" y="-11.371428571428572"/>
+      <point x="588.0857142857143" y="98.31428571428572"/>
+      <point x="588.0857142857143" y="258.57142857142856" type="curve" smooth="yes"/>
+      <point x="588.0857142857143" y="418.8285714285714"/>
+      <point x="475.51428571428573" y="529.8857142857142"/>
+      <point x="310.6857142857143" y="529.8857142857142" type="curve" smooth="yes"/>
+      <point x="145.85714285714286" y="529.8857142857142"/>
+      <point x="33.28571428571429" y="418.8285714285714"/>
+      <point x="33.28571428571429" y="258.57142857142856" type="curve" smooth="yes"/>
+      <point x="33.28571428571429" y="98.31428571428572"/>
+      <point x="145.85714285714286" y="-11.371428571428572"/>
+    </contour>
+    <contour>
+      <point x="310.6857142857143" y="26.285714285714285" type="curve"/>
+      <point x="219.20749414519906" y="26.285714285714285"/>
+      <point x="173.17142857142858" y="93.22857142857143"/>
+      <point x="173.17142857142858" y="258.57142857142856" type="curve" smooth="yes"/>
+      <point x="173.17142857142858" y="410.8857142857143"/>
+      <point x="219.20749414519906" y="492.22857142857146"/>
+      <point x="310.6857142857143" y="492.22857142857146" type="curve" smooth="yes"/>
+      <point x="402.1639344262295" y="492.22857142857146"/>
+      <point x="448.2" y="424.6"/>
+      <point x="448.2" y="258.57142857142856" type="curve" smooth="yes"/>
+      <point x="448.2" y="106.94285714285714"/>
+      <point x="402.1639344262295" y="26.285714285714285"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,95 @@
+<glyph name="Uhorn" format="2">
+  <advance width="802"/>
+  <unicode hex="01AF"/>
+  <anchor x="409.3333333333333" y="663.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="610.8" y="710.0" type="curve"/>
+      <point x="564.7333333333333" y="694.0" type="line"/>
+      <point x="567.2" y="680.0" type="line" smooth="yes"/>
+      <point x="587.4666666666667" y="680.0"/>
+      <point x="623.2666666666667" y="675.7333333333333"/>
+      <point x="622.2" y="668.2666666666667" type="curve" smooth="yes"/>
+      <point x="646.9333333333333" y="668.2666666666667"/>
+      <point x="620.4" y="455.93333333333334"/>
+      <point x="619.0" y="447.5333333333333" type="curve" smooth="yes"/>
+      <point x="603.5333333333333" y="358.4666666666667"/>
+      <point x="524.6" y="124.13333333333334"/>
+      <point x="462.2" y="124.13333333333334" type="curve" smooth="yes"/>
+      <point x="386.5333333333333" y="57.86666666666667"/>
+      <point x="310.06666666666666" y="64.0"/>
+      <point x="258.73333333333335" y="133.33333333333331" type="curve" smooth="yes"/>
+      <point x="204.13333333333333" y="153.6"/>
+      <point x="180.26666666666665" y="198.26666666666665"/>
+      <point x="188.26666666666668" y="291.4" type="curve" smooth="yes"/>
+      <point x="188.26666666666668" y="303.06666666666666"/>
+      <point x="216.93333333333334" y="474.0"/>
+      <point x="220.2" y="492.2" type="curve" smooth="yes"/>
+      <point x="220.73333333333332" y="495.93333333333334"/>
+      <point x="278.6666666666667" y="675.3333333333334"/>
+      <point x="298.93333333333334" y="675.3333333333334" type="curve" smooth="yes"/>
+      <point x="299.4" y="678.6"/>
+      <point x="324.73333333333335" y="680.0"/>
+      <point x="340.6" y="680.0" type="curve"/>
+      <point x="347.4666666666667" y="696.0" type="line"/>
+      <point x="226.06666666666666" y="710.0" type="line"/>
+      <point x="99.73333333333333" y="694.0" type="line"/>
+      <point x="103.26666666666667" y="680.0" type="line" smooth="yes"/>
+      <point x="129.4" y="680.0"/>
+      <point x="150.86666666666667" y="676.2666666666667"/>
+      <point x="148.2" y="660.8" type="curve" smooth="yes"/>
+      <point x="165.93333333333334" y="660.8"/>
+      <point x="159.0" y="514.0"/>
+      <point x="157.13333333333333" y="502.33333333333337" type="curve" smooth="yes"/>
+      <point x="148.06666666666666" y="452.2"/>
+      <point x="117.0" y="269.93333333333334"/>
+      <point x="117.0" y="252.33333333333334" type="curve" smooth="yes"/>
+      <point x="113.73333333333333" y="152.0"/>
+      <point x="163.53333333333333" y="102.0"/>
+      <point x="236.60000000000002" y="88.46666666666667" type="curve" smooth="yes"/>
+      <point x="307.0" y="18.0"/>
+      <point x="413.6" y="34.8"/>
+      <point x="495.1333333333333" y="133.46666666666667" type="curve" smooth="yes"/>
+      <point x="559.0666666666666" y="133.46666666666667"/>
+      <point x="641.8666666666667" y="367.06666666666666"/>
+      <point x="656.3333333333334" y="448.26666666666665" type="curve" smooth="yes"/>
+      <point x="659.5333333333333" y="468.0"/>
+      <point x="700.7333333333333" y="657.3333333333334"/>
+      <point x="734.8666666666667" y="664.2666666666667" type="curve" smooth="yes"/>
+      <point x="786.0718010899054" y="689.6674347994591"/>
+      <point x="826.6" y="720.0666666666666"/>
+      <point x="849.7333333333333" y="787.9333333333334" type="curve"/>
+      <point x="895.4666666666667" y="796.8"/>
+      <point x="904.0" y="817.8"/>
+      <point x="911.9333333333333" y="877.5333333333333" type="curve"/>
+      <point x="897.0" y="801.2666666666667"/>
+      <point x="834.2666666666667" y="787.9333333333334"/>
+      <point x="747.3333333333334" y="787.9333333333334" type="curve" smooth="yes"/>
+      <point x="739.3509598662665" y="724.5438969772144"/>
+      <point x="678.5942702047512" y="710.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.kpRzRcLGlV</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+</dict>
+  </lib>
+</glyph>

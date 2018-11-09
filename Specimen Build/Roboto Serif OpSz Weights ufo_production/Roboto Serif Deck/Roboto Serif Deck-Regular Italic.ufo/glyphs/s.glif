@@ -1,0 +1,83 @@
+<glyph name="s" format="2">
+  <advance width="470"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="217" y="-11" type="curve" smooth="yes"/>
+      <point x="336" y="-11"/>
+      <point x="419" y="48"/>
+      <point x="419" y="144" type="curve" smooth="yes"/>
+      <point x="419" y="226"/>
+      <point x="349" y="261"/>
+      <point x="281" y="292" type="curve" smooth="yes"/>
+      <point x="221" y="320"/>
+      <point x="163" y="343"/>
+      <point x="163" y="396" type="curve" smooth="yes"/>
+      <point x="163" y="443"/>
+      <point x="199" y="478"/>
+      <point x="270" y="478" type="curve" smooth="yes"/>
+      <point x="303" y="478"/>
+      <point x="333" y="471"/>
+      <point x="356" y="454" type="curve"/>
+      <point x="341" y="371" type="line"/>
+      <point x="423" y="371" type="line"/>
+      <point x="439" y="462" type="line"/>
+      <point x="409" y="498"/>
+      <point x="347" y="523"/>
+      <point x="273" y="523" type="curve" smooth="yes"/>
+      <point x="162" y="523"/>
+      <point x="85" y="466"/>
+      <point x="85" y="378" type="curve" smooth="yes"/>
+      <point x="85" y="294"/>
+      <point x="155" y="259"/>
+      <point x="222" y="228" type="curve" smooth="yes"/>
+      <point x="282" y="200"/>
+      <point x="337" y="176"/>
+      <point x="337" y="126" type="curve" smooth="yes"/>
+      <point x="337" y="73"/>
+      <point x="296" y="35"/>
+      <point x="223" y="35" type="curve" smooth="yes"/>
+      <point x="171" y="35"/>
+      <point x="128" y="48"/>
+      <point x="99" y="73" type="curve"/>
+      <point x="117" y="165" type="line"/>
+      <point x="31" y="165" type="line"/>
+      <point x="13" y="66" type="line"/>
+      <point x="45" y="30"/>
+      <point x="120" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.DBDjq2Bom3</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.I53Ucbt7Lx</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.JrIlGjzHSV</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.LPkU6t5UIo</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.oPwbLcenhR</key>
+	<real>5.0</real>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

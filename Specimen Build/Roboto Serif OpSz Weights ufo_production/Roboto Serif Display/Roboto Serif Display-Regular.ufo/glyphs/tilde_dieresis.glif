@@ -1,0 +1,62 @@
+<glyph name="tilde_dieresis" format="2">
+  <advance width="504"/>
+  <anchor x="252" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="145" y="791" type="curve" smooth="yes"/>
+      <point x="179" y="791"/>
+      <point x="205" y="814"/>
+      <point x="205" y="851" type="curve" smooth="yes"/>
+      <point x="205" y="887"/>
+      <point x="179" y="910"/>
+      <point x="145" y="910" type="curve" smooth="yes"/>
+      <point x="111" y="910"/>
+      <point x="85" y="887"/>
+      <point x="85" y="851" type="curve" smooth="yes"/>
+      <point x="85" y="814"/>
+      <point x="111" y="791"/>
+    </contour>
+    <contour>
+      <point x="359" y="791" type="curve" smooth="yes"/>
+      <point x="393" y="791"/>
+      <point x="419" y="814"/>
+      <point x="419" y="851" type="curve" smooth="yes"/>
+      <point x="419" y="887"/>
+      <point x="393" y="910"/>
+      <point x="359" y="910" type="curve" smooth="yes"/>
+      <point x="325" y="910"/>
+      <point x="299" y="887"/>
+      <point x="299" y="851" type="curve" smooth="yes"/>
+      <point x="299" y="814"/>
+      <point x="325" y="791"/>
+    </contour>
+    <contour>
+      <point x="314" y="604" type="curve" smooth="yes"/>
+      <point x="367" y="604"/>
+      <point x="400" y="646"/>
+      <point x="416" y="728" type="curve"/>
+      <point x="389" y="738" type="line"/>
+      <point x="377" y="692"/>
+      <point x="366" y="662"/>
+      <point x="338" y="662" type="curve" smooth="yes"/>
+      <point x="292" y="662"/>
+      <point x="255" y="742"/>
+      <point x="193" y="742" type="curve" smooth="yes"/>
+      <point x="137" y="742"/>
+      <point x="107" y="701"/>
+      <point x="93" y="617" type="curve"/>
+      <point x="120" y="608" type="line"/>
+      <point x="127" y="657"/>
+      <point x="142" y="685"/>
+      <point x="168" y="685" type="curve" smooth="yes"/>
+      <point x="209" y="685"/>
+      <point x="246" y="604"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<glyph name="breveinverted.uc" format="2">
+  <advance width="500"/>
+  <anchor x="241.0" y="691.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="250" y="920" type="curve" smooth="yes"/>
+      <point x="157" y="920"/>
+      <point x="91" y="864"/>
+      <point x="94" y="751" type="curve"/>
+      <point x="145" y="751" type="line"/>
+      <point x="152" y="793"/>
+      <point x="186" y="801"/>
+      <point x="248" y="801" type="curve" smooth="yes"/>
+      <point x="310" y="801"/>
+      <point x="347" y="793"/>
+      <point x="354" y="751" type="curve"/>
+      <point x="406" y="751" type="line"/>
+      <point x="409" y="864"/>
+      <point x="344" y="920"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_top</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>below</key>
+		<dict>
+			<key>name</key>
+			<string>UC accents</string>
+			<key>type</key>
+			<string>fontGuide</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>

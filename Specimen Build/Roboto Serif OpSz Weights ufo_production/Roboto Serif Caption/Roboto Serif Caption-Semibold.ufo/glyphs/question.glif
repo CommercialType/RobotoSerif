@@ -1,0 +1,43 @@
+<glyph name="question" format="2">
+  <advance width="603"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="220" y="403" type="curve"/>
+      <point x="220" y="252" type="line"/>
+      <point x="333" y="252" type="line"/>
+      <point x="333" y="357" type="line"/>
+      <point x="441" y="381"/>
+      <point x="556" y="432"/>
+      <point x="556" y="564" type="curve" smooth="yes"/>
+      <point x="556" y="684"/>
+      <point x="463" y="746"/>
+      <point x="297" y="746" type="curve" smooth="yes"/>
+      <point x="181" y="746"/>
+      <point x="89" y="702"/>
+      <point x="58" y="676" type="curve"/>
+      <point x="58" y="541" type="line"/>
+      <point x="193" y="541" type="line"/>
+      <point x="193" y="652" type="line"/>
+      <point x="216" y="662"/>
+      <point x="245" y="669"/>
+      <point x="282" y="669" type="curve" smooth="yes"/>
+      <point x="355" y="669"/>
+      <point x="394" y="637"/>
+      <point x="394" y="565" type="curve" smooth="yes"/>
+      <point x="394" y="460"/>
+      <point x="322" y="429"/>
+    </contour>
+    <component base="period" xOffset="106" yOffset="-0.75"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.guideline.magnetic.RRabHsMgOI</key>
+	<real>5.0</real>
+	<key>com.typemytype.robofont.guideline.magnetic.qksdPtvnxj</key>
+	<real>5.0</real>
+	<key>public.markColor</key>
+	<string>1,0.5769,0,1</string>
+</dict>
+  </lib>
+</glyph>
