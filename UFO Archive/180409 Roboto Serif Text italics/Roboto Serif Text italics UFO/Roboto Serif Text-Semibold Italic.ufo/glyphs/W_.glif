@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1029"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="75" y="710" type="line"/>
+      <point x="63" y="646" type="line"/>
+      <point x="69" y="646" type="line" smooth="yes"/>
+      <point x="98" y="646"/>
+      <point x="118" y="641"/>
+      <point x="119" y="613" type="curve" smooth="yes"/>
+      <point x="150" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="561" y="559" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="1006" y="603" type="line" smooth="yes"/>
+      <point x="1020" y="636"/>
+      <point x="1040" y="646"/>
+      <point x="1069" y="646" type="curve" smooth="yes"/>
+      <point x="1075" y="646" type="line"/>
+      <point x="1087" y="710" type="line"/>
+      <point x="874" y="710" type="line"/>
+      <point x="862" y="646" type="line"/>
+      <point x="877" y="646" type="line" smooth="yes"/>
+      <point x="904" y="646"/>
+      <point x="935" y="639"/>
+      <point x="933" y="628" type="curve"/>
+      <point x="740" y="157" type="line"/>
+      <point x="711" y="710" type="line"/>
+      <point x="545" y="710" type="line"/>
+      <point x="310" y="147" type="line"/>
+      <point x="292" y="636" type="line"/>
+      <point x="294" y="643"/>
+      <point x="328" y="646"/>
+      <point x="356" y="646" type="curve" smooth="yes"/>
+      <point x="371" y="646" type="line"/>
+      <point x="383" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="741" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>80.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>center</string>
+          <key>x</key>
+          <integer>489</integer>
+          <key>y</key>
+          <integer>367</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

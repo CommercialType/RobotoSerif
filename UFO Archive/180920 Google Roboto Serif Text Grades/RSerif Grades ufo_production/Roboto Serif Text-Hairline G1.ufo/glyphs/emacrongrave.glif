@@ -1,0 +1,14 @@
+<glyph name="emacrongrave" format="2">
+  <advance width="512"/>
+  <unicode hex="1E15"/>
+  <outline>
+    <component base="e"/>
+    <component base="macron_grave" xOffset="-54"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

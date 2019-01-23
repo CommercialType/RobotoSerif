@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="1">
+  <advance width="654"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="366" y="710" type="line"/>
+      <point x="366" y="646" type="line"/>
+      <point x="352" y="646" type="line" smooth="yes"/>
+      <point x="313" y="646"/>
+      <point x="285" y="639"/>
+      <point x="285" y="610" type="curve" smooth="yes"/>
+      <point x="285" y="76" type="line"/>
+      <point x="390" y="76" type="line" smooth="yes"/>
+      <point x="471" y="76"/>
+      <point x="504" y="83"/>
+      <point x="508" y="119" type="curve" smooth="yes"/>
+      <point x="517" y="229" type="line"/>
+      <point x="602" y="229" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="34" y="65" type="line"/>
+      <point x="44" y="65" type="line" smooth="yes"/>
+      <point x="81" y="65"/>
+      <point x="108" y="72"/>
+      <point x="108" y="101" type="curve" smooth="yes"/>
+      <point x="108" y="610" type="line" smooth="yes"/>
+      <point x="108" y="639"/>
+      <point x="81" y="646"/>
+      <point x="44" y="646" type="curve" smooth="yes"/>
+      <point x="34" y="646" type="line"/>
+      <point x="34" y="710" type="line"/>
+    </contour>
+    <component base="periodcentered" xOffset="375" yOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

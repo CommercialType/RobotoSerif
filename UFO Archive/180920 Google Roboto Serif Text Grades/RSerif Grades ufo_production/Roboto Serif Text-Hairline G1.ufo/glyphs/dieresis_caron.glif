@@ -1,0 +1,51 @@
+<glyph name="dieresis_caron" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="150" y="657" type="curve" smooth="yes"/>
+      <point x="173" y="657"/>
+      <point x="190" y="671"/>
+      <point x="190" y="697" type="curve" smooth="yes"/>
+      <point x="190" y="723"/>
+      <point x="173" y="737"/>
+      <point x="150" y="737" type="curve" smooth="yes"/>
+      <point x="127" y="737"/>
+      <point x="110" y="723"/>
+      <point x="110" y="697" type="curve" smooth="yes"/>
+      <point x="110" y="671"/>
+      <point x="127" y="657"/>
+    </contour>
+    <contour>
+      <point x="353" y="657" type="curve" smooth="yes"/>
+      <point x="376" y="657"/>
+      <point x="393" y="671"/>
+      <point x="393" y="697" type="curve" smooth="yes"/>
+      <point x="393" y="723"/>
+      <point x="376" y="737"/>
+      <point x="353" y="737" type="curve" smooth="yes"/>
+      <point x="330" y="737"/>
+      <point x="313" y="723"/>
+      <point x="313" y="697" type="curve" smooth="yes"/>
+      <point x="313" y="671"/>
+      <point x="330" y="657"/>
+    </contour>
+    <contour>
+      <point x="221" y="765" type="line"/>
+      <point x="120" y="897" type="line"/>
+      <point x="120" y="907" type="line"/>
+      <point x="144" y="907" type="line"/>
+      <point x="276" y="778" type="line"/>
+      <point x="235" y="778" type="line"/>
+      <point x="365" y="907" type="line"/>
+      <point x="383" y="907" type="line"/>
+      <point x="383" y="897" type="line"/>
+      <point x="284" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>public.markColor</key>
+	<string>1,0.568,0.6434,1</string>
+</dict>
+  </lib>
+</glyph>

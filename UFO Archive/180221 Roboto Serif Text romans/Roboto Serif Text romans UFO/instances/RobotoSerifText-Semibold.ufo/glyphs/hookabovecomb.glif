@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="1">
+  <advance width="255"/>
+  <outline>
+    <contour>
+      <point x="-171" y="684" type="line"/>
+      <point x="-166" y="734"/>
+      <point x="-127" y="780"/>
+      <point x="-37" y="780" type="curve" smooth="yes"/>
+      <point x="46" y="780"/>
+      <point x="92" y="747"/>
+      <point x="92" y="691" type="curve" smooth="yes"/>
+      <point x="92" y="625"/>
+      <point x="29" y="599"/>
+      <point x="-51" y="592" type="curve"/>
+      <point x="-12" y="624" type="line"/>
+      <point x="-12" y="559" type="line"/>
+      <point x="-87" y="559" type="line"/>
+      <point x="-87" y="633" type="line"/>
+      <point x="-31" y="638"/>
+      <point x="-8" y="654"/>
+      <point x="-8" y="684" type="curve" smooth="yes"/>
+      <point x="-8" y="704"/>
+      <point x="-20" y="718"/>
+      <point x="-44" y="718" type="curve" smooth="yes"/>
+      <point x="-70" y="718"/>
+      <point x="-83" y="704"/>
+      <point x="-86" y="684" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-306" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.slashlin" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="459" y="510" type="line"/>
+      <point x="88" y="254" type="line"/>
+      <point x="105" y="201" type="line"/>
+      <point x="472" y="455" type="line"/>
+    </contour>
+    <component base="zero.lin"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

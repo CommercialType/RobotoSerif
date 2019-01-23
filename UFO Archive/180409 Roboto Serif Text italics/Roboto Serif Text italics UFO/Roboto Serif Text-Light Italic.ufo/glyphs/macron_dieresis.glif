@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron_dieresis" format="1">
+  <advance width="501"/>
+  <outline>
+    <contour>
+      <point x="194" y="752" type="curve" smooth="yes"/>
+      <point x="223" y="752"/>
+      <point x="244" y="771"/>
+      <point x="244" y="802" type="curve" smooth="yes"/>
+      <point x="244" y="833"/>
+      <point x="223" y="852"/>
+      <point x="194" y="852" type="curve" smooth="yes"/>
+      <point x="166" y="852"/>
+      <point x="145" y="833"/>
+      <point x="145" y="802" type="curve" smooth="yes"/>
+      <point x="145" y="771"/>
+      <point x="166" y="752"/>
+    </contour>
+    <contour>
+      <point x="404" y="752" type="curve" smooth="yes"/>
+      <point x="433" y="752"/>
+      <point x="454" y="771"/>
+      <point x="454" y="802" type="curve" smooth="yes"/>
+      <point x="454" y="833"/>
+      <point x="433" y="852"/>
+      <point x="404" y="852" type="curve" smooth="yes"/>
+      <point x="376" y="852"/>
+      <point x="355" y="833"/>
+      <point x="355" y="802" type="curve" smooth="yes"/>
+      <point x="355" y="771"/>
+      <point x="376" y="752"/>
+    </contour>
+    <contour>
+      <point x="152" y="690" type="line"/>
+      <point x="143" y="644" type="line"/>
+      <point x="412" y="644" type="line"/>
+      <point x="421" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="526" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

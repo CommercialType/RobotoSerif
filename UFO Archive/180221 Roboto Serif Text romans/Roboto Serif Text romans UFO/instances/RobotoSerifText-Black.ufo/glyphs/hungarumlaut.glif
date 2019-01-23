@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="500"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="120" y="688" type="curve" smooth="yes"/>
+      <point x="111" y="585" type="line"/>
+      <point x="111" y="560" type="line"/>
+      <point x="178" y="560" type="line"/>
+      <point x="223" y="623" type="line" smooth="yes"/>
+      <point x="261" y="672"/>
+      <point x="275" y="702"/>
+      <point x="275" y="732" type="curve" smooth="yes"/>
+      <point x="275" y="765"/>
+      <point x="253" y="792"/>
+      <point x="206" y="792" type="curve" smooth="yes"/>
+      <point x="151" y="792"/>
+      <point x="124" y="756"/>
+    </contour>
+    <contour>
+      <point x="311" y="688" type="curve" smooth="yes"/>
+      <point x="302" y="585" type="line"/>
+      <point x="302" y="560" type="line"/>
+      <point x="369" y="560" type="line"/>
+      <point x="415" y="623" type="line" smooth="yes"/>
+      <point x="452" y="672"/>
+      <point x="466" y="702"/>
+      <point x="466" y="732" type="curve" smooth="yes"/>
+      <point x="466" y="765"/>
+      <point x="444" y="792"/>
+      <point x="397" y="792" type="curve" smooth="yes"/>
+      <point x="342" y="792"/>
+      <point x="315" y="756"/>
+    </contour>
+    <contour>
+      <point x="259" y="525" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

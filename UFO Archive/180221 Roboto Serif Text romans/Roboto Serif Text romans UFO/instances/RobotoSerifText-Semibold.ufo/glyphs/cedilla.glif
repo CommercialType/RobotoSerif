@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="600"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="313" y="4" type="line"/>
+      <point x="236" y="4" type="line"/>
+      <point x="205" y="-98" type="line"/>
+      <point x="229" y="-98" type="line" smooth="yes"/>
+      <point x="279" y="-98"/>
+      <point x="295" y="-114"/>
+      <point x="295" y="-138" type="curve" smooth="yes"/>
+      <point x="295" y="-161"/>
+      <point x="280" y="-175"/>
+      <point x="255" y="-175" type="curve" smooth="yes"/>
+      <point x="225" y="-175"/>
+      <point x="200" y="-158"/>
+      <point x="178" y="-136" type="curve"/>
+      <point x="136" y="-186" type="line"/>
+      <point x="165" y="-218"/>
+      <point x="206" y="-237"/>
+      <point x="267" y="-237" type="curve" smooth="yes"/>
+      <point x="342" y="-237"/>
+      <point x="399" y="-208"/>
+      <point x="399" y="-141" type="curve" smooth="yes"/>
+      <point x="399" y="-83"/>
+      <point x="345" y="-51"/>
+      <point x="265" y="-56" type="curve"/>
+      <point x="243" y="-77"/>
+      <point x="271" y="-75"/>
+      <point x="274" y="-67" type="curve"/>
+    </contour>
+    <contour>
+      <point x="297" y="34" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

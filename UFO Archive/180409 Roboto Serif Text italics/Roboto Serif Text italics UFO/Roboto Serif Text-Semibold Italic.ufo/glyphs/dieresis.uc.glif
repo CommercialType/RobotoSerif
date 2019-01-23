@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.uc" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="154" y="777" type="curve" smooth="yes"/>
+      <point x="210" y="777"/>
+      <point x="245" y="808"/>
+      <point x="245" y="859" type="curve" smooth="yes"/>
+      <point x="245" y="905"/>
+      <point x="212" y="934"/>
+      <point x="160" y="934" type="curve" smooth="yes"/>
+      <point x="104" y="934"/>
+      <point x="69" y="903"/>
+      <point x="69" y="853" type="curve" smooth="yes"/>
+      <point x="69" y="806"/>
+      <point x="101" y="777"/>
+    </contour>
+    <contour>
+      <point x="391" y="777" type="curve" smooth="yes"/>
+      <point x="447" y="777"/>
+      <point x="482" y="808"/>
+      <point x="482" y="859" type="curve" smooth="yes"/>
+      <point x="482" y="905"/>
+      <point x="449" y="934"/>
+      <point x="397" y="934" type="curve" smooth="yes"/>
+      <point x="341" y="934"/>
+      <point x="306" y="903"/>
+      <point x="306" y="853" type="curve" smooth="yes"/>
+      <point x="306" y="806"/>
+      <point x="338" y="777"/>
+    </contour>
+    <contour>
+      <point x="237" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>269</integer>
+          <key>y</key>
+          <integer>861</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

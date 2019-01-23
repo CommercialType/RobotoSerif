@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="1">
+  <advance width="500"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="252" y="587" type="curve" smooth="yes"/>
+      <point x="179" y="587"/>
+      <point x="128" y="636"/>
+      <point x="123" y="736" type="curve"/>
+      <point x="166" y="736" type="line"/>
+      <point x="174" y="665"/>
+      <point x="204" y="642"/>
+      <point x="254" y="642" type="curve" smooth="yes"/>
+      <point x="302" y="642"/>
+      <point x="333" y="665"/>
+      <point x="341" y="736" type="curve"/>
+      <point x="381" y="736" type="line"/>
+      <point x="376" y="636"/>
+      <point x="324" y="587"/>
+    </contour>
+    <contour>
+      <point x="252" y="528" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

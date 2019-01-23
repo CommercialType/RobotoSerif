@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.uc" format="1">
+  <advance width="352"/>
+  <outline>
+    <contour>
+      <point x="47" y="751" type="line"/>
+      <point x="47" y="-45" type="line"/>
+      <point x="197" y="-45" type="line"/>
+      <point x="197" y="751" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="751" type="line"/>
+      <point x="87" y="751" type="line"/>
+      <point x="87" y="669" type="line"/>
+      <point x="326" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="36" type="line"/>
+      <point x="87" y="36" type="line"/>
+      <point x="87" y="-45" type="line"/>
+      <point x="326" y="-45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_hook.uc" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="350" y="940" type="line"/>
+      <point x="354" y="982"/>
+      <point x="390" y="1020"/>
+      <point x="472" y="1020" type="curve" smooth="yes"/>
+      <point x="549" y="1020"/>
+      <point x="592" y="992"/>
+      <point x="592" y="945" type="curve" smooth="yes"/>
+      <point x="592" y="890"/>
+      <point x="539" y="868"/>
+      <point x="470" y="863" type="curve"/>
+      <point x="503" y="889" type="line"/>
+      <point x="503" y="839" type="line"/>
+      <point x="426" y="839" type="line"/>
+      <point x="426" y="899" type="line"/>
+      <point x="475" y="901"/>
+      <point x="496" y="916"/>
+      <point x="496" y="941" type="curve" smooth="yes"/>
+      <point x="496" y="958"/>
+      <point x="486" y="969"/>
+      <point x="467" y="969" type="curve" smooth="yes"/>
+      <point x="448" y="969"/>
+      <point x="438" y="958"/>
+      <point x="435" y="940" type="curve"/>
+    </contour>
+    <component base="circumflex.uc"/>
+    <contour>
+      <point x="245" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

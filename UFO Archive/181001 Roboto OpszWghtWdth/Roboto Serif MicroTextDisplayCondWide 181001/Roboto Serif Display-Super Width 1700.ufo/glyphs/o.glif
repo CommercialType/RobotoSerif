@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="826"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="412.932" y="-10.0" type="curve" smooth="yes"/>
+      <point x="651.7170000000001" y="-10.0"/>
+      <point x="795.9689999999999" y="99.33689591077449"/>
+      <point x="795.9689999999999" y="261.0" type="curve" smooth="yes"/>
+      <point x="795.9689999999999" y="422.925645756525"/>
+      <point x="651.7170000000001" y="532.5"/>
+      <point x="412.932" y="532.5" type="curve" smooth="yes"/>
+      <point x="174.147" y="532.5"/>
+      <point x="29.894999999999996" y="422.75"/>
+      <point x="29.894999999999996" y="261.0" type="curve" smooth="yes"/>
+      <point x="29.894999999999996" y="99.51068773234199"/>
+      <point x="174.147" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="412.932" y="35.5" type="curve" smooth="yes"/>
+      <point x="354.426" y="35.5"/>
+      <point x="327.88" y="93.5"/>
+      <point x="327.88" y="261.0" type="curve" smooth="yes"/>
+      <point x="327.88" y="428.75"/>
+      <point x="354.426" y="487.0"/>
+      <point x="412.932" y="487.0" type="curve" smooth="yes"/>
+      <point x="471.438" y="487.0"/>
+      <point x="497.9839999999999" y="428.924267782425"/>
+      <point x="497.9839999999999" y="261.0" type="curve" smooth="yes"/>
+      <point x="497.9839999999999" y="93.3260548525"/>
+      <point x="471.438" y="35.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.7243,0.7242,0.7243,1</string>
+    </dict>
+  </lib>
+</glyph>

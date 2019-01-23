@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-417" y="489" type="curve"/>
+      <point x="-230" y="479"/>
+      <point x="-176" y="544"/>
+      <point x="-171" y="683" type="curve"/>
+      <point x="-230" y="683" type="line"/>
+      <point x="-235" y="554"/>
+      <point x="-271" y="518"/>
+      <point x="-446" y="518" type="curve"/>
+      <point x="-439" y="511"/>
+      <point x="-424" y="495"/>
+    </contour>
+    <contour>
+      <point x="3" y="444" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

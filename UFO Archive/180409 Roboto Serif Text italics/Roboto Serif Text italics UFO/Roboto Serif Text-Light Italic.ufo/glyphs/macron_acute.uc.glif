@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron_acute.uc" format="1">
+  <advance width="542"/>
+  <outline>
+    <contour>
+      <point x="330" y="989" type="curve" smooth="yes"/>
+      <point x="251" y="905" type="line"/>
+      <point x="248" y="887" type="line"/>
+      <point x="268" y="887" type="line"/>
+      <point x="368" y="945" type="line" smooth="yes"/>
+      <point x="405" y="965"/>
+      <point x="424" y="977"/>
+      <point x="424" y="1001" type="curve" smooth="yes"/>
+      <point x="424" y="1017"/>
+      <point x="413" y="1031"/>
+      <point x="392" y="1031" type="curve" smooth="yes"/>
+      <point x="371" y="1031"/>
+      <point x="355" y="1016"/>
+    </contour>
+    <contour>
+      <point x="169" y="848" type="line"/>
+      <point x="160" y="802" type="line"/>
+      <point x="429" y="802" type="line"/>
+      <point x="438" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.3901</real>
+        <real>0.3797</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

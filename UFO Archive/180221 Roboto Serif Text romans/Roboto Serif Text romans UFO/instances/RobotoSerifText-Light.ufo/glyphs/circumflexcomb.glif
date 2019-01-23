@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="1">
+  <unicode hex="0302"/>
+  <outline>
+    <contour>
+      <point x="-257" y="741" type="line"/>
+      <point x="-147" y="584" type="line"/>
+      <point x="-147" y="574" type="line"/>
+      <point x="-180" y="574" type="line"/>
+      <point x="-315" y="710" type="line"/>
+      <point x="-281" y="710" type="line"/>
+      <point x="-412" y="574" type="line"/>
+      <point x="-438" y="574" type="line"/>
+      <point x="-438" y="584" type="line"/>
+      <point x="-329" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="-146" y="529" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

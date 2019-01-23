@@ -1,0 +1,14 @@
+<glyph name="Otildeacute" format="2">
+  <advance width="814"/>
+  <unicode hex="1E4C"/>
+  <outline>
+    <component base="O"/>
+    <component base="tilde_acute.uc" xOffset="146"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

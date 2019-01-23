@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="228" y="-316" type="line"/>
+      <point x="284" y="-264"/>
+      <point x="315" y="-215"/>
+      <point x="315" y="-154" type="curve" smooth="yes"/>
+      <point x="315" y="-100"/>
+      <point x="282" y="-74"/>
+      <point x="238" y="-74" type="curve" smooth="yes"/>
+      <point x="196" y="-74"/>
+      <point x="167" y="-100"/>
+      <point x="167" y="-136" type="curve" smooth="yes"/>
+      <point x="167" y="-171"/>
+      <point x="196" y="-197"/>
+      <point x="240" y="-197" type="curve" smooth="yes"/>
+      <point x="250" y="-197"/>
+      <point x="260" y="-196"/>
+      <point x="270" y="-192" type="curve"/>
+      <point x="259" y="-185"/>
+      <point x="258" y="-170"/>
+      <point x="254" y="-175" type="curve"/>
+      <point x="252" y="-211"/>
+      <point x="206" y="-246"/>
+      <point x="155" y="-279" type="curve"/>
+    </contour>
+    <contour>
+      <point x="242" y="33" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

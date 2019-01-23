@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_acute" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="437" y="809" type="curve" smooth="yes"/>
+      <point x="404" y="709" type="line"/>
+      <point x="404" y="681" type="line"/>
+      <point x="460" y="681" type="line"/>
+      <point x="535" y="740" type="line" smooth="yes"/>
+      <point x="577" y="768"/>
+      <point x="597" y="799"/>
+      <point x="597" y="834" type="curve" smooth="yes"/>
+      <point x="597" y="869"/>
+      <point x="569" y="895"/>
+      <point x="527" y="895" type="curve" smooth="yes"/>
+      <point x="479" y="895"/>
+      <point x="454" y="864"/>
+    </contour>
+    <component base="circumflex" xOffset="-10"/>
+    <contour>
+      <point x="234" y="558" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

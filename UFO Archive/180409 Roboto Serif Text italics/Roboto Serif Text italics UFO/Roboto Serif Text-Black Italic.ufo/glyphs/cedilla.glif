@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="600"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="330" y="4" type="line"/>
+      <point x="245" y="4" type="line"/>
+      <point x="196" y="-100" type="line"/>
+      <point x="219" y="-100" type="line" smooth="yes"/>
+      <point x="262" y="-100"/>
+      <point x="276" y="-113"/>
+      <point x="276" y="-132" type="curve" smooth="yes"/>
+      <point x="276" y="-153"/>
+      <point x="264" y="-167"/>
+      <point x="239" y="-167" type="curve" smooth="yes"/>
+      <point x="204" y="-167"/>
+      <point x="184" y="-145"/>
+      <point x="171" y="-128" type="curve"/>
+      <point x="117" y="-180" type="line"/>
+      <point x="142" y="-214"/>
+      <point x="182" y="-238"/>
+      <point x="252" y="-238" type="curve" smooth="yes"/>
+      <point x="340" y="-238"/>
+      <point x="393" y="-199"/>
+      <point x="393" y="-135" type="curve" smooth="yes"/>
+      <point x="393" y="-89"/>
+      <point x="357" y="-58"/>
+      <point x="289" y="-52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="296" y="34" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-236</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-208</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-60</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

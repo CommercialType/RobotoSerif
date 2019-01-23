@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="530"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="489" y="176" type="curve" smooth="yes"/>
+      <point x="489" y="266"/>
+      <point x="408" y="304"/>
+      <point x="339" y="332" type="curve" smooth="yes"/>
+      <point x="285" y="353"/>
+      <point x="239" y="369"/>
+      <point x="239" y="399" type="curve" smooth="yes"/>
+      <point x="239" y="427"/>
+      <point x="262" y="444"/>
+      <point x="302" y="444" type="curve" smooth="yes"/>
+      <point x="328" y="444"/>
+      <point x="349" y="438"/>
+      <point x="364" y="428" type="curve"/>
+      <point x="353" y="366" type="line"/>
+      <point x="489" y="366" type="line"/>
+      <point x="505" y="459" type="line"/>
+      <point x="475" y="490"/>
+      <point x="402" y="518"/>
+      <point x="302" y="518" type="curve" smooth="yes"/>
+      <point x="156" y="518"/>
+      <point x="61" y="463"/>
+      <point x="61" y="348" type="curve" smooth="yes"/>
+      <point x="61" y="249"/>
+      <point x="142" y="213"/>
+      <point x="211" y="187" type="curve" smooth="yes"/>
+      <point x="263" y="167"/>
+      <point x="310" y="152"/>
+      <point x="310" y="119" type="curve" smooth="yes"/>
+      <point x="310" y="85"/>
+      <point x="283" y="65"/>
+      <point x="238" y="65" type="curve" smooth="yes"/>
+      <point x="200" y="65"/>
+      <point x="170" y="74"/>
+      <point x="147" y="88" type="curve"/>
+      <point x="161" y="161" type="line"/>
+      <point x="23" y="161" type="line"/>
+      <point x="3" y="59" type="line"/>
+      <point x="46" y="24"/>
+      <point x="131" y="-11"/>
+      <point x="245" y="-11" type="curve" smooth="yes"/>
+      <point x="405" y="-11"/>
+      <point x="489" y="56"/>
+    </contour>
+    <contour>
+      <point x="247" y="546" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="247" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>518</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>488</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-11</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>19</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>80.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>center</string>
+          <key>x</key>
+          <integer>236</integer>
+          <key>y</key>
+          <integer>365</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

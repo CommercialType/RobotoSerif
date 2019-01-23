@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="liraTurkish.proportional" format="1">
+  <advance width="648"/>
+  <outline>
+    <contour>
+      <point x="36" y="400" type="line"/>
+      <point x="36" y="322" type="line"/>
+      <point x="443" y="503" type="line"/>
+      <point x="443" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="244" type="line"/>
+      <point x="36" y="167" type="line"/>
+      <point x="443" y="347" type="line"/>
+      <point x="443" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="80" type="curve" smooth="yes"/>
+      <point x="284" y="80" type="line"/>
+      <point x="284" y="605" type="line" smooth="yes"/>
+      <point x="284" y="634"/>
+      <point x="309" y="641"/>
+      <point x="344" y="641" type="curve" smooth="yes"/>
+      <point x="358" y="641" type="line"/>
+      <point x="358" y="710" type="line"/>
+      <point x="36" y="710" type="line"/>
+      <point x="36" y="641" type="line"/>
+      <point x="46" y="641" type="line" smooth="yes"/>
+      <point x="80" y="641"/>
+      <point x="104" y="634"/>
+      <point x="104" y="605" type="curve" smooth="yes"/>
+      <point x="104" y="105" type="line" smooth="yes"/>
+      <point x="104" y="76"/>
+      <point x="80" y="69"/>
+      <point x="46" y="69" type="curve" smooth="yes"/>
+      <point x="36" y="69" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="303" y="0" type="line" smooth="yes"/>
+      <point x="522" y="0"/>
+      <point x="608" y="106"/>
+      <point x="623" y="276" type="curve"/>
+      <point x="501" y="308" type="line"/>
+      <point x="492" y="192"/>
+      <point x="453" y="80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

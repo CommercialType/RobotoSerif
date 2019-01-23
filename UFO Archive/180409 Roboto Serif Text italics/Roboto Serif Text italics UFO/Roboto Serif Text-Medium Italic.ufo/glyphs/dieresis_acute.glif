@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis_acute" format="1">
+  <advance width="589"/>
+  <outline>
+    <contour>
+      <point x="359" y="889" type="curve" smooth="yes"/>
+      <point x="307" y="782" type="line"/>
+      <point x="304" y="758" type="line"/>
+      <point x="345" y="758" type="line"/>
+      <point x="439" y="830" type="line" smooth="yes"/>
+      <point x="478" y="856"/>
+      <point x="500" y="877"/>
+      <point x="500" y="910" type="curve" smooth="yes"/>
+      <point x="500" y="939"/>
+      <point x="477" y="962"/>
+      <point x="442" y="962" type="curve" smooth="yes"/>
+      <point x="404" y="962"/>
+      <point x="384" y="939"/>
+    </contour>
+    <contour>
+      <point x="220" y="596" type="curve" smooth="yes"/>
+      <point x="268" y="596"/>
+      <point x="300" y="625"/>
+      <point x="300" y="671" type="curve" smooth="yes"/>
+      <point x="300" y="714"/>
+      <point x="269" y="740"/>
+      <point x="223" y="740" type="curve" smooth="yes"/>
+      <point x="175" y="740"/>
+      <point x="144" y="712"/>
+      <point x="144" y="667" type="curve" smooth="yes"/>
+      <point x="144" y="623"/>
+      <point x="174" y="596"/>
+    </contour>
+    <contour>
+      <point x="450" y="596" type="curve" smooth="yes"/>
+      <point x="498" y="596"/>
+      <point x="529" y="625"/>
+      <point x="529" y="671" type="curve" smooth="yes"/>
+      <point x="529" y="714"/>
+      <point x="499" y="740"/>
+      <point x="453" y="740" type="curve" smooth="yes"/>
+      <point x="405" y="740"/>
+      <point x="374" y="712"/>
+      <point x="374" y="667" type="curve" smooth="yes"/>
+      <point x="374" y="623"/>
+      <point x="404" y="596"/>
+    </contour>
+    <contour>
+      <point x="293" y="526" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
