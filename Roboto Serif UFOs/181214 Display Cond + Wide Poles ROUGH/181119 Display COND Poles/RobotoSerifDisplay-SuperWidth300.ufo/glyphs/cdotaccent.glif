@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="2">
+  <advance width="450"/>
+  <unicode hex="010B"/>
+  <outline>
+    <component base="c" xOffset="-55.545"/>
+    <component base="dotaccent" xOffset="3.7549999999999955"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

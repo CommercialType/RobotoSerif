@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecedillabreve" format="2">
+  <advance width="546"/>
+  <unicode hex="1E1C"/>
+  <outline>
+    <component base="E" xOffset="-40.42"/>
+    <component base="breve.uc" xOffset="36.980000000000004"/>
+    <component base="cedilla" xOffset="39.18000000000001" yOffset="-3.44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

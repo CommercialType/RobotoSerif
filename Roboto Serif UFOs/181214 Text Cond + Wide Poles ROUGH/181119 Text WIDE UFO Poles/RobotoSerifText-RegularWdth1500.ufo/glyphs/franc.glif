@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+  <advance width="658.0"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="225.24" y="403.0" type="line"/>
+      <point x="225.24" y="349.75" type="line"/>
+      <point x="519.2" y="341.45" type="line"/>
+      <point x="519.2" y="411.3" type="line"/>
+    </contour>
+    <contour>
+      <point x="258.4" y="651.25" type="line"/>
+      <point x="401.02" y="651.25" type="line" smooth="yes"/>
+      <point x="502.02" y="651.25"/>
+      <point x="543.52" y="644.25"/>
+      <point x="548.02" y="608.25" type="curve" smooth="yes"/>
+      <point x="558.52" y="524.3" type="line"/>
+      <point x="619.6800000000001" y="524.3" type="line"/>
+      <point x="619.6800000000001" y="710.0" type="line"/>
+      <point x="46.4" y="710.0" type="line"/>
+      <point x="46.4" y="661.25" type="line"/>
+      <point x="59.4" y="661.25" type="line" smooth="yes"/>
+      <point x="116.89999999999999" y="661.25"/>
+      <point x="159.32" y="654.25"/>
+      <point x="159.32" y="625.25" type="curve" smooth="yes"/>
+      <point x="159.32" y="84.75" type="line" smooth="yes"/>
+      <point x="159.32" y="55.75"/>
+      <point x="116.89999999999999" y="48.75"/>
+      <point x="59.4" y="48.75" type="curve" smooth="yes"/>
+      <point x="46.4" y="48.75" type="line"/>
+      <point x="46.4" y="0.0" type="line"/>
+      <point x="389.98" y="0.0" type="line"/>
+      <point x="389.98" y="48.75" type="line"/>
+      <point x="369.98" y="48.75" type="line" smooth="yes"/>
+      <point x="319.48" y="48.75"/>
+      <point x="258.4" y="49.75"/>
+      <point x="258.4" y="84.75" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="46.4" y="231.35" type="line"/>
+      <point x="46.4" y="177.75" type="line"/>
+      <point x="412.08000000000004" y="177.75" type="line"/>
+      <point x="412.08000000000004" y="231.35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

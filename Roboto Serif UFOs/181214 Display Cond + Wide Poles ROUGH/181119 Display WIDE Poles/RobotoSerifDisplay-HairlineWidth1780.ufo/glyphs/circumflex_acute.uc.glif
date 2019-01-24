@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_acute.uc" format="2">
+  <advance width="635"/>
+  <anchor x="305" y="749.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="523" y="924" type="curve" smooth="yes"/>
+      <point x="468" y="848" type="line"/>
+      <point x="468" y="834" type="line"/>
+      <point x="485" y="834" type="line"/>
+      <point x="570" y="904" type="line" smooth="yes"/>
+      <point x="592" y="925"/>
+      <point x="605" y="937"/>
+      <point x="605" y="952" type="curve" smooth="yes"/>
+      <point x="605" y="965"/>
+      <point x="593" y="974"/>
+      <point x="578" y="974" type="curve" smooth="yes"/>
+      <point x="558" y="974"/>
+      <point x="550" y="959"/>
+    </contour>
+    <component base="circumflex.uc" xOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.O50xddoJgI</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="675.6800000000001"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <component base="w" xOffset="-95.13"/>
+    <component base="dieresis" xOffset="167.37" yOffset="0.6000000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>
