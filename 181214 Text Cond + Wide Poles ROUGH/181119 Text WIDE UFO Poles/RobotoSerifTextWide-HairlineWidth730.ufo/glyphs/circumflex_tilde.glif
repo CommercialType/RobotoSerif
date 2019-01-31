@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_tilde" format="2">
+  <advance width="580.5"/>
+  <anchor x="278.0604" y="551.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="346.3956" y="778.448" type="curve" smooth="yes"/>
+      <point x="397.762" y="778.448"/>
+      <point x="419.17318400237923" y="814.702455419208"/>
+      <point x="437.3776" y="877.046" type="curve"/>
+      <point x="407.3904" y="886.414" type="line"/>
+      <point x="392.9248" y="842.69"/>
+      <point x="380.7932" y="812.92"/>
+      <point x="353.0672" y="812.92" type="curve" smooth="yes"/>
+      <point x="307.71000000000004" y="812.92"/>
+      <point x="291.3972" y="889.138"/>
+      <point x="221.9856" y="889.138" type="curve" smooth="yes"/>
+      <point x="175.99" y="889.138"/>
+      <point x="147.8690756302264" y="854.91901213826"/>
+      <point x="135.46359999999999" y="788.586" type="curve"/>
+      <point x="165.9108" y="778.31" type="line"/>
+      <point x="176.3736" y="827.896"/>
+      <point x="186.33960000000002" y="854.712"/>
+      <point x="217.31400000000002" y="854.712" type="curve" smooth="yes"/>
+      <point x="262.2508" y="854.712"/>
+      <point x="277.64639999999997" y="778.448"/>
+    </contour>
+    <contour>
+      <point x="327.9604" y="728.678" type="line"/>
+      <point x="441.984" y="605.804" type="line"/>
+      <point x="441.984" y="595.804" type="line"/>
+      <point x="416.1624" y="595.804" type="line"/>
+      <point x="260.2636" y="713.838" type="line"/>
+      <point x="312.73040000000003" y="713.838" type="line"/>
+      <point x="158.9972" y="595.804" type="line"/>
+      <point x="140.14159999999998" y="595.804" type="line"/>
+      <point x="140.14159999999998" y="605.804" type="line"/>
+      <point x="251.45680000000002" y="728.678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

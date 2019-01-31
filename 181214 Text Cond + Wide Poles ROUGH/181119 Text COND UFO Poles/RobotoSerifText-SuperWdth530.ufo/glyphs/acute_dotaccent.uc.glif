@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute_dotaccent.uc" format="2">
+  <advance width="469.504"/>
+  <anchor x="192.93" y="677.0" name="_top"/>
+  <outline>
+    <component base="acute.uc" xOffset="-38.35399999999999"/>
+    <component base="dotaccent.uc" xOffset="-14.354" yOffset="221.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

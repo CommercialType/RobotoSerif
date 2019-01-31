@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+  <advance width="575"/>
+  <unicode hex="0075"/>
+  <anchor x="242" y="551.0" name="top"/>
+  <anchor x="378" y="0.0" name="right"/>
+  <anchor x="240" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="257" y="513" type="line"/>
+      <point x="7" y="513" type="line"/>
+      <point x="7" y="438" type="line"/>
+      <point x="12" y="436" type="line" smooth="yes"/>
+      <point x="23" y="430"/>
+      <point x="27" y="425"/>
+      <point x="27" y="407" type="curve" smooth="yes"/>
+      <point x="27" y="168" type="line" smooth="yes"/>
+      <point x="27" y="52"/>
+      <point x="85" y="-10"/>
+      <point x="176" y="-10" type="curve" smooth="yes"/>
+      <point x="249" y="-10"/>
+      <point x="312" y="32"/>
+      <point x="337" y="116" type="curve"/>
+      <point x="337" y="228" type="line"/>
+      <point x="315" y="138"/>
+      <point x="297" y="106"/>
+      <point x="277" y="106" type="curve" smooth="yes"/>
+      <point x="263" y="106"/>
+      <point x="257" y="126"/>
+      <point x="257" y="166" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="547" y="513" type="line"/>
+      <point x="283" y="513" type="line"/>
+      <point x="283" y="438" type="line"/>
+      <point x="289" y="436" type="line" smooth="yes"/>
+      <point x="301" y="431"/>
+      <point x="317" y="425"/>
+      <point x="317" y="407" type="curve" smooth="yes"/>
+      <point x="317" y="108" type="line"/>
+      <point x="329" y="119" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="75" type="line"/>
+      <point x="561" y="77" type="line" smooth="yes"/>
+      <point x="549" y="82"/>
+      <point x="547" y="86"/>
+      <point x="547" y="104" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.SI9v1JHh2e</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dPbFz1sjeU</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

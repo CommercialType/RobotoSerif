@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <advance width="403.2"/>
+  <unicode hex="02DA"/>
+  <anchor x="201.6" y="526.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="151.946" y="677.49" type="curve" smooth="yes"/>
+      <point x="151.946" y="720.56"/>
+      <point x="174.142" y="742.63"/>
+      <point x="201.6" y="742.63" type="curve" smooth="yes"/>
+      <point x="229.608" y="742.63"/>
+      <point x="251.804" y="720.56"/>
+      <point x="251.804" y="677.49" type="curve" smooth="yes"/>
+      <point x="251.804" y="634.42"/>
+      <point x="229.608" y="612.35"/>
+      <point x="201.6" y="612.35" type="curve" smooth="yes"/>
+      <point x="174.142" y="612.35"/>
+      <point x="151.946" y="634.42"/>
+    </contour>
+    <contour>
+      <point x="285.078" y="677.49" type="curve" smooth="yes"/>
+      <point x="285.078" y="735.21"/>
+      <point x="248.006" y="768.0"/>
+      <point x="201.6" y="768.0" type="curve" smooth="yes"/>
+      <point x="155.744" y="768.0"/>
+      <point x="118.672" y="735.21"/>
+      <point x="118.672" y="677.49" type="curve" smooth="yes"/>
+      <point x="118.672" y="619.77"/>
+      <point x="156.584" y="586.98"/>
+      <point x="201.6" y="586.98" type="curve" smooth="yes"/>
+      <point x="247.166" y="586.98"/>
+      <point x="285.078" y="619.77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="421.5"/>
+  <unicode hex="02DB"/>
+  <anchor x="249.75" y="9.0" name="_right"/>
+  <outline>
+    <contour>
+      <point x="272.96" y="28.75" type="line"/>
+      <point x="193.56" y="-26.799999999999997"/>
+      <point x="137.015" y="-78.44933333333333"/>
+      <point x="137.015" y="-144.7" type="curve" smooth="yes"/>
+      <point x="137.015" y="-202.35"/>
+      <point x="169.855" y="-236.5"/>
+      <point x="216.7575" y="-236.5" type="curve" smooth="yes"/>
+      <point x="256.705" y="-236.5"/>
+      <point x="277.3125" y="-216.85"/>
+      <point x="296.6525" y="-188.8" type="curve"/>
+      <point x="281.505" y="-168.15" type="line"/>
+      <point x="270.4452912359691" y="-184.7084249817897"/>
+      <point x="257.5447619047619" y="-199.0"/>
+      <point x="240.0225" y="-199.0" type="curve" smooth="yes"/>
+      <point x="219.28765957446808" y="-199.0"/>
+      <point x="206.7625" y="-177.45"/>
+      <point x="206.7625" y="-136.2" type="curve" smooth="yes"/>
+      <point x="206.7625" y="-90.802161016949"/>
+      <point x="223.2498342505225" y="-42.102696723655"/>
+      <point x="286.0625" y="15.95" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdieresis" format="2">
+  <advance width="329"/>
+  <unicode hex="1E97"/>
+  <outline>
+    <component base="t" xOffset="-52.74"/>
+    <component base="dieresis" xOffset="-91.63999999999999" yOffset="121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

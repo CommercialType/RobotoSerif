@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="342.5"/>
+  <anchor x="163.808" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="132.03" y="859.74" type="curve" smooth="yes"/>
+      <point x="111.7" y="774.44" type="line"/>
+      <point x="111.7" y="758.0" type="line"/>
+      <point x="123.542" y="758.0" type="line"/>
+      <point x="164.476" y="835.54" type="line" smooth="yes"/>
+      <point x="174.648" y="851.8"/>
+      <point x="182.972" y="868.36"/>
+      <point x="182.972" y="883.9" type="curve" smooth="yes"/>
+      <point x="182.972" y="901.16"/>
+      <point x="174.19577777777778" y="911.14"/>
+      <point x="162.3" y="911.14" type="curve" smooth="yes"/>
+      <point x="147.906" y="911.14"/>
+      <point x="140.99" y="896.14"/>
+    </contour>
+    <contour>
+      <point x="215.948" y="859.74" type="curve" smooth="yes"/>
+      <point x="194.916" y="774.44" type="line"/>
+      <point x="194.916" y="758.0" type="line"/>
+      <point x="206.758" y="758.0" type="line"/>
+      <point x="247.494" y="835.54" type="line" smooth="yes"/>
+      <point x="257.666" y="851.8"/>
+      <point x="265.99" y="868.36"/>
+      <point x="265.99" y="883.9" type="curve" smooth="yes"/>
+      <point x="265.99" y="901.16"/>
+      <point x="257.4117777777778" y="911.14"/>
+      <point x="246.218" y="911.14" type="curve" smooth="yes"/>
+      <point x="231.824" y="911.14"/>
+      <point x="224.20600000000002" y="896.14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

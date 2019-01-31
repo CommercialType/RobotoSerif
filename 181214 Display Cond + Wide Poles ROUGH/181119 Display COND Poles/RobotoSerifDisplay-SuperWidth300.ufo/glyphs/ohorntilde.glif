@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorntilde" format="2">
+  <advance width="526.565"/>
+  <unicode hex="1EE1"/>
+  <outline>
+    <component base="ohorn" xOffset="-63.525"/>
+    <component base="tilde" xOffset="-10.775000000000006" yOffset="0.6000000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

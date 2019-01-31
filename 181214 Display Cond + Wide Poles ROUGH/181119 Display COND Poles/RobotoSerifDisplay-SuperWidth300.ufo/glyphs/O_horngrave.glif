@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorngrave" format="2">
+  <advance width="630.575"/>
+  <unicode hex="1EDC"/>
+  <outline>
+    <component base="Ohorn" xOffset="-69.23"/>
+    <component base="grave.uc" xOffset="131.51999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

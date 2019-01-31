@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="288.718"/>
+  <unicode hex="020B"/>
+  <outline>
+    <component base="dotlessi" xOffset="-27.73"/>
+    <component base="breveinverted" xOffset="-107.93" yOffset="0.42000000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

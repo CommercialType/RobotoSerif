@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccaron" format="2">
+  <advance width="450"/>
+  <unicode hex="010D"/>
+  <outline>
+    <component base="c" xOffset="-66.14999999999999"/>
+    <component base="caron" xOffset="18.050000000000004" yOffset="0.6000000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

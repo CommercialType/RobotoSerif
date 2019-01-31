@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_acute.uc" format="2">
+  <advance width="542"/>
+  <anchor x="245" y="744" name="_top"/>
+  <outline>
+    <component base="breve.uc"/>
+    <component base="acute.uc" yOffset="50"/>
+    <component base="breve.uc"/>
+    <component base="acute.uc" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2149,0.2149,0.2149,1</string>
+    </dict>
+  </lib>
+</glyph>

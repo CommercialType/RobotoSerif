@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="384.7"/>
+  <anchor x="184.8" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="287.52" y="940.0" type="line"/>
+      <point x="290.97179725594134" y="982.4272500028466"/>
+      <point x="317.8867142857143" y="1023.6"/>
+      <point x="395.76" y="1023.6" type="curve" smooth="yes"/>
+      <point x="463.2084285714285" y="1023.6"/>
+      <point x="498.815" y="994.2"/>
+      <point x="498.815" y="946.2" type="curve" smooth="yes"/>
+      <point x="498.815" y="891.0"/>
+      <point x="462.6430433468315" y="869.2049689580073"/>
+      <point x="405.765" y="863.4" type="curve"/>
+      <point x="428.26" y="889.6" type="line"/>
+      <point x="428.26" y="839.4" type="line"/>
+      <point x="350.61" y="839.4" type="line"/>
+      <point x="350.61" y="897.4" type="line"/>
+      <point x="390.3881022532482" y="900.4099348915407"/>
+      <point x="405.685" y="914.6"/>
+      <point x="405.685" y="940.8" type="curve"/>
+      <point x="405.685" y="958.4"/>
+      <point x="401.385" y="968.8"/>
+      <point x="388.365" y="968.8" type="curve" smooth="yes"/>
+      <point x="377.75" y="968.8"/>
+      <point x="370.24" y="958.0"/>
+      <point x="367.895" y="940.0" type="curve"/>
+    </contour>
+    <component base="circumflex.uc" xOffset="-86.275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
