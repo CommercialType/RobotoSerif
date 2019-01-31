@@ -21,8 +21,8 @@ languagesystem latn dflt;
 @PROPOLD_OFF = [zero one two three four five six seven eight nine];
 @PROPOLD_ON = [zero.oldprop one.oldprop two.oldprop three.oldprop four.oldprop five.oldprop six.oldprop seven.oldprop eight.oldprop nine.oldprop];
 
-@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani uni20B4 cedi uni20B8 manat colonsign florin liraTurkish naira rupeeIndian won];
-@PROP_CRRNCY_ON = [dollar.proportional cent.proportional sterling.proportional yen.proportional lira.proportional peseta.proportional dong.proportional Euro.proportional kip.proportional peso.proportional guarani.proportional uni20B4.proportional cedi.proportional uni20B8.proportional manat.proportional colonsign.proportional florin.proportional liraTurkish.proportional naira.proportional rupeeIndian.proportional won.proportional];
+@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani uni20B4 cedi uni20B8 manat colonmonetary florin liraTurkish naira rupeeIndian won];
+@PROP_CRRNCY_ON = [dollar.proportional cent.proportional sterling.proportional yen.proportional lira.proportional peseta.proportional dong.proportional Euro.proportional kip.proportional peso.proportional guarani.proportional uni20B4.proportional cedi.proportional uni20B8.proportional manat.proportional colonmonetary.proportional florin.proportional liraTurkish.proportional naira.proportional rupeeIndian.proportional won.proportional];
 
 feature ss01 {
 	sub @EF_ALT_OFF by @EF_ALT_ON;
