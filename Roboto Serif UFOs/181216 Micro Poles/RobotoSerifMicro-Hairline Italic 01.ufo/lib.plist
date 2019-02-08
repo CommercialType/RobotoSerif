@@ -25,7 +25,11 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.ZjR4oXh6v7</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.cLq102cj4K</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.ZjR4oXh6v7</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.cLq102cj4K</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -37,14 +41,17 @@
     <array>
       <string>space</string>
       <string>A</string>
+      <string>Aogonek</string>
       <string>B</string>
       <string>C</string>
       <string>D</string>
       <string>E</string>
+      <string>Eogonek</string>
       <string>F</string>
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>Iogonek</string>
       <string>J</string>
       <string>K</string>
       <string>L</string>
@@ -57,20 +64,29 @@
       <string>S</string>
       <string>T</string>
       <string>U</string>
+      <string>Uogonek</string>
       <string>V</string>
       <string>W</string>
       <string>X</string>
       <string>Y</string>
       <string>Z</string>
+      <string>AE</string>
+      <string>Oslash</string>
+      <string>Thorn</string>
+      <string>Eng</string>
+      <string>OE</string>
       <string>a</string>
+      <string>aogonek</string>
       <string>b</string>
       <string>c</string>
       <string>d</string>
       <string>e</string>
+      <string>eogonek</string>
       <string>f</string>
       <string>g</string>
       <string>h</string>
       <string>i</string>
+      <string>iogonek</string>
       <string>j</string>
       <string>k</string>
       <string>l</string>
@@ -83,11 +99,20 @@
       <string>s</string>
       <string>t</string>
       <string>u</string>
+      <string>uogonek</string>
       <string>v</string>
       <string>w</string>
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>germandbls</string>
+      <string>ae</string>
+      <string>eth</string>
+      <string>oslash</string>
+      <string>thorn</string>
+      <string>ij</string>
+      <string>eng</string>
+      <string>oe</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -121,19 +146,6 @@
       <string>minus</string>
       <string>equal</string>
       <string>dollar</string>
-      <string>E.alt</string>
-      <string>F.alt</string>
-      <string>f.alt</string>
-      <string>zero.copy_1</string>
-      <string>one.copy_1</string>
-      <string>two.copy_1</string>
-      <string>three.copy_1</string>
-      <string>four.copy_1</string>
-      <string>five.copy_1</string>
-      <string>six.copy_1</string>
-      <string>seven.copy_1</string>
-      <string>eight.copy_1</string>
-      <string>nine.copy_1</string>
       <string>zero.prop</string>
       <string>one.prop</string>
       <string>two.prop</string>
@@ -144,8 +156,21 @@
       <string>seven.prop</string>
       <string>eight.prop</string>
       <string>nine.prop</string>
+      <string>E.alt</string>
+      <string>F.alt</string>
+      <string>f.alt</string>
       <string>g.alt</string>
       <string>g.copy_1</string>
+      <string>zero.copy_1</string>
+      <string>one.copy_1</string>
+      <string>two.copy_1</string>
+      <string>three.copy_1</string>
+      <string>four.copy_1</string>
+      <string>five.copy_1</string>
+      <string>six.copy_1</string>
+      <string>seven.copy_1</string>
+      <string>eight.copy_1</string>
+      <string>nine.copy_1</string>
     </array>
   </dict>
 </plist>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedillaacute" format="2">
+  <advance width="794"/>
+  <unicode hex="1E08"/>
+  <outline>
+    <component base="C"/>
+    <component base="acute.uc" xOffset="122.5" yOffset="-52"/>
+    <component base="cedilla" xOffset="147" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.2149,0.2149,0.2149,1</string>
+    </dict>
+  </lib>
+</glyph>
