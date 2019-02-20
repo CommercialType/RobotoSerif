@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numero" format="2">
-  <advance width="1370"/>
+  <advance width="1328"/>
   <unicode hex="2116"/>
-  <guideline x="760" y="486" angle="90.0"/>
-  <guideline x="1183" y="468" angle="90.0"/>
+  <guideline x="760" y="486" angle="90.0" identifier="Zzw3Kwkuip"/>
+  <guideline x="1183" y="468" angle="90.0" identifier="RPJ3u0mvJi"/>
+  <guideline x="884" y="490" angle="90" identifier="k5mDukvYgy"/>
+  <guideline x="1274" y="501" angle="90" identifier="x7VUJUJwXh"/>
   <outline>
     <contour>
-      <point x="880" y="144" type="line"/>
-      <point x="1300" y="144" type="line"/>
-      <point x="1300" y="219" type="line"/>
-      <point x="880" y="219" type="line"/>
+      <point x="894" y="147" type="line"/>
+      <point x="1264" y="147" type="line"/>
+      <point x="1264" y="192" type="line"/>
+      <point x="894" y="192" type="line"/>
     </contour>
     <component base="N"/>
     <component base="ordmasculine" xOffset="814"/>
@@ -17,7 +19,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.3901,0.3797,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

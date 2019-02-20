@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="backslash.uc" format="2">
-  <advance width="565"/>
+  <advance width="548"/>
   <guideline x="496" y="760" angle="0" identifier="UPAfWP31l4"/>
   <guideline x="296" y="-60" angle="0" identifier="9tMawnhkHR"/>
   <outline>
-    <component base="slash.uc" xScale="-1" xOffset="610"/>
+    <contour>
+      <point x="0" y="760" type="line"/>
+      <point x="462" y="-60" type="line"/>
+      <point x="518" y="-60" type="line"/>
+      <point x="56" y="760" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
