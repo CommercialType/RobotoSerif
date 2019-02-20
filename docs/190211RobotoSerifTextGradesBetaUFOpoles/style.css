@@ -77,7 +77,6 @@ body {
 	padding: 40px;
   display: grid;
   grid-template-columns: auto auto auto;
-/*   grid-column-gap: 10px; */
   grid-gap: 10px;
 	justify-items: start;
   align-items: stretch;
@@ -94,10 +93,9 @@ body {
 .container_static_grades {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  grid-column-gap: 10px;
   grid-gap: 10px;
 	justify-items: start;
-  align-items: start;
+  align-items: stretch;
 }
 
 .static_grades_text {
