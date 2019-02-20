@@ -4,18 +4,24 @@
   <dict>
     <key>A</key>
     <string>A_.glif</string>
+    <key>AE.alt</key>
+    <string>A_E_.alt.glif</string>
     <key>B</key>
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E.alt</key>
+    <string>E_.alt.glif</string>
     <key>Euro</key>
     <string>E_uro.glif</string>
     <key>Euro.proportional</key>
     <string>E_uro.proportional.glif</string>
     <key>F</key>
     <string>F_.glif</string>
+    <key>F.alt</key>
+    <string>F_.alt.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>Germandbls</key>
@@ -32,6 +38,10 @@
     <string>L_.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>OE.alt</key>
+    <string>O_E_.alt.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Pcircle</key>
@@ -84,6 +94,8 @@
     <string>c.glif</string>
     <key>cedi</key>
     <string>cedi.glif</string>
+    <key>cedi.proportional</key>
+    <string>cedi.proportional.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
     <key>cent.alt</key>
@@ -92,12 +104,18 @@
     <string>cent.altprop.glif</string>
     <key>cent.proportional</key>
     <string>cent.proportional.glif</string>
+    <key>colonmonetary.proportional</key>
+    <string>colonmonetary.proportional.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
     <key>currency.proportional</key>
     <string>currency.proportional.glif</string>
+    <key>dagger</key>
+    <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
     <key>dollar.alt</key>
@@ -132,12 +150,56 @@
     <string>endash.uc.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
+    <key>estimated</key>
+    <string>estimated.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>f.alt</key>
+    <string>f.alt.glif</string>
     <key>f.short</key>
     <string>f.short.glif</string>
+    <key>f_b</key>
+    <string>f_b.glif</string>
+    <key>f_f</key>
+    <string>f_f.glif</string>
+    <key>f_f.alt</key>
+    <string>f_f.alt.glif</string>
     <key>f_f.short</key>
     <string>f_f.short.glif</string>
+    <key>f_f_b</key>
+    <string>f_f_b.glif</string>
+    <key>f_f_b.alt</key>
+    <string>f_f_b.alt.glif</string>
+    <key>f_f_h</key>
+    <string>f_f_h.glif</string>
+    <key>f_f_h.alt</key>
+    <string>f_f_h.alt.glif</string>
+    <key>f_f_i</key>
+    <string>f_f_i.glif</string>
+    <key>f_f_i.alt</key>
+    <string>f_f_i.alt.glif</string>
+    <key>f_f_j</key>
+    <string>f_f_j.glif</string>
+    <key>f_f_j.alt</key>
+    <string>f_f_j.alt.glif</string>
+    <key>f_f_k</key>
+    <string>f_f_k.glif</string>
+    <key>f_f_k.alt</key>
+    <string>f_f_k.alt.glif</string>
+    <key>f_f_l</key>
+    <string>f_f_l.glif</string>
+    <key>f_h</key>
+    <string>f_h.glif</string>
+    <key>f_j</key>
+    <string>f_j.glif</string>
+    <key>f_j.alt</key>
+    <string>f_j.alt.glif</string>
+    <key>f_k</key>
+    <string>f_k.glif</string>
+    <key>fi</key>
+    <string>fi.glif</string>
+    <key>fi.alt</key>
+    <string>fi.alt.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>five.lin</key>
@@ -150,6 +212,8 @@
     <string>five.oldprop.glif</string>
     <key>five.prop</key>
     <string>five.prop.glif</string>
+    <key>fl</key>
+    <string>fl.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>florin.proportional</key>
@@ -170,10 +234,14 @@
     <string>franc.glif</string>
     <key>franc.proportional</key>
     <string>franc.proportional.glif</string>
+    <key>g.alt</key>
+    <string>g.alt.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>guarani</key>
     <string>guarani.glif</string>
+    <key>guarani.proportional</key>
+    <string>guarani.proportional.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
     <key>h</key>
@@ -248,6 +316,10 @@
     <string>one.oldprop.glif</string>
     <key>one.prop</key>
     <string>one.prop.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>paragraph</key>
@@ -266,8 +338,12 @@
     <string>perthousand.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
+    <key>peseta.proportional</key>
+    <string>peseta.proportional.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
+    <key>pi</key>
+    <string>pi.glif</string>
     <key>product</key>
     <string>product.glif</string>
     <key>q</key>
@@ -284,6 +360,8 @@
     <string>registered.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
+    <key>ruble.proportional</key>
+    <string>ruble.proportional.glif</string>
     <key>rupeeIndian</key>
     <string>rupeeI_ndian.glif</string>
     <key>rupeeIndian.proportional</key>
@@ -314,6 +392,8 @@
     <string>six.prop.glif</string>
     <key>slash.uc</key>
     <string>slash.uc.glif</string>
+    <key>soundcopyright</key>
+    <string>soundcopyright.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
     <key>sterling.alt</key>
@@ -338,6 +418,8 @@
     <string>three.oldprop.glif</string>
     <key>three.prop</key>
     <string>three.prop.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.lin</key>
@@ -354,6 +436,8 @@
     <string>u.glif</string>
     <key>uni20B4</key>
     <string>uni20B_4.glif</string>
+    <key>uni20B4.proportional</key>
+    <string>uni20B_4.proportional.glif</string>
     <key>uni20B8</key>
     <string>uni20B_8.glif</string>
     <key>uni20B8.proportional</key>
