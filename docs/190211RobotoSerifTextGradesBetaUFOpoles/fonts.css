@@ -8,6 +8,7 @@
 	font-style: normal;
 	}
 
+/* 
 @font-face {
 	font-family: "RobotoSerifText10Grades";
 	src: url("RobotoSerifTextGradesWeight10Grades190211-VF.woff2") format("woff2"),
@@ -15,6 +16,18 @@
 	font-weight: 400;
 	font-style: normal;
 	}
+ */
+
+
+@font-face {
+	font-family: "RobotoSerifText10Grades";
+	src: url("RobotoSerifTextGrades10-VF.woff2") format("woff2"),
+		     url("RobotoSerifTextGrades10-VF.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+
 
 
 
