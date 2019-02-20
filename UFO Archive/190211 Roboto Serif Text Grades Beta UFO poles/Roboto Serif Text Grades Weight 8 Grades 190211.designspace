@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="300" maximum="1000" minimum="0" name="weight" tag="wght" />
+        <axis default="4" maximum="8" minimum="1" name="grade" tag="grad" />
+    </axes>
+    <sources>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Super 16kg.ufo" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="4" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Regular 30Kg.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="4" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Hairline 18K.ufo" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="4" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Super G4 04k.ufo" stylename="Super G4">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="8" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Super G1 03k.ufo" stylename="Super G1">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Regular G4 21Kg.ufo" stylename="Regular G4">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="8" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Regular G1 21Kg.ufo" stylename="Regular G1">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Hairline G4 03k.ufo" stylename="Hairline G4">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="8" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="Roboto Serif Text Hairline G1 03k.ufo" stylename="Hairline G1">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG1.ufo" postscriptfontname="RobotoSerifText-HairlineG1" stylename="Hairline G1">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG2.ufo" postscriptfontname="RobotoSerifText-HairlineG2" stylename="Hairline G2">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="2" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG3.ufo" postscriptfontname="RobotoSerifText-HairlineG3" stylename="Hairline G3">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="3" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG5.ufo" postscriptfontname="RobotoSerifText-HairlineG5" stylename="Hairline G5">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="5" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG6.ufo" postscriptfontname="RobotoSerifText-HairlineG6" stylename="Hairline G6">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-HairlineG7.ufo" postscriptfontname="RobotoSerifText-HairlineG7" stylename="Hairline G7">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="grade" xvalue="7" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG1.ufo" postscriptfontname="RobotoSerifText-RegularG1" stylename="Regular G1">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG2.ufo" postscriptfontname="RobotoSerifText-RegularG2" stylename="Regular G2">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="2" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG3.ufo" postscriptfontname="RobotoSerifText-RegularG3" stylename="Regular G3">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="3" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG5.ufo" postscriptfontname="RobotoSerifText-RegularG5" stylename="Regular G5">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="5" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG6.ufo" postscriptfontname="RobotoSerifText-RegularG6" stylename="Regular G6">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularG7.ufo" postscriptfontname="RobotoSerifText-RegularG7" stylename="Regular G7">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="grade" xvalue="7" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG1.ufo" postscriptfontname="RobotoSerifText-SuperG1" stylename="Super G1">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG2.ufo" postscriptfontname="RobotoSerifText-SuperG2" stylename="Super G2">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="2" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG3.ufo" postscriptfontname="RobotoSerifText-SuperG3" stylename="Super G3">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="3" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG5.ufo" postscriptfontname="RobotoSerifText-SuperG5" stylename="Super G5">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="5" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG6.ufo" postscriptfontname="RobotoSerifText-SuperG6" stylename="Super G6">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperG7.ufo" postscriptfontname="RobotoSerifText-SuperG7" stylename="Super G7">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="grade" xvalue="7" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
