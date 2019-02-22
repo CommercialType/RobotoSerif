@@ -1,0 +1,131 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2016 Schwartzco Inc.
+	
+*/
+
+
+.GSerifDisplay-Regular-Web {
+    font-family: "G Serif Display";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GSerifDisplay-RegularItalic-Web {
+    font-family: "G Serif Display";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GSerifMicro-Regular-Web {
+    font-family: "G Serif Micro";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GSerifMicro-RegularItalic-Web {
+    font-family: "G Serif Micro";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GSerifText-Regular-Web {
+    font-family: "G Serif Text Regular";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GSerifText-RegularItalic01-Web {
+    font-family: "G Serif Text Regular Italic 01";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GSerifText-RegularItalic02-Web {
+    font-family: "G Serif Text Regular Italic 02";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+	font-family: "G Serif Display";
+	src: url("GSerifDisplay-Regular-Web.eot");
+		src: url("GSerifDisplay-Regular-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifDisplay-Regular-Web.woff2") format("woff2"),
+		     url("GSerifDisplay-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "G Serif Display";
+	src: url("GSerifDisplay-RegularItalic-Web.eot");
+		src: url("GSerifDisplay-RegularItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifDisplay-RegularItalic-Web.woff2") format("woff2"),
+		     url("GSerifDisplay-RegularItalic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "G Serif Micro";
+	src: url("GSerifMicro-Regular-Web.eot");
+		src: url("GSerifMicro-Regular-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifMicro-Regular-Web.woff2") format("woff2"),
+		     url("GSerifMicro-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "G Serif Micro";
+	src: url("GSerifMicro-RegularItalic-Web.eot");
+		src: url("GSerifMicro-RegularItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifMicro-RegularItalic-Web.woff2") format("woff2"),
+		     url("GSerifMicro-RegularItalic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "G Serif Text Regular";
+	src: url("GSerifText-Regular-Web.eot");
+		src: url("GSerifText-Regular-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifText-Regular-Web.woff2") format("woff2"),
+		     url("GSerifText-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "G Serif Text Regular Italic 01";
+	src: url("GSerifText-RegularItalic01-Web.eot");
+		src: url("GSerifText-RegularItalic01-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifText-RegularItalic01-Web.woff2") format("woff2"),
+		     url("GSerifText-RegularItalic01-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "G Serif Text Regular Italic 02";
+	src: url("GSerifText-RegularItalic02-Web.eot");
+		src: url("GSerifText-RegularItalic02-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GSerifText-RegularItalic02-Web.woff2") format("woff2"),
+		     url("GSerifText-RegularItalic02-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}		
