@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zacute" format="2">
   <advance width="495"/>
   <unicode hex="017A"/>
@@ -6,4 +6,10 @@
     <component base="z"/>
     <component base="acute" xOffset="87.12324775235874"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

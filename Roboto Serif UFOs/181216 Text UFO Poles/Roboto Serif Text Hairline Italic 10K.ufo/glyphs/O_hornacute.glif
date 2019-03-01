@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohornacute" format="2">
   <advance width="740"/>
   <unicode hex="1EDA"/>
@@ -6,4 +6,10 @@
     <component base="Ohorn"/>
     <component base="acute.uc" xOffset="215.19278628969454" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis_macron.uc" format="2">
   <advance width="560"/>
   <anchor x="263.0" y="694.0" name="_top"/>
@@ -23,9 +23,9 @@
         <key>below</key>
         <dict>
           <key>name</key>
-          <string>UC accents</string>
+          <string>capHeight</string>
           <key>type</key>
-          <string>fontGuide</string>
+          <string>fontInfo</string>
         </dict>
       </dict>
       <key>public.markColor</key>

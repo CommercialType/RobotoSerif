@@ -3,14 +3,14 @@
   <advance width="560"/>
   <unicode hex="00F7"/>
   <outline>
+    <component base="period" xOffset="77" yOffset="38"/>
+    <component base="period" xOffset="202" yOffset="530"/>
     <component base="minus"/>
-    <component base="period" xOffset="123" yOffset="38"/>
-    <component base="period" xOffset="123" yOffset="504"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.3901,0.3797,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

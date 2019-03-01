@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edieresis" format="2">
   <advance width="466"/>
   <unicode hex="00EB"/>
@@ -6,4 +6,10 @@
     <component base="e"/>
     <component base="dieresis" xOffset="28"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

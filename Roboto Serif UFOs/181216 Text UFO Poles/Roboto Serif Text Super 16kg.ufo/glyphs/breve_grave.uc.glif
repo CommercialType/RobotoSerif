@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve_grave.uc" format="2">
   <advance width="510"/>
   <guideline x="318" y="915" angle="0" identifier="tkvOoybWGs"/>
@@ -40,9 +40,9 @@
         <key>below</key>
         <dict>
           <key>name</key>
-          <string>UC accents</string>
+          <string>capHeight</string>
           <key>type</key>
-          <string>fontGuide</string>
+          <string>fontInfo</string>
         </dict>
       </dict>
       <key>public.markColor</key>

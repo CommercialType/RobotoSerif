@@ -118,6 +118,8 @@
     <string>at.uc.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>backslash</key>
+    <string>backslash.glif</string>
     <key>backslash.uc</key>
     <string>backslash.uc.glif</string>
     <key>bar</key>
@@ -190,8 +192,6 @@
     <string>dollar.glif</string>
     <key>dollar.altprop</key>
     <string>dollar.altprop.glif</string>
-    <key>dollar.copy_1</key>
-    <string>dollar.copy_1.glif</string>
     <key>dollar.proportional</key>
     <string>dollar.proportional.glif</string>
     <key>dong</key>
@@ -234,14 +234,14 @@
     <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
-    <key>equal.copy_1</key>
-    <string>equal.copy_1.glif</string>
     <key>estimated</key>
     <string>estimated.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
     <key>exclamdown.uc</key>
     <string>exclamdown.uc.glif</string>
     <key>f</key>
@@ -386,6 +386,8 @@
     <string>j.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>kgreenlandic</key>
+    <string>kgreenlandic.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>kip.proportional</key>
@@ -398,6 +400,8 @@
     <string>lessequal.glif</string>
     <key>lira</key>
     <string>lira.glif</string>
+    <key>lira.alt</key>
+    <string>lira.alt.glif</string>
     <key>lira.altprop</key>
     <string>lira.altprop.glif</string>
     <key>lira.proportional</key>
@@ -424,8 +428,6 @@
     <string>micro.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
-    <key>minus.copy_1</key>
-    <string>minus.copy_1.glif</string>
     <key>minute</key>
     <string>minute.glif</string>
     <key>mu</key>
@@ -452,6 +454,8 @@
     <string>nine.prop.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
+    <key>numbersign</key>
+    <string>numbersign.glif</string>
     <key>numero</key>
     <string>numero.glif</string>
     <key>o</key>
@@ -470,6 +474,10 @@
     <string>one.oldprop.glif</string>
     <key>one.prop</key>
     <string>one.prop.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
     <key>p</key>
@@ -486,12 +494,16 @@
     <string>parenright.uc.glif</string>
     <key>partialdiff</key>
     <string>partialdiff.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
     <key>periodcentered.uc</key>
     <string>periodcentered.uc.glif</string>
+    <key>perthousand</key>
+    <string>perthousand.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
     <key>peseta.proportional</key>
@@ -504,8 +516,6 @@
     <string>pi.glif</string>
     <key>plus</key>
     <string>plus.glif</string>
-    <key>plus.copy_1</key>
-    <string>plus.copy_1.glif</string>
     <key>plusminus</key>
     <string>plusminus.glif</string>
     <key>product</key>
@@ -514,8 +524,12 @@
     <string>q.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
     <key>questiondown.uc</key>
     <string>questiondown.uc.glif</string>
+    <key>quotedbl</key>
+    <string>quotedbl.glif</string>
     <key>quotedblbase</key>
     <string>quotedblbase.glif</string>
     <key>quotedblleft</key>
@@ -528,6 +542,8 @@
     <string>quoteright.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>radical</key>
@@ -578,6 +594,8 @@
     <string>six.oldprop.glif</string>
     <key>six.prop</key>
     <string>six.prop.glif</string>
+    <key>slash</key>
+    <string>slash.glif</string>
     <key>slash.uc</key>
     <string>slash.uc.glif</string>
     <key>soundcopyright</key>
@@ -586,6 +604,8 @@
     <string>space.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
+    <key>sterling.alt</key>
+    <string>sterling.alt.glif</string>
     <key>sterling.altprop</key>
     <string>sterling.altprop.glif</string>
     <key>sterling.proportional</key>
@@ -670,8 +690,6 @@
     <string>zero.oldprop.glif</string>
     <key>zero.prop</key>
     <string>zero.prop.glif</string>
-    <key>zero.prop.copy_1</key>
-    <string>zero.prop.copy_1.glif</string>
     <key>zerowidthspace</key>
     <string>zerowidthspace.glif</string>
   </dict>

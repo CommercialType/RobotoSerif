@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
   <advance width="600"/>
   <unicode hex="00B8"/>
@@ -68,6 +68,13 @@
       </dict>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
         <key>top</key>
         <dict>
           <key>name</key>

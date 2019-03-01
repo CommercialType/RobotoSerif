@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Jcircumflex" format="2">
   <advance width="633"/>
   <unicode hex="0134"/>
@@ -6,4 +6,10 @@
     <component base="J"/>
     <component base="circumflex.uc" xOffset="235.62537408696187"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

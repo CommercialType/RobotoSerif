@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icircumflex" format="2">
   <advance width="265"/>
   <unicode hex="00EE"/>
@@ -6,4 +6,10 @@
     <component base="dotlessi"/>
     <component base="circumflex" xOffset="-85"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="otildeacute" format="2">
   <advance width="667"/>
   <unicode hex="1E4D"/>
@@ -6,4 +6,10 @@
     <component base="o"/>
     <component base="tilde_acute" xOffset="81"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

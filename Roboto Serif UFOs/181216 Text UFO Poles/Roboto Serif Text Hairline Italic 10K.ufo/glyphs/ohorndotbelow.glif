@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorndotbelow" format="2">
   <advance width="537"/>
   <unicode hex="1EE3"/>
@@ -6,4 +6,10 @@
     <component base="ohorn"/>
     <component base="dotbelow" xOffset="-50.5936368235385"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>

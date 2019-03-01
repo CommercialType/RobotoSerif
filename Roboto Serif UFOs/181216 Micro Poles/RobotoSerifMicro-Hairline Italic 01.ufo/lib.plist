@@ -73,8 +73,13 @@
       <string>AE</string>
       <string>Oslash</string>
       <string>Thorn</string>
+      <string>Hbar</string>
       <string>Eng</string>
       <string>OE</string>
+      <string>Schwa</string>
+      <string>Germandbls</string>
+      <string>Delta</string>
+      <string>Omega</string>
       <string>a</string>
       <string>aogonek</string>
       <string>b</string>
@@ -110,9 +115,19 @@
       <string>eth</string>
       <string>oslash</string>
       <string>thorn</string>
+      <string>dcroat</string>
+      <string>hbar</string>
+      <string>dotlessi</string>
       <string>ij</string>
       <string>eng</string>
       <string>oe</string>
+      <string>tbar</string>
+      <string>dotlessj</string>
+      <string>schwa</string>
+      <string>mu</string>
+      <string>pi</string>
+      <string>ordfeminine</string>
+      <string>ordmasculine</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -132,117 +147,13 @@
       <string>bracketright</string>
       <string>braceleft</string>
       <string>braceright</string>
+      <string>numbersign</string>
+      <string>quotesingle</string>
+      <string>quotedbl</string>
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
-      <string>period</string>
-      <string>comma</string>
-      <string>colon</string>
-      <string>semicolon</string>
-      <string>exclam</string>
-      <string>question</string>
-      <string>plus</string>
-      <string>minus</string>
-      <string>equal</string>
-      <string>dollar</string>
-      <string>zero.prop</string>
-      <string>E.alt</string>
-      <string>F.alt</string>
-      <string>g.alt</string>
-      <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
-      <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
-      <string>zero.old</string>
-      <string>one.old</string>
-      <string>two.old</string>
-      <string>three.old</string>
-      <string>four.old</string>
-      <string>five.old</string>
-      <string>six.old</string>
-      <string>seven.old</string>
-      <string>eight.old</string>
-      <string>nine.old</string>
-      <string>zero.prop.copy_1</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
-      <string>zero.linprop</string>
-      <string>one.linprop</string>
-      <string>two.linprop</string>
-      <string>three.linprop</string>
-      <string>four.linprop</string>
-      <string>five.linprop</string>
-      <string>six.linprop</string>
-      <string>seven.linprop</string>
-      <string>eight.linprop</string>
-      <string>nine.linprop</string>
-      <string>zero.oldprop</string>
-      <string>one.oldprop</string>
-      <string>two.oldprop</string>
-      <string>three.oldprop</string>
-      <string>four.oldprop</string>
-      <string>five.oldprop</string>
-      <string>six.oldprop</string>
-      <string>seven.oldprop</string>
-      <string>eight.oldprop</string>
-      <string>nine.oldprop</string>
-      <string>Hbar</string>
-      <string>Schwa</string>
-      <string>Germandbls</string>
-      <string>Delta</string>
-      <string>Omega</string>
-      <string>dcroat</string>
-      <string>hbar</string>
-      <string>dotlessi</string>
-      <string>tbar</string>
-      <string>dotlessj</string>
-      <string>schwa</string>
-      <string>mu</string>
-      <string>pi</string>
-      <string>f_f</string>
-      <string>fi</string>
-      <string>fl</string>
-      <string>f_f_i</string>
-      <string>f_f_l</string>
-      <string>f_b</string>
-      <string>f_f_b</string>
-      <string>f_f_h</string>
-      <string>f_f_j</string>
-      <string>f_f_k</string>
-      <string>f_h</string>
-      <string>f_i</string>
-      <string>f_j</string>
-      <string>f_k</string>
-      <string>f_l</string>
-      <string>f.short</string>
-      <string>f_f.short</string>
-      <string>AE.alt</string>
-      <string>OE.alt</string>
-      <string>f.alt</string>
-      <string>f_f.alt</string>
-      <string>f_f_b.alt</string>
-      <string>f_f_h.alt</string>
-      <string>f_f_i.alt</string>
-      <string>f_f_j.alt</string>
-      <string>f_f_k.alt</string>
-      <string>f_f_l.alt</string>
-      <string>f_i.alt</string>
-      <string>f_j.alt</string>
-      <string>fi.alt</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
       <string>guilsinglleft</string>
@@ -250,7 +161,17 @@
       <string>asterisk</string>
       <string>dagger</string>
       <string>daggerdbl</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
       <string>ellipsis</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>question</string>
+      <string>questiondown</string>
+      <string>slash</string>
+      <string>backslash</string>
       <string>bar</string>
       <string>brokenbar</string>
       <string>at</string>
@@ -263,12 +184,12 @@
       <string>bullet</string>
       <string>minute</string>
       <string>second</string>
-      <string>plus.copy_1</string>
-      <string>minus.copy_1</string>
+      <string>plus</string>
+      <string>minus</string>
       <string>plusminus</string>
       <string>divide</string>
       <string>multiply</string>
-      <string>equal.copy_1</string>
+      <string>equal</string>
       <string>less</string>
       <string>greater</string>
       <string>lessequal</string>
@@ -284,7 +205,7 @@
       <string>radical</string>
       <string>infinity</string>
       <string>integral</string>
-      <string>dollar.copy_1</string>
+      <string>dollar</string>
       <string>cent</string>
       <string>sterling</string>
       <string>currency</string>
@@ -325,6 +246,21 @@
       <string>literSign</string>
       <string>micro</string>
       <string>rupeeIndian</string>
+      <string>f_f</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>f_f_i</string>
+      <string>f_f_l</string>
+      <string>f_b</string>
+      <string>f_f_b</string>
+      <string>f_f_h</string>
+      <string>f_f_j</string>
+      <string>f_f_k</string>
+      <string>f_h</string>
+      <string>f_i</string>
+      <string>f_j</string>
+      <string>f_k</string>
+      <string>f_l</string>
       <string>dollar.proportional</string>
       <string>cent.proportional</string>
       <string>sterling.proportional</string>
@@ -375,7 +311,80 @@
       <string>periodcentered.uc</string>
       <string>guillemotleft.uc</string>
       <string>guillemotright.uc</string>
-      <string>f.alt.copy_1</string>
+      <string>zero.lin</string>
+      <string>one.lin</string>
+      <string>two.lin</string>
+      <string>three.lin</string>
+      <string>four.lin</string>
+      <string>five.lin</string>
+      <string>six.lin</string>
+      <string>seven.lin</string>
+      <string>eight.lin</string>
+      <string>nine.lin</string>
+      <string>zero.old</string>
+      <string>one.old</string>
+      <string>two.old</string>
+      <string>three.old</string>
+      <string>four.old</string>
+      <string>five.old</string>
+      <string>six.old</string>
+      <string>seven.old</string>
+      <string>eight.old</string>
+      <string>nine.old</string>
+      <string>zero.prop</string>
+      <string>one.prop</string>
+      <string>two.prop</string>
+      <string>three.prop</string>
+      <string>four.prop</string>
+      <string>five.prop</string>
+      <string>six.prop</string>
+      <string>seven.prop</string>
+      <string>eight.prop</string>
+      <string>nine.prop</string>
+      <string>zero.linprop</string>
+      <string>one.linprop</string>
+      <string>two.linprop</string>
+      <string>three.linprop</string>
+      <string>four.linprop</string>
+      <string>five.linprop</string>
+      <string>six.linprop</string>
+      <string>seven.linprop</string>
+      <string>eight.linprop</string>
+      <string>nine.linprop</string>
+      <string>zero.oldprop</string>
+      <string>one.oldprop</string>
+      <string>two.oldprop</string>
+      <string>three.oldprop</string>
+      <string>four.oldprop</string>
+      <string>five.oldprop</string>
+      <string>six.oldprop</string>
+      <string>seven.oldprop</string>
+      <string>eight.oldprop</string>
+      <string>nine.oldprop</string>
+      <string>f.short</string>
+      <string>f_f.short</string>
+      <string>E.alt</string>
+      <string>F.alt</string>
+      <string>AE.alt</string>
+      <string>OE.alt</string>
+      <string>f.alt</string>
+      <string>g.alt</string>
+      <string>sterling.alt</string>
+      <string>lira.alt</string>
+      <string>f_f.alt</string>
+      <string>f_f_b.alt</string>
+      <string>f_f_h.alt</string>
+      <string>f_f_i.alt</string>
+      <string>f_f_j.alt</string>
+      <string>f_f_k.alt</string>
+      <string>f_f_l.alt</string>
+      <string>f_i.alt</string>
+      <string>f_j.alt</string>
+      <string>fi.alt</string>
+      <string>sterling.copy_1</string>
+      <string>kgreenlandic</string>
+      <string>percent</string>
+      <string>perthousand</string>
     </array>
   </dict>
 </plist>

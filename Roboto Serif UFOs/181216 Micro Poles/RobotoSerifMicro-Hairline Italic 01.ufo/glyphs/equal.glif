@@ -3,8 +3,8 @@
   <advance width="560"/>
   <unicode hex="003D"/>
   <outline>
-    <component base="minus" yOffset="91"/>
-    <component base="minus" yOffset="-116"/>
+    <component base="minus" xOffset="25" yOffset="91"/>
+    <component base="minus" xOffset="-26" yOffset="-116"/>
   </outline>
   <lib>
     <dict>
@@ -127,7 +127,7 @@
         <real>1.0</real>
       </array>
       <key>public.markColor</key>
-      <string>1,0.3901,0.3797,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexgrave" format="2">
   <advance width="537"/>
   <unicode hex="1ED3"/>
@@ -6,4 +6,10 @@
     <component base="o"/>
     <component base="circumflex_grave" xOffset="56"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
 </glyph>
