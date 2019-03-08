@@ -2,6 +2,7 @@
 <glyph name="dotlessi" format="2">
   <advance width="331"/>
   <unicode hex="0131"/>
+  <anchor x="190" y="530.0" name="top"/>
   <outline>
     <contour>
       <point x="196" y="565" type="line"/>
@@ -27,6 +28,16 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

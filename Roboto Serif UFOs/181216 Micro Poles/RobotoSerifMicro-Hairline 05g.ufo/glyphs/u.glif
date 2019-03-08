@@ -2,9 +2,10 @@
 <glyph name="u" format="2">
   <advance width="670"/>
   <unicode hex="0075"/>
-  <anchor x="296.0" y="551.0" name="top"/>
-  <anchor x="465.0" y="0.0" name="right"/>
-  <anchor x="298.0" y="0.0" name="bottom"/>
+  <guideline x="428.8" y="152" angle="90.0"/>
+  <anchor x="318" y="551" name="top"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="498" y="0" name="right"/>
   <outline>
     <contour>
       <point x="183" y="565" type="line"/>
@@ -430,6 +431,23 @@
         <real>0.0</real>
         <real>1.0</real>
       </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

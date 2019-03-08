@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="771"/>
+  <unicode hex="00D8"/>
+  <anchor x="382.0" y="731.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="724" y="720" type="line"/>
+      <point x="3" y="-10" type="line"/>
+      <point x="52" y="-10" type="line"/>
+      <point x="773" y="720" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

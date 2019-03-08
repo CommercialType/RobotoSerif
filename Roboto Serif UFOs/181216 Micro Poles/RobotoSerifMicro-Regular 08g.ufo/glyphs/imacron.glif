@@ -3,7 +3,18 @@
   <advance width="359"/>
   <unicode hex="012B"/>
   <outline>
+    <contour>
+      <point x="10" y="778" type="line"/>
+      <point x="10" y="708" type="line"/>
+      <point x="337" y="708" type="line"/>
+      <point x="337" y="778" type="line"/>
+    </contour>
     <component base="dotlessi"/>
-    <component base="macron" xOffset="-60.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
 </glyph>

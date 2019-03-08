@@ -4,6 +4,12 @@
   <unicode hex="1EF0"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="dotbelow"/>
+    <component base="dotbelow" xOffset="167"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
 </glyph>

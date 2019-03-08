@@ -2,8 +2,10 @@
 <glyph name="Z" format="2">
   <advance width="632"/>
   <unicode hex="005A"/>
-  <anchor x="320" y="741" name="top"/>
-  <anchor x="320" y="0" name="bottom"/>
+  <guideline x="530.88" y="410" angle="90.0"/>
+  <guideline x="50.56" y="254" angle="90.0"/>
+  <anchor x="356" y="741" name="top"/>
+  <anchor x="356" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="83" y="44" type="line"/>
@@ -267,6 +269,23 @@
           <array/>
           <key>width</key>
           <integer>651</integer>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
         </dict>
       </dict>
       <key>public.markColor</key>

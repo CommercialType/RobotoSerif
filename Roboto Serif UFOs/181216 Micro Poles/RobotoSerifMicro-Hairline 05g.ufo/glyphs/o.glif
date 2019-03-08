@@ -2,9 +2,9 @@
 <glyph name="o" format="2">
   <advance width="620"/>
   <unicode hex="006F"/>
-  <anchor x="310" y="551" name="top"/>
-  <anchor x="402" y="0" name="right"/>
-  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="328" y="551" name="top"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="432" y="0" name="right"/>
   <outline>
     <contour>
       <point x="310" y="-13" type="curve" smooth="yes"/>
@@ -501,6 +501,23 @@
         <real>0.0</real>
         <real>1.0</real>
       </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

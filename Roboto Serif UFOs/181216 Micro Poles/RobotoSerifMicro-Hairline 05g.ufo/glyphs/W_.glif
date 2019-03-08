@@ -2,8 +2,8 @@
 <glyph name="W" format="2">
   <advance width="1056"/>
   <unicode hex="0057"/>
-  <guideline x="431" y="89" angle="0" identifier="me1EuVbcUI"/>
-  <anchor x="539" y="741" name="top"/>
+  <guideline x="432.96" y="89" angle="0"/>
+  <anchor x="536" y="741" name="top"/>
   <outline>
     <contour>
       <point x="27" y="710" type="line"/>
@@ -48,6 +48,16 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.me1EuVbcUI</key>
       <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

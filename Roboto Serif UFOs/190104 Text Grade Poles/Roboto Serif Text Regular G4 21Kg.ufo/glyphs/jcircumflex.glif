@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="2">
   <advance width="298"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="dotlessj"/>
     <component base="circumflex" xOffset="-121" yOffset="3"/>
+    <component base="dotlessj"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typesupply.AccentFactory.compileType</key>
-      <string>manual</string>
-    </dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
   </lib>
 </glyph>

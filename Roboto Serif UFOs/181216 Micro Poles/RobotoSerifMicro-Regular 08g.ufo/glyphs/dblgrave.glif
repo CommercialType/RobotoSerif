@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgrave" format="2">
   <advance width="500"/>
-  <anchor x="235" y="539" name="_top"/>
+  <anchor x="288" y="589" name="_top"/>
   <outline>
-    <component base="hungarumlaut"/>
-    <component base="hungarumlaut"/>
-    <component base="hungarumlaut"/>
-    <component base="hungarumlaut"/>
-    <component base="hungarumlaut"/>
+    <component base="hungarumlaut" xScale="-1" xOffset="500"/>
   </outline>
   <lib>
     <dict>

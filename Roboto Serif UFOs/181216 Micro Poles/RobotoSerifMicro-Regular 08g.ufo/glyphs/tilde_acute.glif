@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde_acute" format="2">
   <advance width="551"/>
-  <anchor x="245" y="515" name="_top"/>
+  <anchor x="247" y="515" name="_top"/>
   <outline>
     <component base="tilde"/>
-    <component base="acute" yOffset="50"/>
+    <component base="acute" xOffset="10" yOffset="240"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.2149,0.2149,0.2149,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

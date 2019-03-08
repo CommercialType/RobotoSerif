@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
   <advance width="600"/>
   <unicode hex="02DB"/>
@@ -29,42 +28,42 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typesupply.AccentFactory.xCoordinates</key>
-      <dict>
-        <key>center</key>
-        <dict>
-          <key>name</key>
-          <string>_right</string>
-          <key>type</key>
-          <string>glyphAnchor</string>
-        </dict>
-        <key>right</key>
-        <dict>
-          <key>name</key>
-          <string>_right</string>
-          <key>type</key>
-          <string>glyphAnchor</string>
-        </dict>
-      </dict>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>above</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-        <key>top</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>1,0.568,0.6434,1</string>
-    </dict>
+	<key>com.typesupply.AccentFactory.xCoordinates</key>
+	<dict>
+		<key>center</key>
+		<dict>
+			<key>name</key>
+			<string>_right</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+		<key>right</key>
+		<dict>
+			<key>name</key>
+			<string>_right</string>
+			<key>type</key>
+			<string>glyphAnchor</string>
+		</dict>
+	</dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>above</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.568,0.6434,1</string>
+</dict>
   </lib>
 </glyph>

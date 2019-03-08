@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="500"/>
+  <unicode hex="02C7"/>
+  <anchor x="255.0" y="525.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="267" y="581" type="line"/>
+      <point x="339" y="581" type="line"/>
+      <point x="475" y="738" type="line"/>
+      <point x="477" y="748" type="line"/>
+      <point x="446" y="748" type="line"/>
+      <point x="286" y="619" type="line"/>
+      <point x="331" y="617" type="line"/>
+      <point x="211" y="748" type="line"/>
+      <point x="189" y="748" type="line"/>
+      <point x="187" y="738" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

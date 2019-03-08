@@ -94,6 +94,8 @@
 		<integer>-55</integer>
 		<key>asterisk</key>
 		<integer>-90</integer>
+		<key>asterisk.alt</key>
+		<integer>-90</integer>
 		<key>at</key>
 		<integer>-40</integer>
 		<key>at.uc</key>
@@ -207,6 +209,8 @@
 		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>20</integer>
+		<key>asterisk.alt</key>
+		<integer>20</integer>
 		<key>at</key>
 		<integer>5</integer>
 		<key>at.uc</key>
@@ -300,6 +304,8 @@
 		<integer>-20</integer>
 		<key>Oslash</key>
 		<integer>20</integer>
+		<key>Oslashacute</key>
+		<integer>20</integer>
 		<key>Schwa</key>
 		<integer>-5</integer>
 		<key>V</key>
@@ -309,6 +315,8 @@
 		<key>ampersand</key>
 		<integer>-35</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
 		<integer>-10</integer>
@@ -447,6 +455,8 @@
 		<integer>-70</integer>
 		<key>asterisk</key>
 		<integer>30</integer>
+		<key>asterisk.alt</key>
+		<integer>30</integer>
 		<key>at</key>
 		<integer>-35</integer>
 		<key>at.uc</key>
@@ -491,12 +501,16 @@
 		<integer>50</integer>
 		<key>igrave</key>
 		<integer>45</integer>
+		<key>ihoi</key>
+		<integer>5</integer>
+		<key>ihookabove</key>
+		<integer>5</integer>
 		<key>iinvertedbreve</key>
 		<integer>30</integer>
 		<key>imacron</key>
 		<integer>40</integer>
 		<key>itilde</key>
-		<integer>60</integer>
+		<integer>50</integer>
 		<key>jcircumflex</key>
 		<integer>40</integer>
 		<key>odblgrave</key>
@@ -537,6 +551,8 @@
 		<integer>-60</integer>
 		<key>servicemark</key>
 		<integer>-10</integer>
+		<key>tdieresis</key>
+		<integer>25</integer>
 		<key>thorn</key>
 		<integer>-20</integer>
 		<key>udblgrave</key>
@@ -703,6 +719,8 @@
 		<integer>-20</integer>
 		<key>asterisk</key>
 		<integer>-35</integer>
+		<key>asterisk.alt</key>
+		<integer>-35</integer>
 		<key>parenright</key>
 		<integer>-20</integer>
 		<key>parenright.uc</key>
@@ -753,6 +771,8 @@
 		<key>ampersand</key>
 		<integer>-25</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
 		<integer>-30</integer>
@@ -826,6 +846,8 @@
 		<key>ampersand</key>
 		<integer>-45</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
 		<integer>-15</integer>
@@ -936,6 +958,8 @@
 		<integer>-25</integer>
 		<key>Oslash</key>
 		<integer>15</integer>
+		<key>Oslashacute</key>
+		<integer>15</integer>
 		<key>Schwa</key>
 		<integer>-25</integer>
 		<key>V</key>
@@ -945,6 +969,8 @@
 		<key>ampersand</key>
 		<integer>-80</integer>
 		<key>asterisk</key>
+		<integer>-30</integer>
+		<key>asterisk.alt</key>
 		<integer>-30</integer>
 		<key>at</key>
 		<integer>-50</integer>
@@ -1081,6 +1107,8 @@
 		<integer>-30</integer>
 		<key>Oslash</key>
 		<integer>5</integer>
+		<key>Oslashacute</key>
+		<integer>5</integer>
 		<key>Schwa</key>
 		<integer>-20</integer>
 		<key>V</key>
@@ -1088,6 +1116,8 @@
 		<key>ampersand</key>
 		<integer>-35</integer>
 		<key>asterisk</key>
+		<integer>-70</integer>
+		<key>asterisk.alt</key>
 		<integer>-70</integer>
 		<key>at</key>
 		<integer>-20</integer>
@@ -1175,6 +1205,8 @@
 		<key>ampersand</key>
 		<integer>-40</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
 		<integer>-10</integer>
@@ -1295,6 +1327,8 @@
 		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>-5</integer>
+		<key>asterisk.alt</key>
+		<integer>-5</integer>
 		<key>at</key>
 		<integer>-10</integer>
 		<key>bullet</key>
@@ -1395,6 +1429,8 @@
 		<key>ampersand</key>
 		<integer>-5</integer>
 		<key>asterisk</key>
+		<integer>20</integer>
+		<key>asterisk.alt</key>
 		<integer>20</integer>
 		<key>bullet</key>
 		<integer>15</integer>
@@ -1497,6 +1533,8 @@
 		<integer>-20</integer>
 		<key>Oslash</key>
 		<integer>5</integer>
+		<key>Oslashacute</key>
+		<integer>5</integer>
 		<key>Schwa</key>
 		<integer>-5</integer>
 		<key>V</key>
@@ -1506,6 +1544,8 @@
 		<key>ampersand</key>
 		<integer>-45</integer>
 		<key>asterisk</key>
+		<integer>-15</integer>
+		<key>asterisk.alt</key>
 		<integer>-15</integer>
 		<key>at</key>
 		<integer>-15</integer>
@@ -1613,6 +1653,8 @@
 		<key>ampersand</key>
 		<integer>-30</integer>
 		<key>asterisk</key>
+		<integer>-20</integer>
+		<key>asterisk.alt</key>
 		<integer>-20</integer>
 		<key>at</key>
 		<integer>-10</integer>
@@ -1734,6 +1776,8 @@
 		<key>ampersand</key>
 		<integer>-65</integer>
 		<key>asterisk</key>
+		<integer>45</integer>
+		<key>asterisk.alt</key>
 		<integer>45</integer>
 		<key>at</key>
 		<integer>-35</integer>
@@ -1933,6 +1977,8 @@
 		<key>ampersand</key>
 		<integer>-75</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
 		<integer>-40</integer>
@@ -2168,6 +2214,8 @@
 		<integer>-55</integer>
 		<key>asterisk</key>
 		<integer>35</integer>
+		<key>asterisk.alt</key>
+		<integer>35</integer>
 		<key>at</key>
 		<integer>-50</integer>
 		<key>at.uc</key>
@@ -2388,6 +2436,8 @@
 		<key>aringacute</key>
 		<integer>-90</integer>
 		<key>asterisk</key>
+		<integer>20</integer>
+		<key>asterisk.alt</key>
 		<integer>20</integer>
 		<key>at</key>
 		<integer>-90</integer>
@@ -2652,6 +2702,8 @@
 		<integer>-10</integer>
 		<key>Oslash</key>
 		<integer>35</integer>
+		<key>Oslashacute</key>
+		<integer>35</integer>
 		<key>Schwa</key>
 		<integer>-5</integer>
 		<key>V</key>
@@ -2659,6 +2711,8 @@
 		<key>ampersand</key>
 		<integer>-20</integer>
 		<key>asterisk</key>
+		<integer>15</integer>
+		<key>asterisk.alt</key>
 		<integer>15</integer>
 		<key>at</key>
 		<integer>-10</integer>
@@ -2737,9 +2791,13 @@
 		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>-5</integer>
+		<key>asterisk.alt</key>
+		<integer>-5</integer>
 		<key>exclam</key>
 		<integer>35</integer>
 		<key>oslash</key>
+		<integer>10</integer>
+		<key>oslashacute</key>
 		<integer>10</integer>
 		<key>p</key>
 		<integer>0</integer>
@@ -2781,6 +2839,8 @@
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
 		<key>asterisk</key>
+		<integer>-20</integer>
+		<key>asterisk.alt</key>
 		<integer>-20</integer>
 		<key>at</key>
 		<integer>10</integer>
@@ -2852,7 +2912,7 @@
 		<key>@MMK_R_zero.lin</key>
 		<integer>-50</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-60</integer>
+		<integer>-50</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-50</integer>
 		<key>Oslash</key>
@@ -2864,29 +2924,31 @@
 		<key>X</key>
 		<integer>25</integer>
 		<key>eight.lin</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>eight.old</key>
-		<integer>-70</integer>
+		<integer>-45</integer>
 		<key>eight.prop</key>
 		<integer>-40</integer>
 		<key>five.lin</key>
 		<integer>-35</integer>
 		<key>five.old</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>five.prop</key>
 		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>-40</integer>
 		<key>four.old</key>
-		<integer>-15</integer>
+		<integer>-25</integer>
 		<key>four.prop</key>
 		<integer>-35</integer>
 		<key>nine.lin</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
+		<key>nine.old</key>
+		<integer>-5</integer>
 		<key>one.lin</key>
 		<integer>-35</integer>
 		<key>one.old</key>
-		<integer>-65</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
 		<integer>-35</integer>
 		<key>oslash</key>
@@ -2894,25 +2956,27 @@
 		<key>p</key>
 		<integer>60</integer>
 		<key>seven.lin</key>
-		<integer>-110</integer>
+		<integer>-105</integer>
 		<key>seven.old</key>
-		<integer>-70</integer>
+		<integer>-85</integer>
 		<key>seven.prop</key>
 		<integer>-90</integer>
 		<key>six.lin</key>
 		<integer>-40</integer>
 		<key>six.old</key>
-		<integer>-70</integer>
+		<integer>-50</integer>
 		<key>six.prop</key>
 		<integer>-60</integer>
 		<key>thorn</key>
 		<integer>40</integer>
 		<key>three.lin</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
+		<key>three.old</key>
+		<integer>10</integer>
 		<key>three.prop</key>
 		<integer>5</integer>
 		<key>two.old</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>two.prop</key>
 		<integer>5</integer>
 		<key>x</key>
@@ -2956,10 +3020,6 @@
 		<integer>5</integer>
 		<key>@MMK_R_v</key>
 		<integer>10</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>15</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
 		<key>Schwa</key>
 		<integer>30</integer>
 		<key>V</key>
@@ -2970,12 +3030,10 @@
 		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-5</integer>
-		<key>five.old</key>
-		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>-5</integer>
 		<key>four.old</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>four.prop</key>
 		<integer>-5</integer>
 		<key>ibreve</key>
@@ -2993,35 +3051,35 @@
 		<key>itilde</key>
 		<integer>75</integer>
 		<key>nine.lin</key>
-		<integer>5</integer>
-		<key>nine.prop</key>
-		<integer>15</integer>
+		<integer>-5</integer>
 		<key>one.lin</key>
-		<integer>-30</integer>
+		<integer>-35</integer>
 		<key>one.old</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>one.prop</key>
-		<integer>-20</integer>
+		<integer>-35</integer>
 		<key>p</key>
 		<integer>10</integer>
 		<key>seven.lin</key>
 		<integer>-20</integer>
 		<key>seven.old</key>
-		<integer>-25</integer>
-		<key>seven.prop</key>
 		<integer>-35</integer>
+		<key>seven.prop</key>
+		<integer>-60</integer>
 		<key>thorn</key>
 		<integer>10</integer>
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>three.old</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
+		<key>three.prop</key>
+		<integer>-10</integer>
 		<key>two.lin</key>
 		<integer>-20</integer>
 		<key>two.old</key>
 		<integer>-20</integer>
 		<key>two.prop</key>
-		<integer>15</integer>
+		<integer>-20</integer>
 		<key>x</key>
 		<integer>-10</integer>
 		<key>y</key>
@@ -3036,8 +3094,6 @@
 		<key>@MMK_R_S</key>
 		<integer>10</integer>
 		<key>@MMK_R_W</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.lin</key>
 		<integer>10</integer>
 		<key>Schwa</key>
 		<integer>10</integer>
@@ -3105,6 +3161,8 @@
 		<key>ampersand</key>
 		<integer>5</integer>
 		<key>asterisk</key>
+		<integer>25</integer>
+		<key>asterisk.alt</key>
 		<integer>25</integer>
 		<key>at</key>
 		<integer>15</integer>
@@ -3184,33 +3242,31 @@
 		<key>four.old</key>
 		<integer>-45</integer>
 		<key>four.prop</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>one.lin</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>one.old</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>one.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>p</key>
 		<integer>-10</integer>
 		<key>seven.lin</key>
-		<integer>-45</integer>
+		<integer>-35</integer>
 		<key>seven.old</key>
 		<integer>-25</integer>
 		<key>seven.prop</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>thorn</key>
 		<integer>-20</integer>
 		<key>three.lin</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>three.old</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>three.prop</key>
 		<integer>-5</integer>
 		<key>two.lin</key>
 		<integer>-15</integer>
-		<key>two.old</key>
-		<integer>-5</integer>
 		<key>x</key>
 		<integer>-15</integer>
 	</dict>
@@ -3263,9 +3319,9 @@
 		<key>@MMK_R_z</key>
 		<integer>20</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>50</integer>
+		<integer>20</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>30</integer>
+		<integer>5</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>45</integer>
 		<key>Schwa</key>
@@ -3274,58 +3330,50 @@
 		<integer>-5</integer>
 		<key>X</key>
 		<integer>40</integer>
-		<key>eight.lin</key>
-		<integer>35</integer>
 		<key>eight.old</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>eight.prop</key>
 		<integer>5</integer>
 		<key>five.lin</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>five.prop</key>
 		<integer>5</integer>
 		<key>four.lin</key>
-		<integer>15</integer>
+		<integer>-5</integer>
 		<key>four.old</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>four.prop</key>
 		<integer>10</integer>
 		<key>nine.lin</key>
-		<integer>45</integer>
-		<key>nine.old</key>
-		<integer>30</integer>
+		<integer>10</integer>
 		<key>nine.prop</key>
 		<integer>35</integer>
 		<key>one.lin</key>
-		<integer>-20</integer>
+		<integer>-45</integer>
 		<key>one.old</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
 		<integer>-5</integer>
 		<key>p</key>
 		<integer>10</integer>
 		<key>seven.lin</key>
-		<integer>10</integer>
+		<integer>-35</integer>
 		<key>seven.old</key>
-		<integer>5</integer>
+		<integer>-20</integer>
 		<key>six.lin</key>
-		<integer>30</integer>
-		<key>six.old</key>
-		<integer>35</integer>
+		<integer>5</integer>
 		<key>six.prop</key>
 		<integer>20</integer>
 		<key>thorn</key>
 		<integer>10</integer>
 		<key>three.lin</key>
-		<integer>45</integer>
+		<integer>15</integer>
 		<key>three.old</key>
-		<integer>20</integer>
+		<integer>15</integer>
 		<key>three.prop</key>
 		<integer>30</integer>
 		<key>two.lin</key>
-		<integer>25</integer>
-		<key>two.old</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>two.prop</key>
 		<integer>20</integer>
 		<key>x</key>
@@ -3373,10 +3421,6 @@
 		<integer>5</integer>
 		<key>@MMK_R_z</key>
 		<integer>15</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>20</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>20</integer>
 		<key>Schwa</key>
@@ -3387,38 +3431,14 @@
 		<integer>-30</integer>
 		<key>eight.prop</key>
 		<integer>10</integer>
-		<key>five.lin</key>
-		<integer>-5</integer>
-		<key>four.old</key>
-		<integer>-35</integer>
-		<key>nine.lin</key>
-		<integer>-5</integer>
-		<key>nine.old</key>
-		<integer>5</integer>
 		<key>nine.prop</key>
 		<integer>-5</integer>
-		<key>one.old</key>
-		<integer>-10</integer>
 		<key>one.prop</key>
 		<integer>-10</integer>
-		<key>seven.lin</key>
-		<integer>-30</integer>
-		<key>seven.old</key>
-		<integer>5</integer>
 		<key>seven.prop</key>
 		<integer>-20</integer>
-		<key>six.lin</key>
-		<integer>5</integer>
-		<key>six.old</key>
-		<integer>10</integer>
 		<key>six.prop</key>
 		<integer>20</integer>
-		<key>three.old</key>
-		<integer>-10</integer>
-		<key>two.lin</key>
-		<integer>-15</integer>
-		<key>two.old</key>
-		<integer>-10</integer>
 		<key>two.prop</key>
 		<integer>-5</integer>
 		<key>x</key>
@@ -3442,20 +3462,12 @@
 		<integer>-30</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-55</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>15</integer>
 		<key>Schwa</key>
 		<integer>10</integer>
 		<key>V</key>
 		<integer>-40</integer>
 		<key>X</key>
 		<integer>-30</integer>
-		<key>four.lin</key>
-		<integer>10</integer>
-		<key>six.lin</key>
-		<integer>10</integer>
-		<key>two.lin</key>
-		<integer>-5</integer>
 	</dict>
 	<key>@MMK_L_dcaron</key>
 	<dict>
@@ -3501,6 +3513,8 @@
 		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>70</integer>
+		<key>asterisk.alt</key>
+		<integer>70</integer>
 		<key>exclam</key>
 		<integer>40</integer>
 		<key>iacute</key>
@@ -3524,28 +3538,14 @@
 	<dict>
 		<key>@MMK_R_zero.lin</key>
 		<integer>5</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>-5</integer>
 		<key>eight.lin</key>
 		<integer>5</integer>
-		<key>eight.old</key>
-		<integer>-10</integer>
-		<key>five.old</key>
-		<integer>-10</integer>
-		<key>five.prop</key>
-		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>10</integer>
-		<key>four.old</key>
-		<integer>-5</integer>
-		<key>nine.lin</key>
-		<integer>5</integer>
-		<key>nine.old</key>
-		<integer>-5</integer>
 		<key>one.lin</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>one.old</key>
-		<integer>-45</integer>
+		<integer>-10</integer>
 		<key>one.prop</key>
 		<integer>-5</integer>
 		<key>seven.lin</key>
@@ -3555,13 +3555,15 @@
 		<key>seven.prop</key>
 		<integer>-20</integer>
 		<key>three.lin</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>three.old</key>
-		<integer>-20</integer>
+		<integer>-5</integer>
+		<key>three.prop</key>
+		<integer>5</integer>
 		<key>two.lin</key>
 		<integer>5</integer>
 		<key>two.old</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>two.prop</key>
 		<integer>-5</integer>
 	</dict>
@@ -3626,6 +3628,8 @@
 		<key>ampersand</key>
 		<integer>-5</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>bullet</key>
 		<integer>25</integer>
@@ -3725,6 +3729,8 @@
 		<key>aringacute</key>
 		<integer>0</integer>
 		<key>asterisk</key>
+		<integer>105</integer>
+		<key>asterisk.alt</key>
 		<integer>105</integer>
 		<key>atilde</key>
 		<integer>5</integer>
@@ -3965,6 +3971,8 @@
 		<integer>-25</integer>
 		<key>asterisk</key>
 		<integer>70</integer>
+		<key>asterisk.alt</key>
+		<integer>70</integer>
 		<key>bullet</key>
 		<integer>20</integer>
 		<key>edblgrave</key>
@@ -4111,6 +4119,8 @@
 		<key>ampersand</key>
 		<integer>-25</integer>
 		<key>asterisk</key>
+		<integer>90</integer>
+		<key>asterisk.alt</key>
 		<integer>90</integer>
 		<key>bullet</key>
 		<integer>30</integer>
@@ -4309,6 +4319,8 @@
 		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>30</integer>
+		<key>asterisk.alt</key>
+		<integer>30</integer>
 		<key>at</key>
 		<integer>5</integer>
 		<key>exclam</key>
@@ -4376,6 +4388,8 @@
 		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>15</integer>
+		<key>asterisk.alt</key>
+		<integer>15</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
@@ -4435,62 +4449,18 @@
 		<integer>5</integer>
 		<key>@MMK_R_z</key>
 		<integer>-10</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>5</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>-15</integer>
 		<key>Schwa</key>
 		<integer>10</integer>
 		<key>V</key>
 		<integer>-30</integer>
-		<key>eight.lin</key>
-		<integer>-10</integer>
-		<key>eight.old</key>
-		<integer>-15</integer>
-		<key>eight.prop</key>
-		<integer>-15</integer>
 		<key>exclamdown</key>
 		<integer>-5</integer>
-		<key>five.old</key>
-		<integer>-25</integer>
-		<key>four.lin</key>
-		<integer>-5</integer>
-		<key>four.old</key>
-		<integer>-30</integer>
-		<key>four.prop</key>
-		<integer>-15</integer>
-		<key>nine.lin</key>
-		<integer>5</integer>
-		<key>nine.prop</key>
-		<integer>5</integer>
-		<key>one.lin</key>
-		<integer>-30</integer>
-		<key>one.old</key>
-		<integer>-20</integer>
 		<key>parenright.uc</key>
 		<integer>-10</integer>
 		<key>question</key>
 		<integer>-60</integer>
 		<key>questiondown</key>
 		<integer>-60</integer>
-		<key>seven.lin</key>
-		<integer>-10</integer>
-		<key>seven.old</key>
-		<integer>-30</integer>
-		<key>seven.prop</key>
-		<integer>-15</integer>
-		<key>six.old</key>
-		<integer>-5</integer>
-		<key>six.prop</key>
-		<integer>-5</integer>
-		<key>three.old</key>
-		<integer>-25</integer>
-		<key>two.lin</key>
-		<integer>-5</integer>
-		<key>two.old</key>
-		<integer>-10</integer>
-		<key>two.prop</key>
-		<integer>-5</integer>
 		<key>x</key>
 		<integer>-5</integer>
 	</dict>
@@ -4523,7 +4493,7 @@
 		<key>four.lin</key>
 		<integer>-5</integer>
 		<key>nine.lin</key>
-		<integer>20</integer>
+		<integer>-5</integer>
 		<key>one.lin</key>
 		<integer>-15</integer>
 		<key>parenright.uc</key>
@@ -4573,12 +4543,6 @@
 		<integer>-60</integer>
 		<key>@MMK_R_v</key>
 		<integer>-5</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>5</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>20</integer>
 		<key>Lslash</key>
 		<integer>35</integer>
 		<key>Schwa</key>
@@ -4587,26 +4551,8 @@
 		<integer>-40</integer>
 		<key>X</key>
 		<integer>-20</integer>
-		<key>eight.lin</key>
-		<integer>5</integer>
-		<key>eight.old</key>
-		<integer>5</integer>
-		<key>eight.prop</key>
-		<integer>10</integer>
 		<key>exclamdown</key>
 		<integer>10</integer>
-		<key>five.old</key>
-		<integer>-20</integer>
-		<key>four.lin</key>
-		<integer>10</integer>
-		<key>four.old</key>
-		<integer>-5</integer>
-		<key>nine.old</key>
-		<integer>5</integer>
-		<key>one.lin</key>
-		<integer>-40</integer>
-		<key>one.old</key>
-		<integer>-25</integer>
 		<key>parenright</key>
 		<integer>-80</integer>
 		<key>parenright.uc</key>
@@ -4615,22 +4561,6 @@
 		<integer>-70</integer>
 		<key>questiondown</key>
 		<integer>-75</integer>
-		<key>seven.lin</key>
-		<integer>-35</integer>
-		<key>seven.old</key>
-		<integer>-5</integer>
-		<key>seven.prop</key>
-		<integer>-20</integer>
-		<key>six.prop</key>
-		<integer>5</integer>
-		<key>three.lin</key>
-		<integer>5</integer>
-		<key>three.old</key>
-		<integer>-15</integer>
-		<key>two.lin</key>
-		<integer>-5</integer>
-		<key>two.prop</key>
-		<integer>5</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -4656,8 +4586,6 @@
 		<integer>-65</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-10</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
 		<key>Schwa</key>
 		<integer>30</integer>
 		<key>V</key>
@@ -4669,7 +4597,7 @@
 		<key>nine.lin</key>
 		<integer>-10</integer>
 		<key>one.lin</key>
-		<integer>-35</integer>
+		<integer>-40</integer>
 		<key>parenright.uc</key>
 		<integer>-55</integer>
 		<key>question</key>
@@ -4719,6 +4647,8 @@
 		<integer>30</integer>
 		<key>oslash</key>
 		<integer>35</integer>
+		<key>oslashacute</key>
+		<integer>35</integer>
 		<key>p</key>
 		<integer>0</integer>
 		<key>parenright</key>
@@ -4759,6 +4689,8 @@
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
 		<key>asterisk</key>
+		<integer>10</integer>
+		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>exclam</key>
 		<integer>20</integer>
@@ -4825,6 +4757,8 @@
 		<integer>-30</integer>
 		<key>asterisk</key>
 		<integer>30</integer>
+		<key>asterisk.alt</key>
+		<integer>30</integer>
 		<key>at</key>
 		<integer>-20</integer>
 		<key>bullet</key>
@@ -4832,6 +4766,8 @@
 		<key>exclam</key>
 		<integer>35</integer>
 		<key>oslash</key>
+		<integer>5</integer>
+		<key>oslashacute</key>
 		<integer>5</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
@@ -4886,6 +4822,8 @@
 		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>15</integer>
+		<key>asterisk.alt</key>
+		<integer>15</integer>
 		<key>exclam</key>
 		<integer>45</integer>
 		<key>ibreve</key>
@@ -4911,7 +4849,9 @@
 		<key>itilde</key>
 		<integer>30</integer>
 		<key>oslash</key>
-		<integer>40</integer>
+		<integer>20</integer>
+		<key>oslashacute</key>
+		<integer>20</integer>
 		<key>p</key>
 		<integer>0</integer>
 		<key>parenright</key>
@@ -4929,26 +4869,28 @@
 	</dict>
 	<key>@MMK_L_minute</key>
 	<dict>
+		<key>@MMK_R_zero.lin</key>
+		<integer>-15</integer>
 		<key>@MMK_R_zero.old</key>
 		<integer>-30</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-35</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
+		<integer>-20</integer>
 		<key>eight.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>eight.prop</key>
 		<integer>-25</integer>
 		<key>five.lin</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>five.old</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>five.prop</key>
 		<integer>-25</integer>
 		<key>four.lin</key>
-		<integer>-35</integer>
+		<integer>-60</integer>
 		<key>four.old</key>
-		<integer>-95</integer>
+		<integer>-90</integer>
 		<key>four.prop</key>
 		<integer>-100</integer>
 		<key>nine.lin</key>
@@ -4958,31 +4900,29 @@
 		<key>nine.prop</key>
 		<integer>-10</integer>
 		<key>one.lin</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>one.old</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
 		<integer>-30</integer>
 		<key>seven.lin</key>
-		<integer>5</integer>
-		<key>seven.old</key>
-		<integer>-5</integer>
+		<integer>15</integer>
 		<key>six.lin</key>
-		<integer>-30</integer>
-		<key>six.old</key>
 		<integer>-25</integer>
+		<key>six.old</key>
+		<integer>-35</integer>
 		<key>six.prop</key>
 		<integer>-35</integer>
 		<key>three.lin</key>
-		<integer>-10</integer>
+		<integer>5</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>three.prop</key>
 		<integer>-30</integer>
 		<key>two.lin</key>
 		<integer>10</integer>
 		<key>two.old</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>two.prop</key>
 		<integer>-10</integer>
 	</dict>
@@ -5018,11 +4958,15 @@
 		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>-35</integer>
+		<key>asterisk.alt</key>
+		<integer>-35</integer>
 		<key>bullet</key>
 		<integer>10</integer>
 		<key>exclam</key>
 		<integer>45</integer>
 		<key>oslash</key>
+		<integer>15</integer>
+		<key>oslashacute</key>
 		<integer>15</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
@@ -5078,6 +5022,8 @@
 		<key>ampersand</key>
 		<integer>5</integer>
 		<key>asterisk</key>
+		<integer>-35</integer>
+		<key>asterisk.alt</key>
 		<integer>-35</integer>
 		<key>at</key>
 		<integer>10</integer>
@@ -5149,6 +5095,8 @@
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
 		<key>asterisk</key>
+		<integer>55</integer>
+		<key>asterisk.alt</key>
 		<integer>55</integer>
 		<key>bullet</key>
 		<integer>20</integer>
@@ -5226,61 +5174,69 @@
 		<key>@MMK_R_z</key>
 		<integer>20</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-5</integer>
+		<integer>-40</integer>
+		<key>@MMK_R_zero.old</key>
+		<integer>-40</integer>
 		<key>Oslash</key>
+		<integer>30</integer>
+		<key>Oslashacute</key>
 		<integer>30</integer>
 		<key>V</key>
 		<integer>-25</integer>
 		<key>X</key>
 		<integer>70</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
+		<integer>-20</integer>
+		<key>eight.old</key>
+		<integer>-20</integer>
 		<key>eight.prop</key>
 		<integer>20</integer>
 		<key>five.lin</key>
-		<integer>10</integer>
-		<key>five.old</key>
-		<integer>15</integer>
+		<integer>-5</integer>
 		<key>five.prop</key>
 		<integer>20</integer>
 		<key>four.lin</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>four.old</key>
-		<integer>15</integer>
+		<integer>-5</integer>
 		<key>four.prop</key>
 		<integer>5</integer>
 		<key>nine.lin</key>
-		<integer>-5</integer>
+		<integer>-20</integer>
 		<key>nine.old</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>nine.prop</key>
 		<integer>15</integer>
+		<key>one.lin</key>
+		<integer>-40</integer>
 		<key>one.old</key>
-		<integer>-20</integer>
+		<integer>-35</integer>
 		<key>oslash</key>
+		<integer>35</integer>
+		<key>oslashacute</key>
 		<integer>35</integer>
 		<key>p</key>
 		<integer>5</integer>
 		<key>seven.lin</key>
-		<integer>-30</integer>
+		<integer>-65</integer>
 		<key>seven.old</key>
-		<integer>-30</integer>
+		<integer>-55</integer>
 		<key>seven.prop</key>
 		<integer>-40</integer>
 		<key>six.lin</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
 		<key>six.old</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
 		<key>six.prop</key>
 		<integer>-5</integer>
+		<key>three.lin</key>
+		<integer>5</integer>
 		<key>three.old</key>
-		<integer>30</integer>
+		<integer>15</integer>
 		<key>three.prop</key>
 		<integer>25</integer>
-		<key>two.lin</key>
-		<integer>30</integer>
 		<key>two.old</key>
-		<integer>20</integer>
+		<integer>5</integer>
 		<key>two.prop</key>
 		<integer>35</integer>
 		<key>x</key>
@@ -5338,7 +5294,11 @@
 		<integer>-30</integer>
 		<key>@MMK_R_zero.old</key>
 		<integer>-10</integer>
+		<key>@MMK_R_zero.prop</key>
+		<integer>-10</integer>
 		<key>Oslash</key>
+		<integer>0</integer>
+		<key>Oslashacute</key>
 		<integer>0</integer>
 		<key>Schwa</key>
 		<integer>-10</integer>
@@ -5347,25 +5307,23 @@
 		<key>X</key>
 		<integer>40</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
-		<key>eight.old</key>
-		<integer>-15</integer>
-		<key>eight.prop</key>
-		<integer>-20</integer>
+		<integer>-5</integer>
 		<key>five.old</key>
-		<integer>5</integer>
-		<key>five.prop</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>four.old</key>
 		<integer>10</integer>
-		<key>nine.prop</key>
-		<integer>10</integer>
+		<key>nine.lin</key>
+		<integer>-5</integer>
 		<key>one.lin</key>
 		<integer>-5</integer>
 		<key>one.old</key>
 		<integer>-10</integer>
 		<key>one.prop</key>
-		<integer>10</integer>
+		<integer>-10</integer>
+		<key>oslash</key>
+		<integer>-10</integer>
+		<key>oslashacute</key>
+		<integer>-10</integer>
 		<key>p</key>
 		<integer>-20</integer>
 		<key>seven.lin</key>
@@ -5373,27 +5331,27 @@
 		<key>seven.old</key>
 		<integer>-55</integer>
 		<key>seven.prop</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>six.lin</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>six.old</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>six.prop</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>thorn</key>
 		<integer>-20</integer>
 		<key>three.lin</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>three.old</key>
-		<integer>30</integer>
+		<integer>35</integer>
 		<key>three.prop</key>
-		<integer>30</integer>
+		<integer>35</integer>
 		<key>two.lin</key>
 		<integer>20</integer>
 		<key>two.old</key>
 		<integer>10</integer>
 		<key>two.prop</key>
-		<integer>25</integer>
+		<integer>5</integer>
 		<key>x</key>
 		<integer>-10</integer>
 		<key>y</key>
@@ -5446,9 +5404,9 @@
 		<key>@MMK_R_z</key>
 		<integer>-35</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-10</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-25</integer>
+		<integer>-50</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-50</integer>
 		<key>V</key>
@@ -5456,11 +5414,11 @@
 		<key>X</key>
 		<integer>-20</integer>
 		<key>eight.lin</key>
-		<integer>-25</integer>
+		<integer>-35</integer>
 		<key>eight.old</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>eight.prop</key>
-		<integer>-30</integer>
+		<integer>-35</integer>
 		<key>eth</key>
 		<integer>-25</integer>
 		<key>exclam</key>
@@ -5470,7 +5428,7 @@
 		<key>exclamdown.uc</key>
 		<integer>-20</integer>
 		<key>five.lin</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>five.old</key>
 		<integer>-25</integer>
 		<key>five.prop</key>
@@ -5478,7 +5436,7 @@
 		<key>four.lin</key>
 		<integer>-40</integer>
 		<key>four.old</key>
-		<integer>-110</integer>
+		<integer>-90</integer>
 		<key>four.prop</key>
 		<integer>-60</integer>
 		<key>ibreve</key>
@@ -5498,14 +5456,16 @@
 		<key>jcircumflex</key>
 		<integer>40</integer>
 		<key>nine.lin</key>
-		<integer>25</integer>
+		<integer>-5</integer>
 		<key>nine.old</key>
 		<integer>-30</integer>
 		<key>nine.prop</key>
-		<integer>-5</integer>
+		<integer>-25</integer>
 		<key>one.lin</key>
 		<integer>5</integer>
 		<key>one.old</key>
+		<integer>-40</integer>
+		<key>one.prop</key>
 		<integer>-40</integer>
 		<key>p</key>
 		<integer>10</integer>
@@ -5518,31 +5478,31 @@
 		<key>questiondown.uc</key>
 		<integer>-40</integer>
 		<key>seven.lin</key>
-		<integer>20</integer>
+		<integer>5</integer>
 		<key>seven.old</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>seven.prop</key>
-		<integer>10</integer>
+		<integer>-15</integer>
 		<key>six.lin</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>six.old</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>six.prop</key>
-		<integer>-45</integer>
+		<integer>-40</integer>
 		<key>thorn</key>
 		<integer>-10</integer>
 		<key>three.lin</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>three.old</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>three.prop</key>
-		<integer>-20</integer>
+		<integer>-15</integer>
 		<key>two.lin</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>two.old</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>two.prop</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>x</key>
 		<integer>-20</integer>
 	</dict>
@@ -5599,11 +5559,11 @@
 		<key>@MMK_R_z</key>
 		<integer>-20</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-60</integer>
+		<integer>-70</integer>
 		<key>@MMK_R_zero.prop</key>
-		<integer>-50</integer>
+		<integer>-70</integer>
 		<key>Schwa</key>
 		<integer>10</integer>
 		<key>V</key>
@@ -5613,7 +5573,7 @@
 		<key>eight.lin</key>
 		<integer>-30</integer>
 		<key>eight.old</key>
-		<integer>-45</integer>
+		<integer>-40</integer>
 		<key>eight.prop</key>
 		<integer>-30</integer>
 		<key>eth</key>
@@ -5627,7 +5587,7 @@
 		<key>five.lin</key>
 		<integer>-10</integer>
 		<key>five.old</key>
-		<integer>-50</integer>
+		<integer>-30</integer>
 		<key>five.prop</key>
 		<integer>-30</integer>
 		<key>four.lin</key>
@@ -5653,17 +5613,17 @@
 		<key>jcircumflex</key>
 		<integer>55</integer>
 		<key>nine.lin</key>
-		<integer>15</integer>
+		<integer>-10</integer>
 		<key>nine.old</key>
 		<integer>-40</integer>
 		<key>nine.prop</key>
-		<integer>-20</integer>
+		<integer>-35</integer>
 		<key>one.lin</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>one.old</key>
-		<integer>-50</integer>
+		<integer>-60</integer>
 		<key>one.prop</key>
-		<integer>-25</integer>
+		<integer>-60</integer>
 		<key>parenright</key>
 		<integer>-20</integer>
 		<key>questiondown</key>
@@ -5671,29 +5631,29 @@
 		<key>questiondown.uc</key>
 		<integer>-30</integer>
 		<key>seven.lin</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>seven.old</key>
-		<integer>-15</integer>
-		<key>seven.prop</key>
-		<integer>-15</integer>
-		<key>six.lin</key>
 		<integer>-25</integer>
+		<key>seven.prop</key>
+		<integer>-25</integer>
+		<key>six.lin</key>
+		<integer>-30</integer>
 		<key>six.old</key>
 		<integer>-50</integer>
 		<key>six.prop</key>
 		<integer>-50</integer>
 		<key>three.lin</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>three.prop</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 		<key>two.lin</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>two.old</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>two.prop</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>x</key>
 		<integer>-10</integer>
 	</dict>
@@ -5746,7 +5706,7 @@
 		<key>@MMK_R_zero.lin</key>
 		<integer>-20</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-35</integer>
 		<key>Schwa</key>
@@ -5756,9 +5716,9 @@
 		<key>X</key>
 		<integer>-15</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
+		<integer>-30</integer>
 		<key>eight.old</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>eight.prop</key>
 		<integer>-25</integer>
 		<key>exclam</key>
@@ -5767,28 +5727,24 @@
 		<integer>-35</integer>
 		<key>exclamdown.uc</key>
 		<integer>-30</integer>
-		<key>five.lin</key>
-		<integer>5</integer>
 		<key>five.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>five.prop</key>
 		<integer>-25</integer>
 		<key>four.lin</key>
-		<integer>-35</integer>
+		<integer>-30</integer>
 		<key>four.old</key>
-		<integer>-95</integer>
+		<integer>-50</integer>
 		<key>four.prop</key>
 		<integer>-100</integer>
-		<key>nine.lin</key>
-		<integer>30</integer>
 		<key>nine.old</key>
 		<integer>-30</integer>
 		<key>nine.prop</key>
 		<integer>-10</integer>
 		<key>one.lin</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>one.old</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
 		<integer>-30</integer>
 		<key>p</key>
@@ -5801,28 +5757,24 @@
 		<integer>-135</integer>
 		<key>questiondown.uc</key>
 		<integer>-70</integer>
-		<key>seven.lin</key>
-		<integer>5</integer>
 		<key>seven.old</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>six.lin</key>
-		<integer>-30</integer>
+		<integer>-5</integer>
 		<key>six.old</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>six.prop</key>
 		<integer>-35</integer>
 		<key>thorn</key>
 		<integer>-15</integer>
-		<key>three.lin</key>
-		<integer>-10</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>three.prop</key>
 		<integer>-30</integer>
 		<key>two.lin</key>
 		<integer>10</integer>
 		<key>two.old</key>
-		<integer>-30</integer>
+		<integer>-5</integer>
 		<key>two.prop</key>
 		<integer>-10</integer>
 		<key>x</key>
@@ -5873,6 +5825,8 @@
 		<key>ampersand</key>
 		<integer>-25</integer>
 		<key>asterisk</key>
+		<integer>50</integer>
+		<key>asterisk.alt</key>
 		<integer>50</integer>
 		<key>at</key>
 		<integer>-5</integer>
@@ -6001,9 +5955,9 @@
 		<key>X</key>
 		<integer>35</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>eight.old</key>
-		<integer>-45</integer>
+		<integer>-25</integer>
 		<key>eight.prop</key>
 		<integer>-25</integer>
 		<key>eth</key>
@@ -6011,25 +5965,25 @@
 		<key>five.lin</key>
 		<integer>15</integer>
 		<key>five.old</key>
-		<integer>-100</integer>
+		<integer>-45</integer>
 		<key>five.prop</key>
 		<integer>-15</integer>
 		<key>four.lin</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>four.old</key>
-		<integer>-165</integer>
+		<integer>-145</integer>
 		<key>four.prop</key>
 		<integer>-110</integer>
 		<key>nine.lin</key>
 		<integer>30</integer>
 		<key>nine.old</key>
-		<integer>-75</integer>
+		<integer>-65</integer>
 		<key>nine.prop</key>
 		<integer>-15</integer>
 		<key>one.lin</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>one.old</key>
-		<integer>-120</integer>
+		<integer>-90</integer>
 		<key>one.prop</key>
 		<integer>-60</integer>
 		<key>p</key>
@@ -6037,7 +5991,7 @@
 		<key>seven.lin</key>
 		<integer>40</integer>
 		<key>seven.old</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>seven.prop</key>
 		<integer>-10</integer>
 		<key>six.lin</key>
@@ -6049,13 +6003,13 @@
 		<key>thorn</key>
 		<integer>30</integer>
 		<key>three.old</key>
-		<integer>-105</integer>
+		<integer>-60</integer>
 		<key>three.prop</key>
 		<integer>-35</integer>
 		<key>two.lin</key>
 		<integer>10</integer>
 		<key>two.old</key>
-		<integer>-90</integer>
+		<integer>-60</integer>
 		<key>two.prop</key>
 		<integer>-35</integer>
 		<key>x</key>
@@ -6097,6 +6051,8 @@
 		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>15</integer>
+		<key>asterisk.alt</key>
+		<integer>15</integer>
 		<key>at</key>
 		<integer>-10</integer>
 		<key>bullet</key>
@@ -6104,6 +6060,8 @@
 		<key>exclam</key>
 		<integer>35</integer>
 		<key>oslash</key>
+		<integer>0</integer>
+		<key>oslashacute</key>
 		<integer>0</integer>
 		<key>parenright</key>
 		<integer>5</integer>
@@ -6149,6 +6107,8 @@
 		<key>ampersand</key>
 		<integer>-5</integer>
 		<key>asterisk</key>
+		<integer>5</integer>
+		<key>asterisk.alt</key>
 		<integer>5</integer>
 		<key>bullet</key>
 		<integer>10</integer>
@@ -6219,6 +6179,8 @@
 		<integer>-35</integer>
 		<key>asterisk</key>
 		<integer>70</integer>
+		<key>asterisk.alt</key>
+		<integer>70</integer>
 		<key>at</key>
 		<integer>-15</integer>
 		<key>bullet</key>
@@ -6284,6 +6246,8 @@
 		<integer>-30</integer>
 		<key>asterisk</key>
 		<integer>25</integer>
+		<key>asterisk.alt</key>
+		<integer>25</integer>
 		<key>at</key>
 		<integer>5</integer>
 		<key>bullet</key>
@@ -6341,6 +6305,8 @@
 		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>10</integer>
+		<key>asterisk.alt</key>
+		<integer>10</integer>
 		<key>at</key>
 		<integer>10</integer>
 		<key>bullet</key>
@@ -6348,6 +6314,8 @@
 		<key>exclam</key>
 		<integer>20</integer>
 		<key>oslash</key>
+		<integer>15</integer>
+		<key>oslashacute</key>
 		<integer>15</integer>
 		<key>parenright</key>
 		<integer>-5</integer>
@@ -6366,76 +6334,42 @@
 	</dict>
 	<key>@MMK_L_zero.lin</key>
 	<dict>
-		<key>@MMK_R_braceright</key>
-		<integer>5</integer>
-		<key>@MMK_R_braceright_uc</key>
-		<integer>10</integer>
-		<key>@MMK_R_dashes</key>
+		<key>@MMK_R_colon</key>
 		<integer>20</integer>
-		<key>@MMK_R_dashes.uc</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotleft_uc</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-35</integer>
-		<key>@MMK_R_guillemotright_uc</key>
-		<integer>-10</integer>
-		<key>@MMK_R_minute</key>
-		<integer>-25</integer>
-		<key>@MMK_R_percent</key>
-		<integer>25</integer>
 		<key>@MMK_R_period</key>
-		<integer>-60</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-50</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-40</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-45</integer>
 		<key>Euro.proportional</key>
 		<integer>25</integer>
 		<key>ampersand</key>
-		<integer>-15</integer>
-		<key>bullet</key>
-		<integer>15</integer>
+		<integer>-20</integer>
 		<key>cent.proportional</key>
 		<integer>10</integer>
 		<key>degree</key>
-		<integer>5</integer>
-		<key>divide.lin</key>
-		<integer>15</integer>
+		<integer>-20</integer>
 		<key>eight.num</key>
 		<integer>5</integer>
-		<key>equal</key>
-		<integer>10</integer>
 		<key>five.lin</key>
 		<integer>-20</integer>
 		<key>four.num</key>
 		<integer>20</integer>
-		<key>minus</key>
-		<integer>10</integer>
 		<key>minus.lin</key>
-		<integer>5</integer>
-		<key>multiply.lin</key>
-		<integer>-5</integer>
+		<integer>15</integer>
 		<key>nine.num</key>
 		<integer>5</integer>
 		<key>one.lin</key>
 		<integer>-25</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
-		<key>periodcentered</key>
-		<integer>10</integer>
-		<key>plus</key>
-		<integer>5</integer>
-		<key>plus.lin</key>
-		<integer>5</integer>
 		<key>question</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>servicemark</key>
 		<integer>-5</integer>
 		<key>seven.lin</key>
@@ -6459,48 +6393,32 @@
 	<dict>
 		<key>@MMK_R_backslash</key>
 		<integer>-65</integer>
-		<key>@MMK_R_braceright</key>
-		<integer>10</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-20</integer>
+		<key>@MMK_R_colon</key>
+		<integer>5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-30</integer>
-		<key>@MMK_R_percent</key>
-		<integer>15</integer>
 		<key>@MMK_R_period</key>
 		<integer>-40</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-75</integer>
+		<integer>-60</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-40</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
+		<integer>-45</integer>
 		<key>Euro.proportional</key>
-		<integer>25</integer>
+		<integer>20</integer>
+		<key>ampersand</key>
+		<integer>-10</integer>
 		<key>asterisk</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>asterisk.alt</key>
 		<integer>-20</integer>
-		<key>at</key>
-		<integer>10</integer>
-		<key>bullet</key>
-		<integer>15</integer>
 		<key>cent.proportional</key>
 		<integer>10</integer>
 		<key>degree</key>
-		<integer>-20</integer>
-		<key>divide</key>
-		<integer>10</integer>
-		<key>equal</key>
-		<integer>10</integer>
-		<key>exclam</key>
-		<integer>25</integer>
+		<integer>-40</integer>
 		<key>five.num</key>
 		<integer>5</integer>
 		<key>five.old</key>
@@ -6509,12 +6427,10 @@
 		<integer>10</integer>
 		<key>four.old</key>
 		<integer>-20</integer>
-		<key>minus</key>
-		<integer>10</integer>
 		<key>nine.num</key>
 		<integer>5</integer>
 		<key>numbersign</key>
-		<integer>20</integer>
+		<integer>10</integer>
 		<key>one.num</key>
 		<integer>15</integer>
 		<key>one.old</key>
@@ -6525,14 +6441,10 @@
 		<integer>-10</integer>
 		<key>parenright</key>
 		<integer>-5</integer>
-		<key>periodcentered</key>
-		<integer>25</integer>
-		<key>plus</key>
-		<integer>15</integer>
 		<key>question</key>
-		<integer>-65</integer>
+		<integer>-50</integer>
 		<key>servicemark</key>
-		<integer>-5</integer>
+		<integer>-20</integer>
 		<key>seven.num</key>
 		<integer>-5</integer>
 		<key>seven.old</key>
@@ -6558,18 +6470,14 @@
 		<integer>-10</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>20</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-25</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-30</integer>
-		<key>@MMK_R_percent</key>
-		<integer>20</integer>
 		<key>@MMK_R_period</key>
 		<integer>-50</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-80</integer>
+		<integer>-50</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-75</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
@@ -6581,17 +6489,15 @@
 		<key>asterisk</key>
 		<integer>-25</integer>
 		<key>asterisk.alt</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>bullet</key>
 		<integer>10</integer>
 		<key>cent.proportional</key>
 		<integer>10</integer>
 		<key>degree</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
 		<key>eight.num</key>
 		<integer>-5</integer>
-		<key>equal</key>
-		<integer>10</integer>
 		<key>five.num</key>
 		<integer>-10</integer>
 		<key>four.num</key>
@@ -6600,8 +6506,6 @@
 		<integer>-20</integer>
 		<key>minus</key>
 		<integer>10</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
@@ -6629,7 +6533,7 @@
 		<key>three.num</key>
 		<integer>-10</integer>
 		<key>trademark</key>
-		<integer>-35</integer>
+		<integer>-30</integer>
 		<key>two.num</key>
 		<integer>5</integer>
 	</dict>
@@ -6736,14 +6640,10 @@
 	</dict>
 	<key>Euro.proportional</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>5</integer>
-		<key>five.old</key>
-		<integer>-5</integer>
 		<key>four.old</key>
 		<integer>-5</integer>
 		<key>nine.lin</key>
-		<integer>10</integer>
+		<integer>-10</integer>
 		<key>nine.old</key>
 		<integer>-10</integer>
 		<key>nine.prop</key>
@@ -6759,7 +6659,7 @@
 		<key>seven.old</key>
 		<integer>-10</integer>
 		<key>seven.prop</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>six.lin</key>
 		<integer>-5</integer>
 		<key>six.old</key>
@@ -6768,19 +6668,14 @@
 		<integer>-5</integer>
 		<key>three.lin</key>
 		<integer>10</integer>
-		<key>three.old</key>
-		<integer>-5</integer>
 		<key>three.prop</key>
 		<integer>10</integer>
+		<key>two.lin</key>
+		<integer>-5</integer>
 		<key>two.old</key>
 		<integer>-10</integer>
 		<key>two.prop</key>
 		<integer>-5</integer>
-	</dict>
-	<key>F</key>
-	<dict>
-		<key>tdieresis</key>
-		<integer>40</integer>
 	</dict>
 	<key>Hbar</key>
 	<dict>
@@ -6799,6 +6694,15 @@
 		<integer>-30</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-30</integer>
+		<key>V</key>
+		<integer>0</integer>
+	</dict>
+	<key>Oslashacute</key>
+	<dict>
+		<key>@MMK_R_W</key>
+		<integer>-5</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-10</integer>
 		<key>V</key>
 		<integer>0</integer>
 	</dict>
@@ -6885,6 +6789,8 @@
 		<key>ampersand</key>
 		<integer>-50</integer>
 		<key>asterisk</key>
+		<integer>50</integer>
+		<key>asterisk.alt</key>
 		<integer>50</integer>
 		<key>at</key>
 		<integer>-5</integer>
@@ -7036,6 +6942,8 @@
 		<integer>-20</integer>
 		<key>asterisk</key>
 		<integer>10</integer>
+		<key>asterisk.alt</key>
+		<integer>10</integer>
 		<key>at</key>
 		<integer>10</integer>
 		<key>at.uc</key>
@@ -7171,6 +7079,8 @@
 		<key>ampersand</key>
 		<integer>-90</integer>
 		<key>asterisk</key>
+		<integer>25</integer>
+		<key>asterisk.alt</key>
 		<integer>25</integer>
 		<key>at</key>
 		<integer>-55</integer>
@@ -7489,9 +7399,9 @@
 		<key>@MMK_R_z</key>
 		<integer>-10</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>50</integer>
+		<integer>15</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>25</integer>
+		<integer>20</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>40</integer>
 		<key>Oslash</key>
@@ -7503,55 +7413,57 @@
 		<key>X</key>
 		<integer>35</integer>
 		<key>eight.lin</key>
-		<integer>15</integer>
+		<integer>-15</integer>
 		<key>eight.old</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>10</integer>
 		<key>five.lin</key>
-		<integer>20</integer>
+		<integer>-10</integer>
 		<key>five.old</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>five.prop</key>
 		<integer>10</integer>
 		<key>four.lin</key>
-		<integer>30</integer>
+		<integer>-25</integer>
+		<key>four.old</key>
+		<integer>-20</integer>
 		<key>four.prop</key>
 		<integer>-15</integer>
 		<key>nine.lin</key>
-		<integer>40</integer>
+		<integer>10</integer>
 		<key>nine.old</key>
-		<integer>40</integer>
+		<integer>5</integer>
 		<key>nine.prop</key>
 		<integer>35</integer>
 		<key>one.lin</key>
-		<integer>-5</integer>
-		<key>one.old</key>
 		<integer>-15</integer>
+		<key>one.old</key>
+		<integer>-10</integer>
 		<key>oslash</key>
 		<integer>40</integer>
 		<key>p</key>
 		<integer>15</integer>
 		<key>seven.lin</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
+		<key>seven.old</key>
+		<integer>-25</integer>
 		<key>seven.prop</key>
 		<integer>-10</integer>
 		<key>six.lin</key>
-		<integer>40</integer>
+		<integer>15</integer>
 		<key>six.old</key>
-		<integer>25</integer>
+		<integer>10</integer>
 		<key>six.prop</key>
 		<integer>35</integer>
-		<key>three.lin</key>
-		<integer>5</integer>
 		<key>three.old</key>
-		<integer>20</integer>
+		<integer>15</integer>
 		<key>three.prop</key>
 		<integer>15</integer>
 		<key>two.lin</key>
-		<integer>20</integer>
+		<integer>5</integer>
 		<key>two.old</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>two.prop</key>
 		<integer>35</integer>
 		<key>x</key>
@@ -7611,76 +7523,13 @@
 		<key>@MMK_R_z</key>
 		<integer>-35</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>Schwa</key>
 		<integer>20</integer>
 		<key>V</key>
 		<integer>15</integer>
 		<key>X</key>
 		<integer>-10</integer>
-		<key>eight.lin</key>
-		<integer>-30</integer>
-		<key>eight.old</key>
-		<integer>-30</integer>
-		<key>eight.prop</key>
-		<integer>-10</integer>
-		<key>five.lin</key>
-		<integer>-15</integer>
-		<key>five.old</key>
-		<integer>-30</integer>
-		<key>five.prop</key>
-		<integer>-40</integer>
-		<key>four.lin</key>
-		<integer>-55</integer>
-		<key>four.old</key>
-		<integer>-105</integer>
-		<key>four.prop</key>
-		<integer>-80</integer>
-		<key>nine.lin</key>
-		<integer>25</integer>
-		<key>nine.old</key>
-		<integer>-20</integer>
-		<key>nine.prop</key>
-		<integer>-10</integer>
-		<key>one.lin</key>
-		<integer>-5</integer>
-		<key>one.old</key>
-		<integer>-35</integer>
-		<key>one.prop</key>
-		<integer>-5</integer>
-		<key>p</key>
-		<integer>20</integer>
-		<key>seven.lin</key>
-		<integer>5</integer>
-		<key>seven.prop</key>
-		<integer>-15</integer>
-		<key>six.lin</key>
-		<integer>-5</integer>
-		<key>six.old</key>
-		<integer>-20</integer>
-		<key>six.prop</key>
-		<integer>-30</integer>
-		<key>three.lin</key>
-		<integer>-20</integer>
-		<key>three.old</key>
-		<integer>-35</integer>
-		<key>three.prop</key>
-		<integer>-25</integer>
-		<key>two.lin</key>
-		<integer>30</integer>
-		<key>two.old</key>
-		<integer>-10</integer>
-		<key>two.prop</key>
-		<integer>-15</integer>
-		<key>x</key>
-		<integer>-20</integer>
-	</dict>
-	<key>asterisk.alt</key>
-	<dict>
-		<key>@MMK_R_zero.old</key>
-		<integer>-20</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>-20</integer>
 		<key>eight.lin</key>
 		<integer>-10</integer>
 		<key>eight.old</key>
@@ -7704,13 +7553,15 @@
 		<key>nine.old</key>
 		<integer>-25</integer>
 		<key>nine.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>one.lin</key>
 		<integer>-5</integer>
 		<key>one.old</key>
 		<integer>-15</integer>
 		<key>one.prop</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
+		<key>p</key>
+		<integer>20</integer>
 		<key>seven.prop</key>
 		<integer>-15</integer>
 		<key>six.lin</key>
@@ -7730,6 +7581,115 @@
 		<key>two.old</key>
 		<integer>-20</integer>
 		<key>two.prop</key>
+		<integer>-15</integer>
+		<key>x</key>
+		<integer>-20</integer>
+	</dict>
+	<key>asterisk.alt</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-70</integer>
+		<key>@MMK_R_AE</key>
+		<integer>-140</integer>
+		<key>@MMK_R_J</key>
+		<integer>-80</integer>
+		<key>@MMK_R_O</key>
+		<integer>20</integer>
+		<key>@MMK_R_S</key>
+		<integer>-15</integer>
+		<key>@MMK_R_T</key>
+		<integer>25</integer>
+		<key>@MMK_R_W</key>
+		<integer>10</integer>
+		<key>@MMK_R_Y</key>
+		<integer>5</integer>
+		<key>@MMK_R_a</key>
+		<integer>-40</integer>
+		<key>@MMK_R_ae</key>
+		<integer>-10</integer>
+		<key>@MMK_R_f</key>
+		<integer>10</integer>
+		<key>@MMK_R_g</key>
+		<integer>-55</integer>
+		<key>@MMK_R_g.alt</key>
+		<integer>-40</integer>
+		<key>@MMK_R_j</key>
+		<integer>15</integer>
+		<key>@MMK_R_l</key>
+		<integer>-5</integer>
+		<key>@MMK_R_n</key>
+		<integer>20</integer>
+		<key>@MMK_R_o</key>
+		<integer>-35</integer>
+		<key>@MMK_R_s</key>
+		<integer>-30</integer>
+		<key>@MMK_R_v</key>
+		<integer>35</integer>
+		<key>@MMK_R_z</key>
+		<integer>-35</integer>
+		<key>@MMK_R_zero.old</key>
+		<integer>-20</integer>
+		<key>@MMK_R_zero.prop</key>
+		<integer>-20</integer>
+		<key>Schwa</key>
+		<integer>20</integer>
+		<key>V</key>
+		<integer>15</integer>
+		<key>X</key>
+		<integer>-10</integer>
+		<key>eight.lin</key>
+		<integer>-10</integer>
+		<key>eight.old</key>
+		<integer>-20</integer>
+		<key>eight.prop</key>
+		<integer>-10</integer>
+		<key>five.lin</key>
+		<integer>-20</integer>
+		<key>five.old</key>
+		<integer>-30</integer>
+		<key>five.prop</key>
+		<integer>-40</integer>
+		<key>four.lin</key>
+		<integer>-50</integer>
+		<key>four.old</key>
+		<integer>-80</integer>
+		<key>four.prop</key>
+		<integer>-80</integer>
+		<key>nine.lin</key>
+		<integer>5</integer>
+		<key>nine.old</key>
+		<integer>-25</integer>
+		<key>nine.prop</key>
+		<integer>-10</integer>
+		<key>one.lin</key>
+		<integer>-5</integer>
+		<key>one.old</key>
+		<integer>-15</integer>
+		<key>one.prop</key>
+		<integer>-5</integer>
+		<key>p</key>
+		<integer>20</integer>
+		<key>seven.prop</key>
+		<integer>-15</integer>
+		<key>six.lin</key>
+		<integer>-15</integer>
+		<key>six.old</key>
+		<integer>-30</integer>
+		<key>six.prop</key>
+		<integer>-30</integer>
+		<key>three.lin</key>
+		<integer>-15</integer>
+		<key>three.old</key>
+		<integer>-20</integer>
+		<key>three.prop</key>
+		<integer>-25</integer>
+		<key>two.lin</key>
+		<integer>-10</integer>
+		<key>two.old</key>
+		<integer>-20</integer>
+		<key>two.prop</key>
+		<integer>-15</integer>
+		<key>x</key>
 		<integer>-20</integer>
 	</dict>
 	<key>at</key>
@@ -7768,8 +7728,6 @@
 		<integer>5</integer>
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>5</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>10</integer>
 		<key>Schwa</key>
@@ -7779,49 +7737,49 @@
 		<key>X</key>
 		<integer>-20</integer>
 		<key>eight.lin</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>eight.old</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>-10</integer>
 		<key>five.lin</key>
-		<integer>-30</integer>
-		<key>five.old</key>
 		<integer>-35</integer>
+		<key>five.old</key>
+		<integer>-25</integer>
 		<key>five.prop</key>
 		<integer>-25</integer>
 		<key>four</key>
 		<integer>5</integer>
+		<key>four.lin</key>
+		<integer>-5</integer>
 		<key>four.old</key>
-		<integer>-65</integer>
+		<integer>-60</integer>
 		<key>four.prop</key>
 		<integer>-45</integer>
 		<key>one.lin</key>
-		<integer>-50</integer>
-		<key>one.old</key>
 		<integer>-45</integer>
+		<key>one.old</key>
+		<integer>-35</integer>
 		<key>one.prop</key>
 		<integer>-45</integer>
 		<key>seven.lin</key>
-		<integer>-55</integer>
+		<integer>-45</integer>
 		<key>seven.old</key>
-		<integer>-35</integer>
+		<integer>-40</integer>
 		<key>seven.prop</key>
 		<integer>-40</integer>
-		<key>six.old</key>
-		<integer>-5</integer>
 		<key>thorn</key>
 		<integer>-5</integer>
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>three.old</key>
-		<integer>-50</integer>
+		<integer>-15</integer>
 		<key>three.prop</key>
 		<integer>-15</integer>
 		<key>two.lin</key>
 		<integer>-25</integer>
 		<key>two.old</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>two.prop</key>
 		<integer>-20</integer>
 		<key>x</key>
@@ -7858,13 +7816,13 @@
 		<key>five.lin</key>
 		<integer>-20</integer>
 		<key>four.lin</key>
-		<integer>-10</integer>
+		<integer>-25</integer>
 		<key>one.lin</key>
 		<integer>-30</integer>
 		<key>seven.lin</key>
-		<integer>-45</integer>
+		<integer>-35</integer>
 		<key>three.lin</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>two.lin</key>
 		<integer>-20</integer>
 	</dict>
@@ -7915,8 +7873,6 @@
 		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
 		<key>Schwa</key>
 		<integer>20</integer>
 		<key>V</key>
@@ -7924,7 +7880,7 @@
 		<key>X</key>
 		<integer>-50</integer>
 		<key>eight.lin</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>eight.old</key>
 		<integer>-30</integer>
 		<key>eight.prop</key>
@@ -7932,25 +7888,25 @@
 		<key>five.lin</key>
 		<integer>-25</integer>
 		<key>five.old</key>
-		<integer>-30</integer>
+		<integer>-35</integer>
 		<key>five.prop</key>
 		<integer>-25</integer>
 		<key>four.lin</key>
 		<integer>-5</integer>
 		<key>four.old</key>
-		<integer>-70</integer>
+		<integer>-75</integer>
 		<key>four.prop</key>
 		<integer>-40</integer>
 		<key>nine.lin</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>nine.old</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>nine.prop</key>
 		<integer>-10</integer>
 		<key>one.lin</key>
-		<integer>-90</integer>
+		<integer>-75</integer>
 		<key>one.old</key>
-		<integer>-70</integer>
+		<integer>-50</integer>
 		<key>one.prop</key>
 		<integer>-55</integer>
 		<key>p</key>
@@ -7958,11 +7914,9 @@
 		<key>seven.lin</key>
 		<integer>-55</integer>
 		<key>seven.old</key>
-		<integer>-55</integer>
+		<integer>-45</integer>
 		<key>seven.prop</key>
 		<integer>-50</integer>
-		<key>six.old</key>
-		<integer>-5</integer>
 		<key>six.prop</key>
 		<integer>-5</integer>
 		<key>thorn</key>
@@ -7970,13 +7924,13 @@
 		<key>three.lin</key>
 		<integer>-25</integer>
 		<key>three.old</key>
-		<integer>-55</integer>
+		<integer>-40</integer>
 		<key>three.prop</key>
 		<integer>-25</integer>
 		<key>two.lin</key>
 		<integer>-40</integer>
 		<key>two.old</key>
-		<integer>-55</integer>
+		<integer>-40</integer>
 		<key>two.prop</key>
 		<integer>-40</integer>
 		<key>x</key>
@@ -8005,96 +7959,86 @@
 	<key>degree</key>
 	<dict>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-50</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-85</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>-65</integer>
-		<key>eight.lin</key>
-		<integer>-105</integer>
-		<key>eight.old</key>
-		<integer>-105</integer>
-		<key>eight.prop</key>
-		<integer>-85</integer>
-		<key>five.lin</key>
-		<integer>-70</integer>
-		<key>five.old</key>
-		<integer>-100</integer>
-		<key>five.prop</key>
-		<integer>-75</integer>
-		<key>four.lin</key>
-		<integer>-95</integer>
-		<key>four.old</key>
-		<integer>-175</integer>
-		<key>four.prop</key>
-		<integer>-155</integer>
-		<key>nine.lin</key>
-		<integer>-30</integer>
-		<key>nine.old</key>
-		<integer>-65</integer>
-		<key>nine.prop</key>
-		<integer>-35</integer>
-		<key>one.lin</key>
-		<integer>-75</integer>
-		<key>one.old</key>
-		<integer>-100</integer>
-		<key>one.prop</key>
-		<integer>-70</integer>
-		<key>seven.lin</key>
-		<integer>-60</integer>
-		<key>seven.old</key>
 		<integer>-40</integer>
-		<key>seven.prop</key>
-		<integer>-50</integer>
-		<key>six.lin</key>
-		<integer>-70</integer>
-		<key>six.old</key>
-		<integer>-60</integer>
-		<key>six.prop</key>
-		<integer>-60</integer>
-		<key>three.lin</key>
-		<integer>-85</integer>
-		<key>three.old</key>
-		<integer>-80</integer>
-		<key>three.prop</key>
-		<integer>-55</integer>
-		<key>two.lin</key>
+		<key>@MMK_R_zero.prop</key>
+		<integer>-40</integer>
+		<key>eight.lin</key>
 		<integer>-45</integer>
+		<key>eight.old</key>
+		<integer>-45</integer>
+		<key>eight.prop</key>
+		<integer>-45</integer>
+		<key>five.lin</key>
+		<integer>-40</integer>
+		<key>five.old</key>
+		<integer>-35</integer>
+		<key>five.prop</key>
+		<integer>-35</integer>
+		<key>four.lin</key>
+		<integer>-80</integer>
+		<key>four.old</key>
+		<integer>-120</integer>
+		<key>four.prop</key>
+		<integer>-100</integer>
+		<key>nine.lin</key>
+		<integer>-15</integer>
+		<key>nine.old</key>
+		<integer>-40</integer>
+		<key>nine.prop</key>
+		<integer>-30</integer>
+		<key>one.lin</key>
+		<integer>-5</integer>
+		<key>one.old</key>
+		<integer>-45</integer>
+		<key>one.prop</key>
+		<integer>-30</integer>
+		<key>seven.lin</key>
+		<integer>-15</integer>
+		<key>seven.old</key>
+		<integer>-15</integer>
+		<key>seven.prop</key>
+		<integer>-15</integer>
+		<key>six.lin</key>
+		<integer>-40</integer>
+		<key>six.old</key>
+		<integer>-40</integer>
+		<key>six.prop</key>
+		<integer>-35</integer>
+		<key>three.lin</key>
+		<integer>-25</integer>
+		<key>three.old</key>
+		<integer>-40</integer>
+		<key>three.prop</key>
+		<integer>-30</integer>
 		<key>two.old</key>
-		<integer>-55</integer>
+		<integer>-30</integer>
 		<key>two.prop</key>
-		<integer>-50</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>divide</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
 		<key>eight.lin</key>
 		<integer>-10</integer>
 		<key>eight.old</key>
-		<integer>-15</integer>
-		<key>eight.prop</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>five.lin</key>
 		<integer>-30</integer>
 		<key>five.old</key>
-		<integer>-60</integer>
+		<integer>-10</integer>
 		<key>four.lin</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>four.old</key>
-		<integer>-60</integer>
+		<integer>-55</integer>
 		<key>four.prop</key>
 		<integer>-30</integer>
 		<key>nine.lin</key>
 		<integer>-10</integer>
-		<key>nine.prop</key>
-		<integer>-5</integer>
 		<key>one.lin</key>
 		<integer>-30</integer>
 		<key>one.old</key>
-		<integer>-60</integer>
+		<integer>-55</integer>
 		<key>one.prop</key>
 		<integer>-30</integer>
 		<key>seven.lin</key>
@@ -8102,99 +8046,83 @@
 		<key>seven.old</key>
 		<integer>-25</integer>
 		<key>seven.prop</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>three.old</key>
 		<integer>-30</integer>
 		<key>two.lin</key>
 		<integer>-35</integer>
 		<key>two.old</key>
-		<integer>-55</integer>
+		<integer>-15</integer>
 		<key>two.prop</key>
 		<integer>-20</integer>
 	</dict>
 	<key>divide.lin</key>
 	<dict>
 		<key>eight.lin</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>four.lin</key>
-		<integer>-10</integer>
-		<key>nine.lin</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>one.lin</key>
-		<integer>-45</integer>
+		<integer>-35</integer>
 		<key>seven.lin</key>
-		<integer>-55</integer>
-		<key>six.lin</key>
-		<integer>-5</integer>
+		<integer>-60</integer>
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>two.lin</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>eight.lin</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>-5</integer>
-		<key>@MMK_R_guillemotleft</key>
 		<integer>-5</integer>
 		<key>@MMK_R_guillemotleft_uc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_percent</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-15</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>Euro.proportional</key>
 		<integer>5</integer>
 		<key>ampersand</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>asterisk</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>asterisk.alt</key>
 		<integer>-10</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
-		<integer>-25</integer>
-		<key>cent.proportional</key>
-		<integer>-5</integer>
+		<integer>-30</integer>
 		<key>degree</key>
-		<integer>-5</integer>
+		<integer>-45</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>divide.lin</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>eight.lin</key>
 		<integer>-10</integer>
-		<key>equal</key>
-		<integer>-5</integer>
 		<key>exclam</key>
 		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>four.lin</key>
 		<integer>-15</integer>
-		<key>less</key>
-		<integer>-5</integer>
 		<key>less.lin</key>
 		<integer>-25</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
 		<key>multiply.lin</key>
 		<integer>-20</integer>
 		<key>nine.lin</key>
@@ -8213,10 +8141,12 @@
 		<integer>-10</integer>
 		<key>parenright.uc</key>
 		<integer>-5</integer>
+		<key>periodcentered</key>
+		<integer>-15</integer>
 		<key>plus</key>
 		<integer>-10</integer>
 		<key>plus.lin</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>question</key>
 		<integer>-60</integer>
 		<key>servicemark</key>
@@ -8244,41 +8174,35 @@
 	<key>eight.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-5</integer>
-		<key>@MMK_R_braceright</key>
-		<integer>10</integer>
-		<key>@MMK_R_colon</key>
-		<integer>10</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_minute</key>
-		<integer>-5</integer>
-		<key>@MMK_R_percent</key>
-		<integer>20</integer>
-		<key>@MMK_R_period</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quoteleft</key>
 		<integer>-25</integer>
-		<key>@MMK_R_quoteright</key>
-		<integer>-30</integer>
-		<key>@MMK_R_quotesingle</key>
+		<key>@MMK_R_colon</key>
 		<integer>-5</integer>
-		<key>@MMK_R_slash</key>
+		<key>@MMK_R_minute</key>
 		<integer>-20</integer>
-		<key>Euro.proportional</key>
-		<integer>5</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-10</integer>
+		<key>@MMK_R_period</key>
+		<integer>-20</integer>
+		<key>@MMK_R_quoteleft</key>
+		<integer>-30</integer>
+		<key>@MMK_R_quoteright</key>
+		<integer>-35</integer>
+		<key>@MMK_R_quotesingle</key>
+		<integer>-30</integer>
+		<key>@MMK_R_slash</key>
+		<integer>-40</integer>
+		<key>ampersand</key>
+		<integer>-10</integer>
 		<key>asterisk</key>
 		<integer>-20</integer>
 		<key>asterisk.alt</key>
 		<integer>-20</integer>
+		<key>at</key>
+		<integer>-5</integer>
 		<key>bullet</key>
-		<integer>-15</integer>
-		<key>cent.proportional</key>
-		<integer>5</integer>
+		<integer>-30</integer>
 		<key>degree</key>
-		<integer>5</integer>
+		<integer>-45</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>eight.num</key>
@@ -8286,7 +8210,7 @@
 		<key>eight.old</key>
 		<integer>-10</integer>
 		<key>exclam</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>five.num</key>
 		<integer>-5</integer>
 		<key>five.old</key>
@@ -8297,11 +8221,11 @@
 		<integer>-25</integer>
 		<key>less</key>
 		<integer>-5</integer>
-		<key>minus</key>
-		<integer>5</integer>
 		<key>multiply</key>
 		<integer>-15</integer>
 		<key>nine.old</key>
+		<integer>-15</integer>
+		<key>numbersign</key>
 		<integer>-15</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
@@ -8313,12 +8237,14 @@
 		<integer>-15</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
+		<key>periodcentered</key>
+		<integer>-10</integer>
 		<key>plus</key>
 		<integer>-10</integer>
 		<key>question</key>
-		<integer>-45</integer>
+		<integer>-65</integer>
 		<key>servicemark</key>
-		<integer>-15</integer>
+		<integer>-25</integer>
 		<key>seven.num</key>
 		<integer>-15</integer>
 		<key>seven.old</key>
@@ -8330,7 +8256,7 @@
 		<key>three.old</key>
 		<integer>-30</integer>
 		<key>trademark</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>two.num</key>
 		<integer>-5</integer>
 		<key>two.old</key>
@@ -8344,18 +8270,14 @@
 		<integer>5</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-15</integer>
 		<key>@MMK_R_percent</key>
-		<integer>15</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
 		<integer>-25</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-35</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-35</integer>
 		<key>@MMK_R_quotesingle</key>
@@ -8373,7 +8295,7 @@
 		<key>bullet</key>
 		<integer>-30</integer>
 		<key>degree</key>
-		<integer>10</integer>
+		<integer>-45</integer>
 		<key>eight.prop</key>
 		<integer>-5</integer>
 		<key>exclam</key>
@@ -8382,12 +8304,10 @@
 		<integer>-15</integer>
 		<key>four.prop</key>
 		<integer>-25</integer>
-		<key>minus</key>
-		<integer>-5</integer>
 		<key>nine.prop</key>
 		<integer>-20</integer>
 		<key>numbersign</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
 		<key>one.prop</key>
@@ -8395,7 +8315,7 @@
 		<key>ordfeminine</key>
 		<integer>-20</integer>
 		<key>ordmasculine</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
 		<key>periodcentered</key>
@@ -8428,71 +8348,33 @@
 	</dict>
 	<key>equal</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>10</integer>
-		<key>eight.old</key>
-		<integer>5</integer>
-		<key>eight.prop</key>
-		<integer>5</integer>
 		<key>four.lin</key>
 		<integer>5</integer>
 		<key>four.old</key>
-		<integer>-45</integer>
+		<integer>-40</integer>
 		<key>four.prop</key>
-		<integer>-10</integer>
-		<key>nine.old</key>
-		<integer>5</integer>
-		<key>one.lin</key>
-		<integer>-10</integer>
-		<key>one.old</key>
-		<integer>15</integer>
-		<key>one.prop</key>
-		<integer>10</integer>
+		<integer>-15</integer>
 		<key>seven.lin</key>
 		<integer>-30</integer>
 		<key>seven.old</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>seven.prop</key>
-		<integer>-10</integer>
-		<key>six.lin</key>
-		<integer>5</integer>
-		<key>six.old</key>
-		<integer>5</integer>
-		<key>six.prop</key>
-		<integer>5</integer>
+		<integer>-20</integer>
 		<key>three.lin</key>
 		<integer>5</integer>
-		<key>three.old</key>
-		<integer>-15</integer>
-		<key>three.prop</key>
-		<integer>20</integer>
-		<key>two.lin</key>
-		<integer>-5</integer>
 		<key>two.old</key>
-		<integer>10</integer>
+		<integer>5</integer>
 	</dict>
 	<key>equal.lin</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>eight.lin</key>
-		<integer>5</integer>
 		<key>five.lin</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>10</integer>
-		<key>nine.lin</key>
-		<integer>5</integer>
 		<key>one.lin</key>
 		<integer>-20</integer>
 		<key>seven.lin</key>
 		<integer>-25</integer>
-		<key>three.lin</key>
-		<integer>-5</integer>
 		<key>two.lin</key>
 		<integer>-15</integer>
 	</dict>
@@ -8562,10 +8444,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_z</key>
 		<integer>-15</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
 		<key>Schwa</key>
 		<integer>30</integer>
 		<key>V</key>
@@ -8575,55 +8453,53 @@
 		<key>eight.lin</key>
 		<integer>-15</integer>
 		<key>eight.old</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>five.lin</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>five.old</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>five.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>-10</integer>
 		<key>four.old</key>
-		<integer>-30</integer>
-		<key>four.prop</key>
-		<integer>-15</integer>
-		<key>nine.lin</key>
-		<integer>10</integer>
-		<key>nine.old</key>
 		<integer>-10</integer>
+		<key>four.prop</key>
+		<integer>-10</integer>
+		<key>nine.lin</key>
+		<integer>-5</integer>
+		<key>nine.old</key>
+		<integer>-5</integer>
 		<key>nine.prop</key>
 		<integer>-5</integer>
 		<key>one.lin</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>one.old</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>one.prop</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>seven.lin</key>
 		<integer>-30</integer>
 		<key>seven.old</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>seven.prop</key>
 		<integer>-25</integer>
 		<key>six.lin</key>
 		<integer>-10</integer>
 		<key>six.old</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>six.prop</key>
 		<integer>-10</integer>
 		<key>three.lin</key>
-		<integer>-15</integer>
-		<key>three.old</key>
-		<integer>-20</integer>
-		<key>two.lin</key>
-		<integer>-15</integer>
-		<key>two.old</key>
-		<integer>-20</integer>
-		<key>two.prop</key>
 		<integer>-5</integer>
+		<key>two.lin</key>
+		<integer>-5</integer>
+		<key>two.old</key>
+		<integer>-10</integer>
+		<key>two.prop</key>
+		<integer>-10</integer>
 		<key>x</key>
 		<integer>-10</integer>
 		<key>y</key>
@@ -8651,53 +8527,37 @@
 		<integer>-20</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>5</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>5</integer>
 		<key>V</key>
 		<integer>5</integer>
 		<key>X</key>
 		<integer>5</integer>
-		<key>eight.lin</key>
-		<integer>-10</integer>
 		<key>five.lin</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>-10</integer>
-		<key>nine.lin</key>
-		<integer>10</integer>
 		<key>one.lin</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>seven.lin</key>
 		<integer>-15</integer>
-		<key>six.lin</key>
-		<integer>-10</integer>
 		<key>three.lin</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 	</dict>
 	<key>five.lin</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
 		<integer>30</integer>
 		<key>@MMK_R_colon</key>
-		<integer>25</integer>
-		<key>@MMK_R_dashes</key>
 		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>10</integer>
-		<key>@MMK_R_percent</key>
 		<integer>5</integer>
 		<key>@MMK_R_period</key>
-		<integer>-20</integer>
-		<key>@MMK_R_quoteleft</key>
 		<integer>-5</integer>
+		<key>@MMK_R_quoteleft</key>
+		<integer>-10</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-10</integer>
 		<key>@MMK_R_zero.lin</key>
@@ -8705,25 +8565,27 @@
 		<key>Euro.proportional</key>
 		<integer>20</integer>
 		<key>ampersand</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>asterisk</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>asterisk.alt</key>
 		<integer>-5</integer>
-		<key>at</key>
+		<key>bullet</key>
 		<integer>-5</integer>
 		<key>cent.proportional</key>
 		<integer>10</integer>
 		<key>degree</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>divide</key>
+		<integer>5</integer>
+		<key>divide.lin</key>
 		<integer>5</integer>
 		<key>equal</key>
 		<integer>10</integer>
 		<key>equal.lin</key>
-		<integer>5</integer>
-		<key>exclam</key>
 		<integer>10</integer>
+		<key>exclam</key>
+		<integer>5</integer>
 		<key>five.lin</key>
 		<integer>-10</integer>
 		<key>five.num</key>
@@ -8732,24 +8594,18 @@
 		<integer>10</integer>
 		<key>less</key>
 		<integer>-10</integer>
-		<key>less.lin</key>
-		<integer>-5</integer>
 		<key>multiply</key>
-		<integer>-15</integer>
-		<key>multiply.lin</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>nine.num</key>
 		<integer>10</integer>
 		<key>numbersign</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>one.lin</key>
 		<integer>-10</integer>
 		<key>ordfeminine</key>
-		<integer>-5</integer>
+		<integer>10</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
-		<key>periodcentered</key>
-		<integer>10</integer>
 		<key>plus</key>
 		<integer>-5</integer>
 		<key>plus.lin</key>
@@ -8784,46 +8640,28 @@
 	<dict>
 		<key>@MMK_R_backslash</key>
 		<integer>-20</integer>
-		<key>@MMK_R_braceright</key>
-		<integer>30</integer>
-		<key>@MMK_R_colon</key>
-		<integer>35</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>15</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-5</integer>
-		<key>@MMK_R_percent</key>
-		<integer>20</integer>
-		<key>@MMK_R_period</key>
-		<integer>20</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-5</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-5</integer>
 		<key>@MMK_R_slash</key>
-		<integer>40</integer>
-		<key>Euro.proportional</key>
-		<integer>10</integer>
-		<key>ampersand</key>
 		<integer>5</integer>
 		<key>asterisk</key>
-		<integer>10</integer>
+		<integer>-10</integer>
 		<key>asterisk.alt</key>
 		<integer>-10</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
-		<integer>-20</integer>
-		<key>degree</key>
-		<integer>15</integer>
+		<integer>-25</integer>
 		<key>divide</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>eight.old</key>
 		<integer>-5</integer>
 		<key>exclam</key>
-		<integer>40</integer>
+		<integer>10</integer>
 		<key>five.num</key>
 		<integer>10</integer>
 		<key>five.old</key>
@@ -8832,10 +8670,8 @@
 		<integer>10</integer>
 		<key>four.old</key>
 		<integer>-5</integer>
-		<key>greater</key>
-		<integer>5</integer>
 		<key>less</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>minus</key>
 		<integer>-5</integer>
 		<key>multiply</key>
@@ -8845,19 +8681,19 @@
 		<key>nine.old</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
 		<key>one.old</key>
 		<integer>-20</integer>
 		<key>parenright</key>
-		<integer>5</integer>
+		<integer>-15</integer>
 		<key>periodcentered</key>
-		<integer>15</integer>
+		<integer>-20</integer>
 		<key>plus</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>question</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
 		<key>servicemark</key>
 		<integer>-5</integer>
 		<key>seven.num</key>
@@ -8879,18 +8715,14 @@
 	<dict>
 		<key>@MMK_R_colon</key>
 		<integer>25</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-15</integer>
-		<key>@MMK_R_percent</key>
-		<integer>25</integer>
 		<key>@MMK_R_period</key>
 		<integer>5</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-20</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-15</integer>
 		<key>@MMK_R_slash</key>
@@ -8907,18 +8739,16 @@
 		<integer>-15</integer>
 		<key>cent.proportional</key>
 		<integer>5</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>divide</key>
-		<integer>-5</integer>
 		<key>exclam</key>
 		<integer>5</integer>
 		<key>five.prop</key>
 		<integer>-10</integer>
 		<key>less</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>nine.prop</key>
 		<integer>-10</integer>
+		<key>numbersign</key>
+		<integer>-5</integer>
 		<key>one.num</key>
 		<integer>-5</integer>
 		<key>one.prop</key>
@@ -8951,108 +8781,98 @@
 	<key>florin.proportional</key>
 	<dict>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-10</integer>
+		<integer>25</integer>
 		<key>@MMK_R_zero.old</key>
-		<integer>-40</integer>
-		<key>@MMK_R_zero.prop</key>
 		<integer>-5</integer>
 		<key>eight.lin</key>
-		<integer>-10</integer>
-		<key>eight.old</key>
-		<integer>-20</integer>
-		<key>eight.prop</key>
-		<integer>-10</integer>
+		<integer>10</integer>
 		<key>five.lin</key>
-		<integer>5</integer>
+		<integer>25</integer>
 		<key>five.old</key>
-		<integer>-45</integer>
-		<key>five.prop</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>four.lin</key>
-		<integer>-55</integer>
-		<key>four.old</key>
-		<integer>-155</integer>
-		<key>four.prop</key>
-		<integer>-105</integer>
-		<key>nine.lin</key>
-		<integer>20</integer>
-		<key>nine.old</key>
-		<integer>-15</integer>
-		<key>nine.prop</key>
-		<integer>-5</integer>
-		<key>one.lin</key>
-		<integer>-15</integer>
-		<key>one.old</key>
-		<integer>-70</integer>
-		<key>seven.lin</key>
-		<integer>20</integer>
-		<key>seven.old</key>
-		<integer>-5</integer>
-		<key>six.lin</key>
-		<integer>-10</integer>
-		<key>six.old</key>
-		<integer>-5</integer>
-		<key>six.prop</key>
-		<integer>-15</integer>
-		<key>three.lin</key>
-		<integer>-5</integer>
-		<key>three.old</key>
-		<integer>-70</integer>
-		<key>three.prop</key>
-		<integer>-15</integer>
-		<key>two.lin</key>
-		<integer>15</integer>
-		<key>two.old</key>
 		<integer>-50</integer>
+		<key>four.old</key>
+		<integer>-125</integer>
+		<key>four.prop</key>
+		<integer>-80</integer>
+		<key>nine.lin</key>
+		<integer>25</integer>
+		<key>nine.old</key>
+		<integer>-5</integer>
+		<key>one.old</key>
+		<integer>5</integer>
+		<key>seven.lin</key>
+		<integer>50</integer>
+		<key>seven.old</key>
+		<integer>20</integer>
+		<key>seven.prop</key>
+		<integer>15</integer>
+		<key>six.lin</key>
+		<integer>15</integer>
+		<key>six.old</key>
+		<integer>10</integer>
+		<key>six.prop</key>
+		<integer>5</integer>
+		<key>three.lin</key>
+		<integer>15</integer>
+		<key>three.old</key>
+		<integer>5</integer>
+		<key>three.prop</key>
+		<integer>5</integer>
+		<key>two.lin</key>
+		<integer>30</integer>
+		<key>two.old</key>
+		<integer>20</integer>
+		<key>two.prop</key>
+		<integer>20</integer>
 	</dict>
 	<key>four.lin</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>@MMK_R_braceright_uc</key>
 		<integer>10</integer>
 		<key>@MMK_R_colon</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
 		<integer>5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
+		<key>@MMK_R_guillemotleft_uc</key>
+		<integer>10</integer>
 		<key>@MMK_R_guillemotright_uc</key>
 		<integer>10</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-25</integer>
-		<key>@MMK_R_percent</key>
-		<integer>25</integer>
+		<key>@MMK_R_period</key>
+		<integer>20</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-40</integer>
+		<integer>-15</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-40</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>40</integer>
 		<key>Euro.proportional</key>
 		<integer>20</integer>
 		<key>ampersand</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>asterisk</key>
 		<integer>-40</integer>
 		<key>asterisk.alt</key>
 		<integer>-40</integer>
 		<key>at</key>
-		<integer>10</integer>
+		<integer>25</integer>
 		<key>at.uc</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>bullet</key>
 		<integer>-20</integer>
 		<key>cent.proportional</key>
-		<integer>15</integer>
+		<integer>30</integer>
 		<key>degree</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>divide.lin</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>eight.lin</key>
 		<integer>5</integer>
 		<key>eight.num</key>
@@ -9079,34 +8899,32 @@
 		<integer>-10</integer>
 		<key>less.lin</key>
 		<integer>-15</integer>
-		<key>minus</key>
-		<integer>-10</integer>
 		<key>minus.lin</key>
-		<integer>-10</integer>
-		<key>multiply</key>
 		<integer>-10</integer>
 		<key>multiply.lin</key>
 		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>-10</integer>
 		<key>numbersign</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>one.lin</key>
 		<integer>-15</integer>
 		<key>one.num</key>
 		<integer>-15</integer>
 		<key>ordfeminine</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>ordmasculine</key>
 		<integer>-20</integer>
 		<key>parenright</key>
 		<integer>-5</integer>
 		<key>parenright.uc</key>
 		<integer>10</integer>
+		<key>periodcentered</key>
+		<integer>-5</integer>
 		<key>plus</key>
-		<integer>-25</integer>
-		<key>plus.lin</key>
 		<integer>-20</integer>
+		<key>plus.lin</key>
+		<integer>-5</integer>
 		<key>question</key>
 		<integer>-30</integer>
 		<key>servicemark</key>
@@ -9138,47 +8956,39 @@
 	<key>four.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-30</integer>
+		<integer>-65</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>10</integer>
-		<key>@MMK_R_colon</key>
-		<integer>25</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>20</integer>
+		<integer>5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-15</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_percent</key>
-		<integer>30</integer>
+		<integer>10</integer>
 		<key>@MMK_R_period</key>
-		<integer>25</integer>
+		<integer>5</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-25</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-15</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
-		<integer>45</integer>
+		<integer>30</integer>
 		<key>asterisk</key>
-		<integer>-20</integer>
+		<integer>-40</integer>
 		<key>asterisk.alt</key>
 		<integer>-40</integer>
 		<key>bullet</key>
-		<integer>-30</integer>
+		<integer>-55</integer>
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>10</integer>
+		<integer>-45</integer>
 		<key>divide</key>
 		<integer>-30</integer>
 		<key>eight.num</key>
 		<integer>-10</integer>
-		<key>equal</key>
-		<integer>-5</integer>
 		<key>exclam</key>
-		<integer>40</integer>
+		<integer>10</integer>
 		<key>five.num</key>
 		<integer>-10</integer>
 		<key>five.old</key>
@@ -9194,7 +9004,7 @@
 		<key>nine.old</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>one.num</key>
 		<integer>-25</integer>
 		<key>one.old</key>
@@ -9203,18 +9013,20 @@
 		<integer>-20</integer>
 		<key>ordmasculine</key>
 		<integer>-20</integer>
-		<key>periodcentered</key>
+		<key>parenright</key>
 		<integer>-5</integer>
+		<key>periodcentered</key>
+		<integer>-20</integer>
 		<key>plus</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>question</key>
-		<integer>-40</integer>
+		<integer>-55</integer>
 		<key>servicemark</key>
 		<integer>-25</integer>
 		<key>seven.num</key>
 		<integer>-10</integer>
 		<key>seven.old</key>
-		<integer>-10</integer>
+		<integer>-25</integer>
 		<key>six.num</key>
 		<integer>-10</integer>
 		<key>six.old</key>
@@ -9238,14 +9050,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>-5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-45</integer>
-		<key>@MMK_R_percent</key>
-		<integer>30</integer>
 		<key>@MMK_R_period</key>
 		<integer>5</integer>
 		<key>@MMK_R_quoteleft</key>
@@ -9259,19 +9065,17 @@
 		<key>asterisk</key>
 		<integer>-35</integer>
 		<key>asterisk.alt</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>bullet</key>
 		<integer>-50</integer>
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>-15</integer>
+		<integer>-40</integer>
 		<key>divide</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>eight.num</key>
 		<integer>-10</integer>
-		<key>equal</key>
-		<integer>-5</integer>
 		<key>exclam</key>
 		<integer>10</integer>
 		<key>five.num</key>
@@ -9279,7 +9083,7 @@
 		<key>four.num</key>
 		<integer>-15</integer>
 		<key>less</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>minus</key>
 		<integer>-20</integer>
 		<key>nine.num</key>
@@ -9295,7 +9099,7 @@
 		<key>ordfeminine</key>
 		<integer>-30</integer>
 		<key>ordmasculine</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>parenright</key>
 		<integer>-5</integer>
 		<key>periodcentered</key>
@@ -9382,6 +9186,8 @@
 		<integer>-5</integer>
 		<key>asterisk</key>
 		<integer>-25</integer>
+		<key>asterisk.alt</key>
+		<integer>-25</integer>
 		<key>at</key>
 		<integer>-10</integer>
 		<key>parenright</key>
@@ -9397,8 +9203,6 @@
 	</dict>
 	<key>greater</key>
 	<dict>
-		<key>@MMK_R_zero.prop</key>
-		<integer>5</integer>
 		<key>eight.lin</key>
 		<integer>-35</integer>
 		<key>eight.old</key>
@@ -9414,25 +9218,23 @@
 		<key>four.lin</key>
 		<integer>-20</integer>
 		<key>four.old</key>
-		<integer>-70</integer>
+		<integer>-75</integer>
 		<key>four.prop</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>nine.lin</key>
 		<integer>-35</integer>
-		<key>nine.prop</key>
-		<integer>5</integer>
 		<key>one.lin</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>one.old</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 		<key>seven.lin</key>
 		<integer>-70</integer>
 		<key>seven.old</key>
-		<integer>-50</integer>
+		<integer>-75</integer>
 		<key>seven.prop</key>
-		<integer>-55</integer>
+		<integer>-70</integer>
 		<key>three.lin</key>
 		<integer>-20</integer>
 		<key>three.old</key>
@@ -9535,42 +9337,32 @@
 	</dict>
 	<key>less</key>
 	<dict>
-		<key>@MMK_R_zero.prop</key>
-		<integer>5</integer>
-		<key>eight.prop</key>
-		<integer>10</integer>
 		<key>five.lin</key>
 		<integer>5</integer>
-		<key>five.old</key>
-		<integer>-5</integer>
 		<key>four.lin</key>
 		<integer>5</integer>
 		<key>four.old</key>
 		<integer>-25</integer>
-		<key>four.prop</key>
-		<integer>5</integer>
 		<key>nine.lin</key>
 		<integer>10</integer>
 		<key>nine.old</key>
-		<integer>-10</integer>
-		<key>nine.prop</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>one.lin</key>
-		<integer>-15</integer>
+		<integer>5</integer>
+		<key>one.old</key>
+		<integer>5</integer>
+		<key>seven.lin</key>
+		<integer>5</integer>
 		<key>seven.old</key>
 		<integer>-15</integer>
-		<key>seven.prop</key>
-		<integer>5</integer>
 		<key>six.lin</key>
+		<integer>5</integer>
+		<key>six.old</key>
 		<integer>5</integer>
 		<key>six.prop</key>
 		<integer>5</integer>
 		<key>three.lin</key>
-		<integer>15</integer>
-		<key>three.old</key>
-		<integer>-15</integer>
-		<key>two.lin</key>
-		<integer>5</integer>
+		<integer>10</integer>
 	</dict>
 	<key>less.lin</key>
 	<dict>
@@ -9626,119 +9418,93 @@
 	</dict>
 	<key>minus</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>10</integer>
-		<key>eight.prop</key>
-		<integer>5</integer>
 		<key>five.lin</key>
 		<integer>-5</integer>
 		<key>five.prop</key>
 		<integer>-5</integer>
+		<key>four.lin</key>
+		<integer>20</integer>
 		<key>four.old</key>
-		<integer>-35</integer>
+		<integer>-20</integer>
 		<key>four.prop</key>
 		<integer>-10</integer>
 		<key>nine.lin</key>
 		<integer>10</integer>
-		<key>nine.old</key>
-		<integer>5</integer>
-		<key>nine.prop</key>
-		<integer>5</integer>
 		<key>one.lin</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>one.old</key>
 		<integer>-10</integer>
 		<key>one.prop</key>
 		<integer>-15</integer>
 		<key>seven.lin</key>
 		<integer>-10</integer>
-		<key>seven.old</key>
-		<integer>5</integer>
 		<key>seven.prop</key>
-		<integer>-25</integer>
-		<key>six.old</key>
-		<integer>10</integer>
+		<integer>-30</integer>
 		<key>six.prop</key>
 		<integer>10</integer>
 		<key>three.lin</key>
 		<integer>-5</integer>
-		<key>three.old</key>
-		<integer>-10</integer>
 		<key>three.prop</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>two.lin</key>
 		<integer>-5</integer>
 		<key>two.old</key>
-		<integer>-10</integer>
+		<integer>5</integer>
 		<key>two.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>minus.lin</key>
 	<dict>
 		<key>@MMK_R_zero.lin</key>
 		<integer>15</integer>
 		<key>four.lin</key>
-		<integer>10</integer>
+		<integer>25</integer>
 		<key>one.lin</key>
 		<integer>-10</integer>
 		<key>seven.lin</key>
 		<integer>-10</integer>
-		<key>six.lin</key>
-		<integer>10</integer>
 		<key>two.lin</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 	</dict>
 	<key>multiply</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>15</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>5</integer>
-		<key>eight.lin</key>
-		<integer>-10</integer>
 		<key>eight.old</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>five.old</key>
-		<integer>-45</integer>
-		<key>four.lin</key>
-		<integer>-5</integer>
+		<integer>-25</integer>
 		<key>four.old</key>
-		<integer>-80</integer>
+		<integer>-55</integer>
 		<key>four.prop</key>
 		<integer>-15</integer>
+		<key>nine.lin</key>
+		<integer>-5</integer>
 		<key>nine.old</key>
 		<integer>-20</integer>
 		<key>one.lin</key>
 		<integer>-20</integer>
 		<key>one.old</key>
-		<integer>-50</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
-		<integer>5</integer>
+		<integer>-20</integer>
 		<key>seven.lin</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>seven.old</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>seven.prop</key>
 		<integer>-30</integer>
-		<key>six.old</key>
-		<integer>-10</integer>
 		<key>three.old</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>two.lin</key>
 		<integer>-20</integer>
 		<key>two.old</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>multiply.lin</key>
 	<dict>
-		<key>@MMK_R_zero.lin</key>
-		<integer>5</integer>
 		<key>eight.lin</key>
 		<integer>-20</integer>
 		<key>five.lin</key>
@@ -9748,11 +9514,11 @@
 		<key>nine.lin</key>
 		<integer>-10</integer>
 		<key>one.lin</key>
-		<integer>-25</integer>
-		<key>seven.lin</key>
 		<integer>-30</integer>
+		<key>seven.lin</key>
+		<integer>-35</integer>
 		<key>six.lin</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>three.lin</key>
 		<integer>-5</integer>
 		<key>two.lin</key>
@@ -9760,30 +9526,22 @@
 	</dict>
 	<key>nine.lin</key>
 	<dict>
+		<key>@MMK_R_backslash</key>
+		<integer>10</integer>
 		<key>@MMK_R_braceright_uc</key>
 		<integer>5</integer>
 		<key>@MMK_R_colon</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>5</integer>
-		<key>@MMK_R_dashes.uc</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
-		<key>@MMK_R_minute</key>
-		<integer>-5</integer>
+		<integer>10</integer>
 		<key>@MMK_R_percent</key>
-		<integer>15</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
-		<integer>-80</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-20</integer>
-		<key>@MMK_R_quoteright</key>
-		<integer>-55</integer>
-		<key>@MMK_R_quotesingle</key>
 		<integer>-5</integer>
+		<key>@MMK_R_quoteright</key>
+		<integer>-5</integer>
+		<key>@MMK_R_quotesingle</key>
+		<integer>-20</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-70</integer>
 		<key>Euro.proportional</key>
@@ -9791,7 +9549,7 @@
 		<key>ampersand</key>
 		<integer>-30</integer>
 		<key>asterisk</key>
-		<integer>-15</integer>
+		<integer>10</integer>
 		<key>asterisk.alt</key>
 		<integer>10</integer>
 		<key>at</key>
@@ -9799,15 +9557,15 @@
 		<key>bullet</key>
 		<integer>5</integer>
 		<key>cent.proportional</key>
-		<integer>-5</integer>
+		<integer>5</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>10</integer>
 		<key>eight.lin</key>
 		<integer>-15</integer>
 		<key>eight.num</key>
 		<integer>10</integer>
-		<key>exclam</key>
-		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>five.num</key>
@@ -9816,12 +9574,6 @@
 		<integer>-30</integer>
 		<key>four.num</key>
 		<integer>15</integer>
-		<key>minus.lin</key>
-		<integer>5</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>multiply.lin</key>
-		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>15</integer>
 		<key>numbersign</key>
@@ -9830,12 +9582,12 @@
 		<integer>-35</integer>
 		<key>one.num</key>
 		<integer>-5</integer>
-		<key>ordmasculine</key>
-		<integer>-5</integer>
-		<key>parenright</key>
-		<integer>-25</integer>
-		<key>periodcentered</key>
+		<key>ordfeminine</key>
 		<integer>10</integer>
+		<key>ordmasculine</key>
+		<integer>5</integer>
+		<key>parenright</key>
+		<integer>-10</integer>
 		<key>question</key>
 		<integer>-50</integer>
 		<key>servicemark</key>
@@ -9869,67 +9621,49 @@
 	<key>nine.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-75</integer>
-		<key>@MMK_R_colon</key>
-		<integer>15</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-35</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_percent</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
-		<integer>-20</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-50</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-85</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-35</integer>
 		<key>@MMK_R_slash</key>
-		<integer>-20</integer>
+		<integer>-45</integer>
 		<key>Euro.proportional</key>
 		<integer>10</integer>
 		<key>ampersand</key>
 		<integer>-10</integer>
 		<key>asterisk</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>asterisk.alt</key>
 		<integer>-20</integer>
 		<key>bullet</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>-20</integer>
+		<integer>-40</integer>
 		<key>eight.num</key>
 		<integer>-10</integer>
 		<key>eight.old</key>
 		<integer>-15</integer>
-		<key>equal</key>
-		<integer>5</integer>
-		<key>exclam</key>
-		<integer>15</integer>
 		<key>five.num</key>
 		<integer>-10</integer>
 		<key>five.old</key>
 		<integer>-30</integer>
 		<key>four.old</key>
 		<integer>-35</integer>
-		<key>less</key>
-		<integer>5</integer>
-		<key>minus</key>
-		<integer>5</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>10</integer>
 		<key>nine.old</key>
 		<integer>-5</integer>
-		<key>numbersign</key>
-		<integer>10</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
 		<key>one.old</key>
@@ -9941,7 +9675,7 @@
 		<key>parenright</key>
 		<integer>-5</integer>
 		<key>question</key>
-		<integer>-65</integer>
+		<integer>-75</integer>
 		<key>servicemark</key>
 		<integer>5</integer>
 		<key>seven.num</key>
@@ -9953,7 +9687,7 @@
 		<key>three.old</key>
 		<integer>-35</integer>
 		<key>trademark</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>two.num</key>
 		<integer>20</integer>
 		<key>two.old</key>
@@ -9969,20 +9703,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-30</integer>
 		<key>@MMK_R_percent</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
 		<integer>-20</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-65</integer>
+		<integer>-25</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
@@ -9994,13 +9724,11 @@
 		<key>asterisk</key>
 		<integer>-20</integer>
 		<key>asterisk.alt</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>cent.proportional</key>
 		<integer>5</integer>
 		<key>degree</key>
-		<integer>-20</integer>
-		<key>divide</key>
-		<integer>5</integer>
+		<integer>-30</integer>
 		<key>eight.num</key>
 		<integer>10</integer>
 		<key>eight.prop</key>
@@ -10018,8 +9746,6 @@
 		<key>nine.num</key>
 		<integer>10</integer>
 		<key>nine.prop</key>
-		<integer>-5</integer>
-		<key>numbersign</key>
 		<integer>-5</integer>
 		<key>one.num</key>
 		<integer>10</integer>
@@ -10046,11 +9772,11 @@
 		<key>three.prop</key>
 		<integer>-20</integer>
 		<key>trademark</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>two.num</key>
 		<integer>30</integer>
 		<key>two.prop</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>zero.num</key>
 		<integer>20</integer>
 	</dict>
@@ -10098,8 +9824,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_z</key>
 		<integer>-45</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>-10</integer>
 		<key>Schwa</key>
 		<integer>10</integer>
 		<key>V</key>
@@ -10109,41 +9833,39 @@
 		<key>eight.lin</key>
 		<integer>-20</integer>
 		<key>eight.old</key>
-		<integer>-30</integer>
-		<key>eight.prop</key>
 		<integer>-20</integer>
+		<key>eight.prop</key>
+		<integer>-10</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>five.old</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>five.prop</key>
-		<integer>-35</integer>
+		<integer>-15</integer>
 		<key>four.lin</key>
-		<integer>-40</integer>
+		<integer>-45</integer>
 		<key>four.old</key>
-		<integer>-95</integer>
+		<integer>-85</integer>
 		<key>four.prop</key>
-		<integer>-80</integer>
+		<integer>-85</integer>
 		<key>nine.lin</key>
 		<integer>5</integer>
 		<key>nine.old</key>
 		<integer>-5</integer>
-		<key>one</key>
-		<integer>-15</integer>
 		<key>one.lin</key>
 		<integer>-15</integer>
 		<key>one.old</key>
-		<integer>-40</integer>
+		<integer>-15</integer>
 		<key>one.prop</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>p</key>
 		<integer>-10</integer>
 		<key>seven.lin</key>
 		<integer>-10</integer>
 		<key>seven.old</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>seven.prop</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>six.lin</key>
 		<integer>-10</integer>
 		<key>six.old</key>
@@ -10155,15 +9877,15 @@
 		<key>three.lin</key>
 		<integer>-10</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>three.prop</key>
-		<integer>-35</integer>
+		<integer>-10</integer>
 		<key>two.lin</key>
 		<integer>-10</integer>
 		<key>two.old</key>
-		<integer>-25</integer>
+		<integer>-5</integer>
 		<key>two.prop</key>
-		<integer>-20</integer>
+		<integer>-5</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -10174,29 +9896,21 @@
 		<key>@MMK_R_braceright</key>
 		<integer>-20</integer>
 		<key>@MMK_R_colon</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>-5</integer>
-		<key>@MMK_R_dashes.uc</key>
-		<integer>-10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-30</integer>
+		<integer>5</integer>
 		<key>@MMK_R_guillemotleft_uc</key>
-		<integer>-50</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-30</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_guillemotright_uc</key>
 		<integer>-30</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-45</integer>
+		<integer>-50</integer>
 		<key>@MMK_R_period</key>
-		<integer>-30</integer>
+		<integer>10</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-60</integer>
+		<integer>-65</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-45</integer>
+		<integer>-60</integer>
 		<key>@MMK_R_slash</key>
 		<integer>15</integer>
 		<key>@MMK_R_zero.lin</key>
@@ -10204,7 +9918,7 @@
 		<key>Euro.proportional</key>
 		<integer>-35</integer>
 		<key>ampersand</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>asterisk</key>
 		<integer>-50</integer>
 		<key>asterisk.alt</key>
@@ -10216,19 +9930,19 @@
 		<key>bullet</key>
 		<integer>-60</integer>
 		<key>cent.proportional</key>
-		<integer>-45</integer>
+		<integer>-15</integer>
 		<key>degree</key>
-		<integer>-25</integer>
+		<integer>-65</integer>
 		<key>divide</key>
 		<integer>-40</integer>
 		<key>divide.lin</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>eight.lin</key>
 		<integer>-25</integer>
 		<key>eight.num</key>
 		<integer>-35</integer>
 		<key>equal</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>equal.lin</key>
 		<integer>-25</integer>
 		<key>five.lin</key>
@@ -10240,15 +9954,15 @@
 		<key>four.num</key>
 		<integer>-35</integer>
 		<key>less</key>
-		<integer>-45</integer>
+		<integer>-35</integer>
 		<key>less.lin</key>
 		<integer>-20</integer>
 		<key>minus</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>minus.lin</key>
 		<integer>-10</integer>
 		<key>multiply</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>multiply.lin</key>
 		<integer>-30</integer>
 		<key>nine.lin</key>
@@ -10268,13 +9982,13 @@
 		<key>parenright</key>
 		<integer>-20</integer>
 		<key>periodcentered</key>
-		<integer>-40</integer>
-		<key>plus</key>
 		<integer>-35</integer>
+		<key>plus</key>
+		<integer>-30</integer>
 		<key>plus.lin</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>question</key>
-		<integer>-65</integer>
+		<integer>-60</integer>
 		<key>servicemark</key>
 		<integer>-45</integer>
 		<key>seven.lin</key>
@@ -10308,39 +10022,39 @@
 		<key>@MMK_R_backslash</key>
 		<integer>-50</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>-10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
 		<integer>-25</integer>
+		<key>@MMK_R_colon</key>
+		<integer>5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-50</integer>
+		<integer>-45</integer>
+		<key>@MMK_R_period</key>
+		<integer>10</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-60</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-50</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-50</integer>
+		<integer>-60</integer>
 		<key>@MMK_R_slash</key>
-		<integer>20</integer>
+		<integer>5</integer>
 		<key>@MMK_R_zero.old</key>
 		<integer>-20</integer>
 		<key>Euro.proportional</key>
-		<integer>-25</integer>
+		<integer>-35</integer>
 		<key>ampersand</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>asterisk</key>
-		<integer>-45</integer>
+		<integer>-60</integer>
 		<key>asterisk.alt</key>
 		<integer>-60</integer>
 		<key>at</key>
 		<integer>-15</integer>
 		<key>bullet</key>
-		<integer>-50</integer>
+		<integer>-70</integer>
 		<key>cent.proportional</key>
 		<integer>-15</integer>
 		<key>degree</key>
-		<integer>-35</integer>
+		<integer>-65</integer>
 		<key>divide</key>
 		<integer>-55</integer>
 		<key>eight.num</key>
@@ -10348,9 +10062,7 @@
 		<key>eight.old</key>
 		<integer>-35</integer>
 		<key>equal</key>
-		<integer>-20</integer>
-		<key>exclam</key>
-		<integer>10</integer>
+		<integer>-15</integer>
 		<key>five.num</key>
 		<integer>-45</integer>
 		<key>five.old</key>
@@ -10359,20 +10071,18 @@
 		<integer>-50</integer>
 		<key>four.old</key>
 		<integer>-20</integer>
-		<key>greater</key>
-		<integer>-5</integer>
 		<key>less</key>
 		<integer>-35</integer>
 		<key>minus</key>
 		<integer>-25</integer>
 		<key>multiply</key>
-		<integer>-50</integer>
+		<integer>-45</integer>
 		<key>nine.num</key>
 		<integer>-40</integer>
 		<key>nine.old</key>
 		<integer>-20</integer>
 		<key>numbersign</key>
-		<integer>-15</integer>
+		<integer>-25</integer>
 		<key>one.num</key>
 		<integer>-55</integer>
 		<key>one.old</key>
@@ -10382,13 +10092,13 @@
 		<key>ordmasculine</key>
 		<integer>-30</integer>
 		<key>parenright</key>
-		<integer>-20</integer>
+		<integer>-15</integer>
 		<key>periodcentered</key>
 		<integer>-40</integer>
 		<key>plus</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>question</key>
-		<integer>-65</integer>
+		<integer>-80</integer>
 		<key>servicemark</key>
 		<integer>-55</integer>
 		<key>seven.num</key>
@@ -10415,27 +10125,21 @@
 	<key>one.prop</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-35</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_braceright</key>
 		<integer>-20</integer>
 		<key>@MMK_R_colon</key>
 		<integer>-30</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>-10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-35</integer>
-		<key>@MMK_R_percent</key>
-		<integer>25</integer>
 		<key>@MMK_R_period</key>
 		<integer>-25</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-60</integer>
+		<integer>-55</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-60</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-35</integer>
 		<key>@MMK_R_slash</key>
@@ -10443,7 +10147,7 @@
 		<key>@MMK_R_zero.prop</key>
 		<integer>-25</integer>
 		<key>Euro.proportional</key>
-		<integer>-40</integer>
+		<integer>-35</integer>
 		<key>ampersand</key>
 		<integer>-50</integer>
 		<key>asterisk</key>
@@ -10451,20 +10155,18 @@
 		<key>asterisk.alt</key>
 		<integer>-60</integer>
 		<key>at</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>bullet</key>
 		<integer>-50</integer>
 		<key>cent.proportional</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>degree</key>
-		<integer>-35</integer>
+		<integer>-50</integer>
 		<key>divide</key>
 		<integer>-30</integer>
 		<key>eight.num</key>
 		<integer>-30</integer>
 		<key>eight.prop</key>
-		<integer>-20</integer>
-		<key>equal</key>
 		<integer>-20</integer>
 		<key>five.num</key>
 		<integer>-30</integer>
@@ -10473,21 +10175,19 @@
 		<key>four.num</key>
 		<integer>-30</integer>
 		<key>four.prop</key>
-		<integer>-40</integer>
-		<key>greater</key>
-		<integer>-25</integer>
-		<key>less</key>
 		<integer>-35</integer>
+		<key>less</key>
+		<integer>-30</integer>
 		<key>minus</key>
 		<integer>-15</integer>
 		<key>multiply</key>
-		<integer>-45</integer>
+		<integer>-10</integer>
 		<key>nine.num</key>
 		<integer>-30</integer>
 		<key>nine.prop</key>
 		<integer>-10</integer>
 		<key>numbersign</key>
-		<integer>-55</integer>
+		<integer>-25</integer>
 		<key>one.num</key>
 		<integer>-40</integer>
 		<key>one.prop</key>
@@ -10520,8 +10220,6 @@
 		<integer>-40</integer>
 		<key>two.num</key>
 		<integer>-20</integer>
-		<key>two.prop</key>
-		<integer>-10</integer>
 		<key>zero.num</key>
 		<integer>-30</integer>
 	</dict>
@@ -10559,6 +10257,19 @@
 		<integer>45</integer>
 		<key>wgrave</key>
 		<integer>45</integer>
+		<key>x</key>
+		<integer>-5</integer>
+	</dict>
+	<key>oslashacute</key>
+	<dict>
+		<key>@MMK_R_f</key>
+		<integer>20</integer>
+		<key>@MMK_R_j</key>
+		<integer>15</integer>
+		<key>@MMK_R_t</key>
+		<integer>15</integer>
+		<key>@MMK_R_v</key>
+		<integer>25</integer>
 		<key>x</key>
 		<integer>-5</integer>
 	</dict>
@@ -10629,19 +10340,19 @@
 		<key>eight.lin</key>
 		<integer>-10</integer>
 		<key>eight.old</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>-10</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
 		<key>five.old</key>
-		<integer>-40</integer>
+		<integer>-15</integer>
 		<key>five.prop</key>
 		<integer>-15</integer>
 		<key>four.lin</key>
 		<integer>-50</integer>
 		<key>four.old</key>
-		<integer>-70</integer>
+		<integer>-55</integer>
 		<key>four.prop</key>
 		<integer>-55</integer>
 		<key>ibreve</key>
@@ -10667,7 +10378,7 @@
 		<key>one.lin</key>
 		<integer>-25</integer>
 		<key>one.old</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>one.prop</key>
 		<integer>-25</integer>
 		<key>p</key>
@@ -10689,13 +10400,13 @@
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>three.old</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>three.prop</key>
 		<integer>-15</integer>
 		<key>two.lin</key>
 		<integer>-25</integer>
 		<key>two.old</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>two.prop</key>
 		<integer>-25</integer>
 		<key>x</key>
@@ -10752,12 +10463,10 @@
 		<integer>-50</integer>
 		<key>@MMK_R_O</key>
 		<integer>30</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>10</integer>
 		<key>eight.lin</key>
 		<integer>-15</integer>
 		<key>eight.old</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>-10</integer>
 		<key>five.lin</key>
@@ -10769,21 +10478,21 @@
 		<key>four.lin</key>
 		<integer>-30</integer>
 		<key>four.old</key>
-		<integer>-60</integer>
+		<integer>-30</integer>
 		<key>four.prop</key>
 		<integer>-30</integer>
 		<key>nine.lin</key>
 		<integer>-10</integer>
 		<key>nine.old</key>
-		<integer>-10</integer>
+		<integer>5</integer>
 		<key>one.lin</key>
-		<integer>-75</integer>
+		<integer>-45</integer>
 		<key>one.old</key>
-		<integer>-65</integer>
+		<integer>-40</integer>
 		<key>one.prop</key>
 		<integer>-50</integer>
 		<key>seven.lin</key>
-		<integer>-70</integer>
+		<integer>-50</integer>
 		<key>seven.old</key>
 		<integer>-35</integer>
 		<key>seven.prop</key>
@@ -10791,19 +10500,19 @@
 		<key>six.lin</key>
 		<integer>-5</integer>
 		<key>six.old</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>six.prop</key>
 		<integer>-10</integer>
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-15</integer>
 		<key>three.prop</key>
 		<integer>-15</integer>
 		<key>two.lin</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>two.old</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>two.prop</key>
 		<integer>-25</integer>
 	</dict>
@@ -10845,10 +10554,6 @@
 		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>-30</integer>
-		<key>@MMK_R_zero.lin</key>
-		<integer>15</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>-20</integer>
 		<key>Schwa</key>
 		<integer>20</integer>
 		<key>V</key>
@@ -10858,49 +10563,45 @@
 		<key>eight.lin</key>
 		<integer>-10</integer>
 		<key>eight.old</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>-10</integer>
 		<key>five.lin</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>five.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>five.prop</key>
 		<integer>-20</integer>
 		<key>four.lin</key>
-		<integer>-15</integer>
+		<integer>5</integer>
 		<key>four.old</key>
-		<integer>-75</integer>
+		<integer>-30</integer>
 		<key>four.prop</key>
 		<integer>-30</integer>
 		<key>one.lin</key>
-		<integer>-50</integer>
+		<integer>-30</integer>
 		<key>one.old</key>
-		<integer>-65</integer>
+		<integer>-30</integer>
 		<key>one.prop</key>
 		<integer>-20</integer>
 		<key>seven.lin</key>
 		<integer>-55</integer>
 		<key>seven.old</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>seven.prop</key>
 		<integer>-40</integer>
-		<key>six.lin</key>
-		<integer>-15</integer>
-		<key>six.old</key>
-		<integer>-10</integer>
 		<key>thorn</key>
 		<integer>-5</integer>
 		<key>three.lin</key>
 		<integer>-15</integer>
 		<key>three.old</key>
-		<integer>-60</integer>
+		<integer>-10</integer>
 		<key>three.prop</key>
 		<integer>-10</integer>
 		<key>two.lin</key>
-		<integer>-35</integer>
-		<key>two.old</key>
 		<integer>-45</integer>
+		<key>two.old</key>
+		<integer>-30</integer>
 		<key>two.prop</key>
 		<integer>-35</integer>
 		<key>x</key>
@@ -10911,19 +10612,19 @@
 		<key>eight.lin</key>
 		<integer>-20</integer>
 		<key>five.lin</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>four.lin</key>
 		<integer>-15</integer>
 		<key>nine.lin</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>one.lin</key>
 		<integer>-70</integer>
 		<key>seven.lin</key>
 		<integer>-45</integer>
 		<key>three.lin</key>
-		<integer>-45</integer>
+		<integer>-25</integer>
 		<key>two.lin</key>
-		<integer>-45</integer>
+		<integer>-25</integer>
 	</dict>
 	<key>q</key>
 	<dict>
@@ -10956,6 +10657,8 @@
 		<key>ampersand</key>
 		<integer>-15</integer>
 		<key>asterisk</key>
+		<integer>15</integer>
+		<key>asterisk.alt</key>
 		<integer>15</integer>
 		<key>at</key>
 		<integer>-5</integer>
@@ -11050,9 +10753,9 @@
 		<key>@MMK_R_z</key>
 		<integer>-30</integer>
 		<key>@MMK_R_zero.lin</key>
-		<integer>-35</integer>
-		<key>@MMK_R_zero.old</key>
 		<integer>-40</integer>
+		<key>@MMK_R_zero.old</key>
+		<integer>-50</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-50</integer>
 		<key>Schwa</key>
@@ -11064,59 +10767,59 @@
 		<key>eight.lin</key>
 		<integer>-60</integer>
 		<key>eight.old</key>
-		<integer>-70</integer>
+		<integer>-60</integer>
 		<key>eight.prop</key>
 		<integer>-40</integer>
 		<key>five.lin</key>
 		<integer>-40</integer>
 		<key>five.old</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>five.prop</key>
 		<integer>-25</integer>
 		<key>four.lin</key>
-		<integer>-65</integer>
-		<key>four.old</key>
 		<integer>-70</integer>
+		<key>four.old</key>
+		<integer>-55</integer>
 		<key>four.prop</key>
 		<integer>-55</integer>
 		<key>nine.lin</key>
 		<integer>-25</integer>
 		<key>nine.old</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>nine.prop</key>
 		<integer>-15</integer>
 		<key>one.lin</key>
 		<integer>-60</integer>
 		<key>one.old</key>
-		<integer>-90</integer>
+		<integer>-60</integer>
 		<key>one.prop</key>
-		<integer>-45</integer>
+		<integer>-50</integer>
 		<key>p</key>
 		<integer>20</integer>
 		<key>seven.lin</key>
 		<integer>-70</integer>
 		<key>seven.old</key>
-		<integer>-70</integer>
+		<integer>-85</integer>
 		<key>seven.prop</key>
 		<integer>-70</integer>
 		<key>six.lin</key>
 		<integer>-40</integer>
 		<key>six.old</key>
-		<integer>-45</integer>
+		<integer>-50</integer>
 		<key>six.prop</key>
 		<integer>-50</integer>
 		<key>three.lin</key>
 		<integer>-60</integer>
 		<key>three.old</key>
-		<integer>-30</integer>
-		<key>three.prop</key>
-		<integer>-25</integer>
-		<key>two.lin</key>
-		<integer>-35</integer>
-		<key>two.old</key>
-		<integer>-45</integer>
-		<key>two.prop</key>
 		<integer>-20</integer>
+		<key>three.prop</key>
+		<integer>-30</integer>
+		<key>two.lin</key>
+		<integer>-30</integer>
+		<key>two.old</key>
+		<integer>-30</integer>
+		<key>two.prop</key>
+		<integer>-30</integer>
 		<key>x</key>
 		<integer>-30</integer>
 		<key>y</key>
@@ -11165,17 +10868,17 @@
 		<key>five.lin</key>
 		<integer>-35</integer>
 		<key>four.lin</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>nine.lin</key>
 		<integer>-20</integer>
 		<key>one.lin</key>
 		<integer>-50</integer>
 		<key>seven.lin</key>
-		<integer>-85</integer>
+		<integer>-80</integer>
 		<key>six.lin</key>
 		<integer>-40</integer>
 		<key>three.lin</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>two.lin</key>
 		<integer>-25</integer>
 	</dict>
@@ -11184,33 +10887,25 @@
 		<key>@MMK_R_backslash</key>
 		<integer>80</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>-10</integer>
+		<integer>20</integer>
 		<key>@MMK_R_colon</key>
-		<integer>-50</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>-30</integer>
-		<key>@MMK_R_dashes.uc</key>
-		<integer>-10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-80</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_guillemotleft_uc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-40</integer>
 		<key>@MMK_R_guillemotright_uc</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_minute</key>
 		<integer>30</integer>
 		<key>@MMK_R_percent</key>
-		<integer>20</integer>
-		<key>@MMK_R_period</key>
-		<integer>-95</integer>
-		<key>@MMK_R_quoteleft</key>
 		<integer>10</integer>
+		<key>@MMK_R_period</key>
+		<integer>-75</integer>
+		<key>@MMK_R_quoteleft</key>
+		<integer>20</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>25</integer>
+		<integer>45</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>30</integer>
+		<integer>35</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-75</integer>
 		<key>@MMK_R_zero.lin</key>
@@ -11218,33 +10913,35 @@
 		<key>Euro.proportional</key>
 		<integer>-30</integer>
 		<key>ampersand</key>
-		<integer>-70</integer>
+		<integer>-55</integer>
 		<key>asterisk</key>
-		<integer>20</integer>
+		<integer>25</integer>
 		<key>asterisk.alt</key>
 		<integer>25</integer>
 		<key>at</key>
-		<integer>-60</integer>
+		<integer>-70</integer>
 		<key>at.uc</key>
 		<integer>-50</integer>
 		<key>bullet</key>
 		<integer>-70</integer>
 		<key>cent.proportional</key>
-		<integer>-65</integer>
+		<integer>-40</integer>
 		<key>degree</key>
-		<integer>45</integer>
+		<integer>10</integer>
 		<key>divide</key>
 		<integer>-50</integer>
 		<key>divide.lin</key>
-		<integer>-60</integer>
+		<integer>-40</integer>
 		<key>eight.lin</key>
 		<integer>-35</integer>
 		<key>eight.num</key>
 		<integer>10</integer>
 		<key>equal</key>
-		<integer>-50</integer>
+		<integer>-25</integer>
 		<key>equal.lin</key>
-		<integer>-55</integer>
+		<integer>-45</integer>
+		<key>exclam</key>
+		<integer>10</integer>
 		<key>five.lin</key>
 		<integer>-30</integer>
 		<key>five.num</key>
@@ -11254,39 +10951,41 @@
 		<key>four.num</key>
 		<integer>-10</integer>
 		<key>less</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>less.lin</key>
 		<integer>-75</integer>
 		<key>minus</key>
 		<integer>-25</integer>
 		<key>minus.lin</key>
-		<integer>-10</integer>
+		<integer>-30</integer>
 		<key>multiply</key>
-		<integer>-60</integer>
+		<integer>-20</integer>
 		<key>multiply.lin</key>
-		<integer>-50</integer>
+		<integer>-25</integer>
 		<key>nine.lin</key>
 		<integer>-10</integer>
 		<key>nine.num</key>
 		<integer>25</integer>
 		<key>numbersign</key>
-		<integer>-70</integer>
+		<integer>-65</integer>
 		<key>one.lin</key>
 		<integer>-25</integer>
 		<key>one.num</key>
 		<integer>10</integer>
 		<key>ordfeminine</key>
-		<integer>-15</integer>
+		<integer>10</integer>
+		<key>ordmasculine</key>
+		<integer>5</integer>
 		<key>parenright</key>
 		<integer>10</integer>
 		<key>parenright.uc</key>
 		<integer>15</integer>
 		<key>periodcentered</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>plus</key>
-		<integer>-65</integer>
+		<integer>-55</integer>
 		<key>plus.lin</key>
-		<integer>-45</integer>
+		<integer>-40</integer>
 		<key>servicemark</key>
 		<integer>20</integer>
 		<key>seven.lin</key>
@@ -11302,9 +11001,9 @@
 		<key>three.num</key>
 		<integer>25</integer>
 		<key>trademark</key>
-		<integer>30</integer>
+		<integer>35</integer>
 		<key>two.lin</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>two.num</key>
 		<integer>30</integer>
 		<key>zero.num</key>
@@ -11318,29 +11017,23 @@
 	<key>seven.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>5</integer>
+		<integer>20</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>5</integer>
+		<integer>10</integer>
 		<key>@MMK_R_colon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>-20</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-20</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>25</integer>
+		<integer>30</integer>
 		<key>@MMK_R_percent</key>
-		<integer>45</integer>
-		<key>@MMK_R_period</key>
-		<integer>-75</integer>
-		<key>@MMK_R_quoteleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_quoteright</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotesingle</key>
 		<integer>25</integer>
+		<key>@MMK_R_period</key>
+		<integer>-55</integer>
+		<key>@MMK_R_quoteleft</key>
+		<integer>20</integer>
+		<key>@MMK_R_quoteright</key>
+		<integer>50</integer>
+		<key>@MMK_R_quotesingle</key>
+		<integer>20</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-65</integer>
 		<key>@MMK_R_zero.old</key>
@@ -11348,29 +11041,29 @@
 		<key>Euro.proportional</key>
 		<integer>5</integer>
 		<key>ampersand</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>asterisk</key>
-		<integer>40</integer>
+		<integer>30</integer>
 		<key>asterisk.alt</key>
 		<integer>30</integer>
 		<key>at</key>
-		<integer>-35</integer>
-		<key>bullet</key>
 		<integer>-50</integer>
+		<key>bullet</key>
+		<integer>-65</integer>
 		<key>cent.proportional</key>
 		<integer>-25</integer>
 		<key>degree</key>
-		<integer>65</integer>
+		<integer>35</integer>
 		<key>divide</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>eight.num</key>
 		<integer>40</integer>
 		<key>eight.old</key>
 		<integer>-20</integer>
 		<key>equal</key>
-		<integer>-20</integer>
+		<integer>-15</integer>
 		<key>exclam</key>
-		<integer>-10</integer>
+		<integer>10</integer>
 		<key>five.num</key>
 		<integer>30</integer>
 		<key>five.old</key>
@@ -11380,19 +11073,19 @@
 		<key>four.old</key>
 		<integer>-95</integer>
 		<key>greater</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>less</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>minus</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>multiply</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>nine.num</key>
 		<integer>55</integer>
 		<key>nine.old</key>
 		<integer>-15</integer>
 		<key>numbersign</key>
-		<integer>-25</integer>
+		<integer>-45</integer>
 		<key>one.num</key>
 		<integer>40</integer>
 		<key>one.old</key>
@@ -11402,13 +11095,13 @@
 		<key>ordmasculine</key>
 		<integer>30</integer>
 		<key>parenright</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>periodcentered</key>
-		<integer>-30</integer>
+		<integer>-45</integer>
 		<key>plus</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>question</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>servicemark</key>
 		<integer>40</integer>
 		<key>seven.num</key>
@@ -11422,13 +11115,13 @@
 		<key>three.num</key>
 		<integer>40</integer>
 		<key>three.old</key>
-		<integer>-50</integer>
+		<integer>-40</integer>
 		<key>trademark</key>
-		<integer>30</integer>
+		<integer>45</integer>
 		<key>two.num</key>
 		<integer>40</integer>
 		<key>two.old</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>zero.num</key>
 		<integer>60</integer>
 	</dict>
@@ -11440,50 +11133,44 @@
 		<integer>5</integer>
 		<key>@MMK_R_colon</key>
 		<integer>-30</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-30</integer>
 		<key>@MMK_R_minute</key>
 		<integer>20</integer>
 		<key>@MMK_R_percent</key>
-		<integer>50</integer>
+		<integer>25</integer>
 		<key>@MMK_R_period</key>
 		<integer>-85</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>25</integer>
+		<integer>20</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>35</integer>
+		<integer>45</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>20</integer>
 		<key>@MMK_R_slash</key>
-		<integer>-70</integer>
+		<integer>-65</integer>
 		<key>@MMK_R_zero.prop</key>
 		<integer>-30</integer>
-		<key>Euro.proportional</key>
-		<integer>-5</integer>
 		<key>ampersand</key>
 		<integer>-60</integer>
 		<key>asterisk</key>
 		<integer>20</integer>
 		<key>asterisk.alt</key>
-		<integer>10</integer>
+		<integer>20</integer>
 		<key>at</key>
 		<integer>-50</integer>
 		<key>bullet</key>
 		<integer>-65</integer>
 		<key>cent.proportional</key>
-		<integer>-45</integer>
+		<integer>-25</integer>
 		<key>degree</key>
-		<integer>80</integer>
+		<integer>30</integer>
 		<key>divide</key>
-		<integer>-35</integer>
+		<integer>-20</integer>
 		<key>eight.num</key>
 		<integer>40</integer>
 		<key>eight.prop</key>
-		<integer>-35</integer>
+		<integer>-10</integer>
 		<key>equal</key>
-		<integer>-25</integer>
+		<integer>-10</integer>
 		<key>exclam</key>
 		<integer>5</integer>
 		<key>five.num</key>
@@ -11494,20 +11181,18 @@
 		<integer>40</integer>
 		<key>four.prop</key>
 		<integer>-95</integer>
-		<key>greater</key>
-		<integer>-10</integer>
 		<key>less</key>
-		<integer>-30</integer>
+		<integer>-15</integer>
 		<key>minus</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>multiply</key>
-		<integer>-25</integer>
+		<integer>-15</integer>
 		<key>nine.num</key>
 		<integer>55</integer>
 		<key>nine.prop</key>
 		<integer>-15</integer>
 		<key>numbersign</key>
-		<integer>-40</integer>
+		<integer>-55</integer>
 		<key>one.num</key>
 		<integer>35</integer>
 		<key>one.prop</key>
@@ -11523,7 +11208,7 @@
 		<key>plus</key>
 		<integer>-45</integer>
 		<key>servicemark</key>
-		<integer>25</integer>
+		<integer>30</integer>
 		<key>seven.num</key>
 		<integer>35</integer>
 		<key>seven.prop</key>
@@ -11535,7 +11220,7 @@
 		<key>three.num</key>
 		<integer>45</integer>
 		<key>three.prop</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>trademark</key>
 		<integer>40</integer>
 		<key>two.num</key>
@@ -11548,21 +11233,13 @@
 		<key>@MMK_R_backslash</key>
 		<integer>-10</integer>
 		<key>@MMK_R_colon</key>
-		<integer>25</integer>
-		<key>@MMK_R_dashes</key>
 		<integer>5</integer>
-		<key>@MMK_R_dashes.uc</key>
+		<key>@MMK_R_minute</key>
 		<integer>-5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-5</integer>
-		<key>@MMK_R_percent</key>
-		<integer>15</integer>
 		<key>@MMK_R_period</key>
 		<integer>-25</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-15</integer>
 		<key>@MMK_R_quotesingle</key>
@@ -11572,23 +11249,27 @@
 		<key>Euro.proportional</key>
 		<integer>20</integer>
 		<key>ampersand</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>asterisk</key>
-		<integer>-35</integer>
+		<integer>-30</integer>
 		<key>asterisk.alt</key>
 		<integer>-30</integer>
-		<key>bullet</key>
+		<key>at</key>
 		<integer>-5</integer>
+		<key>bullet</key>
+		<integer>-10</integer>
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>-5</integer>
+		<integer>-35</integer>
 		<key>divide</key>
 		<integer>5</integer>
+		<key>divide.lin</key>
+		<integer>-5</integer>
 		<key>eight.num</key>
 		<integer>-10</integer>
-		<key>equal.lin</key>
-		<integer>5</integer>
+		<key>equal</key>
+		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-20</integer>
 		<key>five.num</key>
@@ -11598,33 +11279,25 @@
 		<key>four.num</key>
 		<integer>-10</integer>
 		<key>less</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>less.lin</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>minus</key>
 		<integer>-5</integer>
 		<key>minus.lin</key>
-		<integer>-5</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
-		<key>multiply.lin</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>nine.num</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>one.lin</key>
 		<integer>-25</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
-		<key>ordfeminine</key>
-		<integer>-5</integer>
 		<key>ordmasculine</key>
 		<integer>-10</integer>
 		<key>periodcentered</key>
-		<integer>10</integer>
-		<key>plus</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>question</key>
 		<integer>-45</integer>
 		<key>servicemark</key>
@@ -11639,6 +11312,8 @@
 		<integer>-10</integer>
 		<key>trademark</key>
 		<integer>-15</integer>
+		<key>two.lin</key>
+		<integer>-15</integer>
 	</dict>
 	<key>six.num</key>
 	<dict>
@@ -11648,73 +11323,59 @@
 	<key>six.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>10</integer>
-		<key>@MMK_R_braceright</key>
-		<integer>5</integer>
-		<key>@MMK_R_colon</key>
-		<integer>15</integer>
-		<key>@MMK_R_dashes</key>
-		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>5</integer>
-		<key>@MMK_R_percent</key>
-		<integer>10</integer>
+		<integer>-25</integer>
+		<key>@MMK_R_minute</key>
+		<integer>-25</integer>
 		<key>@MMK_R_period</key>
-		<integer>-15</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-20</integer>
 		<key>@MMK_R_quoteright</key>
+		<integer>-25</integer>
+		<key>@MMK_R_quotesingle</key>
 		<integer>-15</integer>
 		<key>@MMK_R_slash</key>
-		<integer>-20</integer>
+		<integer>-50</integer>
 		<key>Euro.proportional</key>
-		<integer>15</integer>
+		<integer>10</integer>
 		<key>ampersand</key>
 		<integer>-5</integer>
 		<key>asterisk</key>
-		<integer>-20</integer>
+		<integer>-40</integer>
 		<key>asterisk.alt</key>
 		<integer>-40</integer>
+		<key>at</key>
+		<integer>-5</integer>
 		<key>bullet</key>
 		<integer>-15</integer>
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>10</integer>
+		<integer>-40</integer>
 		<key>eight.num</key>
 		<integer>-5</integer>
 		<key>eight.old</key>
 		<integer>-5</integer>
-		<key>exclam</key>
-		<integer>25</integer>
 		<key>five.old</key>
 		<integer>-30</integer>
 		<key>four.old</key>
 		<integer>-30</integer>
-		<key>less</key>
-		<integer>5</integer>
-		<key>minus</key>
-		<integer>5</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>5</integer>
 		<key>nine.old</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
-		<integer>20</integer>
+		<integer>-5</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
 		<key>one.old</key>
 		<integer>-60</integer>
-		<key>parenright</key>
+		<key>periodcentered</key>
 		<integer>-5</integer>
 		<key>plus</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>question</key>
-		<integer>-35</integer>
+		<integer>-55</integer>
 		<key>servicemark</key>
 		<integer>-5</integer>
 		<key>seven.num</key>
@@ -11742,20 +11403,14 @@
 		<integer>20</integer>
 		<key>@MMK_R_dashes</key>
 		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-15</integer>
-		<key>@MMK_R_percent</key>
-		<integer>40</integer>
 		<key>@MMK_R_period</key>
 		<integer>-10</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-20</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-15</integer>
 		<key>@MMK_R_slash</key>
@@ -11773,19 +11428,17 @@
 		<key>cent.proportional</key>
 		<integer>15</integer>
 		<key>degree</key>
-		<integer>10</integer>
-		<key>divide</key>
-		<integer>5</integer>
+		<integer>-30</integer>
 		<key>eight.prop</key>
 		<integer>5</integer>
-		<key>equal</key>
-		<integer>-5</integer>
 		<key>five.prop</key>
 		<integer>-15</integer>
 		<key>four.prop</key>
 		<integer>-15</integer>
 		<key>minus</key>
-		<integer>10</integer>
+		<integer>15</integer>
+		<key>numbersign</key>
+		<integer>-10</integer>
 		<key>one.prop</key>
 		<integer>-10</integer>
 		<key>ordfeminine</key>
@@ -11813,33 +11466,24 @@
 		<key>zero.num</key>
 		<integer>15</integer>
 	</dict>
-	<key>sterling.alt</key>
-	<dict>
-		<key>three.old</key>
-		<integer>-5</integer>
-	</dict>
 	<key>sterling.altprop</key>
 	<dict>
 		<key>eight.lin</key>
 		<integer>5</integer>
 		<key>four.lin</key>
 		<integer>5</integer>
-		<key>one.old</key>
-		<integer>-25</integer>
 		<key>seven.lin</key>
 		<integer>-15</integer>
 		<key>seven.old</key>
 		<integer>-10</integer>
 		<key>seven.prop</key>
-		<integer>-30</integer>
-		<key>six.prop</key>
 		<integer>-10</integer>
 		<key>three.lin</key>
 		<integer>20</integer>
 		<key>three.old</key>
-		<integer>20</integer>
+		<integer>25</integer>
 		<key>three.prop</key>
-		<integer>20</integer>
+		<integer>25</integer>
 		<key>two.lin</key>
 		<integer>10</integer>
 		<key>two.old</key>
@@ -11850,55 +11494,45 @@
 	<key>sterling.proportional</key>
 	<dict>
 		<key>@MMK_R_zero.lin</key>
-		<integer>15</integer>
-		<key>@MMK_R_zero.old</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>eight.lin</key>
 		<integer>10</integer>
-		<key>eight.old</key>
-		<integer>-20</integer>
-		<key>eight.prop</key>
-		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-5</integer>
-		<key>five.old</key>
-		<integer>-15</integer>
 		<key>four.old</key>
 		<integer>10</integer>
 		<key>four.prop</key>
 		<integer>10</integer>
 		<key>nine.lin</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>nine.old</key>
 		<integer>-20</integer>
 		<key>nine.prop</key>
 		<integer>-20</integer>
 		<key>one.lin</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>one.old</key>
-		<integer>-35</integer>
+		<integer>-15</integer>
 		<key>one.prop</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>seven.lin</key>
-		<integer>-20</integer>
+		<integer>-30</integer>
 		<key>seven.old</key>
-		<integer>-45</integer>
+		<integer>-25</integer>
 		<key>seven.prop</key>
 		<integer>-30</integer>
-		<key>six.old</key>
-		<integer>-15</integer>
 		<key>three.lin</key>
 		<integer>5</integer>
 		<key>three.old</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>three.prop</key>
 		<integer>5</integer>
 		<key>two.lin</key>
-		<integer>-5</integer>
+		<integer>-20</integer>
 		<key>two.old</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>two.prop</key>
-		<integer>5</integer>
+		<integer>-20</integer>
 	</dict>
 	<key>tcaron</key>
 	<dict>
@@ -11908,7 +11542,7 @@
 	<key>three.lin</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-10</integer>
+		<integer>5</integer>
 		<key>@MMK_R_braceright</key>
 		<integer>-5</integer>
 		<key>@MMK_R_braceright_uc</key>
@@ -11917,22 +11551,20 @@
 		<integer>-5</integer>
 		<key>@MMK_R_guillemotleft_uc</key>
 		<integer>-5</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
 		<key>@MMK_R_guillemotright_uc</key>
 		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_percent</key>
-		<integer>20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>@MMK_R_quotesingle</key>
-		<integer>-15</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-30</integer>
 		<key>ampersand</key>
@@ -11942,20 +11574,22 @@
 		<key>asterisk.alt</key>
 		<integer>-10</integer>
 		<key>at</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>at.uc</key>
 		<integer>-5</integer>
 		<key>bullet</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>cent.proportional</key>
-		<integer>-5</integer>
-		<key>degree</key>
 		<integer>5</integer>
+		<key>degree</key>
+		<integer>-30</integer>
 		<key>divide.lin</key>
 		<integer>-10</integer>
 		<key>eight.lin</key>
 		<integer>-5</integer>
 		<key>eight.num</key>
+		<integer>-5</integer>
+		<key>exclam</key>
 		<integer>-5</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
@@ -11970,7 +11604,7 @@
 		<key>less.lin</key>
 		<integer>-10</integer>
 		<key>minus</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>multiply</key>
 		<integer>-5</integer>
 		<key>multiply.lin</key>
@@ -11986,11 +11620,11 @@
 		<key>ordfeminine</key>
 		<integer>-10</integer>
 		<key>ordmasculine</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
 		<key>periodcentered</key>
-		<integer>-15</integer>
+		<integer>-25</integer>
 		<key>plus</key>
 		<integer>-20</integer>
 		<key>plus.lin</key>
@@ -11998,7 +11632,7 @@
 		<key>question</key>
 		<integer>-60</integer>
 		<key>servicemark</key>
-		<integer>-10</integer>
+		<integer>-20</integer>
 		<key>seven.lin</key>
 		<integer>-40</integer>
 		<key>seven.num</key>
@@ -12026,47 +11660,43 @@
 	<key>three.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-65</integer>
-		<key>@MMK_R_braceright</key>
-		<integer>15</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_colon</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-40</integer>
+		<integer>-25</integer>
 		<key>@MMK_R_percent</key>
-		<integer>5</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
-		<integer>5</integer>
+		<integer>-5</integer>
 		<key>@MMK_R_quoteleft</key>
 		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-55</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-40</integer>
 		<key>@MMK_R_slash</key>
-		<integer>30</integer>
+		<integer>15</integer>
 		<key>ampersand</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>asterisk</key>
-		<integer>-15</integer>
+		<integer>-30</integer>
 		<key>asterisk.alt</key>
 		<integer>-30</integer>
 		<key>at</key>
 		<integer>-10</integer>
 		<key>bullet</key>
-		<integer>-15</integer>
+		<integer>-35</integer>
 		<key>cent.proportional</key>
 		<integer>5</integer>
 		<key>degree</key>
-		<integer>-25</integer>
+		<integer>-35</integer>
 		<key>divide</key>
-		<integer>-10</integer>
+		<integer>-5</integer>
 		<key>eight.num</key>
 		<integer>-15</integer>
 		<key>eight.old</key>
 		<integer>-15</integer>
-		<key>exclam</key>
-		<integer>15</integer>
 		<key>five.num</key>
 		<integer>-10</integer>
 		<key>five.old</key>
@@ -12080,11 +11710,13 @@
 		<key>minus</key>
 		<integer>-10</integer>
 		<key>multiply</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>nine.num</key>
 		<integer>-10</integer>
 		<key>nine.old</key>
 		<integer>-5</integer>
+		<key>numbersign</key>
+		<integer>-15</integer>
 		<key>one.num</key>
 		<integer>-25</integer>
 		<key>one.old</key>
@@ -12095,12 +11727,14 @@
 		<integer>-15</integer>
 		<key>parenright</key>
 		<integer>-10</integer>
+		<key>periodcentered</key>
+		<integer>-20</integer>
 		<key>plus</key>
-		<integer>-10</integer>
+		<integer>-20</integer>
 		<key>question</key>
-		<integer>-70</integer>
+		<integer>-80</integer>
 		<key>servicemark</key>
-		<integer>-10</integer>
+		<integer>-25</integer>
 		<key>seven.num</key>
 		<integer>-35</integer>
 		<key>seven.old</key>
@@ -12114,7 +11748,7 @@
 		<key>three.old</key>
 		<integer>-15</integer>
 		<key>trademark</key>
-		<integer>-55</integer>
+		<integer>-50</integer>
 		<key>two.num</key>
 		<integer>10</integer>
 		<key>two.old</key>
@@ -12131,13 +11765,13 @@
 		<key>@MMK_R_minute</key>
 		<integer>-35</integer>
 		<key>@MMK_R_percent</key>
-		<integer>10</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_period</key>
 		<integer>-5</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-50</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-60</integer>
+		<integer>-45</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-35</integer>
 		<key>@MMK_R_slash</key>
@@ -12147,13 +11781,15 @@
 		<key>asterisk</key>
 		<integer>-25</integer>
 		<key>asterisk.alt</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>at</key>
 		<integer>-10</integer>
 		<key>bullet</key>
 		<integer>-35</integer>
+		<key>cent.proportional</key>
+		<integer>5</integer>
 		<key>degree</key>
-		<integer>-15</integer>
+		<integer>-25</integer>
 		<key>eight.num</key>
 		<integer>-15</integer>
 		<key>eight.prop</key>
@@ -12171,19 +11807,17 @@
 		<key>less</key>
 		<integer>-20</integer>
 		<key>minus</key>
-		<integer>-10</integer>
-		<key>multiply</key>
 		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>-10</integer>
 		<key>nine.prop</key>
 		<integer>-10</integer>
 		<key>numbersign</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>one.num</key>
 		<integer>-10</integer>
 		<key>ordfeminine</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>ordmasculine</key>
 		<integer>-20</integer>
 		<key>parenright</key>
@@ -12195,7 +11829,7 @@
 		<key>question</key>
 		<integer>-70</integer>
 		<key>servicemark</key>
-		<integer>-15</integer>
+		<integer>-20</integer>
 		<key>seven.num</key>
 		<integer>-30</integer>
 		<key>seven.prop</key>
@@ -12211,7 +11845,7 @@
 		<key>trademark</key>
 		<integer>-35</integer>
 		<key>two.prop</key>
-		<integer>10</integer>
+		<integer>5</integer>
 	</dict>
 	<key>two.lin</key>
 	<dict>
@@ -12221,43 +11855,33 @@
 		<integer>5</integer>
 		<key>@MMK_R_braceright_uc</key>
 		<integer>10</integer>
-		<key>@MMK_R_dashes.uc</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
 		<key>@MMK_R_guillemotright_uc</key>
 		<integer>5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-15</integer>
-		<key>@MMK_R_percent</key>
-		<integer>20</integer>
-		<key>@MMK_R_period</key>
-		<integer>-5</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-15</integer>
 		<key>@MMK_R_slash</key>
 		<integer>15</integer>
-		<key>asterisk</key>
-		<integer>-5</integer>
 		<key>at</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>bullet</key>
 		<integer>-30</integer>
 		<key>cent.proportional</key>
 		<integer>5</integer>
 		<key>degree</key>
-		<integer>10</integer>
+		<integer>-15</integer>
 		<key>divide.lin</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>eight.num</key>
 		<integer>5</integer>
 		<key>equal</key>
 		<integer>10</integer>
-		<key>exclam</key>
+		<key>equal.lin</key>
 		<integer>5</integer>
 		<key>five.lin</key>
 		<integer>-15</integer>
@@ -12273,12 +11897,10 @@
 		<integer>5</integer>
 		<key>less</key>
 		<integer>-20</integer>
-		<key>minus</key>
-		<integer>-5</integer>
 		<key>minus.lin</key>
 		<integer>10</integer>
 		<key>multiply</key>
-		<integer>-5</integer>
+		<integer>5</integer>
 		<key>multiply.lin</key>
 		<integer>5</integer>
 		<key>numbersign</key>
@@ -12287,28 +11909,24 @@
 		<integer>-20</integer>
 		<key>one.num</key>
 		<integer>-5</integer>
-		<key>ordfeminine</key>
-		<integer>-10</integer>
-		<key>ordmasculine</key>
-		<integer>-5</integer>
 		<key>parenright</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>periodcentered</key>
 		<integer>-15</integer>
 		<key>plus</key>
-		<integer>-15</integer>
-		<key>plus.lin</key>
 		<integer>-10</integer>
+		<key>plus.lin</key>
+		<integer>-15</integer>
 		<key>question</key>
 		<integer>-35</integer>
 		<key>servicemark</key>
 		<integer>-15</integer>
 		<key>seven.lin</key>
-		<integer>-35</integer>
+		<integer>-25</integer>
 		<key>six.num</key>
 		<integer>5</integer>
 		<key>three.lin</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>three.num</key>
 		<integer>5</integer>
 		<key>trademark</key>
@@ -12328,37 +11946,33 @@
 	<key>two.old</key>
 	<dict>
 		<key>@MMK_R_backslash</key>
-		<integer>-75</integer>
+		<integer>-65</integer>
 		<key>@MMK_R_braceright</key>
-		<integer>10</integer>
-		<key>@MMK_R_guillemotleft</key>
 		<integer>5</integer>
 		<key>@MMK_R_minute</key>
-		<integer>-40</integer>
-		<key>@MMK_R_percent</key>
-		<integer>10</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-50</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-50</integer>
-		<key>@MMK_R_quotesingle</key>
 		<integer>-40</integer>
+		<key>@MMK_R_quotesingle</key>
+		<integer>-35</integer>
 		<key>@MMK_R_slash</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>@MMK_R_zero.old</key>
 		<integer>-5</integer>
 		<key>ampersand</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>asterisk</key>
-		<integer>-25</integer>
+		<integer>-30</integer>
 		<key>asterisk.alt</key>
 		<integer>-30</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
-		<integer>-20</integer>
+		<integer>-35</integer>
 		<key>degree</key>
-		<integer>-30</integer>
+		<integer>-40</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>eight.num</key>
@@ -12366,27 +11980,23 @@
 		<key>eight.old</key>
 		<integer>-25</integer>
 		<key>equal</key>
-		<integer>-10</integer>
-		<key>exclam</key>
-		<integer>10</integer>
+		<integer>-5</integer>
 		<key>five.old</key>
 		<integer>-20</integer>
 		<key>four.num</key>
 		<integer>10</integer>
 		<key>four.old</key>
-		<integer>-25</integer>
-		<key>greater</key>
-		<integer>-5</integer>
+		<integer>-20</integer>
 		<key>less</key>
 		<integer>-20</integer>
 		<key>minus</key>
 		<integer>-5</integer>
 		<key>multiply</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>nine.old</key>
 		<integer>-15</integer>
 		<key>numbersign</key>
-		<integer>-10</integer>
+		<integer>-25</integer>
 		<key>one.num</key>
 		<integer>-5</integer>
 		<key>one.old</key>
@@ -12398,9 +12008,9 @@
 		<key>parenright</key>
 		<integer>-10</integer>
 		<key>periodcentered</key>
-		<integer>-5</integer>
+		<integer>-15</integer>
 		<key>plus</key>
-		<integer>-10</integer>
+		<integer>-15</integer>
 		<key>question</key>
 		<integer>-70</integer>
 		<key>servicemark</key>
@@ -12432,18 +12042,14 @@
 		<integer>5</integer>
 		<key>@MMK_R_colon</key>
 		<integer>5</integer>
-		<key>@MMK_R_guillemotleft</key>
-		<integer>-5</integer>
 		<key>@MMK_R_minute</key>
 		<integer>-25</integer>
-		<key>@MMK_R_percent</key>
-		<integer>10</integer>
 		<key>@MMK_R_period</key>
 		<integer>-15</integer>
 		<key>@MMK_R_quoteleft</key>
-		<integer>-45</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_quoteright</key>
-		<integer>-60</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_quotesingle</key>
 		<integer>-25</integer>
 		<key>@MMK_R_slash</key>
@@ -12453,23 +12059,17 @@
 		<key>asterisk</key>
 		<integer>-25</integer>
 		<key>asterisk.alt</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
 		<integer>-25</integer>
-		<key>cent.proportional</key>
-		<integer>-5</integer>
 		<key>degree</key>
-		<integer>-20</integer>
-		<key>divide</key>
-		<integer>-10</integer>
+		<integer>-35</integer>
 		<key>eight.num</key>
 		<integer>-10</integer>
 		<key>eight.prop</key>
 		<integer>-10</integer>
-		<key>exclam</key>
-		<integer>5</integer>
 		<key>five.prop</key>
 		<integer>-10</integer>
 		<key>four.prop</key>
@@ -12478,14 +12078,12 @@
 		<integer>-20</integer>
 		<key>minus</key>
 		<integer>-5</integer>
-		<key>multiply</key>
-		<integer>-5</integer>
 		<key>nine.num</key>
 		<integer>-10</integer>
 		<key>nine.prop</key>
 		<integer>-5</integer>
 		<key>numbersign</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>one.num</key>
 		<integer>-15</integer>
 		<key>one.prop</key>
@@ -12507,7 +12105,7 @@
 		<key>seven.num</key>
 		<integer>-30</integer>
 		<key>seven.prop</key>
-		<integer>-50</integer>
+		<integer>-40</integer>
 		<key>six.prop</key>
 		<integer>-10</integer>
 		<key>three.num</key>
@@ -12574,6 +12172,8 @@
 		<integer>-30</integer>
 		<key>asterisk</key>
 		<integer>5</integer>
+		<key>asterisk.alt</key>
+		<integer>5</integer>
 		<key>at</key>
 		<integer>-5</integer>
 		<key>bullet</key>
@@ -12581,6 +12181,8 @@
 		<key>exclam</key>
 		<integer>30</integer>
 		<key>oslash</key>
+		<integer>20</integer>
+		<key>oslashacute</key>
 		<integer>20</integer>
 		<key>plus</key>
 		<integer>-20</integer>
@@ -12595,52 +12197,38 @@
 	</dict>
 	<key>yen.proportional</key>
 	<dict>
-		<key>@MMK_R_zero.old</key>
-		<integer>-15</integer>
-		<key>@MMK_R_zero.prop</key>
-		<integer>-10</integer>
-		<key>eight.lin</key>
-		<integer>-10</integer>
-		<key>eight.old</key>
-		<integer>-20</integer>
 		<key>five.old</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>five.prop</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>four.lin</key>
 		<integer>-20</integer>
 		<key>four.old</key>
-		<integer>-65</integer>
+		<integer>-35</integer>
 		<key>four.prop</key>
-		<integer>-45</integer>
+		<integer>-30</integer>
 		<key>nine.old</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>one.lin</key>
 		<integer>-25</integer>
 		<key>one.old</key>
-		<integer>-90</integer>
+		<integer>-40</integer>
 		<key>one.prop</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>seven.lin</key>
 		<integer>10</integer>
 		<key>seven.old</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
 		<key>seven.prop</key>
 		<integer>-20</integer>
-		<key>six.lin</key>
-		<integer>-10</integer>
-		<key>six.old</key>
-		<integer>-10</integer>
-		<key>six.prop</key>
-		<integer>-10</integer>
 		<key>three.lin</key>
 		<integer>-10</integer>
 		<key>three.old</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>three.prop</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>two.old</key>
-		<integer>-35</integer>
+		<integer>-20</integer>
 		<key>two.prop</key>
 		<integer>-20</integer>
 	</dict>

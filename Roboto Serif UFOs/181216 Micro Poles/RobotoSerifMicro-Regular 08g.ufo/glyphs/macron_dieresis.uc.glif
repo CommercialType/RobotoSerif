@@ -3,8 +3,7 @@
   <advance width="500"/>
   <anchor x="250" y="694" name="_top"/>
   <outline>
-    <component base="macron.uc" xOffset="1" yOffset="128"/>
-    <component base="dieresis.uc" yOffset="-3"/>
+    <component base="macron_dieresis" yOffset="107"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +28,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.2149,0.2149,0.2149,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

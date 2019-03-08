@@ -4,6 +4,12 @@
   <unicode hex="0209"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dblgrave" xOffset="-45.5"/>
+    <component base="dblgrave" xOffset="-98.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
 </glyph>

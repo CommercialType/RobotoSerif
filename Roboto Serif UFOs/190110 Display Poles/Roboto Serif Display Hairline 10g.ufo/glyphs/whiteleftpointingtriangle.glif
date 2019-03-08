@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteleftpointingtriangle" format="2">
+  <advance width="765"/>
+  <outline>
+    <contour>
+      <point x="705" y="-40" type="line"/>
+      <point x="705" y="754" type="line"/>
+      <point x="20" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="689" y="-19" type="line"/>
+      <point x="701" y="-19" type="line"/>
+      <point x="46" y="361" type="line"/>
+      <point x="46" y="353" type="line"/>
+      <point x="697" y="731" type="line"/>
+      <point x="689" y="733" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
