@@ -48,6 +48,8 @@
     <string>K_.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>Ldot</key>
+    <string>L_dot.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>N</key>
@@ -154,6 +156,8 @@
     <string>cedilla.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>cent.alt</key>
+    <string>cent.alt.glif</string>
     <key>cent.altprop</key>
     <string>cent.altprop.glif</string>
     <key>cent.proportional</key>
@@ -198,12 +202,18 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>dblgrave</key>
+    <string>dblgrave.glif</string>
+    <key>dblgrave.uc</key>
+    <string>dblgrave.uc.glif</string>
     <key>dcroat</key>
     <string>dcroat.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.alt</key>
+    <string>dollar.alt.glif</string>
     <key>dollar.altprop</key>
     <string>dollar.altprop.glif</string>
     <key>dollar.proportional</key>
@@ -222,6 +232,8 @@
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.den</key>
+    <string>eight.den.glif</string>
     <key>eight.lin</key>
     <string>eight.lin.glif</string>
     <key>eight.linprop</key>
@@ -236,6 +248,8 @@
     <string>emptyset.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
+    <key>eogonek</key>
+    <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>estimated</key>
@@ -296,6 +310,8 @@
     <string>fi.alt.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>five.den</key>
+    <string>five.den.glif</string>
     <key>five.lin</key>
     <string>five.lin.glif</string>
     <key>five.linprop</key>
@@ -314,6 +330,8 @@
     <string>florin.proportional.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>four.den</key>
+    <string>four.den.glif</string>
     <key>four.lin</key>
     <string>four.lin.glif</string>
     <key>four.linprop</key>
@@ -358,12 +376,20 @@
     <string>hungarumlaut.uc.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>idotless</key>
+    <string>idotless.glif</string>
+    <key>iinvertedbreve</key>
+    <string>iinvertedbreve.glif</string>
     <key>infinity</key>
     <string>infinity.glif</string>
     <key>integral</key>
     <string>integral.glif</string>
+    <key>itilde</key>
+    <string>itilde.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>jdotless</key>
+    <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>kgreenlandic</key>
@@ -402,6 +428,10 @@
     <string>micro.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
+    <key>minus.sub</key>
+    <string>minus.sub.glif</string>
+    <key>minus.sup</key>
+    <string>minus.sup.glif</string>
     <key>mu</key>
     <string>mu.glif</string>
     <key>multiply</key>
@@ -414,6 +444,8 @@
     <string>naira.proportional.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>nine.den</key>
+    <string>nine.den.glif</string>
     <key>nine.lin</key>
     <string>nine.lin.glif</string>
     <key>nine.linprop</key>
@@ -446,6 +478,8 @@
     <string>one.oldprop.glif</string>
     <key>one.prop</key>
     <string>one.prop.glif</string>
+    <key>oogonek</key>
+    <string>oogonek.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
     <key>ordmasculine</key>
@@ -530,6 +564,8 @@
     <string>seven.prop.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>six.den</key>
+    <string>six.den.glif</string>
     <key>six.lin</key>
     <string>six.lin.glif</string>
     <key>six.linprop</key>
@@ -562,6 +598,8 @@
     <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>three.den</key>
+    <string>three.den.glif</string>
     <key>three.lin</key>
     <string>three.lin.glif</string>
     <key>three.linprop</key>
@@ -580,6 +618,8 @@
     <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>two.den</key>
+    <string>two.den.glif</string>
     <key>two.lin</key>
     <string>two.lin.glif</string>
     <key>two.linprop</key>
@@ -622,6 +662,8 @@
     <string>z.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zero.den</key>
+    <string>zero.den.glif</string>
     <key>zero.lin</key>
     <string>zero.lin.glif</string>
     <key>zero.linprop</key>
@@ -632,5 +674,13 @@
     <string>zero.oldprop.glif</string>
     <key>zero.prop</key>
     <string>zero.prop.glif</string>
+    <key>zero.propslash</key>
+    <string>zero.propslash.glif</string>
+    <key>zero.slashlin</key>
+    <string>zero.slashlin.glif</string>
+    <key>zero.slashold</key>
+    <string>zero.slashold.glif</string>
+    <key>zero.slasholdprop</key>
+    <string>zero.slasholdprop.glif</string>
   </dict>
 </plist>

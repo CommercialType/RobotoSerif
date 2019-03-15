@@ -4,6 +4,12 @@
   <unicode hex="0231"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccent_macron" xOffset="124"/>
+    <component base="dotaccent_macron" xOffset="117"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
 </glyph>

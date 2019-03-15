@@ -3,8 +3,22 @@
   <advance width="557"/>
   <anchor x="251" y="749" name="_top"/>
   <outline>
+    <contour>
+      <point x="455" y="1036" type="curve" smooth="yes"/>
+      <point x="391" y="935" type="line"/>
+      <point x="391" y="913" type="line"/>
+      <point x="415" y="913" type="line"/>
+      <point x="518" y="1003" type="line" smooth="yes"/>
+      <point x="544" y="1025"/>
+      <point x="561" y="1038"/>
+      <point x="561" y="1061" type="curve" smooth="yes"/>
+      <point x="561.0" y="1080.0"/>
+      <point x="548" y="1097"/>
+      <point x="522" y="1097" type="curve" smooth="yes"/>
+      <point x="491.0" y="1097.0"/>
+      <point x="479" y="1074"/>
+    </contour>
     <component base="circumflex.uc"/>
-    <component base="acute.uc" xOffset="198" yOffset="125"/>
   </outline>
   <lib>
     <dict>

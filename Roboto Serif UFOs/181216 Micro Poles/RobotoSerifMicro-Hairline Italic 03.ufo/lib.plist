@@ -16864,6 +16864,8 @@
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
+      <string>uni00A0</string>
+      <string>thinspace</string>
       <string>A</string>
       <string>Agrave</string>
       <string>Aacute</string>
@@ -16874,6 +16876,8 @@
       <string>Amacron</string>
       <string>Abreve</string>
       <string>Aogonek</string>
+      <string>Acaron</string>
+      <string>Aringacute</string>
       <string>Adblgrave</string>
       <string>Ainvertedbreve</string>
       <string>Adotbelow</string>
@@ -16944,10 +16948,12 @@
       <string>Ibreve</string>
       <string>Iogonek</string>
       <string>Idotaccent</string>
+      <string>Icaron</string>
       <string>Idblgrave</string>
       <string>Iinvertedbreve</string>
       <string>Idieresisacute</string>
       <string>Ehookabove</string>
+      <string>Ihoi</string>
       <string>Idotbelow</string>
       <string>J</string>
       <string>Jcircumflex</string>
@@ -16956,6 +16962,7 @@
       <string>L</string>
       <string>Lacute</string>
       <string>Lcommaaccent</string>
+      <string>Lcaron</string>
       <string>Ldotbelow</string>
       <string>Llinebelow</string>
       <string>M</string>
@@ -16978,6 +16985,7 @@
       <string>Obreve</string>
       <string>Ohungarumlaut</string>
       <string>Ohorn</string>
+      <string>Ocaron</string>
       <string>Oogonek</string>
       <string>Odblgrave</string>
       <string>Oinvertedbreve</string>
@@ -17023,7 +17031,6 @@
       <string>Sdotbelowdotaccent</string>
       <string>T</string>
       <string>Tcedilla</string>
-      <string>Tcommaaccent</string>
       <string>Tcaron</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
@@ -17039,6 +17046,8 @@
       <string>Uhungarumlaut</string>
       <string>Uogonek</string>
       <string>Uhorn</string>
+      <string>Ucaron</string>
+      <string>Udieresiscaron</string>
       <string>Udblgrave</string>
       <string>Uinvertedbreve</string>
       <string>Utildeacute</string>
@@ -17073,15 +17082,24 @@
       <string>Zcaron</string>
       <string>Zdotbelow</string>
       <string>AE</string>
+      <string>AEacute</string>
+      <string>Eth</string>
       <string>Oslash</string>
+      <string>Oslashacute</string>
       <string>Thorn</string>
+      <string>Dcroat</string>
       <string>Hbar</string>
+      <string>IJ</string>
+      <string>Ldot</string>
+      <string>Lslash</string>
       <string>Eng</string>
       <string>OE</string>
+      <string>Tbar</string>
       <string>Schwa</string>
       <string>Germandbls</string>
       <string>Delta</string>
       <string>Omega</string>
+      <string>ohm</string>
       <string>a</string>
       <string>agrave</string>
       <string>aacute</string>
@@ -17092,6 +17110,8 @@
       <string>amacron</string>
       <string>abreve</string>
       <string>aogonek</string>
+      <string>acaron</string>
+      <string>aringacute</string>
       <string>adblgrave</string>
       <string>ainvertedbreve</string>
       <string>adotbelow</string>
@@ -17105,6 +17125,7 @@
       <string>abrevegrave</string>
       <string>abrevehookabove</string>
       <string>abrevetilde</string>
+      <string>abrevedotbelow</string>
       <string>b</string>
       <string>c</string>
       <string>ccedilla</string>
@@ -17160,6 +17181,7 @@
       <string>imacron</string>
       <string>ibreve</string>
       <string>iogonek</string>
+      <string>icaron</string>
       <string>idblgrave</string>
       <string>iinvertedbreve</string>
       <string>idieresisacute</string>
@@ -17172,6 +17194,7 @@
       <string>l</string>
       <string>lacute</string>
       <string>lcommaaccent</string>
+      <string>lcaron</string>
       <string>ldotbelow</string>
       <string>llinebelow</string>
       <string>m</string>
@@ -17194,6 +17217,7 @@
       <string>obreve</string>
       <string>ohungarumlaut</string>
       <string>ohorn</string>
+      <string>ocaron</string>
       <string>oogonek</string>
       <string>odblgrave</string>
       <string>oinvertedbreve</string>
@@ -17239,6 +17263,7 @@
       <string>sdotbelowdotaccent</string>
       <string>t</string>
       <string>tcedilla</string>
+      <string>tcaron</string>
       <string>tcommaaccent</string>
       <string>tdotbelow</string>
       <string>tlinebelow</string>
@@ -17255,6 +17280,8 @@
       <string>uhungarumlaut</string>
       <string>uogonek</string>
       <string>uhorn</string>
+      <string>ucaron</string>
+      <string>udieresiscaron</string>
       <string>udblgrave</string>
       <string>uinvertedbreve</string>
       <string>utildeacute</string>
@@ -17290,13 +17317,16 @@
       <string>zdotbelow</string>
       <string>germandbls</string>
       <string>ae</string>
+      <string>aeacute</string>
       <string>eth</string>
       <string>oslash</string>
+      <string>oslashacute</string>
       <string>thorn</string>
       <string>dcroat</string>
       <string>hbar</string>
       <string>dotlessi</string>
       <string>ij</string>
+      <string>ldot</string>
       <string>eng</string>
       <string>oe</string>
       <string>tbar</string>
@@ -17304,8 +17334,22 @@
       <string>schwa</string>
       <string>mu</string>
       <string>pi</string>
+      <string>primemod</string>
+      <string>commaturnedmod</string>
+      <string>apostrophemod</string>
+      <string>verticallinemod</string>
+      <string>verticallinelowmod</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>circumflexcomb</string>
+      <string>tildecomb</string>
+      <string>dieresiscomb</string>
+      <string>caroncomb</string>
+      <string>commaaccentcomb</string>
+      <string>cedillacomb</string>
+      <string>ogonekcomb</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -17316,9 +17360,24 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>onesuperior</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>onequarter</string>
+      <string>onehalf</string>
+      <string>threequarters</string>
+      <string>onethird</string>
+      <string>twothirds</string>
+      <string>oneeighth</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>underscore</string>
       <string>hyphen</string>
+      <string>figuredash</string>
       <string>endash</string>
       <string>emdash</string>
+      <string>horizontalbar</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>bracketleft</string>
@@ -17352,6 +17411,7 @@
       <string>questiondown</string>
       <string>slash</string>
       <string>backslash</string>
+      <string>fraction</string>
       <string>bar</string>
       <string>brokenbar</string>
       <string>at</string>
@@ -17377,6 +17437,10 @@
       <string>approxequal</string>
       <string>notequal</string>
       <string>logicalnot</string>
+      <string>arrowleft</string>
+      <string>arrowup</string>
+      <string>arrowright</string>
+      <string>arrowdown</string>
       <string>partialdiff</string>
       <string>emptyset</string>
       <string>product</string>
@@ -17385,6 +17449,7 @@
       <string>radical</string>
       <string>infinity</string>
       <string>integral</string>
+      <string>uni27F7</string>
       <string>dollar</string>
       <string>cent</string>
       <string>sterling</string>
@@ -17451,10 +17516,34 @@
       <string>soundcopyright</string>
       <string>estimated</string>
       <string>hook</string>
+      <string>uni25B4</string>
+      <string>uni25B5</string>
+      <string>uni25B8</string>
+      <string>uni25B9</string>
+      <string>uni25BE</string>
+      <string>uni25BF</string>
+      <string>uni25C2</string>
+      <string>uni25C3</string>
       <string>lozenge</string>
       <string>zerowidthspace</string>
+      <string>IJacute</string>
+      <string>Ihookabove</string>
       <string>Jacute</string>
+      <string>SS</string>
+      <string>Tcommaaccent</string>
       <string>acutedotaccent</string>
+      <string>arrowdownleft</string>
+      <string>arrowdownright</string>
+      <string>arrowupleft</string>
+      <string>arrowupright</string>
+      <string>blackcircle</string>
+      <string>blackdiamond</string>
+      <string>blackdownpointingtriangle</string>
+      <string>blackleftpointingtriangle</string>
+      <string>blackrightpointingtriangle</string>
+      <string>blacksquare</string>
+      <string>blacktriangle</string>
+      <string>blackuppointingtriangle</string>
       <string>brevebelow</string>
       <string>brevebelowcomb</string>
       <string>brevecomb</string>
@@ -17470,22 +17559,66 @@
       <string>dotaccentcomb</string>
       <string>dotbelow</string>
       <string>dotbelowcomb</string>
+      <string>doubleprimemod</string>
+      <string>eightinferior</string>
+      <string>eightsuperior</string>
+      <string>firsttonechinese</string>
+      <string>fiveinferior</string>
+      <string>fivesuperior</string>
       <string>florin</string>
+      <string>fourinferior</string>
+      <string>foursuperior</string>
+      <string>fourthtonechinese</string>
       <string>guillemotleft</string>
       <string>guillemotright</string>
+      <string>heart</string>
+      <string>heartsuitwhite</string>
       <string>hookabovecomb</string>
+      <string>horn</string>
       <string>horncomb</string>
       <string>hungarumlautcomb</string>
+      <string>hyphentwo</string>
       <string>idotaccent</string>
+      <string>idotless</string>
+      <string>ihoi</string>
+      <string>ihookabove</string>
+      <string>ijacute</string>
       <string>jacute</string>
+      <string>jdotless</string>
       <string>kgreenlandic</string>
       <string>liraTurkish</string>
       <string>literSign</string>
+      <string>lslash</string>
       <string>macronbelow</string>
       <string>macronbelowcomb</string>
       <string>macroncomb</string>
       <string>micro</string>
+      <string>napostrophe</string>
+      <string>nineinferior</string>
+      <string>ninesuperior</string>
+      <string>oneinferior</string>
+      <string>ringcomb</string>
+      <string>ringhalfleft</string>
+      <string>ringhalfright</string>
       <string>rupeeIndian</string>
+      <string>secondtonechinese</string>
+      <string>seveninferior</string>
+      <string>sevensuperior</string>
+      <string>sixinferior</string>
+      <string>sixsuperior</string>
+      <string>softhyphen</string>
+      <string>threeinferior</string>
+      <string>twoinferior</string>
+      <string>whitecircle</string>
+      <string>whitediamond</string>
+      <string>whitedownpointingtriangle</string>
+      <string>whiteleftpointingtriangle</string>
+      <string>whiterightpointingtriangle</string>
+      <string>whitesquare</string>
+      <string>whitetriangle</string>
+      <string>whiteuppointingtriangle</string>
+      <string>zeroinferior</string>
+      <string>zerosuperior</string>
       <string>f_f</string>
       <string>fi</string>
       <string>fl</string>
@@ -17501,6 +17634,9 @@
       <string>f_j</string>
       <string>f_k</string>
       <string>f_l</string>
+      <string>period.tab</string>
+      <string>comma.tab</string>
+      <string>colon.tab</string>
       <string>periodcentered.loclCAT</string>
       <string>periodcentered.loclCAT.uc</string>
       <string>dollar.proportional</string>
@@ -17532,6 +17668,7 @@
       <string>cent.altprop</string>
       <string>sterling.altprop</string>
       <string>lira.altprop</string>
+      <string>acute.ucpl</string>
       <string>hyphen.uc</string>
       <string>endash.uc</string>
       <string>emdash.uc</string>
@@ -17587,16 +17724,26 @@
       <string>dblgrave.uc</string>
       <string>guillemotleft.uc</string>
       <string>guillemotright.uc</string>
-      <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
-      <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
+      <string>zero.den</string>
+      <string>one.den</string>
+      <string>two.den</string>
+      <string>three.den</string>
+      <string>four.den</string>
+      <string>five.den</string>
+      <string>six.den</string>
+      <string>seven.den</string>
+      <string>eight.den</string>
+      <string>nine.den</string>
+      <string>zero.num</string>
+      <string>one.num</string>
+      <string>two.num</string>
+      <string>three.num</string>
+      <string>four.num</string>
+      <string>five.num</string>
+      <string>six.num</string>
+      <string>seven.num</string>
+      <string>eight.num</string>
+      <string>nine.num</string>
       <string>zero.old</string>
       <string>one.old</string>
       <string>two.old</string>
@@ -17617,6 +17764,16 @@
       <string>seven.prop</string>
       <string>eight.prop</string>
       <string>nine.prop</string>
+      <string>zero.sinf</string>
+      <string>one.sinf</string>
+      <string>two.sinf</string>
+      <string>three.sinf</string>
+      <string>four.sinf</string>
+      <string>five.sinf</string>
+      <string>six.sinf</string>
+      <string>seven.sinf</string>
+      <string>eight.sinf</string>
+      <string>nine.sinf</string>
       <string>zero.linprop</string>
       <string>one.linprop</string>
       <string>two.linprop</string>
@@ -17637,6 +17794,60 @@
       <string>seven.oldprop</string>
       <string>eight.oldprop</string>
       <string>nine.oldprop</string>
+      <string>zero.zero</string>
+      <string>zero.slash</string>
+      <string>zero.slashlin</string>
+      <string>zero.slashold</string>
+      <string>zero.propslash</string>
+      <string>zero.slashlintab</string>
+      <string>zero.slashlinprop</string>
+      <string>zero.slasholdprop</string>
+      <string>zero.lin</string>
+      <string>one.lin</string>
+      <string>two.lin</string>
+      <string>three.lin</string>
+      <string>four.lin</string>
+      <string>five.lin</string>
+      <string>six.lin</string>
+      <string>seven.lin</string>
+      <string>eight.lin</string>
+      <string>nine.lin</string>
+      <string>plus.lin</string>
+      <string>minus.lin</string>
+      <string>divide.lin</string>
+      <string>multiply.lin</string>
+      <string>equal.lin</string>
+      <string>less.lin</string>
+      <string>greater.lin</string>
+      <string>lessequal.lin</string>
+      <string>greaterequal.lin</string>
+      <string>approxequal.lin</string>
+      <string>notequal.lin</string>
+      <string>logicalnot.lin</string>
+      <string>zero.sub</string>
+      <string>one.sub</string>
+      <string>two.sub</string>
+      <string>three.sub</string>
+      <string>four.sub</string>
+      <string>five.sub</string>
+      <string>six.sub</string>
+      <string>seven.sub</string>
+      <string>eight.sub</string>
+      <string>nine.sub</string>
+      <string>plus.sub</string>
+      <string>minus.sub</string>
+      <string>zero.sup</string>
+      <string>one.sup</string>
+      <string>two.sup</string>
+      <string>three.sup</string>
+      <string>four.sup</string>
+      <string>five.sup</string>
+      <string>six.sup</string>
+      <string>seven.sup</string>
+      <string>eight.sup</string>
+      <string>nine.sup</string>
+      <string>plus.sup</string>
+      <string>minus.sup</string>
       <string>f.short</string>
       <string>f_f.short</string>
       <string>Cacute.pl</string>
@@ -17651,15 +17862,46 @@
       <string>zacute.pl</string>
       <string>acute.pl</string>
       <string>E.alt</string>
+      <string>Egrave.alt</string>
+      <string>Eacute.alt</string>
+      <string>Ecircumflex.alt</string>
+      <string>Edieresis.alt</string>
+      <string>Emacron.alt</string>
+      <string>Ebreve.alt</string>
+      <string>Edotaccent.alt</string>
+      <string>Eogonek.alt</string>
+      <string>Ecaron.alt</string>
+      <string>Edblgrave.alt</string>
+      <string>Einvertedbreve.alt</string>
+      <string>Emacrongrave.alt</string>
+      <string>Emacronacute.alt</string>
+      <string>Ecedillabreve.alt</string>
+      <string>Edotbelow.alt</string>
+      <string>Etilde.alt</string>
+      <string>Ecircumflexacute.alt</string>
+      <string>Ecircumflexgrave.alt</string>
+      <string>Ecircumflexhookabove.alt</string>
+      <string>Ecircumflextilde.alt</string>
+      <string>Ecircumflexdotbelow.alt</string>
       <string>F.alt</string>
       <string>AE.alt</string>
+      <string>AEacute.alt</string>
       <string>OE.alt</string>
+      <string>Ehookabove.alt</string>
       <string>f.alt</string>
       <string>g.alt</string>
+      <string>gcircumflex.alt</string>
+      <string>gbreve.alt</string>
+      <string>gdotaccent.alt</string>
+      <string>gcommaaccent.alt</string>
+      <string>gcaron.alt</string>
+      <string>gmacron.alt</string>
       <string>caron.alt</string>
+      <string>caroncomb.alt</string>
+      <string>dollar.alt</string>
+      <string>cent.alt</string>
       <string>sterling.alt</string>
       <string>lira.alt</string>
-      <string>caroncomb.alt</string>
       <string>commaaccent.alt</string>
       <string>f_f.alt</string>
       <string>f_f_b.alt</string>
@@ -17671,248 +17913,6 @@
       <string>f_i.alt</string>
       <string>f_j.alt</string>
       <string>fi.alt</string>
-      <string>acute.ucpl</string>
-      <string>AEacute</string>
-      <string>AEacute.alt</string>
-      <string>Acaron</string>
-      <string>Aringacute</string>
-      <string>Dcroat</string>
-      <string>Eacute.alt</string>
-      <string>Ebreve.alt</string>
-      <string>Ecaron.alt</string>
-      <string>Ecedillabreve.alt</string>
-      <string>Ecircumflex.alt</string>
-      <string>Ecircumflexacute.alt</string>
-      <string>Ecircumflexdotbelow.alt</string>
-      <string>Ecircumflexgrave.alt</string>
-      <string>Ecircumflexhookabove.alt</string>
-      <string>Ecircumflextilde.alt</string>
-      <string>Edblgrave.alt</string>
-      <string>Edieresis.alt</string>
-      <string>Edotaccent.alt</string>
-      <string>Edotbelow.alt</string>
-      <string>Egrave.alt</string>
-      <string>Ehookabove.alt</string>
-      <string>Einvertedbreve.alt</string>
-      <string>Emacron.alt</string>
-      <string>Emacronacute.alt</string>
-      <string>Emacrongrave.alt</string>
-      <string>Eogonek.alt</string>
-      <string>Eth</string>
-      <string>Etilde.alt</string>
-      <string>IJ</string>
-      <string>IJacute</string>
-      <string>Icaron</string>
-      <string>Ihoi</string>
-      <string>Ihookabove</string>
-      <string>Lcaron</string>
-      <string>Ldot</string>
-      <string>Lslash</string>
-      <string>Ocaron</string>
-      <string>Oslashacute</string>
-      <string>SS</string>
-      <string>Tbar</string>
-      <string>Ucaron</string>
-      <string>Udieresiscaron</string>
-      <string>abrevedotbelow</string>
-      <string>acaron</string>
-      <string>acutecomb</string>
-      <string>aeacute</string>
-      <string>apostrophemod</string>
-      <string>approxequal.lin</string>
-      <string>aringacute</string>
-      <string>arrowdown</string>
-      <string>arrowdownleft</string>
-      <string>arrowdownright</string>
-      <string>arrowleft</string>
-      <string>arrowright</string>
-      <string>arrowup</string>
-      <string>arrowupleft</string>
-      <string>arrowupright</string>
-      <string>blackcircle</string>
-      <string>blackdiamond</string>
-      <string>blackdownpointingtriangle</string>
-      <string>blackleftpointingtriangle</string>
-      <string>blackrightpointingtriangle</string>
-      <string>blacksquare</string>
-      <string>blacktriangle</string>
-      <string>blackuppointingtriangle</string>
-      <string>caroncomb</string>
-      <string>cedillacomb</string>
-      <string>cent.alt</string>
-      <string>circumflexcomb</string>
-      <string>colon.tab</string>
-      <string>comma.tab</string>
-      <string>commaaccentcomb</string>
-      <string>commaturnedmod</string>
-      <string>dieresiscomb</string>
-      <string>divide.lin</string>
-      <string>dollar.alt</string>
-      <string>doubleprimemod</string>
-      <string>eight.den</string>
-      <string>eight.num</string>
-      <string>eight.sinf</string>
-      <string>eight.sub</string>
-      <string>eight.sup</string>
-      <string>eightinferior</string>
-      <string>eightsuperior</string>
-      <string>equal.lin</string>
-      <string>figuredash</string>
-      <string>firsttonechinese</string>
-      <string>five.den</string>
-      <string>five.num</string>
-      <string>five.sinf</string>
-      <string>five.sub</string>
-      <string>five.sup</string>
-      <string>fiveeighths</string>
-      <string>fiveinferior</string>
-      <string>fivesuperior</string>
-      <string>four.den</string>
-      <string>four.num</string>
-      <string>four.sinf</string>
-      <string>four.sub</string>
-      <string>four.sup</string>
-      <string>fourinferior</string>
-      <string>foursuperior</string>
-      <string>fourthtonechinese</string>
-      <string>fraction</string>
-      <string>gbreve.alt</string>
-      <string>gcaron.alt</string>
-      <string>gcircumflex.alt</string>
-      <string>gcommaaccent.alt</string>
-      <string>gdotaccent.alt</string>
-      <string>gmacron.alt</string>
-      <string>gravecomb</string>
-      <string>greater.lin</string>
-      <string>greaterequal.lin</string>
-      <string>heart</string>
-      <string>heartsuitwhite</string>
-      <string>horizontalbar</string>
-      <string>horn</string>
-      <string>hyphentwo</string>
-      <string>icaron</string>
-      <string>idotless</string>
-      <string>ihoi</string>
-      <string>ihookabove</string>
-      <string>ijacute</string>
-      <string>jdotless</string>
-      <string>lcaron</string>
-      <string>ldot</string>
-      <string>less.lin</string>
-      <string>lessequal.lin</string>
-      <string>logicalnot.lin</string>
-      <string>lslash</string>
-      <string>minus.lin</string>
-      <string>minus.sub</string>
-      <string>minus.sup</string>
-      <string>multiply.lin</string>
-      <string>napostrophe</string>
-      <string>nine.den</string>
-      <string>nine.num</string>
-      <string>nine.sinf</string>
-      <string>nine.sub</string>
-      <string>nine.sup</string>
-      <string>nineinferior</string>
-      <string>ninesuperior</string>
-      <string>notequal.lin</string>
-      <string>ocaron</string>
-      <string>ogonekcomb</string>
-      <string>ohm</string>
-      <string>one.den</string>
-      <string>one.num</string>
-      <string>one.sinf</string>
-      <string>one.sub</string>
-      <string>one.sup</string>
-      <string>oneeighth</string>
-      <string>onehalf</string>
-      <string>oneinferior</string>
-      <string>onequarter</string>
-      <string>onesuperior</string>
-      <string>onethird</string>
-      <string>oslashacute</string>
-      <string>period.tab</string>
-      <string>plus.lin</string>
-      <string>plus.sub</string>
-      <string>plus.sup</string>
-      <string>primemod</string>
-      <string>ringcomb</string>
-      <string>ringhalfleft</string>
-      <string>ringhalfright</string>
-      <string>secondtonechinese</string>
-      <string>seven.den</string>
-      <string>seven.num</string>
-      <string>seven.sinf</string>
-      <string>seven.sub</string>
-      <string>seven.sup</string>
-      <string>seveneighths</string>
-      <string>seveninferior</string>
-      <string>sevensuperior</string>
-      <string>six.den</string>
-      <string>six.num</string>
-      <string>six.sinf</string>
-      <string>six.sub</string>
-      <string>six.sup</string>
-      <string>sixinferior</string>
-      <string>sixsuperior</string>
-      <string>softhyphen</string>
-      <string>tcaron</string>
-      <string>thinspace</string>
-      <string>three.den</string>
-      <string>three.num</string>
-      <string>three.sinf</string>
-      <string>three.sub</string>
-      <string>three.sup</string>
-      <string>threeeighths</string>
-      <string>threeinferior</string>
-      <string>threequarters</string>
-      <string>threesuperior</string>
-      <string>tildecomb</string>
-      <string>two.den</string>
-      <string>two.num</string>
-      <string>two.sinf</string>
-      <string>two.sub</string>
-      <string>two.sup</string>
-      <string>twoinferior</string>
-      <string>twosuperior</string>
-      <string>twothirds</string>
-      <string>ucaron</string>
-      <string>udieresiscaron</string>
-      <string>underscore</string>
-      <string>uni00A0</string>
-      <string>uni25B4</string>
-      <string>uni25B5</string>
-      <string>uni25B8</string>
-      <string>uni25B9</string>
-      <string>uni25BE</string>
-      <string>uni25BF</string>
-      <string>uni25C2</string>
-      <string>uni25C3</string>
-      <string>uni27F7</string>
-      <string>verticallinelowmod</string>
-      <string>verticallinemod</string>
-      <string>whitecircle</string>
-      <string>whitediamond</string>
-      <string>whitedownpointingtriangle</string>
-      <string>whiteleftpointingtriangle</string>
-      <string>whiterightpointingtriangle</string>
-      <string>whitesquare</string>
-      <string>whitetriangle</string>
-      <string>whiteuppointingtriangle</string>
-      <string>zero.den</string>
-      <string>zero.num</string>
-      <string>zero.propslash</string>
-      <string>zero.sinf</string>
-      <string>zero.slash</string>
-      <string>zero.slashlin</string>
-      <string>zero.slashlinprop</string>
-      <string>zero.slashlintab</string>
-      <string>zero.slashold</string>
-      <string>zero.slasholdprop</string>
-      <string>zero.sub</string>
-      <string>zero.sup</string>
-      <string>zero.zero</string>
-      <string>zeroinferior</string>
-      <string>zerosuperior</string>
     </array>
   </dict>
 </plist>

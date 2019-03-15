@@ -3,11 +3,22 @@
   <advance width="500"/>
   <anchor x="250" y="566" name="_top"/>
   <outline>
-    <component base="ring"/>
-    <component base="ring"/>
-    <component base="ring"/>
-    <component base="ring"/>
-    <component base="ring"/>
+    <contour>
+      <point x="235" y="679" type="line"/>
+      <point x="191" y="679"/>
+      <point x="164" y="701"/>
+      <point x="164" y="742" type="curve" smooth="yes"/>
+      <point x="164" y="788"/>
+      <point x="191" y="825"/>
+      <point x="245" y="825" type="curve"/>
+      <point x="245" y="863" type="line"/>
+      <point x="163" y="863"/>
+      <point x="112" y="813"/>
+      <point x="112" y="742" type="curve" smooth="yes"/>
+      <point x="112" y="685"/>
+      <point x="156" y="641"/>
+      <point x="235" y="641" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
