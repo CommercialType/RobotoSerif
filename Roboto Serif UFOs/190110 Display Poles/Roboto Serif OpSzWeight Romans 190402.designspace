@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
+        <axis default="0" maximum="100" minimum="0" name="optical" tag="opsz" />
+    </axes>
+    <sources>
+        <source familyname="Roboto Serif Micro" filename="../181216 Micro Poles/RobotoSerifMicro-Super 09gK.ufo" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="../181216 Micro Poles/RobotoSerifMicro-Regular 10gK.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="../181216 Micro Poles/RobotoSerifMicro-Hairline 07gK.ufo" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="../181216 Text UFO Poles/Roboto Serif Text Super 16kg.ufo" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="50" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="../181216 Text UFO Poles/Roboto Serif Text Regular 30Kg.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="50" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="../181216 Text UFO Poles/Roboto Serif Text Hairline 18K.ufo" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="50" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Display" filename="Roboto Serif Display Super 12g.ufo" stylename="Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Display" filename="Roboto Serif Display Regular 16g.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Display" filename="Roboto Serif Display Hairline 11g.ufo" stylename="Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+    </sources>
+</designspace>

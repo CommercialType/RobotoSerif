@@ -1,0 +1,14 @@
+<glyph name="idieresisacute" format="2">
+  <advance width="319"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresis_acute" xOffset="-146" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

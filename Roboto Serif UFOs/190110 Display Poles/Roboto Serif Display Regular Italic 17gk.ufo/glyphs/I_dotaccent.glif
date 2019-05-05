@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="357"/>
+  <unicode hex="0130"/>
+  <guideline x="218" y="555" angle="80.0" identifier="76fCEG2dgh"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccent.uc" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.76fCEG2dgh</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

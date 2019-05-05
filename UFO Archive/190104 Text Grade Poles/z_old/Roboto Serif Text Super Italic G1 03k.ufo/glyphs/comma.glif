@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="333"/>
+  <unicode hex="002C"/>
+  <guideline x="0" y="-17" angle="0" identifier="1DUzQTZQE2"/>
+  <guideline x="0" y="214" angle="0" identifier="E4WamG9saB"/>
+  <guideline x="0" y="71" angle="0" identifier="LHWAzJ1ii3"/>
+  <guideline x="0" y="-3" angle="0" identifier="t9FBhin381"/>
+  <outline>
+    <contour>
+      <point x="101" y="-192.0" type="line"/>
+      <point x="246" y="-107"/>
+      <point x="304.0" y="-8"/>
+      <point x="304.0" y="85" type="curve" smooth="yes"/>
+      <point x="304.0" y="152"/>
+      <point x="257" y="203"/>
+      <point x="180" y="203" type="curve" smooth="yes"/>
+      <point x="106" y="203"/>
+      <point x="60" y="153"/>
+      <point x="60" y="88" type="curve" smooth="yes"/>
+      <point x="60" y="28"/>
+      <point x="104" y="-17"/>
+      <point x="181" y="-17" type="curve" smooth="yes"/>
+      <point x="195" y="-17"/>
+      <point x="205" y="-15"/>
+      <point x="215" y="-6" type="curve"/>
+      <point x="206" y="4"/>
+      <point x="227" y="12"/>
+      <point x="213" y="12" type="curve"/>
+      <point x="199" y="-39"/>
+      <point x="128" y="-85"/>
+      <point x="7" y="-128" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.1DUzQTZQE2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.E4WamG9saB</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.LHWAzJ1ii3</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.t9FBhin381</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

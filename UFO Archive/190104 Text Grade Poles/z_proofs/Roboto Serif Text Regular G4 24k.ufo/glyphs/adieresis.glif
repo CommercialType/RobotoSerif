@@ -1,0 +1,14 @@
+<glyph name="adieresis" format="2">
+  <advance width="542"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresis" xOffset="19" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typesupply.AccentFactory.compileType</key>
+	<string>manual</string>
+</dict>
+  </lib>
+</glyph>

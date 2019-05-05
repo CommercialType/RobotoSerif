@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="300" minimum="0" maximum="1000" name="weight" tag="wght" />
+        <axis default="20" minimum="6" maximum="100" name="optical" tag="opsz" />
+    </axes>
+    <sources>
+			 
+			 <!-- Micro -->
+        <source familyname="Roboto Serif Micro" filename="../../Robot Serif UFOs/181216 Micro Poles/RobotoSerifMicro-Hairline 07gK.ufo" stylename="Micro Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="../../Robot Serif UFOs/181216 Micro Poles/RobotoSerifMicro-Regular 10gK.ufo" stylename="Micro Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Micro" filename="../../Robot Serif UFOs/181216 Micro Poles/RobotoSerifMicro-Super 09gK.ufo" stylename="Micro Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+        </source>
+        
+        <!-- Text -->
+        <source familyname="Roboto Serif Text" filename="../../Robot Serif UFOs/181216 Text UFO Poles/Roboto Serif Text Hairline 18K.ufo" stylename="Text Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="../../Robot Serif UFOs/181216 Text UFO Poles/Roboto Serif Text Regular 30Kg.ufo" stylename="Text Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Text" filename="../../Robot Serif UFOs/181216 Text UFO Poles/Roboto Serif Text Super 16kg.ufo" stylename="Text Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+        </source>
+        
+        <!-- Display -->
+        <source familyname="Roboto Serif Display" filename="../../Robot Serif UFOs/190110 Display Poles/Roboto Serif Display Hairline 11g.ufo" stylename="Display Hairline">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Display" filename="../../Robot Serif UFOs/190110 Display Poles/Roboto Serif Display Regular 16g.ufo" stylename="Display Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="Roboto Serif Display" filename="../../Robot Serif UFOs/190110 Display Poles/Roboto Serif Display Super 12g.ufo" stylename="Display Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+        </source>
+
+
+    </sources>
+
+    <instances>
+
+
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Thin.ufo" postscriptfontname="RobotoSerifBig-Thin" stylename="Big Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Extralight.ufo" postscriptfontname="RobotoSerifBig-Extralight" stylename="Big Extralight">
+            <location>
+                <dimension name="weight" xvalue="85" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Light.ufo" postscriptfontname="RobotoSerifBig-Light" stylename="Big Light">
+            <location>
+                <dimension name="weight" xvalue="175" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Regular.ufo" postscriptfontname="RobotoSerifBig-Regular" stylename="Big Regular">
+            <location>
+                <dimension name="weight" xvalue="320" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Medium.ufo" postscriptfontname="RobotoSerifBig-Medium" stylename="Big Medium">
+            <location>
+                <dimension name="weight" xvalue="450" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Semibold.ufo" postscriptfontname="RobotoSerifBig-Semibold" stylename="Big Semibold">
+            <location>
+                <dimension name="weight" xvalue="600" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Bold.ufo" postscriptfontname="RobotoSerifBig-Bold" stylename="Big Bold">
+            <location>
+                <dimension name="weight" xvalue="750" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-Super.ufo" postscriptfontname="RobotoSerifBig-Super" stylename="Big Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="100" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Thin.ufo" postscriptfontname="RobotoSerifDisplay-Thin" stylename="Display Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Extralight.ufo" postscriptfontname="RobotoSerifDisplay-Extralight" stylename="Display Extralight">
+            <location>
+                <dimension name="weight" xvalue="85" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Light.ufo" postscriptfontname="RobotoSerifDisplay-Light" stylename="Display Light">
+            <location>
+                <dimension name="weight" xvalue="175" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Regular.ufo" postscriptfontname="RobotoSerifDisplay-Regular" stylename="Display Regular">
+            <location>
+                <dimension name="weight" xvalue="320" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Medium.ufo" postscriptfontname="RobotoSerifDisplay-Medium" stylename="Display Medium">
+            <location>
+                <dimension name="weight" xvalue="450" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Semibold.ufo" postscriptfontname="RobotoSerifDisplay-Semibold" stylename="Display Semibold">
+            <location>
+                <dimension name="weight" xvalue="600" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Bold.ufo" postscriptfontname="RobotoSerifDisplay-Bold" stylename="Display Bold">
+            <location>
+                <dimension name="weight" xvalue="750" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-Super.ufo" postscriptfontname="RobotoSerifDisplay-Super" stylename="Display Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="66" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Thin.ufo" postscriptfontname="RobotoSerifText-Thin" stylename="Text Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Light.ufo" postscriptfontname="RobotoSerifText-Light" stylename="Text Light">
+            <location>
+                <dimension name="weight" xvalue="150" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Regular.ufo" postscriptfontname="RobotoSerifText-Regular" stylename="Text Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Medium.ufo" postscriptfontname="RobotoSerifText-Medium" stylename="Text Medium">
+            <location>
+                <dimension name="weight" xvalue="475" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Semibold.ufo" postscriptfontname="RobotoSerifText-Semibold" stylename="Text Semibold">
+            <location>
+                <dimension name="weight" xvalue="650" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Bold.ufo" postscriptfontname="RobotoSerifText-Bold" stylename="Text Bold">
+            <location>
+                <dimension name="weight" xvalue="800" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-Super.ufo" postscriptfontname="RobotoSerifText-Super" stylename="Text Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="20" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Thin.ufo" postscriptfontname="RobotoSerifSmallText-Thin" stylename="Small Text Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Light.ufo" postscriptfontname="RobotoSerifSmallText-Light" stylename="Small Text Light">
+            <location>
+                <dimension name="weight" xvalue="150" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Regular.ufo" postscriptfontname="RobotoSerifSmallText-Regular" stylename="Small Text Regular">
+            <location>
+                <dimension name="weight" xvalue="300" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Medium.ufo" postscriptfontname="RobotoSerifSmallText-Medium" stylename="Small Text Medium">
+            <location>
+                <dimension name="weight" xvalue="475" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Semibold.ufo" postscriptfontname="RobotoSerifSmallText-Semibold" stylename="Small Text Semibold">
+            <location>
+                <dimension name="weight" xvalue="650" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Bold.ufo" postscriptfontname="RobotoSerifSmallText-Bold" stylename="Small Text Bold">
+            <location>
+                <dimension name="weight" xvalue="800" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-Super.ufo" postscriptfontname="RobotoSerifSmallText-Super" stylename="Small Text Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="14" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Thin.ufo" postscriptfontname="RobotoSerifMicro-Thin" stylename="Micro Thin">
+            <location>
+                <dimension name="weight" xvalue="0" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Light.ufo" postscriptfontname="RobotoSerifMicro-Light" stylename="Micro Light">
+            <location>
+                <dimension name="weight" xvalue="150" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Regular.ufo" postscriptfontname="RobotoSerifMicro-Regular" stylename="Micro Regular">
+            <location>
+                <dimension name="weight" xvalue="350" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Medium.ufo" postscriptfontname="RobotoSerifMicro-Medium" stylename="Micro Medium">
+            <location>
+                <dimension name="weight" xvalue="500" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Semibold.ufo" postscriptfontname="RobotoSerifMicro-Semibold" stylename="Micro Semibold">
+            <location>
+                <dimension name="weight" xvalue="700" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Bold.ufo" postscriptfontname="RobotoSerifMicro-Bold" stylename="Micro Bold">
+            <location>
+                <dimension name="weight" xvalue="850" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-Super.ufo" postscriptfontname="RobotoSerifMicro-Super" stylename="Micro Super">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+                <dimension name="optical" xvalue="6" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

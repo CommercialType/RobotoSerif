@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="357"/>
+  <unicode hex="012A"/>
+  <guideline x="117" y="738" angle="80.0" identifier="1xNVk1pU1X"/>
+  <guideline x="364" y="621" angle="80.0" identifier="EoG4tSz7Fq"/>
+  <outline>
+    <component base="I"/>
+    <component base="macron.uc" xOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.1xNVk1pU1X</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.EoG4tSz7Fq</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="560"/>
+  <unicode hex="00B1"/>
+  <guideline x="116" y="73" angle="80.0" identifier="T7WXCpD6HR"/>
+  <guideline x="490" y="75" angle="80.0" identifier="EJIe6uOibP"/>
+  <outline>
+    <component base="plus" xOffset="5" yOffset="10"/>
+    <component base="minus" xOffset="-51" yOffset="-308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.EJIe6uOibP</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.T7WXCpD6HR</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>
