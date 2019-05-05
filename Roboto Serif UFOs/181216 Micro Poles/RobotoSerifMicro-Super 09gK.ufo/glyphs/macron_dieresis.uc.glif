@@ -3,7 +3,8 @@
   <advance width="500"/>
   <anchor x="250" y="694" name="_top"/>
   <outline>
-    <component base="macron_dieresis" yOffset="157"/>
+    <component base="macron.uc"/>
+    <component base="dieresis.uc" yOffset="222"/>
   </outline>
   <lib>
     <dict>

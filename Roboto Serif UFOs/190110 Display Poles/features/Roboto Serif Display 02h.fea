@@ -6,30 +6,35 @@ languagesystem latn dflt;
 @EF_ALT_ON = [E.alt F.alt];
 
 @FIGURES = [zero one two three four five six seven eight nine];
-@PROP = [zero.prop one.prop two.prop three.prop four.prop five.prop six.prop seven.prop eight.prop nine.prop];
-@OSF = [zero.old one.old two.old three.old four.old five.old six.old seven.old eight.old nine.old];
+@PROP = [zero.midprop one.midprop two.midprop three.midprop four.midprop five.midprop six.midprop seven.midprop eight.midprop nine.midprop];
+@OSF = [zero.oldprop one.oldprop two.oldprop three.oldprop four.oldprop five.oldprop six.oldprop seven.oldprop eight.oldprop nine.oldprop];
 @OSF_TAB = [zero.oldtab one.oldtab two.oldtab three.oldtab four.oldtab five.oldtab six.oldtab seven.oldtab eight.oldtab nine.oldtab];
-@LIN = [zero.lin one.lin two.lin three.lin four.lin five.lin six.lin seven.lin eight.lin nine.lin];
+@LIN = [zero.linprop one.linprop two.linprop three.linprop four.linprop five.linprop six.linprop seven.linprop eight.linprop nine.linprop];
 @LIN_TAB = [zero.lintab one.lintab two.lintab three.lintab four.lintab five.lintab six.lintab seven.lintab eight.lintab nine.lintab];
 
-@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani uni20B4 cedi uni20B8 manat colonsign florin liraTurkish naira rupeeIndian won];
-@PROP_CRRNCY_ON = [dollar.proportional cent.proportional sterling.proportional yen.proportional lira.proportional peseta.proportional dong.proportional Euro.proportional kip.proportional peso.proportional guarani.proportional uni20B4.proportional cedi.proportional uni20B8.proportional manat.proportional colonsign.proportional florin.proportional liraTurkish.proportional naira.proportional rupeeIndian.proportional won.proportional];
+@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani uni20B4 cedi uni20B8 manat florin liraTurkish naira rupeeIndian won];
+@PROP_CRRNCY_ON = [dollar.proportional cent.proportional sterling.proportional yen.proportional lira.proportional peseta.proportional dong.proportional Euro.proportional kip.proportional peso.proportional guarani.proportional uni20B4.proportional cedi.proportional uni20B8.proportional manat.proportional florin.proportional liraTurkish.proportional naira.proportional rupeeIndian.proportional won.proportional];
+
 
 feature ss01 {
 	sub @EF_ALT_OFF by @EF_ALT_ON;
 } ss01;
 
+
 feature ss03 {
 	sub g by g.alt;
 } ss03;
+
 
 feature ss04 {
 	sub f by f.alt;
 } ss04;
 
+
 feature ss05 {
     sub @PROP_CRRNCY_OFF by @PROP_CRRNCY_ON;
 } ss05;
+
 
 feature onum {
     sub @FIGURES by @OSF;
@@ -37,11 +42,13 @@ feature onum {
     sub @LIN_TAB by @OSF_TAB;
 }onum;
 
+
 feature lnum {
     sub @FIGURES by @LIN;
     sub @OSF by @LIN;
     sub @OSF_TAB by @LIN_TAB;
 }lnum;
+
 
 feature pnum {
     sub @OSF_TAB by @OSF;
@@ -49,10 +56,12 @@ feature pnum {
     sub @FIGURES by @PROP;
 }pnum;
 
+
 feature tnum {
     sub @OSF by @OSF_TAB;
     sub @LIN by @LIN_TAB;
 }tnum;
+
 
 feature liga{
     sub f f b by f_f_b; 

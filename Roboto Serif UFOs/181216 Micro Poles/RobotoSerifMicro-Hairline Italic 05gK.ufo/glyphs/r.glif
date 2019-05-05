@@ -8,6 +8,9 @@
   <anchor x="200" y="0" name="bottom"/>
   <outline>
     <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="211" y="398" type="line"/>
       <point x="208" y="403" type="line"/>
       <point x="223" y="565" type="line"/>
       <point x="93" y="565" type="line"/>
@@ -16,9 +19,6 @@
       <point x="143" y="511"/>
       <point x="181" y="487"/>
       <point x="175" y="464" type="curve"/>
-      <point x="60" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="211" y="398" type="line"/>
     </contour>
     <contour>
       <point x="459" y="570" type="line"/>

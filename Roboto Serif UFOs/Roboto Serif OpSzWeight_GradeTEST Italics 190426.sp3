@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="optical"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/greggazdowicz/Dropbox/__WORK__/Roboto Serif Expansion 2019/Roboto Serif UFOs/instances"/>
+    <data name="previewtext" value="Roboto Serif Optical Sizes and shit"/>
+    <data name="verticalPreviewAxis" value="weight"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis maximum="100.000000" minimum="0.000000" name="optical" shortname="opsz">
+        <color a="1.000" b="0.056" g="0.775" r="0.752"/>
+    </axis>
+    <axis maximum="1000.000000" minimum="0.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Roboto Serif Micro" filename="181216 Micro Poles/RobotoSerifMicro-Hairline Italic 05gK.ufo" sortorder="2" stylename="Hairline Italic">
+        <location>
+            <dimension name="optical" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Micro" filename="181216 Micro Poles/RobotoSerifMicro-Regular Italic 07gK.ufo" sortorder="1" stylename="Regular Italic">
+        <location>
+            <dimension name="optical" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Micro" filename="181216 Micro Poles/RobotoSerifMicro-Super Italic 03gK.ufo" sortorder="0" stylename="Super Italic">
+        <location>
+            <dimension name="optical" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Text" filename="181216 Text UFO Poles/Roboto Serif Text Hairline Italic 10K.ufo" sortorder="5" stylename="Hairline Italic">
+        <location>
+            <dimension name="optical" xvalue="50.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Text" filename="181216 Text UFO Poles/Roboto Serif Text Italic 20K.ufo" sortorder="4" stylename="Italic">
+        <location>
+            <dimension name="optical" xvalue="50.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Text" filename="181216 Text UFO Poles/Roboto Serif Text Super Italic 11Kg.ufo" sortorder="3" stylename="Super Italic">
+        <location>
+            <dimension name="optical" xvalue="50.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Display" filename="190110 Display Poles/Roboto Serif Display Hairline Italic 10g.ufo" sortorder="8" stylename="Hairline Italic">
+        <location>
+            <dimension name="optical" xvalue="100.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Display" filename="190110 Display Poles/Roboto Serif Display Regular Italic 16g.ufo" sortorder="7" stylename="Regular Italic">
+        <location>
+            <dimension name="optical" xvalue="100.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Roboto Serif Display" filename="190110 Display Poles/Roboto Serif Display Super Italic 11g.ufo" sortorder="6" stylename="Super Italic">
+        <location>
+            <dimension name="optical" xvalue="100.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-ThinItalic.ufo" sortorder="9" stylename="Thin Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="0.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-ExtralightItalic.ufo" sortorder="10" stylename="Extralight Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="85.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-LightItalic.ufo" sortorder="11" stylename="Light Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="175.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-RegularItalic.ufo" sortorder="12" stylename="Regular Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="320.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-MediumItalic.ufo" sortorder="13" stylename="Medium Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="450.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-SemiboldItalic.ufo" sortorder="14" stylename="Semibold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="600.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-BoldItalic.ufo" sortorder="15" stylename="Bold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="750.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Big" filename="instances/RobotoSerifBig-SuperItalic.ufo" sortorder="16" stylename="Super Italic">
+	    <location>
+	        <dimension name="optical" xvalue="100.000000"/>
+	        <dimension name="weight" xvalue="1000.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-ThinItalic.ufo" sortorder="17" stylename="Thin Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="0.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-ExtralightItalic.ufo" sortorder="18" stylename="Extralight Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="85.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-LightItalic.ufo" sortorder="19" stylename="Light Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="175.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-RegularItalic.ufo" sortorder="20" stylename="Regular Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="320.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-MediumItalic.ufo" sortorder="21" stylename="Medium Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="450.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-SemiboldItalic.ufo" sortorder="22" stylename="Semibold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="600.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-BoldItalic.ufo" sortorder="23" stylename="Bold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="750.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Display" filename="instances/RobotoSerifDisplay-SuperItalic.ufo" sortorder="24" stylename="Super Italic">
+	    <location>
+	        <dimension name="optical" xvalue="80.000000"/>
+	        <dimension name="weight" xvalue="1000.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-ThinItalic.ufo" sortorder="25" stylename="Thin Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="0.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-LightItalic.ufo" sortorder="26" stylename="Light Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="150.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-RegularItalic.ufo" sortorder="27" stylename="Regular Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="300.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-MediumItalic.ufo" sortorder="28" stylename="Medium Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="475.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SemiboldItalic.ufo" sortorder="29" stylename="Semibold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="650.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-BoldItalic.ufo" sortorder="30" stylename="Bold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="800.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Text" filename="instances/RobotoSerifText-SuperItalic.ufo" sortorder="31" stylename="Super Italic">
+	    <location>
+	        <dimension name="optical" xvalue="50.000000"/>
+	        <dimension name="weight" xvalue="1000.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-ThinItalic.ufo" sortorder="32" stylename="Thin Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="0.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-LightItalic.ufo" sortorder="33" stylename="Light Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="150.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-RegularItalic.ufo" sortorder="34" stylename="Regular Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="300.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-MediumItalic.ufo" sortorder="35" stylename="Medium Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="475.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-SemiboldItalic.ufo" sortorder="36" stylename="Semibold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="650.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-BoldItalic.ufo" sortorder="37" stylename="Bold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="800.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Small Text" filename="instances/RobotoSerifSmallText-SuperItalic.ufo" sortorder="38" stylename="Super Italic">
+	    <location>
+	        <dimension name="optical" xvalue="30.000000"/>
+	        <dimension name="weight" xvalue="1000.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-ThinItalic.ufo" sortorder="39" stylename="Thin Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="0.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-LightItalic.ufo" sortorder="40" stylename="Light Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="150.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-RegularItalic.ufo" sortorder="41" stylename="Regular Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="350.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-MediumItalic.ufo" sortorder="42" stylename="Medium Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="500.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-SemiboldItalic.ufo" sortorder="43" stylename="Semibold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="700.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-BoldItalic.ufo" sortorder="44" stylename="Bold Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="850.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+	<instance familyname="Roboto Serif Micro" filename="instances/RobotoSerifMicro-SuperItalic.ufo" sortorder="45" stylename="Super Italic">
+	    <location>
+	        <dimension name="optical" xvalue="0.000000"/>
+	        <dimension name="weight" xvalue="1000.000000"/>
+	    </location>
+	    <provideFeatures state="1"/>
+	    <provideGroups state="1"/>
+	    <provideLib state="1"/>
+	    <provideInfo state="1"/>
+	</instance>
+</designspace>

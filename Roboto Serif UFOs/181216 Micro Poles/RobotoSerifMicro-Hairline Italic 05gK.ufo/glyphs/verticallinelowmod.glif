@@ -3,7 +3,12 @@
   <advance width="500"/>
   <unicode hex="02CC"/>
   <outline>
-    <component base="verticallinemod" yOffset="-800"/>
+    <contour>
+      <point x="217" y="-323" type="line"/>
+      <point x="283" y="-323" type="line"/>
+      <point x="283" y="-50" type="line"/>
+      <point x="217" y="-50" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

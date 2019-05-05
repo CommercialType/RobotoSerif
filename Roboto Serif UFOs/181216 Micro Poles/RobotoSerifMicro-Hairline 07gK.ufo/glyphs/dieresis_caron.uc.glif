@@ -2,8 +2,8 @@
 <glyph name="dieresis_caron.uc" format="2">
   <advance width="509"/>
   <outline>
-    <component base="caron.uc" yOffset="155"/>
     <component base="dieresis.uc"/>
+    <component base="caron.uc" yOffset="155"/>
   </outline>
   <lib>
     <dict>

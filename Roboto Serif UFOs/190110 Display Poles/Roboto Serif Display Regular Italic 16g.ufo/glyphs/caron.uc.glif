@@ -3,18 +3,7 @@
   <advance width="500"/>
   <anchor x="255.0" y="694.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="258" y="758" type="line"/>
-      <point x="174" y="895" type="line"/>
-      <point x="176" y="905" type="line"/>
-      <point x="197" y="905" type="line"/>
-      <point x="315" y="808" type="line"/>
-      <point x="305" y="808" type="line"/>
-      <point x="451" y="905" type="line"/>
-      <point x="478" y="905" type="line"/>
-      <point x="476" y="895" type="line"/>
-      <point x="348" y="758" type="line"/>
-    </contour>
+    <component base="circumflex.uc" xScale="-1" yScale="-1" xOffset="620" yOffset="1663"/>
   </outline>
   <lib>
     <dict>

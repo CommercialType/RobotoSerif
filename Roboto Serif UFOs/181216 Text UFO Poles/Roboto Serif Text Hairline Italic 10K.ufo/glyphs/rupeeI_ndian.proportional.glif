@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rupeeIndian.proportional" format="2">
   <advance width="618"/>
   <guideline x="0" y="273" angle="0" identifier="yeZRVqQVOO"/>
@@ -6,12 +6,14 @@
   <guideline x="0" y="675" angle="0" identifier="rvZTriBjsq"/>
   <outline>
     <contour>
-      <point x="114" y="507" type="line"/>
-      <point x="108" y="477" type="line"/>
-      <point x="587" y="477" type="line"/>
-      <point x="593" y="507" type="line"/>
-    </contour>
-    <contour>
+      <point x="346" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="448" y="30" type="line"/>
+      <point x="431" y="30" type="line" smooth="yes"/>
+      <point x="386" y="30"/>
+      <point x="366" y="39"/>
+      <point x="334" y="70" type="curve" smooth="yes"/>
+      <point x="105" y="295" type="line"/>
       <point x="105" y="273" type="line"/>
       <point x="170" y="273" type="line" smooth="yes"/>
       <point x="347" y="273"/>
@@ -20,9 +22,7 @@
       <point x="462" y="590"/>
       <point x="415" y="667"/>
       <point x="289" y="688" type="curve"/>
-      <point x="301" y="699"/>
-      <point x="256" y="713"/>
-      <point x="270" y="680" type="curve"/>
+      <point x="270" y="680" type="line"/>
       <point x="623" y="680" type="line"/>
       <point x="628" y="710" type="line"/>
       <point x="150" y="710" type="line"/>
@@ -36,14 +36,12 @@
       <point x="174" y="303" type="curve" smooth="yes"/>
       <point x="79" y="303" type="line"/>
       <point x="74" y="276" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="442" y="0" type="line"/>
-      <point x="448" y="30" type="line"/>
-      <point x="431" y="30" type="line" smooth="yes"/>
-      <point x="386" y="30"/>
-      <point x="366" y="39"/>
-      <point x="334" y="70" type="curve" smooth="yes"/>
-      <point x="105" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="507" type="line"/>
+      <point x="108" y="477" type="line"/>
+      <point x="587" y="477" type="line"/>
+      <point x="593" y="507" type="line"/>
     </contour>
   </outline>
   <lib>

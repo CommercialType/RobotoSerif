@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
   <advance width="641"/>
   <unicode hex="0045"/>
@@ -37,10 +37,14 @@
       <point x="581" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="203" y="390" type="line"/>
+      <point x="203" y="390" type="curve"/>
       <point x="203" y="337" type="line"/>
-      <point x="452" y="328" type="line"/>
+      <point x="286" y="334"/>
+      <point x="369" y="331"/>
+      <point x="452" y="328" type="curve"/>
       <point x="452" y="398" type="line"/>
+      <point x="369" y="395"/>
+      <point x="286" y="393"/>
     </contour>
   </outline>
   <lib>

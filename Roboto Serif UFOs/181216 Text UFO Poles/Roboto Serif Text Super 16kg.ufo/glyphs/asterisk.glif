@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk" format="2">
   <advance width="500"/>
   <unicode hex="002A"/>
@@ -14,14 +14,24 @@
       <point x="40" y="457" type="curve"/>
     </contour>
     <contour>
+      <point x="186" y="710" type="line"/>
+      <point x="186" y="655"/>
+      <point x="212" y="611"/>
+      <point x="212" y="504" type="curve"/>
+      <point x="288" y="504" type="line"/>
+      <point x="288" y="611"/>
+      <point x="314" y="655"/>
+      <point x="314" y="710" type="curve"/>
+    </contour>
+    <contour>
+      <point x="40" y="551" type="line"/>
+      <point x="88" y="522"/>
+      <point x="138" y="525"/>
       <point x="232" y="472" type="curve"/>
       <point x="269" y="537" type="line"/>
       <point x="178" y="590"/>
       <point x="152" y="636"/>
       <point x="103" y="663" type="curve"/>
-      <point x="40" y="551" type="line"/>
-      <point x="88" y="522"/>
-      <point x="138" y="525"/>
     </contour>
     <contour>
       <point x="186" y="298" type="curve"/>
@@ -34,14 +44,14 @@
       <point x="186" y="353"/>
     </contour>
     <contour>
-      <point x="212" y="504" type="curve"/>
-      <point x="288" y="504" type="line"/>
-      <point x="288" y="611"/>
-      <point x="314" y="655"/>
-      <point x="314" y="710" type="curve"/>
-      <point x="186" y="710" type="line"/>
-      <point x="186" y="655"/>
-      <point x="212" y="611"/>
+      <point x="269" y="472" type="line"/>
+      <point x="362" y="525"/>
+      <point x="412" y="522"/>
+      <point x="460" y="551" type="curve"/>
+      <point x="397" y="663" type="line"/>
+      <point x="348" y="636"/>
+      <point x="322" y="590"/>
+      <point x="232" y="537" type="curve"/>
     </contour>
     <contour>
       <point x="397" y="345" type="curve"/>
@@ -52,16 +62,6 @@
       <point x="232" y="472" type="line"/>
       <point x="322" y="418"/>
       <point x="348" y="372"/>
-    </contour>
-    <contour>
-      <point x="269" y="472" type="line"/>
-      <point x="362" y="525"/>
-      <point x="412" y="522"/>
-      <point x="460" y="551" type="curve"/>
-      <point x="397" y="663" type="line"/>
-      <point x="348" y="636"/>
-      <point x="322" y="590"/>
-      <point x="232" y="537" type="curve"/>
     </contour>
   </outline>
   <lib>

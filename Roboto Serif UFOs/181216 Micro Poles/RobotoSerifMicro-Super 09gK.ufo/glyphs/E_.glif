@@ -37,10 +37,14 @@
       <point x="679" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="316" y="407" type="line"/>
+      <point x="316" y="407" type="curve"/>
       <point x="316" y="323" type="line"/>
-      <point x="575" y="300" type="line"/>
+      <point x="402" y="315"/>
+      <point x="489" y="308"/>
+      <point x="575" y="300" type="curve"/>
       <point x="575" y="431" type="line"/>
+      <point x="489" y="423"/>
+      <point x="402" y="415"/>
     </contour>
   </outline>
   <lib>

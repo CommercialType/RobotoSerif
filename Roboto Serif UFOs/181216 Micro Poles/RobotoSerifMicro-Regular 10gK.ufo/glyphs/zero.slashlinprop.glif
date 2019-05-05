@@ -3,12 +3,39 @@
   <advance width="628"/>
   <outline>
     <contour>
-      <point x="155.0" y="145.0" type="line"/>
-      <point x="496.0" y="528.0" type="line"/>
-      <point x="475.0" y="579.0" type="line"/>
-      <point x="132.0" y="193.0" type="line"/>
+      <point x="155" y="145" type="line"/>
+      <point x="496" y="528" type="line"/>
+      <point x="475" y="579" type="line"/>
+      <point x="132" y="193" type="line"/>
     </contour>
-    <component base="zero.linprop"/>
+    <contour>
+      <point x="326" y="-11" type="curve" smooth="yes"/>
+      <point x="486" y="-11"/>
+      <point x="597" y="110"/>
+      <point x="597" y="362" type="curve" smooth="yes"/>
+      <point x="597" y="614"/>
+      <point x="486" y="735"/>
+      <point x="326" y="735" type="curve" smooth="yes"/>
+      <point x="166" y="735"/>
+      <point x="55" y="614"/>
+      <point x="55" y="362" type="curve" smooth="yes"/>
+      <point x="55" y="110"/>
+      <point x="166" y="-11"/>
+    </contour>
+    <contour>
+      <point x="326" y="47" type="curve" smooth="yes"/>
+      <point x="205" y="47"/>
+      <point x="151" y="141"/>
+      <point x="151" y="362" type="curve" smooth="yes"/>
+      <point x="151" y="583"/>
+      <point x="205" y="677"/>
+      <point x="326" y="677" type="curve" smooth="yes"/>
+      <point x="447" y="677"/>
+      <point x="501" y="583"/>
+      <point x="501" y="362" type="curve" smooth="yes"/>
+      <point x="501" y="141"/>
+      <point x="447" y="47"/>
+    </contour>
   </outline>
   <lib>
     <dict>

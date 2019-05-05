@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="blackrightpointingtriangle" format="2">
-  <advance width="805"/>
+  <advance width="573"/>
   <outline>
-    <component base="blackleftpointingtriangle" xScale="-1" xOffset="805"/>
+    <contour>
+      <point x="130" y="10" type="line"/>
+      <point x="503" y="277" type="line"/>
+      <point x="130" y="545" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9962,1,0.5137,1</string>
+      <string>1,0.5769,0,1</string>
     </dict>
   </lib>
 </glyph>

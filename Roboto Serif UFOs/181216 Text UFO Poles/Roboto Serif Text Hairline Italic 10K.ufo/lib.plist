@@ -116,6 +116,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.AdOrS6mGat</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.C9THq801ti</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.EgKm6v7v1l</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.F70HnHZoR1</key>
@@ -132,6 +134,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.4k0KE8sFC1</key>
     <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.C9THq801ti</key>
+    <true/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -19317,6 +19321,7 @@
       <string>f_f_j.alt</string>
       <string>f_f_k.alt</string>
       <string>f_f_l.alt</string>
+      <string>f_i.alt</string>
       <string>f_j.alt</string>
       <string>g.alt</string>
       <string>gbreve.alt</string>
@@ -19399,6 +19404,16 @@
       <string>seven.lin</string>
       <string>eight.lin</string>
       <string>nine.lin</string>
+      <string>zero.linprop</string>
+      <string>one.linprop</string>
+      <string>two.linprop</string>
+      <string>three.linprop</string>
+      <string>four.linprop</string>
+      <string>five.linprop</string>
+      <string>six.linprop</string>
+      <string>seven.linprop</string>
+      <string>eight.linprop</string>
+      <string>nine.linprop</string>
       <string>zero.lintab</string>
       <string>one.lintab</string>
       <string>two.lintab</string>
@@ -19429,6 +19444,16 @@
       <string>seven.old</string>
       <string>eight.old</string>
       <string>nine.old</string>
+      <string>zero.oldprop</string>
+      <string>one.oldprop</string>
+      <string>two.oldprop</string>
+      <string>three.oldprop</string>
+      <string>four.oldprop</string>
+      <string>five.oldprop</string>
+      <string>six.oldprop</string>
+      <string>seven.oldprop</string>
+      <string>eight.oldprop</string>
+      <string>nine.oldprop</string>
       <string>zero.oldtab</string>
       <string>one.oldtab</string>
       <string>two.oldtab</string>
@@ -19439,6 +19464,17 @@
       <string>seven.oldtab</string>
       <string>eight.oldtab</string>
       <string>nine.oldtab</string>
+      <string>zero.prop</string>
+      <string>one.prop</string>
+      <string>two.prop</string>
+      <string>three.prop</string>
+      <string>four.prop</string>
+      <string>five.prop</string>
+      <string>six.prop</string>
+      <string>seven.prop</string>
+      <string>eight.prop</string>
+      <string>nine.prop</string>
+      <string>zero.propslash</string>
       <string>zero.sinf</string>
       <string>one.sinf</string>
       <string>two.sinf</string>
@@ -19451,8 +19487,10 @@
       <string>nine.sinf</string>
       <string>zero.slash</string>
       <string>zero.slashlin</string>
+      <string>zero.slashlinprop</string>
       <string>zero.slashlintab</string>
       <string>zero.slashold</string>
+      <string>zero.slasholdprop</string>
       <string>zero.sub</string>
       <string>one.sub</string>
       <string>two.sub</string>
@@ -19606,6 +19644,8 @@
       <string>sterling</string>
       <string>currency</string>
       <string>yen</string>
+      <string>thai:baht</string>
+      <string>colonmonetary</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
@@ -19634,6 +19674,8 @@
       <string>sterling.proportional</string>
       <string>currency.proportional</string>
       <string>yen.proportional</string>
+      <string>thai:baht.proportional</string>
+      <string>colonmonetary.proportional</string>
       <string>franc.proportional</string>
       <string>lira.proportional</string>
       <string>naira.proportional</string>
@@ -19708,7 +19750,7 @@
       <string>registered</string>
       <string>degree</string>
       <string>numero</string>
-      <string>uni2117</string>
+      <string>soundcopyright</string>
       <string>servicemark</string>
       <string>trademark</string>
       <string>estimated</string>
@@ -19733,6 +19775,7 @@
       <string>.null</string>
       <string>CR</string>
       <string>Ehookabove</string>
+      <string>IJacute</string>
       <string>Ihookabove</string>
       <string>Jacute</string>
       <string>SS</string>
@@ -19741,7 +19784,7 @@
       <string>arrowdownright</string>
       <string>arrowupleft</string>
       <string>arrowupright</string>
-      <string>thai:baht</string>
+      <string>baht</string>
       <string>blackcircle</string>
       <string>blackdiamond</string>
       <string>blackdownpointingtriangle</string>
@@ -19754,7 +19797,7 @@
       <string>brevebelowcomb</string>
       <string>breveinverted</string>
       <string>breveinvertedcomb</string>
-      <string>colonmonetary</string>
+      <string>colonsign</string>
       <string>commaaccent</string>
       <string>commaturnedabovecomb</string>
       <string>dblgrave</string>
@@ -19788,6 +19831,7 @@
       <string>idotless</string>
       <string>ihoi</string>
       <string>ihookabove</string>
+      <string>ijacute</string>
       <string>jacute</string>
       <string>jdotless</string>
       <string>kgreenlandic</string>
@@ -19824,8 +19868,8 @@
       <string>zerosuperior</string>
       <string>Ehookabove.alt</string>
       <string>commaaccent.alt</string>
-      <string>thai:baht.proportional</string>
-      <string>colonmonetary.proportional</string>
+      <string>baht.proportional</string>
+      <string>colonsign.proportional</string>
       <string>florin.proportional</string>
       <string>liraTurkish.proportional</string>
       <string>rupeeIndian.proportional</string>
@@ -19833,40 +19877,6 @@
       <string>dblgrave.uc</string>
       <string>guillemotleft.uc</string>
       <string>guillemotright.uc</string>
-      <string>zero.prop</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
-      <string>zero.linprop</string>
-      <string>one.linprop</string>
-      <string>two.linprop</string>
-      <string>three.linprop</string>
-      <string>four.linprop</string>
-      <string>five.linprop</string>
-      <string>six.linprop</string>
-      <string>seven.linprop</string>
-      <string>eight.linprop</string>
-      <string>nine.linprop</string>
-      <string>zero.oldprop</string>
-      <string>one.oldprop</string>
-      <string>two.oldprop</string>
-      <string>three.oldprop</string>
-      <string>four.oldprop</string>
-      <string>five.oldprop</string>
-      <string>six.oldprop</string>
-      <string>seven.oldprop</string>
-      <string>eight.oldprop</string>
-      <string>nine.oldprop</string>
-      <string>colonsign</string>
-      <string>colonsign.proportional</string>
-      <string>baht</string>
-      <string>baht.proportional</string>
     </array>
   </dict>
 </plist>

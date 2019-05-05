@@ -1,0 +1,578 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="grad" name="grade" minimum="-6" maximum="6" default="0">
+      <labelname xml:lang="en">grade</labelname>
+    </axis>
+    <axis tag="opsz" name="optical" minimum="0" maximum="100" default="50"/>
+    <axis tag="wght" name="weight" minimum="0" maximum="1000" default="300"/>
+  </axes>
+  <sources>
+    <source filename="181216 Micro Poles/RobotoSerifMicro-Super Italic 03gK.ufo" familyname="Roboto Serif Micro" stylename="Super Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="181216 Micro Poles/RobotoSerifMicro-Regular Italic 07gK.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="181216 Micro Poles/RobotoSerifMicro-Hairline Italic 05gK.ufo" familyname="Roboto Serif Micro" stylename="Hairline Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="181216 Text UFO Poles/Roboto Serif Text Super Italic 11Kg.ufo" familyname="Roboto Serif Text" stylename="Super Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Super Italic G1 07k.ufo" familyname="Roboto Serif Text" stylename="Super Italic G1">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Super Italic G4 07k.ufo" familyname="Roboto Serif Text" stylename="Super Italic G4">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="181216 Text UFO Poles/Roboto Serif Text Italic 20K.ufo" familyname="Roboto Serif Text" stylename="Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Italic G1 07k.ufo" familyname="Roboto Serif Text" stylename="Italic G1">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Italic G4 07k.ufo" familyname="Roboto Serif Text" stylename="Italic G4">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="181216 Text UFO Poles/Roboto Serif Text Hairline Italic 10K.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Hairline Italic G1 06k.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="190426 Text Grade Poles/Roboto Serif Text Hairline Italic G4 06k.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="190110 Display Poles/Roboto Serif Display Super Italic 11g.ufo" familyname="Roboto Serif Display" stylename="Super Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="190110 Display Poles/Roboto Serif Display Regular Italic 16g.ufo" familyname="Roboto Serif Display" stylename="Regular Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="190110 Display Poles/Roboto Serif Display Hairline Italic 10g.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Roboto Serif Big" stylename="Thin Italic" filename="instances/RobotoSerifBig-ThinItalic.ufo" postscriptfontname="RobotoSerifBig-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Extralight Italic" filename="instances/RobotoSerifBig-ExtralightItalic.ufo" postscriptfontname="RobotoSerifBig-ExtralightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="85"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Light Italic" filename="instances/RobotoSerifBig-LightItalic.ufo" postscriptfontname="RobotoSerifBig-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="175"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Regular Italic" filename="instances/RobotoSerifBig-RegularItalic.ufo" postscriptfontname="RobotoSerifBig-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="320"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Medium Italic" filename="instances/RobotoSerifBig-MediumItalic.ufo" postscriptfontname="RobotoSerifBig-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="450"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Semibold Italic" filename="instances/RobotoSerifBig-SemiboldItalic.ufo" postscriptfontname="RobotoSerifBig-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Bold Italic" filename="instances/RobotoSerifBig-BoldItalic.ufo" postscriptfontname="RobotoSerifBig-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="750"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Super Italic" filename="instances/RobotoSerifBig-SuperItalic.ufo" postscriptfontname="RobotoSerifBig-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="100"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Thin Italic" filename="instances/RobotoSerifDisplay-ThinItalic.ufo" postscriptfontname="RobotoSerifDisplay-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Extralight Italic" filename="instances/RobotoSerifDisplay-ExtralightItalic.ufo" postscriptfontname="RobotoSerifDisplay-ExtralightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="85"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Light Italic" filename="instances/RobotoSerifDisplay-LightItalic.ufo" postscriptfontname="RobotoSerifDisplay-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="175"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Regular Italic" filename="instances/RobotoSerifDisplay-RegularItalic.ufo" postscriptfontname="RobotoSerifDisplay-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="320"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Medium Italic" filename="instances/RobotoSerifDisplay-MediumItalic.ufo" postscriptfontname="RobotoSerifDisplay-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="450"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Semibold Italic" filename="instances/RobotoSerifDisplay-SemiboldItalic.ufo" postscriptfontname="RobotoSerifDisplay-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Bold Italic" filename="instances/RobotoSerifDisplay-BoldItalic.ufo" postscriptfontname="RobotoSerifDisplay-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="750"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Super Italic" filename="instances/RobotoSerifDisplay-SuperItalic.ufo" postscriptfontname="RobotoSerifDisplay-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="80"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Thin Italic" filename="instances/RobotoSerifTextG2-ThinItalic.ufo" postscriptfontname="RobotoSerifTextG2-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Thin Italic" filename="instances/RobotoSerifTextG1-ThinItalic.ufo" postscriptfontname="RobotoSerifTextG1-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Thin Italic" filename="instances/RobotoSerifTextG3-ThinItalic.ufo" postscriptfontname="RobotoSerifTextG3-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Light Italic" filename="instances/RobotoSerifTextG2-LightItalic.ufo" postscriptfontname="RobotoSerifTextG2-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Light Italic" filename="instances/RobotoSerifTextG1-LightItalic.ufo" postscriptfontname="RobotoSerifTextG1-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Light Italic" filename="instances/RobotoSerifTextG3-LightItalic.ufo" postscriptfontname="RobotoSerifTextG3-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Regular Italic" filename="instances/RobotoSerifTextG2-RegularItalic.ufo" postscriptfontname="RobotoSerifTextG2-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Regular Italic" filename="instances/RobotoSerifTextG1-RegularItalic.ufo" postscriptfontname="RobotoSerifTextG1-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Regular Italic" filename="instances/RobotoSerifTextG3-RegularItalic.ufo" postscriptfontname="RobotoSerifTextG3-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Medium Italic" filename="instances/RobotoSerifTextG2-MediumItalic.ufo" postscriptfontname="RobotoSerifTextG2-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="475"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Medium Italic" filename="instances/RobotoSerifTextG1-MediumItalic.ufo" postscriptfontname="RobotoSerifTextG1-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="475"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Medium Italic" filename="instances/RobotoSerifTextG3-MediumItalic.ufo" postscriptfontname="RobotoSerifTextG3-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="475"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Semibold Italic" filename="instances/RobotoSerifTextG2-SemiboldItalic.ufo" postscriptfontname="RobotoSerifTextG2-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Semibold Italic" filename="instances/RobotoSerifTextG1-SemiboldItalic.ufo" postscriptfontname="RobotoSerifTextG1-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Semibold Italic" filename="instances/RobotoSerifTextG3-SemiboldItalic.ufo" postscriptfontname="RobotoSerifTextG3-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Bold Italic" filename="instances/RobotoSerifTextG2-BoldItalic.ufo" postscriptfontname="RobotoSerifTextG2-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Bold Italic" filename="instances/RobotoSerifTextG1-BoldItalic.ufo" postscriptfontname="RobotoSerifTextG1-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Bold Italic" filename="instances/RobotoSerifTextG3-BoldItalic.ufo" postscriptfontname="RobotoSerifTextG3-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G2" stylename="Super Italic" filename="instances/RobotoSerifTextG2-SuperItalic.ufo" postscriptfontname="RobotoSerifTextG2-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G1" stylename="Super Italic" filename="instances/RobotoSerifTextG1-SuperItalic.ufo" postscriptfontname="RobotoSerifTextG1-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="-6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text G3" stylename="Super Italic" filename="instances/RobotoSerifTextG3-SuperItalic.ufo" postscriptfontname="RobotoSerifTextG3-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="6"/>
+        <dimension name="optical" xvalue="50"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Thin Italic" filename="instances/RobotoSerifSmallText-ThinItalic.ufo" postscriptfontname="RobotoSerifSmallText-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Light Italic" filename="instances/RobotoSerifSmallText-LightItalic.ufo" postscriptfontname="RobotoSerifSmallText-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Regular Italic" filename="instances/RobotoSerifSmallText-RegularItalic.ufo" postscriptfontname="RobotoSerifSmallText-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Medium Italic" filename="instances/RobotoSerifSmallText-MediumItalic.ufo" postscriptfontname="RobotoSerifSmallText-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="475"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Semibold Italic" filename="instances/RobotoSerifSmallText-SemiboldItalic.ufo" postscriptfontname="RobotoSerifSmallText-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Bold Italic" filename="instances/RobotoSerifSmallText-BoldItalic.ufo" postscriptfontname="RobotoSerifSmallText-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Text" stylename="Super Italic" filename="instances/RobotoSerifSmallText-SuperItalic.ufo" postscriptfontname="RobotoSerifSmallText-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="30"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Thin Italic" filename="instances/RobotoSerifMicro-ThinItalic.ufo" postscriptfontname="RobotoSerifMicro-ThinItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Light Italic" filename="instances/RobotoSerifMicro-LightItalic.ufo" postscriptfontname="RobotoSerifMicro-LightItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Regular Italic" filename="instances/RobotoSerifMicro-RegularItalic.ufo" postscriptfontname="RobotoSerifMicro-RegularItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="350"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Medium Italic" filename="instances/RobotoSerifMicro-MediumItalic.ufo" postscriptfontname="RobotoSerifMicro-MediumItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Semibold Italic" filename="instances/RobotoSerifMicro-SemiboldItalic.ufo" postscriptfontname="RobotoSerifMicro-SemiboldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Bold Italic" filename="instances/RobotoSerifMicro-BoldItalic.ufo" postscriptfontname="RobotoSerifMicro-BoldItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="850"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Super Italic" filename="instances/RobotoSerifMicro-SuperItalic.ufo" postscriptfontname="RobotoSerifMicro-SuperItalic">
+      <location>
+        <dimension name="grade" xvalue="0"/>
+        <dimension name="optical" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="second" format="2">
-  <advance width="424"/>
+  <advance width="400"/>
   <unicode hex="2033"/>
   <outline>
-    <component base="quotesingle" xOffset="25"/>
-    <component base="quotesingle" xOffset="189"/>
+    <component base="minute"/>
+    <component base="minute" xOffset="140"/>
   </outline>
   <lib>
     <dict>

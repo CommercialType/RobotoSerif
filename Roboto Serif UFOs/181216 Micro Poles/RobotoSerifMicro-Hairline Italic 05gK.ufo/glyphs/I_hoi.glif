@@ -2,7 +2,8 @@
 <glyph name="Ihoi" format="2">
   <advance width="365"/>
   <outline>
-    <component base="Ihookabove"/>
+    <component base="I"/>
+    <component base="hook.uc" xOffset="63"/>
   </outline>
   <lib>
     <dict>
