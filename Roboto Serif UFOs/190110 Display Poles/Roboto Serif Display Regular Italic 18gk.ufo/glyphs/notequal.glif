@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="560"/>
+  <unicode hex="2260"/>
+  <guideline x="60" y="161" angle="90" identifier="Y3d1xfcVCP"/>
+  <guideline x="450" y="144" angle="90" identifier="yRtrg4EZ5b"/>
+  <outline>
+    <contour>
+      <point x="465" y="566" type="line"/>
+      <point x="53" y="87" type="line"/>
+      <point x="96" y="87" type="line"/>
+      <point x="508" y="566" type="line"/>
+    </contour>
+    <component base="equal" xOffset="1" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Y3d1xfcVCP</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.yRtrg4EZ5b</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0,1,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

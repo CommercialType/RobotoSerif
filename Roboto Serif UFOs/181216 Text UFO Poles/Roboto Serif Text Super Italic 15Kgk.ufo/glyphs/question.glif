@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="590"/>
+  <unicode hex="003F"/>
+  <guideline x="213.48" y="204" angle="90" identifier="ODOZp4rbxG"/>
+  <guideline x="296.5" y="191" angle="90" identifier="60GiewR0bQ"/>
+  <guideline x="0" y="620" angle="0" identifier="mv3MoONXZq"/>
+  <guideline x="0" y="718" angle="0" identifier="sC2NFr9OJB"/>
+  <guideline x="0" y="688" angle="0" identifier="huy9Ifuuv1"/>
+  <outline>
+    <contour>
+      <point x="214" y="395" type="curve"/>
+      <point x="191" y="262" type="line"/>
+      <point x="315" y="262" type="line"/>
+      <point x="328" y="337" type="line"/>
+      <point x="510" y="359"/>
+      <point x="600" y="421"/>
+      <point x="600" y="548" type="curve" smooth="yes"/>
+      <point x="600" y="661"/>
+      <point x="499" y="720"/>
+      <point x="327" y="720" type="curve" smooth="yes"/>
+      <point x="200" y="720"/>
+      <point x="115" y="673"/>
+      <point x="79" y="649" type="curve"/>
+      <point x="58" y="532" type="line"/>
+      <point x="241" y="532" type="line"/>
+      <point x="257" y="624" type="line"/>
+      <point x="233" y="619"/>
+      <point x="213" y="607"/>
+      <point x="220" y="590" type="curve"/>
+      <point x="241" y="610"/>
+      <point x="262" y="620"/>
+      <point x="299" y="620" type="curve" smooth="yes"/>
+      <point x="350" y="620"/>
+      <point x="368" y="594"/>
+      <point x="370" y="550" type="curve" smooth="yes"/>
+      <point x="373" y="473"/>
+      <point x="319" y="423"/>
+    </contour>
+    <component base="period" xOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.60GiewR0bQ</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ODOZp4rbxG</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.huy9Ifuuv1</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.mv3MoONXZq</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.sC2NFr9OJB</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>
