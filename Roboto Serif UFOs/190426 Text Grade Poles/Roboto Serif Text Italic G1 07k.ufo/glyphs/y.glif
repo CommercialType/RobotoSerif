@@ -2,7 +2,9 @@
 <glyph name="y" format="2">
   <advance width="511"/>
   <unicode hex="0079"/>
-  <guideline x="132" y="-227" angle="0" identifier="euGGqRbtSs"/>
+  <guideline x="109" y="-232" angle="0" identifier="euGGqRbtSs"/>
+  <guideline x="36" y="-138" angle="0" identifier="bR17WWUQKI"/>
+  <guideline x="136" y="-160" angle="0" identifier="HygL8qx2nj"/>
   <outline>
     <contour>
       <point x="212" y="-36" type="line"/>
@@ -17,15 +19,24 @@
       <point x="252" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="251" y="38" type="line"/>
-      <point x="426" y="508" type="line"/>
-      <point x="511" y="508" type="line"/>
-      <point x="511" y="498" type="line"/>
-      <point x="272" y="18" type="line"/>
-      <point x="152" y="-223" type="line"/>
-      <point x="55" y="-223" type="line"/>
-      <point x="55" y="-211" type="line"/>
-      <point x="244" y="16" type="line"/>
+      <point x="243" y="39" type="line"/>
+      <point x="453" y="508" type="line"/>
+      <point x="524" y="508" type="line"/>
+      <point x="524" y="498" type="line"/>
+      <point x="267" y="15" type="line" smooth="yes"/>
+      <point x="175" y="-157"/>
+      <point x="113" y="-232"/>
+      <point x="16" y="-232" type="curve"/>
+      <point x="-20" y="-231"/>
+      <point x="-49" y="-225"/>
+      <point x="-69" y="-214" type="curve"/>
+      <point x="-55" y="-137" type="line"/>
+      <point x="-45" y="-144"/>
+      <point x="-12" y="-160.0"/>
+      <point x="30" y="-160" type="curve" smooth="yes"/>
+      <point x="107.0" y="-160.0"/>
+      <point x="160" y="-100"/>
+      <point x="223" y="18" type="curve"/>
     </contour>
   </outline>
   <lib>

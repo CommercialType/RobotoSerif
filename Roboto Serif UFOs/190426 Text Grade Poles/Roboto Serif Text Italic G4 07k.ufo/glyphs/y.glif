@@ -3,6 +3,8 @@
   <advance width="511"/>
   <unicode hex="0079"/>
   <guideline x="132" y="-227" angle="0" identifier="euGGqRbtSs"/>
+  <guideline x="51" y="-124" angle="0" identifier="NDabwOWdkX"/>
+  <guideline x="107" y="-142" angle="0" identifier="CcDaISgTcZ"/>
   <outline>
     <contour>
       <point x="202" y="-36" type="line"/>
@@ -18,14 +20,23 @@
     </contour>
     <contour>
       <point x="231" y="58" type="line"/>
-      <point x="406" y="508" type="line"/>
-      <point x="511" y="508" type="line"/>
-      <point x="511" y="498" type="line"/>
-      <point x="272" y="18" type="line"/>
-      <point x="152" y="-223" type="line"/>
-      <point x="50" y="-223" type="line"/>
-      <point x="50" y="-203" type="line"/>
-      <point x="214" y="34" type="line"/>
+      <point x="425" y="508" type="line"/>
+      <point x="524" y="508" type="line"/>
+      <point x="524" y="498" type="line"/>
+      <point x="272" y="18" type="line" smooth="yes"/>
+      <point x="179" y="-159"/>
+      <point x="102" y="-232"/>
+      <point x="16" y="-232" type="curve" smooth="yes"/>
+      <point x="-31" y="-232"/>
+      <point x="-62" y="-218"/>
+      <point x="-69" y="-214" type="curve"/>
+      <point x="-53" y="-124" type="line"/>
+      <point x="-47" y="-127"/>
+      <point x="-17" y="-142"/>
+      <point x="22" y="-142" type="curve" smooth="yes"/>
+      <point x="84.0" y="-142.0"/>
+      <point x="145" y="-90"/>
+      <point x="208" y="34" type="curve"/>
     </contour>
   </outline>
   <lib>

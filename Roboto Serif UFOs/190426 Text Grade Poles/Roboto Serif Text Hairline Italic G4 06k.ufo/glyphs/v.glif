@@ -2,15 +2,16 @@
 <glyph name="v" format="2">
   <advance width="474"/>
   <unicode hex="0076"/>
+  <guideline x="211" y="0" angle="0" identifier="w58JC9J79z"/>
   <outline>
     <contour>
       <point x="155" y="508" type="line"/>
       <point x="229" y="35" type="line"/>
-      <point x="202" y="41" type="line"/>
+      <point x="208" y="41" type="line"/>
       <point x="414" y="508" type="line"/>
       <point x="477" y="508" type="line"/>
       <point x="477" y="502" type="line"/>
-      <point x="223" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
       <point x="182" y="0" type="line"/>
       <point x="111" y="416" type="line" smooth="yes"/>
       <point x="107" y="442"/>
@@ -22,6 +23,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guideline.showMeasurements.w58JC9J79z</key>
+      <true/>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>
