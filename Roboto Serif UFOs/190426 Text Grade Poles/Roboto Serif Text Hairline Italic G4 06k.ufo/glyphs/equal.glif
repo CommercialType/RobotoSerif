@@ -5,18 +5,8 @@
   <guideline x="104" y="211" angle="80.0" identifier="xMXI8KZkFf"/>
   <guideline x="478" y="211" angle="80.0" identifier="Pa8KAPZJxF"/>
   <outline>
-    <contour>
-      <point x="504" y="442" type="line"/>
-      <point x="130" y="442" type="line"/>
-      <point x="120" y="392" type="line"/>
-      <point x="494" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="473" y="263" type="line"/>
-      <point x="99" y="263" type="line"/>
-      <point x="89" y="213" type="line"/>
-      <point x="463" y="213" type="line"/>
-    </contour>
+    <component base="minus" xOffset="21" yOffset="76"/>
+    <component base="minus" xOffset="-10" yOffset="-103"/>
   </outline>
   <lib>
     <dict>

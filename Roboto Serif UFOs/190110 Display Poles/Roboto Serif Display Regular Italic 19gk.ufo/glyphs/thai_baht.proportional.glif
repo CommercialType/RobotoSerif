@@ -17,28 +17,6 @@
       <point x="471" y="790" type="line"/>
     </contour>
     <contour>
-      <point x="394" y="355" type="line" smooth="yes"/>
-      <point x="505" y="355"/>
-      <point x="547" y="292"/>
-      <point x="547" y="215" type="curve" smooth="yes"/>
-      <point x="547" y="111"/>
-      <point x="496" y="34"/>
-      <point x="361" y="34" type="curve" smooth="yes"/>
-      <point x="179" y="34" type="line"/>
-      <point x="236" y="355" type="line"/>
-    </contour>
-    <contour>
-      <point x="403" y="388" type="curve" smooth="yes"/>
-      <point x="241" y="388" type="line"/>
-      <point x="290" y="666" type="line"/>
-      <point x="428" y="666" type="line" smooth="yes"/>
-      <point x="529.3793103448276" y="666"/>
-      <point x="575.0" y="618.0"/>
-      <point x="575" y="547" type="curve" smooth="yes"/>
-      <point x="575.0" y="472.0"/>
-      <point x="540.6" y="388"/>
-    </contour>
-    <contour>
       <point x="438" y="370" type="line"/>
       <point x="595" y="370"/>
       <point x="666" y="452"/>
@@ -67,6 +45,28 @@
       <point x="396" y="382" type="curve"/>
       <point x="452" y="366" type="line"/>
       <point x="458" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="388" type="line"/>
+      <point x="290" y="666" type="line"/>
+      <point x="428" y="666" type="line" smooth="yes"/>
+      <point x="529.3793103448276" y="666"/>
+      <point x="575.0" y="618.0"/>
+      <point x="575" y="547" type="curve" smooth="yes"/>
+      <point x="575.0" y="472.0"/>
+      <point x="540.6" y="388"/>
+      <point x="403" y="388" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="179" y="34" type="line"/>
+      <point x="236" y="355" type="line"/>
+      <point x="394" y="355" type="line" smooth="yes"/>
+      <point x="505" y="355"/>
+      <point x="547" y="292"/>
+      <point x="547" y="215" type="curve" smooth="yes"/>
+      <point x="547" y="111"/>
+      <point x="496" y="34"/>
+      <point x="361" y="34" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

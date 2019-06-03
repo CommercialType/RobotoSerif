@@ -2,6 +2,10 @@
 <glyph name="blackrightpointingtriangle" format="2">
   <advance width="805"/>
   <outline>
-    <component base="blackleftpointingtriangle" xScale="-1" xOffset="805"/>
+    <contour>
+      <point x="362" y="10" type="line"/>
+      <point x="735" y="277" type="line"/>
+      <point x="362" y="545" type="line"/>
+    </contour>
   </outline>
 </glyph>

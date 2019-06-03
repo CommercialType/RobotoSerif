@@ -17,28 +17,6 @@
       <point x="466" y="790" type="line"/>
     </contour>
     <contour>
-      <point x="356" y="357" type="line" smooth="yes"/>
-      <point x="475" y="357"/>
-      <point x="510" y="291"/>
-      <point x="510" y="223" type="curve" smooth="yes"/>
-      <point x="510.0" y="109"/>
-      <point x="453.0" y="50.0"/>
-      <point x="304" y="50" type="curve" smooth="yes"/>
-      <point x="95" y="50" type="line"/>
-      <point x="171" y="357" type="line"/>
-    </contour>
-    <contour>
-      <point x="378" y="391" type="curve" smooth="yes"/>
-      <point x="180" y="391" type="line"/>
-      <point x="247" y="659" type="line"/>
-      <point x="402" y="659" type="line"/>
-      <point x="510" y="659"/>
-      <point x="555" y="618"/>
-      <point x="555" y="552" type="curve" smooth="yes"/>
-      <point x="555.0" y="484"/>
-      <point x="531.0" y="391.0"/>
-    </contour>
-    <contour>
       <point x="406" y="372" type="line"/>
       <point x="545" y="379"/>
       <point x="608" y="447"/>
@@ -67,6 +45,28 @@
       <point x="415" y="374" type="curve"/>
       <point x="429" y="359" type="line"/>
       <point x="435" y="382" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="391" type="line"/>
+      <point x="247" y="659" type="line"/>
+      <point x="402" y="659" type="line"/>
+      <point x="510" y="659"/>
+      <point x="555" y="618"/>
+      <point x="555" y="552" type="curve" smooth="yes"/>
+      <point x="555.0" y="484"/>
+      <point x="531.0" y="391.0"/>
+      <point x="378" y="391" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="95" y="50" type="line"/>
+      <point x="171" y="357" type="line"/>
+      <point x="356" y="357" type="line" smooth="yes"/>
+      <point x="475" y="357"/>
+      <point x="510" y="291"/>
+      <point x="510" y="223" type="curve" smooth="yes"/>
+      <point x="510.0" y="109"/>
+      <point x="453.0" y="50.0"/>
+      <point x="304" y="50" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

@@ -18943,7 +18943,6 @@ fi.alt    fi.alt
       <string>Sdotbelow</string>
       <string>Sacutedotaccent</string>
       <string>T</string>
-      <string>Tcedilla</string>
       <string>Tcommaaccent</string>
       <string>Tcaron</string>
       <string>uni021A</string>
@@ -19151,7 +19150,6 @@ fi.alt    fi.alt
       <string>sdotbelow</string>
       <string>sacutedotaccent</string>
       <string>t</string>
-      <string>tcedilla</string>
       <string>tcommaaccent</string>
       <string>tcaron</string>
       <string>uni021B</string>
@@ -19429,6 +19427,7 @@ fi.alt    fi.alt
       <string>Scarondotaccent</string>
       <string>Sdotaccent</string>
       <string>Sdotbelowdotaccent</string>
+      <string>Tcedilla</string>
       <string>Udblgrave</string>
       <string>Uhookabove</string>
       <string>Uhornhookabove</string>
@@ -19536,6 +19535,7 @@ fi.alt    fi.alt
       <string>sixinferior</string>
       <string>sixsuperior</string>
       <string>softhyphen</string>
+      <string>tcedilla</string>
       <string>threeinferior</string>
       <string>tildecomb</string>
       <string>twoinferior</string>
@@ -19710,6 +19710,26 @@ fi.alt    fi.alt
       <string>seven.sinf</string>
       <string>eight.sinf</string>
       <string>nine.sinf</string>
+      <string>zero.lintab</string>
+      <string>one.lintab</string>
+      <string>two.lintab</string>
+      <string>three.lintab</string>
+      <string>four.lintab</string>
+      <string>five.lintab</string>
+      <string>six.lintab</string>
+      <string>seven.lintab</string>
+      <string>eight.lintab</string>
+      <string>nine.lintab</string>
+      <string>zero.oldtab</string>
+      <string>one.oldtab</string>
+      <string>two.oldtab</string>
+      <string>three.oldtab</string>
+      <string>four.oldtab</string>
+      <string>five.oldtab</string>
+      <string>six.oldtab</string>
+      <string>seven.oldtab</string>
+      <string>eight.oldtab</string>
+      <string>nine.oldtab</string>
       <string>zero.linprop</string>
       <string>one.linprop</string>
       <string>two.linprop</string>
@@ -19720,6 +19740,16 @@ fi.alt    fi.alt
       <string>seven.linprop</string>
       <string>eight.linprop</string>
       <string>nine.linprop</string>
+      <string>zero.midprop</string>
+      <string>one.midprop</string>
+      <string>two.midprop</string>
+      <string>three.midprop</string>
+      <string>four.midprop</string>
+      <string>five.midprop</string>
+      <string>six.midprop</string>
+      <string>seven.midprop</string>
+      <string>eight.midprop</string>
+      <string>nine.midprop</string>
       <string>zero.oldprop</string>
       <string>one.oldprop</string>
       <string>two.oldprop</string>
@@ -19741,15 +19771,7 @@ fi.alt    fi.alt
       <string>zero.slashlinprop</string>
       <string>zero.slasholdprop</string>
       <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
       <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
       <string>plus.lin</string>
       <string>minus.lin</string>
       <string>divide.lin</string>
@@ -19856,6 +19878,7 @@ fi.alt    fi.alt
       <string>f_i.alt</string>
       <string>f_j.alt</string>
       <string>fi.alt</string>
+      <string>six.lin</string>
     </array>
   </dict>
 </plist>

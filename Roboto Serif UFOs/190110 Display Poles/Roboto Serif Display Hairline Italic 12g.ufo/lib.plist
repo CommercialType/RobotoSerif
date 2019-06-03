@@ -888,26 +888,26 @@
           <string>seven.num</string>
           <string>eight.num</string>
           <string>nine.num</string>
-          <string>zero.old</string>
-          <string>one.old</string>
-          <string>two.old</string>
-          <string>three.old</string>
-          <string>four.old</string>
-          <string>five.old</string>
-          <string>six.old</string>
-          <string>seven.old</string>
-          <string>eight.old</string>
-          <string>nine.old</string>
-          <string>zero.prop</string>
-          <string>one.prop</string>
-          <string>two.prop</string>
-          <string>three.prop</string>
-          <string>four.prop</string>
-          <string>five.prop</string>
-          <string>six.prop</string>
-          <string>seven.prop</string>
-          <string>eight.prop</string>
-          <string>nine.prop</string>
+          <string>zero.oldtab</string>
+          <string>one.oldtab</string>
+          <string>two.oldtab</string>
+          <string>three.oldtab</string>
+          <string>four.oldtab</string>
+          <string>five.oldtab</string>
+          <string>six.oldtab</string>
+          <string>seven.oldtab</string>
+          <string>eight.oldtab</string>
+          <string>nine.oldtab</string>
+          <string>zero.midprop</string>
+          <string>one.midprop</string>
+          <string>two.midprop</string>
+          <string>three.midprop</string>
+          <string>four.midprop</string>
+          <string>five.midprop</string>
+          <string>six.midprop</string>
+          <string>seven.midprop</string>
+          <string>eight.midprop</string>
+          <string>nine.midprop</string>
           <string>zero.sinf</string>
           <string>one.sinf</string>
           <string>two.sinf</string>
@@ -948,16 +948,16 @@
           <string>zero.slasholdtab</string>
           <string>zero.slashlinprop</string>
           <string>zero.slasholdprop</string>
-          <string>zero.lin</string>
-          <string>one.lin</string>
-          <string>two.lin</string>
-          <string>three.lin</string>
-          <string>four.lin</string>
-          <string>five.lin</string>
-          <string>six.lin</string>
-          <string>seven.lin</string>
-          <string>eight.lin</string>
-          <string>nine.lin</string>
+          <string>zero.lintab</string>
+          <string>one.lintab</string>
+          <string>two.lintab</string>
+          <string>three.lintab</string>
+          <string>four.lintab</string>
+          <string>five.lintab</string>
+          <string>six.lintab</string>
+          <string>seven.lintab</string>
+          <string>eight.lintab</string>
+          <string>nine.lintab</string>
           <string>plus.lin</string>
           <string>minus.lin</string>
           <string>divide.lin</string>
@@ -1064,6 +1064,7 @@
           <string>f_i.alt</string>
           <string>f_j.alt</string>
           <string>fi.alt</string>
+          <string>colonsign.proportional</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -20731,26 +20732,26 @@
       <string>seven.num</string>
       <string>eight.num</string>
       <string>nine.num</string>
-      <string>zero.old</string>
-      <string>one.old</string>
-      <string>two.old</string>
-      <string>three.old</string>
-      <string>four.old</string>
-      <string>five.old</string>
-      <string>six.old</string>
-      <string>seven.old</string>
-      <string>eight.old</string>
-      <string>nine.old</string>
-      <string>zero.prop</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
+      <string>zero.oldtab</string>
+      <string>one.oldtab</string>
+      <string>two.oldtab</string>
+      <string>three.oldtab</string>
+      <string>four.oldtab</string>
+      <string>five.oldtab</string>
+      <string>six.oldtab</string>
+      <string>seven.oldtab</string>
+      <string>eight.oldtab</string>
+      <string>nine.oldtab</string>
+      <string>zero.midprop</string>
+      <string>one.midprop</string>
+      <string>two.midprop</string>
+      <string>three.midprop</string>
+      <string>four.midprop</string>
+      <string>five.midprop</string>
+      <string>six.midprop</string>
+      <string>seven.midprop</string>
+      <string>eight.midprop</string>
+      <string>nine.midprop</string>
       <string>zero.sinf</string>
       <string>one.sinf</string>
       <string>two.sinf</string>
@@ -20791,16 +20792,16 @@
       <string>zero.slasholdtab</string>
       <string>zero.slashlinprop</string>
       <string>zero.slasholdprop</string>
-      <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
-      <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
+      <string>zero.lintab</string>
+      <string>one.lintab</string>
+      <string>two.lintab</string>
+      <string>three.lintab</string>
+      <string>four.lintab</string>
+      <string>five.lintab</string>
+      <string>six.lintab</string>
+      <string>seven.lintab</string>
+      <string>eight.lintab</string>
+      <string>nine.lintab</string>
       <string>plus.lin</string>
       <string>minus.lin</string>
       <string>divide.lin</string>
@@ -20908,6 +20909,7 @@
       <string>f_j.alt</string>
       <string>fi.alt</string>
       <string>colonsign.proportional</string>
+      <string>six.lin</string>
     </array>
   </dict>
 </plist>

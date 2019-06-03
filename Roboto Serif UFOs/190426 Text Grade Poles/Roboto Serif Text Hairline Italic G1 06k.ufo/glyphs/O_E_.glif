@@ -5,10 +5,14 @@
   <guideline x="0" y="680" angle="0" identifier="Ly4I4du5jM"/>
   <outline>
     <contour>
-      <point x="546" y="378" type="line"/>
+      <point x="546" y="378" type="curve"/>
       <point x="541" y="350" type="line"/>
-      <point x="807" y="346" type="line"/>
+      <point x="630" y="349"/>
+      <point x="718" y="347"/>
+      <point x="807" y="346" type="curve"/>
       <point x="814" y="382" type="line"/>
+      <point x="725" y="381"/>
+      <point x="635" y="379"/>
     </contour>
     <contour>
       <point x="889" y="188" type="line"/>

@@ -14,18 +14,6 @@
       <point x="705" y="389"/>
     </contour>
     <contour>
-      <point x="389" y="44" type="line" smooth="yes"/>
-      <point x="186" y="44"/>
-      <point x="113" y="125"/>
-      <point x="113" y="282" type="curve" smooth="yes"/>
-      <point x="113" y="463"/>
-      <point x="212" y="666"/>
-      <point x="462" y="666" type="curve" smooth="yes"/>
-      <point x="637" y="666" type="line"/>
-      <point x="481" y="44" type="line"/>
-    </contour>
-    <contour>
-      <point x="934" y="0" type="line"/>
       <point x="988" y="218" type="line"/>
       <point x="941" y="218" type="line"/>
       <point x="894" y="89" type="line" smooth="yes"/>
@@ -48,6 +36,18 @@
       <point x="57" y="101"/>
       <point x="154" y="0"/>
       <point x="380" y="0" type="curve" smooth="yes"/>
+      <point x="934" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="44" type="line" smooth="yes"/>
+      <point x="186" y="44"/>
+      <point x="113" y="125"/>
+      <point x="113" y="282" type="curve" smooth="yes"/>
+      <point x="113" y="463"/>
+      <point x="212" y="666"/>
+      <point x="462" y="666" type="curve" smooth="yes"/>
+      <point x="637" y="666" type="line"/>
+      <point x="481" y="44" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -30,16 +30,16 @@
     </array>
     <key>numLinTab</key>
     <array>
-      <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
-      <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
+      <string>zero.lintab</string>
+      <string>one.lintab</string>
+      <string>two.lintab</string>
+      <string>three.lintab</string>
+      <string>four.lintab</string>
+      <string>five.lintab</string>
+      <string>six.lintab</string>
+      <string>seven.lintab</string>
+      <string>eight.lintab</string>
+      <string>nine.lintab</string>
     </array>
     <key>numOld</key>
     <array>
@@ -56,29 +56,29 @@
     </array>
     <key>numOldTab</key>
     <array>
-      <string>zero.old</string>
-      <string>one.old</string>
-      <string>two.old</string>
-      <string>three.old</string>
-      <string>four.old</string>
-      <string>five.old</string>
-      <string>six.old</string>
-      <string>seven.old</string>
-      <string>eight.old</string>
-      <string>nine.old</string>
+      <string>zero.oldtab</string>
+      <string>one.oldtab</string>
+      <string>two.oldtab</string>
+      <string>three.oldtab</string>
+      <string>four.oldtab</string>
+      <string>five.oldtab</string>
+      <string>six.oldtab</string>
+      <string>seven.oldtab</string>
+      <string>eight.oldtab</string>
+      <string>nine.oldtab</string>
     </array>
     <key>numProp</key>
     <array>
-      <string>zero.prop</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
+      <string>zero.midprop</string>
+      <string>one.midprop</string>
+      <string>two.midprop</string>
+      <string>three.midprop</string>
+      <string>four.midprop</string>
+      <string>five.midprop</string>
+      <string>six.midprop</string>
+      <string>seven.midprop</string>
+      <string>eight.midprop</string>
+      <string>nine.midprop</string>
     </array>
     <key>numPunct</key>
     <array>
@@ -933,7 +933,7 @@
     </array>
     <key>public.kern1.zero.prop</key>
     <array>
-      <string>zero.prop</string>
+      <string>zero.midprop</string>
       <string>zero.slashprop</string>
     </array>
     <key>public.kern2.A</key>
@@ -1674,7 +1674,7 @@
     </array>
     <key>public.kern2.zero.prop</key>
     <array>
-      <string>zero.prop</string>
+      <string>zero.midprop</string>
       <string>zero.slashprop</string>
     </array>
   </dict>

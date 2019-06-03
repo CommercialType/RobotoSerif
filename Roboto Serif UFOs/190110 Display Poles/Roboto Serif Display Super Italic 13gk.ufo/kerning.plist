@@ -99,10 +99,10 @@
     <dict>
       <key>eight.linprop</key>
       <integer>5</integer>
+      <key>eight.midprop</key>
+      <integer>10</integer>
       <key>eight.oldprop</key>
       <integer>5</integer>
-      <key>eight.prop</key>
-      <integer>10</integer>
       <key>five.linprop</key>
       <integer>5</integer>
       <key>four.linprop</key>
@@ -111,36 +111,36 @@
       <integer>-15</integer>
       <key>nine.linprop</key>
       <integer>-5</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>-10</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-10</integer>
-      <key>one.oldprop</key>
+      <key>one.midprop</key>
       <integer>-10</integer>
-      <key>one.prop</key>
+      <key>one.oldprop</key>
       <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>-15</integer>
+      <key>seven.midprop</key>
+      <integer>-20</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-20</integer>
       <key>six.oldprop</key>
       <integer>5</integer>
       <key>three.linprop</key>
       <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
       <key>two.linprop</key>
       <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
       <key>two.oldprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
-      <integer>5</integer>
     </dict>
     <key>F</key>
     <dict>
@@ -972,27 +972,27 @@
       <integer>-60</integer>
       <key>X</key>
       <integer>40</integer>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>-5</integer>
       <key>five.linprop</key>
       <integer>10</integer>
+      <key>five.midprop</key>
+      <integer>5</integer>
       <key>five.oldprop</key>
       <integer>10</integer>
-      <key>five.prop</key>
-      <integer>5</integer>
       <key>four.linprop</key>
       <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
       <key>four.oldprop</key>
       <integer>30</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
       <key>nine.linprop</key>
       <integer>15</integer>
+      <key>nine.midprop</key>
+      <integer>20</integer>
       <key>nine.oldprop</key>
       <integer>10</integer>
-      <key>nine.prop</key>
-      <integer>20</integer>
-      <key>one.prop</key>
+      <key>one.midprop</key>
       <integer>10</integer>
       <key>p</key>
       <integer>5</integer>
@@ -1042,24 +1042,24 @@
       <integer>20</integer>
       <key>seven.linprop</key>
       <integer>-30</integer>
-      <key>seven.oldprop</key>
+      <key>seven.midprop</key>
       <integer>-10</integer>
-      <key>seven.prop</key>
+      <key>seven.oldprop</key>
       <integer>-10</integer>
       <key>six.linprop</key>
       <integer>15</integer>
+      <key>six.midprop</key>
+      <integer>10</integer>
       <key>six.oldprop</key>
       <integer>5</integer>
-      <key>six.prop</key>
-      <integer>10</integer>
       <key>three.oldprop</key>
       <integer>20</integer>
       <key>two.linprop</key>
       <integer>35</integer>
+      <key>two.midprop</key>
+      <integer>20</integer>
       <key>two.oldprop</key>
       <integer>15</integer>
-      <key>two.prop</key>
-      <integer>20</integer>
       <key>x</key>
       <integer>-5</integer>
     </dict>
@@ -1086,32 +1086,32 @@
       <integer>-30</integer>
       <key>eight.linprop</key>
       <integer>-15</integer>
+      <key>eight.midprop</key>
+      <integer>-5</integer>
       <key>eight.oldprop</key>
       <integer>-10</integer>
-      <key>eight.prop</key>
-      <integer>-5</integer>
       <key>five.linprop</key>
       <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-20</integer>
       <key>four.linprop</key>
       <integer>-45</integer>
+      <key>four.midprop</key>
+      <integer>-60</integer>
       <key>four.oldprop</key>
       <integer>-100</integer>
-      <key>four.prop</key>
-      <integer>-60</integer>
       <key>nine.linprop</key>
       <integer>20</integer>
+      <key>nine.midprop</key>
+      <integer>10</integer>
       <key>nine.oldprop</key>
       <integer>-5</integer>
-      <key>nine.prop</key>
-      <integer>10</integer>
       <key>one.linprop</key>
+      <integer>5</integer>
+      <key>one.midprop</key>
       <integer>5</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>5</integer>
       <key>p</key>
       <integer>10</integer>
       <key>public.kern2.A</key>
@@ -1176,11 +1176,11 @@
       <integer>-5</integer>
       <key>three.linprop</key>
       <integer>10</integer>
-      <key>three.prop</key>
+      <key>three.midprop</key>
       <integer>5</integer>
       <key>two.linprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
       <key>x</key>
       <integer>-45</integer>
@@ -1195,32 +1195,32 @@
       <integer>-30</integer>
       <key>eight.linprop</key>
       <integer>-15</integer>
+      <key>eight.midprop</key>
+      <integer>-5</integer>
       <key>eight.oldprop</key>
       <integer>-10</integer>
-      <key>eight.prop</key>
-      <integer>-5</integer>
       <key>five.linprop</key>
       <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-20</integer>
       <key>four.linprop</key>
       <integer>-45</integer>
+      <key>four.midprop</key>
+      <integer>-60</integer>
       <key>four.oldprop</key>
       <integer>-100</integer>
-      <key>four.prop</key>
-      <integer>-60</integer>
       <key>nine.linprop</key>
       <integer>20</integer>
+      <key>nine.midprop</key>
+      <integer>10</integer>
       <key>nine.oldprop</key>
       <integer>-5</integer>
-      <key>nine.prop</key>
-      <integer>10</integer>
       <key>one.linprop</key>
+      <integer>5</integer>
+      <key>one.midprop</key>
       <integer>5</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>5</integer>
       <key>p</key>
       <integer>10</integer>
       <key>public.kern2.A</key>
@@ -1285,11 +1285,11 @@
       <integer>-5</integer>
       <key>three.linprop</key>
       <integer>10</integer>
-      <key>three.prop</key>
+      <key>three.midprop</key>
       <integer>5</integer>
       <key>two.linprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
       <key>x</key>
       <integer>-45</integer>
@@ -1306,30 +1306,30 @@
       <integer>-30</integer>
       <key>eight.linprop</key>
       <integer>10</integer>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>10</integer>
+      <key>five.midprop</key>
+      <integer>-15</integer>
       <key>five.oldprop</key>
       <integer>-30</integer>
-      <key>five.prop</key>
-      <integer>-15</integer>
       <key>four.linprop</key>
       <integer>25</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
       <key>four.oldprop</key>
       <integer>-20</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
       <key>lslash</key>
       <integer>15</integer>
       <key>nine.linprop</key>
       <integer>-5</integer>
-      <key>nine.prop</key>
+      <key>nine.midprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-30</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-30</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>p</key>
       <integer>-5</integer>
       <key>public.kern2.A</key>
@@ -1382,25 +1382,25 @@
       <integer>15</integer>
       <key>seven.linprop</key>
       <integer>-30</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>six.linprop</key>
       <integer>10</integer>
+      <key>six.midprop</key>
+      <integer>15</integer>
       <key>six.oldprop</key>
       <integer>5</integer>
-      <key>six.prop</key>
-      <integer>15</integer>
       <key>thorn</key>
       <integer>-10</integer>
+      <key>three.midprop</key>
+      <integer>-20</integer>
       <key>three.oldprop</key>
       <integer>-20</integer>
-      <key>three.prop</key>
-      <integer>-20</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>-5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>-5</integer>
       <key>x</key>
       <integer>-65</integer>
@@ -1456,26 +1456,26 @@
       <integer>-85</integer>
       <key>X</key>
       <integer>-65</integer>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>5</integer>
       <key>five.oldprop</key>
       <integer>-25</integer>
       <key>four.linprop</key>
       <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>10</integer>
       <key>four.oldprop</key>
       <integer>-15</integer>
-      <key>four.prop</key>
-      <integer>10</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-20</integer>
+      <key>one.midprop</key>
+      <integer>-25</integer>
       <key>one.oldprop</key>
       <integer>-10</integer>
-      <key>one.prop</key>
-      <integer>-25</integer>
       <key>public.kern2.A</key>
       <integer>-45</integer>
       <key>public.kern2.AE</key>
@@ -1530,26 +1530,26 @@
       <integer>10</integer>
       <key>seven.linprop</key>
       <integer>-25</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
-      <key>six.oldprop</key>
+      <key>six.midprop</key>
       <integer>5</integer>
-      <key>six.prop</key>
+      <key>six.oldprop</key>
       <integer>5</integer>
       <key>thorn</key>
       <integer>-10</integer>
       <key>three.linprop</key>
       <integer>5</integer>
-      <key>three.prop</key>
+      <key>three.midprop</key>
       <integer>-5</integer>
       <key>two.linprop</key>
       <integer>-5</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
       <key>two.oldprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
-      <integer>5</integer>
       <key>x</key>
       <integer>-110</integer>
     </dict>
@@ -1586,30 +1586,30 @@
     <dict>
       <key>eight.linprop</key>
       <integer>-20</integer>
+      <key>eight.midprop</key>
+      <integer>-30</integer>
       <key>eight.oldprop</key>
       <integer>-5</integer>
-      <key>eight.prop</key>
-      <integer>-30</integer>
       <key>five.linprop</key>
       <integer>-10</integer>
-      <key>five.oldprop</key>
+      <key>five.midprop</key>
       <integer>-30</integer>
-      <key>five.prop</key>
+      <key>five.oldprop</key>
       <integer>-30</integer>
       <key>four.linprop</key>
       <integer>-50</integer>
+      <key>four.midprop</key>
+      <integer>-90</integer>
       <key>four.oldprop</key>
       <integer>-100</integer>
-      <key>four.prop</key>
-      <integer>-90</integer>
       <key>nine.linprop</key>
       <integer>15</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-35</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>public.kern2.zero.lin</key>
       <integer>5</integer>
       <key>public.kern2.zero.old</key>
@@ -1618,49 +1618,49 @@
       <integer>-20</integer>
       <key>seven.linprop</key>
       <integer>-10</integer>
+      <key>seven.midprop</key>
+      <integer>-15</integer>
       <key>seven.oldprop</key>
       <integer>-10</integer>
-      <key>seven.prop</key>
-      <integer>-15</integer>
       <key>six.linprop</key>
       <integer>-20</integer>
+      <key>six.midprop</key>
+      <integer>-30</integer>
       <key>six.oldprop</key>
       <integer>-15</integer>
-      <key>six.prop</key>
-      <integer>-30</integer>
       <key>three.linprop</key>
       <integer>-5</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>10</integer>
     </dict>
     <key>divide</key>
     <dict>
       <key>eight.linprop</key>
       <integer>25</integer>
+      <key>eight.midprop</key>
+      <integer>10</integer>
       <key>eight.oldprop</key>
       <integer>5</integer>
-      <key>eight.prop</key>
-      <integer>10</integer>
       <key>five.linprop</key>
       <integer>10</integer>
       <key>four.linprop</key>
       <integer>30</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
       <key>four.oldprop</key>
       <integer>-20</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
       <key>nine.linprop</key>
       <integer>5</integer>
+      <key>nine.midprop</key>
+      <integer>10</integer>
       <key>nine.oldprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
-      <integer>10</integer>
       <key>one.linprop</key>
       <integer>5</integer>
       <key>one.oldprop</key>
@@ -1673,16 +1673,16 @@
       <integer>10</integer>
       <key>seven.linprop</key>
       <integer>-5</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>5</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>six.linprop</key>
       <integer>25</integer>
+      <key>six.midprop</key>
+      <integer>10</integer>
       <key>six.oldprop</key>
       <integer>15</integer>
-      <key>six.prop</key>
-      <integer>10</integer>
       <key>three.linprop</key>
       <integer>-5</integer>
       <key>two.linprop</key>
@@ -1720,17 +1720,6 @@
       <key>public.kern2.guillemotright</key>
       <integer>15</integer>
       <key>zero.num</key>
-      <integer>10</integer>
-    </dict>
-    <key>eight.lin</key>
-    <dict>
-      <key>nine.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>10</integer>
-      <key>two.num</key>
       <integer>10</integer>
     </dict>
     <key>eight.linprop</key>
@@ -1848,14 +1837,9 @@
       <key>zero.num</key>
       <integer>10</integer>
     </dict>
-    <key>eight.num</key>
+    <key>eight.lintab</key>
     <dict>
-      <key>fraction</key>
-      <integer>-135</integer>
-    </dict>
-    <key>eight.old</key>
-    <dict>
-      <key>four.num</key>
+      <key>nine.num</key>
       <integer>10</integer>
       <key>one.num</key>
       <integer>10</integer>
@@ -1863,6 +1847,94 @@
       <integer>10</integer>
       <key>two.num</key>
       <integer>10</integer>
+    </dict>
+    <key>eight.midprop</key>
+    <dict>
+      <key>ampersand</key>
+      <integer>15</integer>
+      <key>asterisk</key>
+      <integer>15</integer>
+      <key>asterisk.alt</key>
+      <integer>15</integer>
+      <key>at</key>
+      <integer>20</integer>
+      <key>bullet</key>
+      <integer>5</integer>
+      <key>cent.proportional</key>
+      <integer>25</integer>
+      <key>degree</key>
+      <integer>20</integer>
+      <key>eight.midprop</key>
+      <integer>15</integer>
+      <key>five.midprop</key>
+      <integer>5</integer>
+      <key>five.num</key>
+      <integer>5</integer>
+      <key>four.midprop</key>
+      <integer>30</integer>
+      <key>four.num</key>
+      <integer>10</integer>
+      <key>greater</key>
+      <integer>10</integer>
+      <key>minus</key>
+      <integer>-5</integer>
+      <key>nine.midprop</key>
+      <integer>-5</integer>
+      <key>nine.num</key>
+      <integer>5</integer>
+      <key>numbersign</key>
+      <integer>15</integer>
+      <key>one.midprop</key>
+      <integer>-5</integer>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>ordfeminine</key>
+      <integer>25</integer>
+      <key>ordmasculine</key>
+      <integer>15</integer>
+      <key>parenright</key>
+      <integer>-10</integer>
+      <key>periodcentered</key>
+      <integer>-5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>40</integer>
+      <key>public.kern2.colon</key>
+      <integer>-10</integer>
+      <key>public.kern2.dashes</key>
+      <integer>-5</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>10</integer>
+      <key>public.kern2.minute</key>
+      <integer>15</integer>
+      <key>public.kern2.percent</key>
+      <integer>15</integer>
+      <key>public.kern2.period</key>
+      <integer>-10</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>20</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>10</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>15</integer>
+      <key>question</key>
+      <integer>-5</integer>
+      <key>seven.midprop</key>
+      <integer>-20</integer>
+      <key>three.midprop</key>
+      <integer>10</integer>
+      <key>three.num</key>
+      <integer>5</integer>
+      <key>two.midprop</key>
+      <integer>20</integer>
+      <key>two.num</key>
+      <integer>5</integer>
+      <key>zero.num</key>
+      <integer>15</integer>
+    </dict>
+    <key>eight.num</key>
+    <dict>
+      <key>fraction</key>
+      <integer>-135</integer>
     </dict>
     <key>eight.oldprop</key>
     <dict>
@@ -1945,88 +2017,16 @@
       <key>zero.num</key>
       <integer>15</integer>
     </dict>
-    <key>eight.prop</key>
+    <key>eight.oldtab</key>
     <dict>
-      <key>ampersand</key>
-      <integer>15</integer>
-      <key>asterisk</key>
-      <integer>15</integer>
-      <key>asterisk.alt</key>
-      <integer>15</integer>
-      <key>at</key>
-      <integer>20</integer>
-      <key>bullet</key>
-      <integer>5</integer>
-      <key>cent.proportional</key>
-      <integer>25</integer>
-      <key>degree</key>
-      <integer>20</integer>
-      <key>eight.prop</key>
-      <integer>15</integer>
-      <key>five.num</key>
-      <integer>5</integer>
-      <key>five.prop</key>
-      <integer>5</integer>
       <key>four.num</key>
       <integer>10</integer>
-      <key>four.prop</key>
-      <integer>30</integer>
-      <key>greater</key>
-      <integer>10</integer>
-      <key>minus</key>
-      <integer>-5</integer>
-      <key>nine.num</key>
-      <integer>5</integer>
-      <key>nine.prop</key>
-      <integer>-5</integer>
-      <key>numbersign</key>
-      <integer>15</integer>
       <key>one.num</key>
       <integer>10</integer>
-      <key>one.prop</key>
-      <integer>-5</integer>
-      <key>ordfeminine</key>
-      <integer>25</integer>
-      <key>ordmasculine</key>
-      <integer>15</integer>
-      <key>parenright</key>
-      <integer>-10</integer>
-      <key>periodcentered</key>
-      <integer>-5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>40</integer>
-      <key>public.kern2.colon</key>
-      <integer>-10</integer>
-      <key>public.kern2.dashes</key>
-      <integer>-5</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>10</integer>
-      <key>public.kern2.minute</key>
-      <integer>15</integer>
-      <key>public.kern2.percent</key>
-      <integer>15</integer>
-      <key>public.kern2.period</key>
-      <integer>-10</integer>
-      <key>public.kern2.quoteleft</key>
-      <integer>20</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>10</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>15</integer>
-      <key>question</key>
-      <integer>-5</integer>
-      <key>seven.prop</key>
-      <integer>-20</integer>
       <key>three.num</key>
-      <integer>5</integer>
-      <key>three.prop</key>
       <integer>10</integer>
       <key>two.num</key>
-      <integer>5</integer>
-      <key>two.prop</key>
-      <integer>20</integer>
-      <key>zero.num</key>
-      <integer>15</integer>
+      <integer>10</integer>
     </dict>
     <key>eogonek</key>
     <dict>
@@ -2045,15 +2045,15 @@
       <integer>5</integer>
       <key>five.linprop</key>
       <integer>5</integer>
-      <key>five.oldprop</key>
+      <key>five.midprop</key>
       <integer>-10</integer>
-      <key>five.prop</key>
+      <key>five.oldprop</key>
       <integer>-10</integer>
       <key>four.linprop</key>
       <integer>20</integer>
-      <key>four.oldprop</key>
+      <key>four.midprop</key>
       <integer>-5</integer>
-      <key>four.prop</key>
+      <key>four.oldprop</key>
       <integer>-5</integer>
       <key>nine.linprop</key>
       <integer>15</integer>
@@ -2061,7 +2061,7 @@
       <integer>15</integer>
       <key>one.linprop</key>
       <integer>20</integer>
-      <key>one.prop</key>
+      <key>one.midprop</key>
       <integer>10</integer>
       <key>public.kern2.zero.lin</key>
       <integer>10</integer>
@@ -2083,10 +2083,10 @@
       <integer>5</integer>
       <key>two.linprop</key>
       <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>10</integer>
       <key>two.oldprop</key>
       <integer>15</integer>
-      <key>two.prop</key>
-      <integer>10</integer>
     </dict>
     <key>equal.lin</key>
     <dict>
@@ -2157,33 +2157,33 @@
       <integer>-20</integer>
       <key>eight.linprop</key>
       <integer>-30</integer>
+      <key>eight.midprop</key>
+      <integer>-20</integer>
       <key>eight.oldprop</key>
       <integer>-35</integer>
-      <key>eight.prop</key>
-      <integer>-20</integer>
       <key>five.linprop</key>
       <integer>-25</integer>
+      <key>five.midprop</key>
+      <integer>-35</integer>
       <key>five.oldprop</key>
       <integer>-25</integer>
-      <key>five.prop</key>
-      <integer>-35</integer>
       <key>four.linprop</key>
       <integer>-35</integer>
+      <key>four.midprop</key>
+      <integer>-20</integer>
       <key>four.oldprop</key>
       <integer>-5</integer>
-      <key>four.prop</key>
-      <integer>-20</integer>
       <key>nine.linprop</key>
+      <integer>-10</integer>
+      <key>nine.midprop</key>
       <integer>-10</integer>
       <key>nine.oldprop</key>
       <integer>-15</integer>
-      <key>nine.prop</key>
-      <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-30</integer>
-      <key>one.oldprop</key>
+      <key>one.midprop</key>
       <integer>-30</integer>
-      <key>one.prop</key>
+      <key>one.oldprop</key>
       <integer>-30</integer>
       <key>p</key>
       <integer>5</integer>
@@ -2249,28 +2249,28 @@
       <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>-45</integer>
+      <key>seven.midprop</key>
+      <integer>-35</integer>
       <key>seven.oldprop</key>
       <integer>-30</integer>
-      <key>seven.prop</key>
-      <integer>-35</integer>
       <key>six.linprop</key>
       <integer>-25</integer>
+      <key>six.midprop</key>
+      <integer>-15</integer>
       <key>six.oldprop</key>
       <integer>-20</integer>
-      <key>six.prop</key>
-      <integer>-15</integer>
       <key>three.linprop</key>
+      <integer>-20</integer>
+      <key>three.midprop</key>
       <integer>-20</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-20</integer>
       <key>two.linprop</key>
       <integer>-20</integer>
+      <key>two.midprop</key>
+      <integer>-15</integer>
       <key>two.oldprop</key>
       <integer>-5</integer>
-      <key>two.prop</key>
-      <integer>-15</integer>
       <key>x</key>
       <integer>-45</integer>
       <key>y</key>
@@ -2344,13 +2344,6 @@
       <key>two.num</key>
       <integer>10</integer>
       <key>zero.num</key>
-      <integer>10</integer>
-    </dict>
-    <key>five.lin</key>
-    <dict>
-      <key>one.num</key>
-      <integer>10</integer>
-      <key>two.num</key>
       <integer>10</integer>
     </dict>
     <key>five.linprop</key>
@@ -2462,27 +2455,100 @@
       <key>zero.num</key>
       <integer>-10</integer>
     </dict>
+    <key>five.lintab</key>
+    <dict>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>two.num</key>
+      <integer>10</integer>
+    </dict>
+    <key>five.midprop</key>
+    <dict>
+      <key>Euro.proportional</key>
+      <integer>-5</integer>
+      <key>ampersand</key>
+      <integer>5</integer>
+      <key>at</key>
+      <integer>15</integer>
+      <key>bullet</key>
+      <integer>-5</integer>
+      <key>cent.proportional</key>
+      <integer>15</integer>
+      <key>degree</key>
+      <integer>10</integer>
+      <key>eight.midprop</key>
+      <integer>10</integer>
+      <key>eight.num</key>
+      <integer>10</integer>
+      <key>exclam</key>
+      <integer>-5</integer>
+      <key>five.midprop</key>
+      <integer>5</integer>
+      <key>five.num</key>
+      <integer>15</integer>
+      <key>four.midprop</key>
+      <integer>25</integer>
+      <key>four.num</key>
+      <integer>10</integer>
+      <key>less</key>
+      <integer>-10</integer>
+      <key>multiply</key>
+      <integer>-5</integer>
+      <key>nine.midprop</key>
+      <integer>-25</integer>
+      <key>nine.num</key>
+      <integer>10</integer>
+      <key>one.midprop</key>
+      <integer>-5</integer>
+      <key>one.num</key>
+      <integer>20</integer>
+      <key>ordfeminine</key>
+      <integer>5</integer>
+      <key>periodcentered</key>
+      <integer>-10</integer>
+      <key>public.kern2.backslash</key>
+      <integer>10</integer>
+      <key>public.kern2.braceright</key>
+      <integer>5</integer>
+      <key>public.kern2.colon</key>
+      <integer>-5</integer>
+      <key>public.kern2.guillemotright</key>
+      <integer>10</integer>
+      <key>public.kern2.minute</key>
+      <integer>15</integer>
+      <key>public.kern2.period</key>
+      <integer>-15</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>10</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>15</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>15</integer>
+      <key>public.kern2.slash</key>
+      <integer>20</integer>
+      <key>question</key>
+      <integer>-20</integer>
+      <key>seven.midprop</key>
+      <integer>-35</integer>
+      <key>six.midprop</key>
+      <integer>-10</integer>
+      <key>six.num</key>
+      <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>10</integer>
+      <key>three.num</key>
+      <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>15</integer>
+      <key>two.num</key>
+      <integer>15</integer>
+      <key>zero.num</key>
+      <integer>15</integer>
+    </dict>
     <key>five.num</key>
     <dict>
       <key>fraction</key>
       <integer>-125</integer>
-    </dict>
-    <key>five.old</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>10</integer>
-      <key>five.num</key>
-      <integer>10</integer>
-      <key>four.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>20</integer>
-      <key>three.num</key>
-      <integer>10</integer>
-      <key>two.num</key>
-      <integer>10</integer>
-      <key>zero.num</key>
-      <integer>10</integer>
     </dict>
     <key>five.oldprop</key>
     <dict>
@@ -2581,121 +2647,55 @@
       <key>zero.num</key>
       <integer>20</integer>
     </dict>
-    <key>five.prop</key>
+    <key>five.oldtab</key>
     <dict>
-      <key>Euro.proportional</key>
-      <integer>-5</integer>
-      <key>ampersand</key>
-      <integer>5</integer>
-      <key>at</key>
-      <integer>15</integer>
-      <key>bullet</key>
-      <integer>-5</integer>
-      <key>cent.proportional</key>
-      <integer>15</integer>
-      <key>degree</key>
-      <integer>10</integer>
       <key>eight.num</key>
       <integer>10</integer>
-      <key>eight.prop</key>
-      <integer>10</integer>
-      <key>exclam</key>
-      <integer>-5</integer>
       <key>five.num</key>
-      <integer>15</integer>
-      <key>five.prop</key>
-      <integer>5</integer>
+      <integer>10</integer>
       <key>four.num</key>
       <integer>10</integer>
-      <key>four.prop</key>
-      <integer>25</integer>
-      <key>less</key>
-      <integer>-10</integer>
-      <key>multiply</key>
-      <integer>-5</integer>
-      <key>nine.num</key>
-      <integer>10</integer>
-      <key>nine.prop</key>
-      <integer>-25</integer>
       <key>one.num</key>
       <integer>20</integer>
-      <key>one.prop</key>
-      <integer>-5</integer>
-      <key>ordfeminine</key>
-      <integer>5</integer>
-      <key>periodcentered</key>
-      <integer>-10</integer>
-      <key>public.kern2.backslash</key>
-      <integer>10</integer>
-      <key>public.kern2.braceright</key>
-      <integer>5</integer>
-      <key>public.kern2.colon</key>
-      <integer>-5</integer>
-      <key>public.kern2.guillemotright</key>
-      <integer>10</integer>
-      <key>public.kern2.minute</key>
-      <integer>15</integer>
-      <key>public.kern2.period</key>
-      <integer>-15</integer>
-      <key>public.kern2.quoteleft</key>
-      <integer>10</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>15</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>15</integer>
-      <key>public.kern2.slash</key>
-      <integer>20</integer>
-      <key>question</key>
-      <integer>-20</integer>
-      <key>seven.prop</key>
-      <integer>-35</integer>
-      <key>six.num</key>
-      <integer>10</integer>
-      <key>six.prop</key>
-      <integer>-10</integer>
       <key>three.num</key>
       <integer>10</integer>
-      <key>three.prop</key>
-      <integer>10</integer>
       <key>two.num</key>
-      <integer>15</integer>
-      <key>two.prop</key>
-      <integer>15</integer>
+      <integer>10</integer>
       <key>zero.num</key>
-      <integer>15</integer>
+      <integer>10</integer>
     </dict>
     <key>florin.proportional</key>
     <dict>
       <key>eight.linprop</key>
       <integer>10</integer>
-      <key>eight.oldprop</key>
+      <key>eight.midprop</key>
       <integer>5</integer>
-      <key>eight.prop</key>
+      <key>eight.oldprop</key>
       <integer>5</integer>
       <key>five.linprop</key>
       <integer>15</integer>
+      <key>five.midprop</key>
+      <integer>-10</integer>
       <key>five.oldprop</key>
       <integer>-20</integer>
-      <key>five.prop</key>
-      <integer>-10</integer>
       <key>four.linprop</key>
       <integer>-35</integer>
+      <key>four.midprop</key>
+      <integer>-80</integer>
       <key>four.oldprop</key>
       <integer>-110</integer>
-      <key>four.prop</key>
-      <integer>-80</integer>
       <key>nine.linprop</key>
       <integer>30</integer>
+      <key>nine.midprop</key>
+      <integer>-10</integer>
       <key>nine.oldprop</key>
       <integer>-15</integer>
-      <key>nine.prop</key>
-      <integer>-10</integer>
       <key>one.linprop</key>
       <integer>5</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>public.kern2.zero.lin</key>
       <integer>5</integer>
       <key>public.kern2.zero.old</key>
@@ -2706,28 +2706,21 @@
       <integer>30</integer>
       <key>six.linprop</key>
       <integer>-10</integer>
+      <key>six.midprop</key>
+      <integer>-20</integer>
       <key>six.oldprop</key>
       <integer>-5</integer>
-      <key>six.prop</key>
-      <integer>-20</integer>
       <key>three.linprop</key>
       <integer>15</integer>
-      <key>three.oldprop</key>
+      <key>three.midprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
+      <key>three.oldprop</key>
       <integer>-5</integer>
       <key>two.linprop</key>
       <integer>25</integer>
+      <key>two.midprop</key>
+      <integer>10</integer>
       <key>two.oldprop</key>
-      <integer>10</integer>
-      <key>two.prop</key>
-      <integer>10</integer>
-    </dict>
-    <key>four.lin</key>
-    <dict>
-      <key>one.num</key>
-      <integer>10</integer>
-      <key>two.num</key>
       <integer>10</integer>
     </dict>
     <key>four.linprop</key>
@@ -2847,29 +2840,98 @@
       <key>zero.num</key>
       <integer>-10</integer>
     </dict>
+    <key>four.lintab</key>
+    <dict>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>two.num</key>
+      <integer>10</integer>
+    </dict>
+    <key>four.midprop</key>
+    <dict>
+      <key>ampersand</key>
+      <integer>20</integer>
+      <key>at</key>
+      <integer>25</integer>
+      <key>bullet</key>
+      <integer>-5</integer>
+      <key>cent.proportional</key>
+      <integer>30</integer>
+      <key>degree</key>
+      <integer>-5</integer>
+      <key>divide</key>
+      <integer>5</integer>
+      <key>eight.midprop</key>
+      <integer>15</integer>
+      <key>equal</key>
+      <integer>5</integer>
+      <key>five.midprop</key>
+      <integer>20</integer>
+      <key>five.num</key>
+      <integer>5</integer>
+      <key>four.midprop</key>
+      <integer>20</integer>
+      <key>four.num</key>
+      <integer>5</integer>
+      <key>greater</key>
+      <integer>10</integer>
+      <key>less</key>
+      <integer>-5</integer>
+      <key>minus</key>
+      <integer>-5</integer>
+      <key>nine.midprop</key>
+      <integer>5</integer>
+      <key>numbersign</key>
+      <integer>5</integer>
+      <key>one.num</key>
+      <integer>5</integer>
+      <key>ordfeminine</key>
+      <integer>10</integer>
+      <key>ordmasculine</key>
+      <integer>-10</integer>
+      <key>periodcentered</key>
+      <integer>-10</integer>
+      <key>plus</key>
+      <integer>5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>10</integer>
+      <key>public.kern2.braceright</key>
+      <integer>40</integer>
+      <key>public.kern2.colon</key>
+      <integer>10</integer>
+      <key>public.kern2.dashes</key>
+      <integer>-5</integer>
+      <key>public.kern2.guillemotright</key>
+      <integer>15</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>20</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>5</integer>
+      <key>public.kern2.slash</key>
+      <integer>35</integer>
+      <key>public.kern2.zero.prop</key>
+      <integer>15</integer>
+      <key>question</key>
+      <integer>-20</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
+      <key>six.midprop</key>
+      <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>20</integer>
+      <key>three.num</key>
+      <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>25</integer>
+      <key>two.num</key>
+      <integer>10</integer>
+      <key>zero.num</key>
+      <integer>20</integer>
+    </dict>
     <key>four.num</key>
     <dict>
       <key>fraction</key>
       <integer>-90</integer>
-    </dict>
-    <key>four.old</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>10</integer>
-      <key>four.num</key>
-      <integer>10</integer>
-      <key>nine.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>20</integer>
-      <key>seven.num</key>
-      <integer>10</integer>
-      <key>six.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>15</integer>
-      <key>two.num</key>
-      <integer>15</integer>
     </dict>
     <key>four.oldprop</key>
     <dict>
@@ -2962,86 +3024,24 @@
       <key>zero.num</key>
       <integer>25</integer>
     </dict>
-    <key>four.prop</key>
+    <key>four.oldtab</key>
     <dict>
-      <key>ampersand</key>
-      <integer>20</integer>
-      <key>at</key>
-      <integer>25</integer>
-      <key>bullet</key>
-      <integer>-5</integer>
-      <key>cent.proportional</key>
-      <integer>30</integer>
-      <key>degree</key>
-      <integer>-5</integer>
-      <key>divide</key>
-      <integer>5</integer>
-      <key>eight.prop</key>
-      <integer>15</integer>
-      <key>equal</key>
-      <integer>5</integer>
-      <key>five.num</key>
-      <integer>5</integer>
-      <key>five.prop</key>
-      <integer>20</integer>
+      <key>eight.num</key>
+      <integer>10</integer>
       <key>four.num</key>
-      <integer>5</integer>
-      <key>four.prop</key>
-      <integer>20</integer>
-      <key>greater</key>
       <integer>10</integer>
-      <key>less</key>
-      <integer>-5</integer>
-      <key>minus</key>
-      <integer>-5</integer>
-      <key>nine.prop</key>
-      <integer>5</integer>
-      <key>numbersign</key>
-      <integer>5</integer>
+      <key>nine.num</key>
+      <integer>10</integer>
       <key>one.num</key>
-      <integer>5</integer>
-      <key>ordfeminine</key>
-      <integer>10</integer>
-      <key>ordmasculine</key>
-      <integer>-10</integer>
-      <key>periodcentered</key>
-      <integer>-10</integer>
-      <key>plus</key>
-      <integer>5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>10</integer>
-      <key>public.kern2.braceright</key>
-      <integer>40</integer>
-      <key>public.kern2.colon</key>
-      <integer>10</integer>
-      <key>public.kern2.dashes</key>
-      <integer>-5</integer>
-      <key>public.kern2.guillemotright</key>
-      <integer>15</integer>
-      <key>public.kern2.quoteleft</key>
       <integer>20</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>5</integer>
-      <key>public.kern2.slash</key>
-      <integer>35</integer>
-      <key>public.kern2.zero.prop</key>
-      <integer>15</integer>
-      <key>question</key>
-      <integer>-20</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
-      <key>six.prop</key>
+      <key>seven.num</key>
+      <integer>10</integer>
+      <key>six.num</key>
       <integer>10</integer>
       <key>three.num</key>
-      <integer>10</integer>
-      <key>three.prop</key>
-      <integer>20</integer>
+      <integer>15</integer>
       <key>two.num</key>
-      <integer>10</integer>
-      <key>two.prop</key>
-      <integer>25</integer>
-      <key>zero.num</key>
-      <integer>20</integer>
+      <integer>15</integer>
     </dict>
     <key>fraction</key>
     <dict>
@@ -3141,49 +3141,49 @@
     <dict>
       <key>eight.linprop</key>
       <integer>-20</integer>
+      <key>eight.midprop</key>
+      <integer>-15</integer>
       <key>eight.oldprop</key>
       <integer>-20</integer>
-      <key>eight.prop</key>
-      <integer>-15</integer>
       <key>five.linprop</key>
       <integer>-25</integer>
+      <key>five.midprop</key>
+      <integer>-20</integer>
       <key>five.oldprop</key>
       <integer>-40</integer>
-      <key>five.prop</key>
-      <integer>-20</integer>
       <key>four.linprop</key>
       <integer>-20</integer>
-      <key>four.oldprop</key>
+      <key>four.midprop</key>
       <integer>-40</integer>
-      <key>four.prop</key>
+      <key>four.oldprop</key>
       <integer>-40</integer>
       <key>nine.linprop</key>
       <integer>-20</integer>
-      <key>nine.prop</key>
+      <key>nine.midprop</key>
       <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-15</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-25</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>-45</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>three.linprop</key>
+      <integer>-25</integer>
+      <key>three.midprop</key>
       <integer>-25</integer>
       <key>three.oldprop</key>
       <integer>-25</integer>
-      <key>three.prop</key>
-      <integer>-25</integer>
       <key>two.linprop</key>
       <integer>-30</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>-20</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>-20</integer>
     </dict>
     <key>greater.lin</key>
@@ -3422,20 +3422,20 @@
       <integer>15</integer>
       <key>four.linprop</key>
       <integer>-5</integer>
+      <key>four.midprop</key>
+      <integer>-10</integer>
       <key>four.oldprop</key>
       <integer>-5</integer>
-      <key>four.prop</key>
-      <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>-5</integer>
       <key>six.linprop</key>
       <integer>-5</integer>
       <key>three.oldprop</key>
       <integer>5</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
       <key>two.oldprop</key>
       <integer>15</integer>
-      <key>two.prop</key>
-      <integer>5</integer>
     </dict>
     <key>less.lin</key>
     <dict>
@@ -3473,32 +3473,32 @@
     <dict>
       <key>eight.linprop</key>
       <integer>15</integer>
+      <key>eight.midprop</key>
+      <integer>15</integer>
       <key>eight.oldprop</key>
       <integer>10</integer>
-      <key>eight.prop</key>
-      <integer>15</integer>
+      <key>five.midprop</key>
+      <integer>-15</integer>
       <key>five.oldprop</key>
       <integer>5</integer>
-      <key>five.prop</key>
-      <integer>-15</integer>
       <key>four.linprop</key>
+      <integer>10</integer>
+      <key>four.midprop</key>
       <integer>10</integer>
       <key>four.oldprop</key>
       <integer>-30</integer>
-      <key>four.prop</key>
-      <integer>10</integer>
       <key>nine.linprop</key>
       <integer>10</integer>
+      <key>nine.midprop</key>
+      <integer>5</integer>
       <key>nine.oldprop</key>
       <integer>10</integer>
-      <key>nine.prop</key>
-      <integer>5</integer>
       <key>one.linprop</key>
       <integer>-20</integer>
+      <key>one.midprop</key>
+      <integer>-15</integer>
       <key>one.oldprop</key>
       <integer>10</integer>
-      <key>one.prop</key>
-      <integer>-15</integer>
       <key>public.kern2.zero.lin</key>
       <integer>20</integer>
       <key>public.kern2.zero.old</key>
@@ -3507,23 +3507,23 @@
       <integer>20</integer>
       <key>seven.linprop</key>
       <integer>-5</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-5</integer>
       <key>six.linprop</key>
       <integer>10</integer>
-      <key>six.oldprop</key>
+      <key>six.midprop</key>
       <integer>5</integer>
-      <key>six.prop</key>
+      <key>six.oldprop</key>
       <integer>5</integer>
       <key>three.lintab</key>
       <integer>-20</integer>
-      <key>three.prop</key>
+      <key>three.midprop</key>
       <integer>-15</integer>
       <key>two.linprop</key>
       <integer>-10</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>5</integer>
     </dict>
     <key>minus.lin</key>
@@ -3543,16 +3543,16 @@
       <integer>5</integer>
       <key>five.linprop</key>
       <integer>-5</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-20</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.linprop</key>
       <integer>15</integer>
+      <key>four.midprop</key>
+      <integer>-5</integer>
       <key>four.oldprop</key>
       <integer>-25</integer>
-      <key>four.prop</key>
-      <integer>-5</integer>
       <key>nine.oldprop</key>
       <integer>-20</integer>
       <key>one.linprop</key>
@@ -3561,19 +3561,19 @@
       <integer>-15</integer>
       <key>seven.linprop</key>
       <integer>-20</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-5</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>six.oldprop</key>
       <integer>-10</integer>
       <key>three.lintab</key>
       <integer>-5</integer>
       <key>two.linprop</key>
       <integer>-10</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>10</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>10</integer>
     </dict>
     <key>multiply.lin</key>
@@ -3600,25 +3600,6 @@
       <key>three.num</key>
       <integer>20</integer>
       <key>two.num</key>
-      <integer>20</integer>
-    </dict>
-    <key>nine.lin</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>10</integer>
-      <key>four.num</key>
-      <integer>20</integer>
-      <key>nine.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>20</integer>
-      <key>six.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>20</integer>
-      <key>two.num</key>
-      <integer>15</integer>
-      <key>zero.num</key>
       <integer>20</integer>
     </dict>
     <key>nine.linprop</key>
@@ -3736,21 +3717,116 @@
       <key>zero.num</key>
       <integer>10</integer>
     </dict>
+    <key>nine.lintab</key>
+    <dict>
+      <key>eight.num</key>
+      <integer>10</integer>
+      <key>four.num</key>
+      <integer>20</integer>
+      <key>nine.num</key>
+      <integer>10</integer>
+      <key>one.num</key>
+      <integer>20</integer>
+      <key>six.num</key>
+      <integer>10</integer>
+      <key>three.num</key>
+      <integer>20</integer>
+      <key>two.num</key>
+      <integer>15</integer>
+      <key>zero.num</key>
+      <integer>20</integer>
+    </dict>
+    <key>nine.midprop</key>
+    <dict>
+      <key>ampersand</key>
+      <integer>-10</integer>
+      <key>asterisk</key>
+      <integer>-10</integer>
+      <key>asterisk.alt</key>
+      <integer>-10</integer>
+      <key>at</key>
+      <integer>15</integer>
+      <key>cent.proportional</key>
+      <integer>20</integer>
+      <key>degree</key>
+      <integer>-10</integer>
+      <key>eight.num</key>
+      <integer>5</integer>
+      <key>exclam</key>
+      <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>-30</integer>
+      <key>five.num</key>
+      <integer>5</integer>
+      <key>four.midprop</key>
+      <integer>-10</integer>
+      <key>four.num</key>
+      <integer>10</integer>
+      <key>multiply</key>
+      <integer>-5</integer>
+      <key>numbersign</key>
+      <integer>5</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
+      <key>one.num</key>
+      <integer>5</integer>
+      <key>ordfeminine</key>
+      <integer>10</integer>
+      <key>ordmasculine</key>
+      <integer>-15</integer>
+      <key>parenright</key>
+      <integer>-10</integer>
+      <key>periodcentered</key>
+      <integer>5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>-35</integer>
+      <key>public.kern2.braceright</key>
+      <integer>-10</integer>
+      <key>public.kern2.colon</key>
+      <integer>-20</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>10</integer>
+      <key>public.kern2.guillemotright</key>
+      <integer>-5</integer>
+      <key>public.kern2.minute</key>
+      <integer>-20</integer>
+      <key>public.kern2.percent</key>
+      <integer>-20</integer>
+      <key>public.kern2.period</key>
+      <integer>-50</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>-10</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>-20</integer>
+      <key>public.kern2.slash</key>
+      <integer>-35</integer>
+      <key>question</key>
+      <integer>-55</integer>
+      <key>servicemark</key>
+      <integer>-5</integer>
+      <key>seven.midprop</key>
+      <integer>-25</integer>
+      <key>seven.num</key>
+      <integer>-25</integer>
+      <key>six.num</key>
+      <integer>-5</integer>
+      <key>three.midprop</key>
+      <integer>-15</integer>
+      <key>three.num</key>
+      <integer>20</integer>
+      <key>trademark</key>
+      <integer>-25</integer>
+      <key>two.midprop</key>
+      <integer>-5</integer>
+      <key>two.num</key>
+      <integer>20</integer>
+      <key>zero.num</key>
+      <integer>-5</integer>
+    </dict>
     <key>nine.num</key>
     <dict>
       <key>fraction</key>
       <integer>-185</integer>
-    </dict>
-    <key>nine.old</key>
-    <dict>
-      <key>four.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>20</integer>
-      <key>seven.num</key>
-      <integer>-10</integer>
-      <key>two.num</key>
-      <integer>15</integer>
     </dict>
     <key>nine.oldprop</key>
     <dict>
@@ -3829,92 +3905,16 @@
       <key>zero.num</key>
       <integer>-15</integer>
     </dict>
-    <key>nine.prop</key>
+    <key>nine.oldtab</key>
     <dict>
-      <key>ampersand</key>
-      <integer>-10</integer>
-      <key>asterisk</key>
-      <integer>-10</integer>
-      <key>asterisk.alt</key>
-      <integer>-10</integer>
-      <key>at</key>
-      <integer>15</integer>
-      <key>cent.proportional</key>
-      <integer>20</integer>
-      <key>degree</key>
-      <integer>-10</integer>
-      <key>eight.num</key>
-      <integer>5</integer>
-      <key>exclam</key>
-      <integer>-10</integer>
-      <key>five.num</key>
-      <integer>5</integer>
-      <key>five.prop</key>
-      <integer>-30</integer>
       <key>four.num</key>
       <integer>10</integer>
-      <key>four.prop</key>
-      <integer>-10</integer>
-      <key>multiply</key>
-      <integer>-5</integer>
-      <key>numbersign</key>
-      <integer>5</integer>
       <key>one.num</key>
-      <integer>5</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
-      <key>ordfeminine</key>
-      <integer>10</integer>
-      <key>ordmasculine</key>
-      <integer>-15</integer>
-      <key>parenright</key>
-      <integer>-10</integer>
-      <key>periodcentered</key>
-      <integer>5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>-35</integer>
-      <key>public.kern2.braceright</key>
-      <integer>-10</integer>
-      <key>public.kern2.colon</key>
-      <integer>-20</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>10</integer>
-      <key>public.kern2.guillemotright</key>
-      <integer>-5</integer>
-      <key>public.kern2.minute</key>
-      <integer>-20</integer>
-      <key>public.kern2.percent</key>
-      <integer>-20</integer>
-      <key>public.kern2.period</key>
-      <integer>-50</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>-10</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>-20</integer>
-      <key>public.kern2.slash</key>
-      <integer>-35</integer>
-      <key>question</key>
-      <integer>-55</integer>
-      <key>servicemark</key>
-      <integer>-5</integer>
+      <integer>20</integer>
       <key>seven.num</key>
-      <integer>-25</integer>
-      <key>seven.prop</key>
-      <integer>-25</integer>
-      <key>six.num</key>
-      <integer>-5</integer>
-      <key>three.num</key>
-      <integer>20</integer>
-      <key>three.prop</key>
-      <integer>-15</integer>
-      <key>trademark</key>
-      <integer>-25</integer>
+      <integer>-10</integer>
       <key>two.num</key>
-      <integer>20</integer>
-      <key>two.prop</key>
-      <integer>-5</integer>
-      <key>zero.num</key>
-      <integer>-5</integer>
+      <integer>15</integer>
     </dict>
     <key>numbersign</key>
     <dict>
@@ -3930,10 +3930,10 @@
       <integer>-5</integer>
       <key>nine.linprop</key>
       <integer>35</integer>
+      <key>nine.midprop</key>
+      <integer>10</integer>
       <key>nine.oldprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
-      <integer>10</integer>
       <key>one.linprop</key>
       <integer>5</integer>
       <key>one.oldprop</key>
@@ -3994,9 +3994,9 @@
       <integer>5</integer>
       <key>two.linprop</key>
       <integer>20</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>5</integer>
       <key>x</key>
       <integer>-20</integer>
@@ -4144,6 +4144,95 @@
       <key>zero.num</key>
       <integer>-10</integer>
     </dict>
+    <key>one.midprop</key>
+    <dict>
+      <key>Euro.proportional</key>
+      <integer>-30</integer>
+      <key>ampersand</key>
+      <integer>-15</integer>
+      <key>bullet</key>
+      <integer>-10</integer>
+      <key>degree</key>
+      <integer>-25</integer>
+      <key>divide</key>
+      <integer>-15</integer>
+      <key>eight.midprop</key>
+      <integer>-5</integer>
+      <key>eight.num</key>
+      <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>15</integer>
+      <key>five.num</key>
+      <integer>-10</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
+      <key>four.num</key>
+      <integer>-10</integer>
+      <key>less</key>
+      <integer>-35</integer>
+      <key>minus</key>
+      <integer>-15</integer>
+      <key>multiply</key>
+      <integer>-15</integer>
+      <key>nine.num</key>
+      <integer>-10</integer>
+      <key>one.num</key>
+      <integer>-25</integer>
+      <key>ordmasculine</key>
+      <integer>-10</integer>
+      <key>parenright</key>
+      <integer>-5</integer>
+      <key>periodcentered</key>
+      <integer>-15</integer>
+      <key>plus</key>
+      <integer>-5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>-5</integer>
+      <key>public.kern2.colon</key>
+      <integer>-5</integer>
+      <key>public.kern2.dashes</key>
+      <integer>-15</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>-30</integer>
+      <key>public.kern2.minute</key>
+      <integer>-10</integer>
+      <key>public.kern2.period</key>
+      <integer>-5</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>-5</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>-10</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>-10</integer>
+      <key>public.kern2.slash</key>
+      <integer>35</integer>
+      <key>public.kern2.zero.prop</key>
+      <integer>-10</integer>
+      <key>question</key>
+      <integer>-20</integer>
+      <key>servicemark</key>
+      <integer>-20</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
+      <key>seven.num</key>
+      <integer>-15</integer>
+      <key>six.midprop</key>
+      <integer>-5</integer>
+      <key>six.num</key>
+      <integer>-10</integer>
+      <key>three.midprop</key>
+      <integer>15</integer>
+      <key>three.num</key>
+      <integer>-10</integer>
+      <key>trademark</key>
+      <integer>-20</integer>
+      <key>two.midprop</key>
+      <integer>35</integer>
+      <key>two.num</key>
+      <integer>-10</integer>
+      <key>zero.num</key>
+      <integer>-10</integer>
+    </dict>
     <key>one.num</key>
     <dict>
       <key>fraction</key>
@@ -4252,95 +4341,6 @@
       <key>zero.num</key>
       <integer>10</integer>
     </dict>
-    <key>one.prop</key>
-    <dict>
-      <key>Euro.proportional</key>
-      <integer>-30</integer>
-      <key>ampersand</key>
-      <integer>-15</integer>
-      <key>bullet</key>
-      <integer>-10</integer>
-      <key>degree</key>
-      <integer>-25</integer>
-      <key>divide</key>
-      <integer>-15</integer>
-      <key>eight.num</key>
-      <integer>-10</integer>
-      <key>eight.prop</key>
-      <integer>-5</integer>
-      <key>five.num</key>
-      <integer>-10</integer>
-      <key>five.prop</key>
-      <integer>15</integer>
-      <key>four.num</key>
-      <integer>-10</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
-      <key>less</key>
-      <integer>-35</integer>
-      <key>minus</key>
-      <integer>-15</integer>
-      <key>multiply</key>
-      <integer>-15</integer>
-      <key>nine.num</key>
-      <integer>-10</integer>
-      <key>one.num</key>
-      <integer>-25</integer>
-      <key>ordmasculine</key>
-      <integer>-10</integer>
-      <key>parenright</key>
-      <integer>-5</integer>
-      <key>periodcentered</key>
-      <integer>-15</integer>
-      <key>plus</key>
-      <integer>-5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>-5</integer>
-      <key>public.kern2.colon</key>
-      <integer>-5</integer>
-      <key>public.kern2.dashes</key>
-      <integer>-15</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>-30</integer>
-      <key>public.kern2.minute</key>
-      <integer>-10</integer>
-      <key>public.kern2.period</key>
-      <integer>-5</integer>
-      <key>public.kern2.quoteleft</key>
-      <integer>-5</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>-10</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>-10</integer>
-      <key>public.kern2.slash</key>
-      <integer>35</integer>
-      <key>public.kern2.zero.prop</key>
-      <integer>-10</integer>
-      <key>question</key>
-      <integer>-20</integer>
-      <key>servicemark</key>
-      <integer>-20</integer>
-      <key>seven.num</key>
-      <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
-      <key>six.num</key>
-      <integer>-10</integer>
-      <key>six.prop</key>
-      <integer>-5</integer>
-      <key>three.num</key>
-      <integer>-10</integer>
-      <key>three.prop</key>
-      <integer>15</integer>
-      <key>trademark</key>
-      <integer>-20</integer>
-      <key>two.num</key>
-      <integer>-10</integer>
-      <key>two.prop</key>
-      <integer>35</integer>
-      <key>zero.num</key>
-      <integer>-10</integer>
-    </dict>
     <key>oslash</key>
     <dict>
       <key>public.kern2.f</key>
@@ -4381,18 +4381,18 @@
       <integer>40</integer>
       <key>eight.linprop</key>
       <integer>-5</integer>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-15</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.linprop</key>
       <integer>-35</integer>
+      <key>four.midprop</key>
+      <integer>-10</integer>
       <key>four.oldprop</key>
       <integer>-5</integer>
-      <key>four.prop</key>
-      <integer>-10</integer>
       <key>ibreve</key>
       <integer>30</integer>
       <key>icaron</key>
@@ -4419,10 +4419,10 @@
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-15</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-25</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>p</key>
       <integer>40</integer>
       <key>public.kern2.A</key>
@@ -4473,22 +4473,22 @@
       <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>5</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
       <key>seven.oldprop</key>
       <integer>5</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
       <key>six.linprop</key>
       <integer>-30</integer>
-      <key>six.oldprop</key>
+      <key>six.midprop</key>
       <integer>-10</integer>
-      <key>six.prop</key>
+      <key>six.oldprop</key>
       <integer>-10</integer>
       <key>thorn</key>
       <integer>50</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
       <key>two.linprop</key>
       <integer>5</integer>
       <key>two.oldprop</key>
@@ -4563,30 +4563,30 @@
     </dict>
     <key>periodcentered</key>
     <dict>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>5</integer>
       <key>five.linprop</key>
       <integer>10</integer>
+      <key>five.midprop</key>
+      <integer>-40</integer>
       <key>five.oldprop</key>
       <integer>-15</integer>
-      <key>five.prop</key>
-      <integer>-40</integer>
       <key>four.linprop</key>
       <integer>15</integer>
+      <key>four.midprop</key>
+      <integer>-15</integer>
       <key>four.oldprop</key>
       <integer>-35</integer>
-      <key>four.prop</key>
-      <integer>-15</integer>
       <key>nine.linprop</key>
       <integer>-10</integer>
-      <key>nine.prop</key>
+      <key>nine.midprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-15</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>public.kern2.zero.lin</key>
       <integer>10</integer>
       <key>public.kern2.zero.old</key>
@@ -4595,19 +4595,19 @@
       <integer>10</integer>
       <key>seven.linprop</key>
       <integer>-20</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-5</integer>
       <key>six.linprop</key>
       <integer>5</integer>
       <key>six.oldprop</key>
       <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>-5</integer>
       <key>three.oldprop</key>
       <integer>-10</integer>
-      <key>three.prop</key>
+      <key>two.midprop</key>
       <integer>-5</integer>
       <key>two.oldprop</key>
-      <integer>-5</integer>
-      <key>two.prop</key>
       <integer>-5</integer>
     </dict>
     <key>plus</key>
@@ -4618,24 +4618,24 @@
       <integer>-55</integer>
       <key>X</key>
       <integer>-35</integer>
-      <key>five.prop</key>
+      <key>five.midprop</key>
       <integer>-5</integer>
       <key>four.linprop</key>
       <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>-30</integer>
       <key>four.oldprop</key>
       <integer>-10</integer>
-      <key>four.prop</key>
-      <integer>-30</integer>
       <key>nine.linprop</key>
       <integer>-15</integer>
-      <key>nine.prop</key>
+      <key>nine.midprop</key>
       <integer>-5</integer>
       <key>one.linprop</key>
       <integer>-40</integer>
+      <key>one.midprop</key>
+      <integer>-25</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>-25</integer>
       <key>p</key>
       <integer>-5</integer>
       <key>public.kern2.A</key>
@@ -4682,15 +4682,15 @@
       <integer>-20</integer>
       <key>seven.linprop</key>
       <integer>-40</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-20</integer>
+      <key>three.midprop</key>
+      <integer>-5</integer>
       <key>three.oldprop</key>
       <integer>5</integer>
-      <key>three.prop</key>
-      <integer>-5</integer>
       <key>two.linprop</key>
       <integer>-5</integer>
-      <key>two.prop</key>
+      <key>two.midprop</key>
       <integer>-5</integer>
       <key>x</key>
       <integer>-65</integer>
@@ -7571,32 +7571,32 @@
       <integer>30</integer>
       <key>eight.linprop</key>
       <integer>-30</integer>
+      <key>eight.midprop</key>
+      <integer>-30</integer>
       <key>eight.oldprop</key>
       <integer>-45</integer>
-      <key>eight.prop</key>
-      <integer>-30</integer>
       <key>five.linprop</key>
       <integer>-30</integer>
+      <key>five.midprop</key>
+      <integer>5</integer>
       <key>five.oldprop</key>
       <integer>25</integer>
-      <key>five.prop</key>
-      <integer>5</integer>
       <key>four.linprop</key>
       <integer>-40</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
       <key>four.oldprop</key>
       <integer>35</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
       <key>nine.linprop</key>
       <integer>-5</integer>
+      <key>nine.midprop</key>
+      <integer>15</integer>
       <key>nine.oldprop</key>
       <integer>30</integer>
-      <key>nine.prop</key>
-      <integer>15</integer>
+      <key>one.midprop</key>
+      <integer>-15</integer>
       <key>one.oldprop</key>
       <integer>-10</integer>
-      <key>one.prop</key>
-      <integer>-15</integer>
       <key>p</key>
       <integer>105</integer>
       <key>public.kern2.A</key>
@@ -7655,16 +7655,16 @@
       <integer>-60</integer>
       <key>seven.linprop</key>
       <integer>-80</integer>
+      <key>seven.midprop</key>
+      <integer>-40</integer>
       <key>seven.oldprop</key>
       <integer>-5</integer>
-      <key>seven.prop</key>
-      <integer>-40</integer>
       <key>six.linprop</key>
       <integer>-55</integer>
+      <key>six.midprop</key>
+      <integer>-65</integer>
       <key>six.oldprop</key>
       <integer>-45</integer>
-      <key>six.prop</key>
-      <integer>-65</integer>
       <key>thorn</key>
       <integer>85</integer>
       <key>three.lintab</key>
@@ -7673,10 +7673,10 @@
       <integer>20</integer>
       <key>two.linprop</key>
       <integer>20</integer>
+      <key>two.midprop</key>
+      <integer>10</integer>
       <key>two.oldprop</key>
       <integer>25</integer>
-      <key>two.prop</key>
-      <integer>10</integer>
       <key>x</key>
       <integer>-10</integer>
       <key>y</key>
@@ -7690,10 +7690,10 @@
       <integer>30</integer>
       <key>X</key>
       <integer>30</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-10</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.linprop</key>
       <integer>5</integer>
       <key>icaron</key>
@@ -7702,10 +7702,10 @@
       <integer>70</integer>
       <key>igrave</key>
       <integer>40</integer>
+      <key>one.midprop</key>
+      <integer>-5</integer>
       <key>one.oldprop</key>
       <integer>-10</integer>
-      <key>one.prop</key>
-      <integer>-5</integer>
       <key>p</key>
       <integer>15</integer>
       <key>public.kern2.A</key>
@@ -7919,29 +7919,29 @@
       <integer>-25</integer>
       <key>eight.linprop</key>
       <integer>5</integer>
-      <key>eight.prop</key>
+      <key>eight.midprop</key>
       <integer>10</integer>
       <key>five.linprop</key>
       <integer>-5</integer>
+      <key>five.midprop</key>
+      <integer>-15</integer>
       <key>five.oldprop</key>
       <integer>-25</integer>
-      <key>five.prop</key>
-      <integer>-15</integer>
       <key>four.linprop</key>
       <integer>20</integer>
       <key>four.oldprop</key>
       <integer>-25</integer>
       <key>nine.linprop</key>
       <integer>-5</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-10</integer>
-      <key>one.oldprop</key>
+      <key>one.midprop</key>
       <integer>-10</integer>
-      <key>one.prop</key>
+      <key>one.oldprop</key>
       <integer>-10</integer>
       <key>public.kern2.A</key>
       <integer>-20</integer>
@@ -7989,23 +7989,23 @@
       <integer>20</integer>
       <key>seven.linprop</key>
       <integer>-40</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-20</integer>
       <key>six.linprop</key>
       <integer>10</integer>
+      <key>six.midprop</key>
+      <integer>10</integer>
       <key>six.oldprop</key>
       <integer>10</integer>
-      <key>six.prop</key>
-      <integer>10</integer>
-      <key>three.oldprop</key>
+      <key>three.midprop</key>
       <integer>-10</integer>
-      <key>three.prop</key>
+      <key>three.oldprop</key>
       <integer>-10</integer>
       <key>two.linprop</key>
       <integer>-5</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>5</integer>
       <key>x</key>
       <integer>-60</integer>
@@ -8022,23 +8022,23 @@
       <integer>30</integer>
       <key>five.linprop</key>
       <integer>25</integer>
+      <key>five.midprop</key>
+      <integer>15</integer>
       <key>five.oldprop</key>
       <integer>5</integer>
-      <key>five.prop</key>
-      <integer>15</integer>
       <key>four.linprop</key>
       <integer>30</integer>
+      <key>four.midprop</key>
+      <integer>10</integer>
       <key>four.oldprop</key>
       <integer>25</integer>
-      <key>four.prop</key>
-      <integer>10</integer>
       <key>lslash</key>
       <integer>0</integer>
       <key>nine.linprop</key>
       <integer>20</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>25</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>25</integer>
       <key>one.linprop</key>
       <integer>20</integer>
@@ -8092,28 +8092,28 @@
       <integer>20</integer>
       <key>seven.linprop</key>
       <integer>10</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
       <key>seven.oldprop</key>
       <integer>5</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
       <key>six.linprop</key>
       <integer>25</integer>
-      <key>six.oldprop</key>
+      <key>six.midprop</key>
       <integer>15</integer>
-      <key>six.prop</key>
+      <key>six.oldprop</key>
       <integer>15</integer>
       <key>three.lintab</key>
       <integer>20</integer>
+      <key>three.midprop</key>
+      <integer>5</integer>
       <key>three.oldprop</key>
       <integer>15</integer>
-      <key>three.prop</key>
-      <integer>5</integer>
       <key>two.linprop</key>
       <integer>35</integer>
+      <key>two.midprop</key>
+      <integer>15</integer>
       <key>two.oldprop</key>
       <integer>25</integer>
-      <key>two.prop</key>
-      <integer>15</integer>
       <key>x</key>
       <integer>-40</integer>
     </dict>
@@ -8127,25 +8127,25 @@
       <integer>-20</integer>
       <key>eight.linprop</key>
       <integer>25</integer>
+      <key>eight.midprop</key>
+      <integer>10</integer>
       <key>eight.oldprop</key>
       <integer>25</integer>
-      <key>eight.prop</key>
-      <integer>10</integer>
       <key>five.linprop</key>
       <integer>5</integer>
-      <key>five.prop</key>
+      <key>five.midprop</key>
       <integer>-15</integer>
       <key>four.linprop</key>
       <integer>30</integer>
-      <key>four.prop</key>
+      <key>four.midprop</key>
       <integer>10</integer>
       <key>nine.linprop</key>
       <integer>10</integer>
+      <key>nine.midprop</key>
+      <integer>5</integer>
       <key>nine.oldprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
-      <integer>5</integer>
-      <key>one.prop</key>
+      <key>one.midprop</key>
       <integer>-15</integer>
       <key>public.kern2.A</key>
       <integer>-20</integer>
@@ -8187,16 +8187,16 @@
       <integer>10</integer>
       <key>public.kern2.zero.prop</key>
       <integer>20</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>5</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>six.linprop</key>
       <integer>30</integer>
+      <key>six.midprop</key>
+      <integer>5</integer>
       <key>six.oldprop</key>
       <integer>10</integer>
-      <key>six.prop</key>
-      <integer>5</integer>
       <key>three.lintab</key>
       <integer>15</integer>
       <key>three.oldprop</key>
@@ -8350,22 +8350,22 @@
     <dict>
       <key>eight.linprop</key>
       <integer>5</integer>
-      <key>eight.oldprop</key>
+      <key>eight.midprop</key>
       <integer>5</integer>
-      <key>eight.prop</key>
+      <key>eight.oldprop</key>
       <integer>5</integer>
       <key>five.linprop</key>
       <integer>5</integer>
-      <key>five.oldprop</key>
+      <key>five.midprop</key>
       <integer>-10</integer>
-      <key>five.prop</key>
+      <key>five.oldprop</key>
       <integer>-10</integer>
       <key>four.linprop</key>
       <integer>20</integer>
+      <key>four.midprop</key>
+      <integer>10</integer>
       <key>four.oldprop</key>
       <integer>-10</integer>
-      <key>four.prop</key>
-      <integer>10</integer>
       <key>nine.oldprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
@@ -8376,20 +8376,20 @@
       <integer>5</integer>
       <key>seven.linprop</key>
       <integer>-15</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-10</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
+      <key>six.midprop</key>
+      <integer>5</integer>
       <key>six.oldprop</key>
       <integer>10</integer>
-      <key>six.prop</key>
-      <integer>5</integer>
       <key>three.lintab</key>
       <integer>20</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
       <key>two.linprop</key>
       <integer>5</integer>
       <key>two.oldprop</key>
@@ -9397,35 +9397,35 @@
       <integer>-40</integer>
       <key>X</key>
       <integer>30</integer>
+      <key>eight.midprop</key>
+      <integer>5</integer>
       <key>eight.oldprop</key>
       <integer>-5</integer>
-      <key>eight.prop</key>
-      <integer>5</integer>
       <key>exclam</key>
       <integer>5</integer>
       <key>exclamdown</key>
       <integer>20</integer>
       <key>five.linprop</key>
       <integer>25</integer>
+      <key>five.midprop</key>
+      <integer>10</integer>
       <key>five.oldprop</key>
       <integer>5</integer>
-      <key>five.prop</key>
-      <integer>10</integer>
       <key>four.linprop</key>
       <integer>15</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
       <key>four.oldprop</key>
       <integer>15</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
       <key>nine.linprop</key>
       <integer>25</integer>
+      <key>nine.midprop</key>
+      <integer>20</integer>
       <key>nine.oldprop</key>
       <integer>15</integer>
-      <key>nine.prop</key>
-      <integer>20</integer>
       <key>one.linprop</key>
       <integer>5</integer>
-      <key>one.prop</key>
+      <key>one.midprop</key>
       <integer>20</integer>
       <key>p</key>
       <integer>15</integer>
@@ -9493,21 +9493,21 @@
       <integer>5</integer>
       <key>six.linprop</key>
       <integer>10</integer>
+      <key>six.midprop</key>
+      <integer>15</integer>
       <key>six.oldprop</key>
       <integer>5</integer>
-      <key>six.prop</key>
-      <integer>15</integer>
       <key>three.lintab</key>
       <integer>25</integer>
+      <key>three.midprop</key>
+      <integer>20</integer>
       <key>three.oldprop</key>
       <integer>15</integer>
-      <key>three.prop</key>
-      <integer>20</integer>
       <key>two.linprop</key>
       <integer>35</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>30</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>30</integer>
       <key>x</key>
       <integer>-20</integer>
@@ -9567,22 +9567,22 @@
       <integer>-10</integer>
       <key>eight.linprop</key>
       <integer>30</integer>
-      <key>eight.oldprop</key>
+      <key>eight.midprop</key>
       <integer>25</integer>
-      <key>eight.prop</key>
+      <key>eight.oldprop</key>
       <integer>25</integer>
       <key>five.linprop</key>
       <integer>25</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-15</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.linprop</key>
       <integer>35</integer>
+      <key>four.midprop</key>
+      <integer>25</integer>
       <key>four.oldprop</key>
       <integer>-10</integer>
-      <key>four.prop</key>
-      <integer>25</integer>
       <key>lslash</key>
       <integer>15</integer>
       <key>nine.linprop</key>
@@ -9591,7 +9591,7 @@
       <integer>15</integer>
       <key>one.linprop</key>
       <integer>-20</integer>
-      <key>one.prop</key>
+      <key>one.midprop</key>
       <integer>-5</integer>
       <key>p</key>
       <integer>5</integer>
@@ -9663,13 +9663,13 @@
       <integer>-70</integer>
       <key>seven.linprop</key>
       <integer>-30</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-10</integer>
       <key>six.linprop</key>
       <integer>15</integer>
-      <key>six.oldprop</key>
+      <key>six.midprop</key>
       <integer>15</integer>
-      <key>six.prop</key>
+      <key>six.oldprop</key>
       <integer>15</integer>
       <key>tbar</key>
       <integer>15</integer>
@@ -9677,14 +9677,14 @@
       <integer>5</integer>
       <key>three.lintab</key>
       <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
       <key>three.oldprop</key>
       <integer>-5</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
       <key>two.oldprop</key>
       <integer>-5</integer>
-      <key>two.prop</key>
-      <integer>5</integer>
       <key>x</key>
       <integer>-50</integer>
     </dict>
@@ -10027,32 +10027,32 @@
     <dict>
       <key>eight.linprop</key>
       <integer>-30</integer>
+      <key>eight.midprop</key>
+      <integer>-15</integer>
       <key>eight.oldprop</key>
       <integer>-30</integer>
-      <key>eight.prop</key>
-      <integer>-15</integer>
+      <key>five.midprop</key>
+      <integer>-55</integer>
       <key>five.oldprop</key>
       <integer>-45</integer>
-      <key>five.prop</key>
-      <integer>-55</integer>
       <key>four.linprop</key>
       <integer>-30</integer>
+      <key>four.midprop</key>
+      <integer>-60</integer>
       <key>four.oldprop</key>
       <integer>-45</integer>
-      <key>four.prop</key>
-      <integer>-60</integer>
       <key>nine.linprop</key>
       <integer>5</integer>
+      <key>nine.midprop</key>
+      <integer>-10</integer>
       <key>nine.oldprop</key>
       <integer>-45</integer>
-      <key>nine.prop</key>
-      <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-20</integer>
       <key>one.oldprop</key>
       <integer>-45</integer>
-      <key>one.prop</key>
-      <integer>-20</integer>
       <key>public.kern2.zero.lin</key>
       <integer>-20</integer>
       <key>public.kern2.zero.old</key>
@@ -10061,28 +10061,28 @@
       <integer>-40</integer>
       <key>seven.linprop</key>
       <integer>-25</integer>
-      <key>seven.oldprop</key>
+      <key>seven.midprop</key>
       <integer>-25</integer>
-      <key>seven.prop</key>
+      <key>seven.oldprop</key>
       <integer>-25</integer>
       <key>six.linprop</key>
       <integer>-30</integer>
+      <key>six.midprop</key>
+      <integer>-40</integer>
       <key>six.oldprop</key>
       <integer>-15</integer>
-      <key>six.prop</key>
-      <integer>-40</integer>
       <key>three.lintab</key>
       <integer>-5</integer>
-      <key>three.oldprop</key>
+      <key>three.midprop</key>
       <integer>-30</integer>
-      <key>three.prop</key>
+      <key>three.oldprop</key>
       <integer>-30</integer>
       <key>two.linprop</key>
       <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>-20</integer>
       <key>two.oldprop</key>
       <integer>-15</integer>
-      <key>two.prop</key>
-      <integer>-20</integer>
     </dict>
     <key>public.kern1.n</key>
     <dict>
@@ -10283,34 +10283,34 @@
       <integer>70</integer>
       <key>eight.linprop</key>
       <integer>40</integer>
+      <key>eight.midprop</key>
+      <integer>20</integer>
       <key>eight.oldprop</key>
       <integer>10</integer>
-      <key>eight.prop</key>
-      <integer>20</integer>
       <key>five.linprop</key>
       <integer>55</integer>
-      <key>five.oldprop</key>
+      <key>five.midprop</key>
       <integer>45</integer>
-      <key>five.prop</key>
+      <key>five.oldprop</key>
       <integer>45</integer>
       <key>four.linprop</key>
       <integer>40</integer>
+      <key>four.midprop</key>
+      <integer>60</integer>
       <key>four.oldprop</key>
       <integer>50</integer>
-      <key>four.prop</key>
-      <integer>60</integer>
       <key>nine.linprop</key>
       <integer>25</integer>
+      <key>nine.midprop</key>
+      <integer>15</integer>
       <key>nine.oldprop</key>
       <integer>-5</integer>
-      <key>nine.prop</key>
-      <integer>15</integer>
       <key>one.linprop</key>
       <integer>30</integer>
+      <key>one.midprop</key>
+      <integer>20</integer>
       <key>one.oldprop</key>
       <integer>10</integer>
-      <key>one.prop</key>
-      <integer>20</integer>
       <key>p</key>
       <integer>25</integer>
       <key>public.kern2.A</key>
@@ -10377,7 +10377,7 @@
       <integer>-10</integer>
       <key>seven.linprop</key>
       <integer>-20</integer>
-      <key>seven.prop</key>
+      <key>seven.midprop</key>
       <integer>-30</integer>
       <key>six.linprop</key>
       <integer>10</integer>
@@ -10387,15 +10387,15 @@
       <integer>25</integer>
       <key>three.lintab</key>
       <integer>50</integer>
+      <key>three.midprop</key>
+      <integer>35</integer>
       <key>three.oldprop</key>
       <integer>45</integer>
-      <key>three.prop</key>
-      <integer>35</integer>
       <key>two.linprop</key>
       <integer>60</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>55</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>55</integer>
       <key>x</key>
       <integer>5</integer>
@@ -10412,22 +10412,22 @@
       <integer>40</integer>
       <key>eight.linprop</key>
       <integer>-20</integer>
+      <key>eight.midprop</key>
+      <integer>-10</integer>
       <key>eight.oldprop</key>
       <integer>-10</integer>
-      <key>eight.prop</key>
-      <integer>-10</integer>
-      <key>five.prop</key>
+      <key>five.midprop</key>
       <integer>15</integer>
       <key>four.linprop</key>
       <integer>-20</integer>
+      <key>four.midprop</key>
+      <integer>35</integer>
       <key>four.oldprop</key>
       <integer>45</integer>
-      <key>four.prop</key>
-      <integer>35</integer>
+      <key>nine.midprop</key>
+      <integer>-30</integer>
       <key>nine.oldprop</key>
       <integer>-15</integer>
-      <key>nine.prop</key>
-      <integer>-30</integer>
       <key>p</key>
       <integer>20</integer>
       <key>public.kern2.A</key>
@@ -10482,28 +10482,28 @@
       <integer>-20</integer>
       <key>seven.linprop</key>
       <integer>-70</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-35</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>six.linprop</key>
       <integer>-30</integer>
+      <key>six.midprop</key>
+      <integer>-35</integer>
       <key>six.oldprop</key>
       <integer>-30</integer>
-      <key>six.prop</key>
-      <integer>-35</integer>
       <key>thorn</key>
+      <integer>20</integer>
+      <key>three.midprop</key>
       <integer>20</integer>
       <key>three.oldprop</key>
       <integer>15</integer>
-      <key>three.prop</key>
-      <integer>20</integer>
       <key>two.linprop</key>
       <integer>30</integer>
+      <key>two.midprop</key>
+      <integer>25</integer>
       <key>two.oldprop</key>
       <integer>30</integer>
-      <key>two.prop</key>
-      <integer>25</integer>
       <key>x</key>
       <integer>10</integer>
       <key>y</key>
@@ -10519,10 +10519,10 @@
       <integer>-20</integer>
       <key>eight.linprop</key>
       <integer>-10</integer>
+      <key>eight.midprop</key>
+      <integer>-10</integer>
       <key>eight.oldprop</key>
       <integer>-5</integer>
-      <key>eight.prop</key>
-      <integer>-10</integer>
       <key>exclam</key>
       <integer>-35</integer>
       <key>exclamdown</key>
@@ -10531,16 +10531,16 @@
       <integer>-30</integer>
       <key>five.linprop</key>
       <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>-25</integer>
       <key>five.oldprop</key>
       <integer>-20</integer>
-      <key>five.prop</key>
-      <integer>-25</integer>
       <key>four.linprop</key>
       <integer>-50</integer>
+      <key>four.midprop</key>
+      <integer>-80</integer>
       <key>four.oldprop</key>
       <integer>-95</integer>
-      <key>four.prop</key>
-      <integer>-80</integer>
       <key>icircumflex</key>
       <integer>15</integer>
       <key>idblgrave</key>
@@ -10555,9 +10555,9 @@
       <integer>15</integer>
       <key>nine.linprop</key>
       <integer>20</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>5</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>5</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
@@ -10631,10 +10631,10 @@
       <integer>5</integer>
       <key>six.linprop</key>
       <integer>-10</integer>
+      <key>six.midprop</key>
+      <integer>10</integer>
       <key>six.oldprop</key>
       <integer>-5</integer>
-      <key>six.prop</key>
-      <integer>10</integer>
       <key>thorn</key>
       <integer>10</integer>
       <key>three.oldprop</key>
@@ -10654,10 +10654,10 @@
       <integer>-10</integer>
       <key>eight.linprop</key>
       <integer>-10</integer>
+      <key>eight.midprop</key>
+      <integer>-15</integer>
       <key>eight.oldprop</key>
       <integer>-5</integer>
-      <key>eight.prop</key>
-      <integer>-15</integer>
       <key>exclam</key>
       <integer>-15</integer>
       <key>exclamdown</key>
@@ -10666,16 +10666,16 @@
       <integer>-25</integer>
       <key>five.linprop</key>
       <integer>-5</integer>
+      <key>five.midprop</key>
+      <integer>-25</integer>
       <key>five.oldprop</key>
       <integer>-15</integer>
-      <key>five.prop</key>
-      <integer>-25</integer>
       <key>four.linprop</key>
       <integer>-70</integer>
+      <key>four.midprop</key>
+      <integer>-90</integer>
       <key>four.oldprop</key>
       <integer>-100</integer>
-      <key>four.prop</key>
-      <integer>-90</integer>
       <key>hbar</key>
       <integer>20</integer>
       <key>icircumflex</key>
@@ -10700,10 +10700,10 @@
       <integer>-5</integer>
       <key>one.linprop</key>
       <integer>5</integer>
+      <key>one.midprop</key>
+      <integer>-5</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>-5</integer>
       <key>p</key>
       <integer>10</integer>
       <key>parenright</key>
@@ -10774,27 +10774,27 @@
       <integer>-75</integer>
       <key>seven.linprop</key>
       <integer>-5</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
       <key>seven.oldprop</key>
       <integer>5</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
       <key>six.linprop</key>
+      <integer>-20</integer>
+      <key>six.midprop</key>
       <integer>-20</integer>
       <key>six.oldprop</key>
       <integer>-10</integer>
-      <key>six.prop</key>
-      <integer>-20</integer>
       <key>thorn</key>
       <integer>10</integer>
       <key>three.lintab</key>
       <integer>5</integer>
-      <key>three.prop</key>
+      <key>three.midprop</key>
       <integer>-5</integer>
       <key>two.linprop</key>
       <integer>25</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>5</integer>
       <key>x</key>
       <integer>-45</integer>
@@ -10809,38 +10809,38 @@
       <integer>-30</integer>
       <key>eight.linprop</key>
       <integer>-30</integer>
+      <key>eight.midprop</key>
+      <integer>-15</integer>
       <key>eight.oldprop</key>
       <integer>-30</integer>
-      <key>eight.prop</key>
-      <integer>-15</integer>
       <key>exclam</key>
       <integer>-20</integer>
       <key>exclamdown</key>
       <integer>-55</integer>
       <key>exclamdown.uc</key>
       <integer>-35</integer>
+      <key>five.midprop</key>
+      <integer>-55</integer>
       <key>five.oldprop</key>
       <integer>-45</integer>
-      <key>five.prop</key>
-      <integer>-55</integer>
       <key>four.linprop</key>
       <integer>-30</integer>
+      <key>four.midprop</key>
+      <integer>-60</integer>
       <key>four.oldprop</key>
       <integer>-45</integer>
-      <key>four.prop</key>
-      <integer>-60</integer>
       <key>nine.linprop</key>
       <integer>5</integer>
+      <key>nine.midprop</key>
+      <integer>-10</integer>
       <key>nine.oldprop</key>
       <integer>-45</integer>
-      <key>nine.prop</key>
-      <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-20</integer>
       <key>one.oldprop</key>
       <integer>-45</integer>
-      <key>one.prop</key>
-      <integer>-20</integer>
       <key>p</key>
       <integer>-5</integer>
       <key>parenright.uc</key>
@@ -10907,30 +10907,30 @@
       <integer>-130</integer>
       <key>seven.linprop</key>
       <integer>-25</integer>
-      <key>seven.oldprop</key>
+      <key>seven.midprop</key>
       <integer>-25</integer>
-      <key>seven.prop</key>
+      <key>seven.oldprop</key>
       <integer>-25</integer>
       <key>six.linprop</key>
       <integer>-30</integer>
+      <key>six.midprop</key>
+      <integer>-40</integer>
       <key>six.oldprop</key>
       <integer>-15</integer>
-      <key>six.prop</key>
-      <integer>-40</integer>
       <key>thorn</key>
       <integer>5</integer>
       <key>three.lintab</key>
       <integer>-5</integer>
-      <key>three.oldprop</key>
+      <key>three.midprop</key>
       <integer>-30</integer>
-      <key>three.prop</key>
+      <key>three.oldprop</key>
       <integer>-30</integer>
       <key>two.linprop</key>
       <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>-20</integer>
       <key>two.oldprop</key>
       <integer>-15</integer>
-      <key>two.prop</key>
-      <integer>-20</integer>
       <key>x</key>
       <integer>-60</integer>
     </dict>
@@ -11088,34 +11088,34 @@
       <integer>40</integer>
       <key>eight.linprop</key>
       <integer>15</integer>
-      <key>eight.oldprop</key>
+      <key>eight.midprop</key>
       <integer>10</integer>
-      <key>eight.prop</key>
+      <key>eight.oldprop</key>
       <integer>10</integer>
       <key>five.linprop</key>
       <integer>10</integer>
+      <key>five.midprop</key>
+      <integer>-10</integer>
       <key>five.oldprop</key>
       <integer>-50</integer>
-      <key>five.prop</key>
-      <integer>-10</integer>
       <key>four.linprop</key>
       <integer>-30</integer>
+      <key>four.midprop</key>
+      <integer>-55</integer>
       <key>four.oldprop</key>
       <integer>-80</integer>
-      <key>four.prop</key>
-      <integer>-55</integer>
       <key>nine.linprop</key>
       <integer>35</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>-5</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>-5</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-40</integer>
       <key>one.oldprop</key>
       <integer>-65</integer>
-      <key>one.prop</key>
-      <integer>-40</integer>
       <key>p</key>
       <integer>-30</integer>
       <key>public.kern2.A</key>
@@ -11174,30 +11174,30 @@
       <integer>-35</integer>
       <key>seven.linprop</key>
       <integer>20</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
       <key>six.linprop</key>
+      <integer>-35</integer>
+      <key>six.midprop</key>
       <integer>-35</integer>
       <key>six.oldprop</key>
       <integer>-20</integer>
-      <key>six.prop</key>
-      <integer>-35</integer>
       <key>thorn</key>
       <integer>35</integer>
       <key>three.lintab</key>
       <integer>25</integer>
+      <key>three.midprop</key>
+      <integer>-30</integer>
       <key>three.oldprop</key>
       <integer>-40</integer>
-      <key>three.prop</key>
-      <integer>-30</integer>
       <key>two.linprop</key>
       <integer>20</integer>
+      <key>two.midprop</key>
+      <integer>-15</integer>
       <key>two.oldprop</key>
       <integer>-35</integer>
-      <key>two.prop</key>
-      <integer>-15</integer>
       <key>x</key>
       <integer>-90</integer>
     </dict>
@@ -11756,16 +11756,16 @@
       <integer>10</integer>
       <key>exclam</key>
       <integer>-5</integer>
-      <key>five.prop</key>
+      <key>five.midprop</key>
       <integer>-15</integer>
       <key>four.num</key>
       <integer>10</integer>
       <key>nine.num</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
       <key>one.num</key>
       <integer>10</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
       <key>ordfeminine</key>
       <integer>15</integer>
       <key>parenright</key>
@@ -11794,10 +11794,10 @@
       <integer>-35</integer>
       <key>servicemark</key>
       <integer>-10</integer>
+      <key>seven.midprop</key>
+      <integer>-15</integer>
       <key>seven.num</key>
       <integer>-25</integer>
-      <key>seven.prop</key>
-      <integer>-15</integer>
       <key>six.num</key>
       <integer>-15</integer>
       <key>three.num</key>
@@ -11903,30 +11903,30 @@
       <integer>-40</integer>
       <key>eight.linprop</key>
       <integer>-85</integer>
+      <key>eight.midprop</key>
+      <integer>-105</integer>
       <key>eight.oldprop</key>
       <integer>-80</integer>
-      <key>eight.prop</key>
-      <integer>-105</integer>
       <key>five.linprop</key>
       <integer>-55</integer>
-      <key>five.prop</key>
+      <key>five.midprop</key>
       <integer>-25</integer>
       <key>four.linprop</key>
       <integer>-75</integer>
-      <key>four.prop</key>
+      <key>four.midprop</key>
       <integer>-30</integer>
       <key>nine.linprop</key>
       <integer>-30</integer>
+      <key>nine.midprop</key>
+      <integer>-20</integer>
       <key>nine.oldprop</key>
       <integer>-15</integer>
-      <key>nine.prop</key>
-      <integer>-20</integer>
       <key>one.linprop</key>
+      <integer>-30</integer>
+      <key>one.midprop</key>
       <integer>-30</integer>
       <key>one.oldprop</key>
       <integer>-65</integer>
-      <key>one.prop</key>
-      <integer>-30</integer>
       <key>p</key>
       <integer>35</integer>
       <key>public.kern2.A</key>
@@ -11995,26 +11995,26 @@
       <integer>-95</integer>
       <key>seven.linprop</key>
       <integer>-90</integer>
+      <key>seven.midprop</key>
+      <integer>-80</integer>
       <key>seven.oldprop</key>
       <integer>-55</integer>
-      <key>seven.prop</key>
-      <integer>-80</integer>
       <key>six.linprop</key>
       <integer>-70</integer>
+      <key>six.midprop</key>
+      <integer>-90</integer>
       <key>six.oldprop</key>
       <integer>-65</integer>
-      <key>six.prop</key>
-      <integer>-90</integer>
       <key>three.lintab</key>
       <integer>-65</integer>
+      <key>three.midprop</key>
+      <integer>-20</integer>
       <key>three.oldprop</key>
       <integer>5</integer>
-      <key>three.prop</key>
-      <integer>-20</integer>
+      <key>two.midprop</key>
+      <integer>-10</integer>
       <key>two.oldprop</key>
       <integer>-20</integer>
-      <key>two.prop</key>
-      <integer>-10</integer>
       <key>x</key>
       <integer>-60</integer>
       <key>y</key>
@@ -12097,23 +12097,6 @@
       <integer>30</integer>
       <key>zero.num</key>
       <integer>40</integer>
-    </dict>
-    <key>seven.lin</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>20</integer>
-      <key>nine.num</key>
-      <integer>20</integer>
-      <key>one.num</key>
-      <integer>30</integer>
-      <key>seven.num</key>
-      <integer>20</integer>
-      <key>three.num</key>
-      <integer>20</integer>
-      <key>two.num</key>
-      <integer>20</integer>
-      <key>zero.num</key>
-      <integer>20</integer>
     </dict>
     <key>seven.linprop</key>
     <dict>
@@ -12250,33 +12233,134 @@
       <key>zero.num</key>
       <integer>40</integer>
     </dict>
-    <key>seven.num</key>
-    <dict>
-      <key>fraction</key>
-      <integer>-160</integer>
-    </dict>
-    <key>seven.old</key>
+    <key>seven.lintab</key>
     <dict>
       <key>eight.num</key>
-      <integer>30</integer>
-      <key>five.num</key>
-      <integer>30</integer>
-      <key>four.num</key>
-      <integer>30</integer>
+      <integer>20</integer>
       <key>nine.num</key>
-      <integer>30</integer>
+      <integer>20</integer>
       <key>one.num</key>
       <integer>30</integer>
       <key>seven.num</key>
       <integer>20</integer>
-      <key>six.num</key>
-      <integer>30</integer>
       <key>three.num</key>
-      <integer>30</integer>
+      <integer>20</integer>
       <key>two.num</key>
-      <integer>30</integer>
+      <integer>20</integer>
       <key>zero.num</key>
       <integer>20</integer>
+    </dict>
+    <key>seven.midprop</key>
+    <dict>
+      <key>Euro.proportional</key>
+      <integer>-20</integer>
+      <key>ampersand</key>
+      <integer>-60</integer>
+      <key>asterisk</key>
+      <integer>30</integer>
+      <key>asterisk.alt</key>
+      <integer>30</integer>
+      <key>at</key>
+      <integer>-15</integer>
+      <key>bullet</key>
+      <integer>-30</integer>
+      <key>cent.proportional</key>
+      <integer>-10</integer>
+      <key>degree</key>
+      <integer>40</integer>
+      <key>divide</key>
+      <integer>-20</integer>
+      <key>eight.midprop</key>
+      <integer>-10</integer>
+      <key>eight.num</key>
+      <integer>30</integer>
+      <key>five.midprop</key>
+      <integer>-30</integer>
+      <key>five.num</key>
+      <integer>30</integer>
+      <key>four.midprop</key>
+      <integer>-55</integer>
+      <key>four.num</key>
+      <integer>40</integer>
+      <key>greater</key>
+      <integer>10</integer>
+      <key>less</key>
+      <integer>-25</integer>
+      <key>minus</key>
+      <integer>-20</integer>
+      <key>multiply</key>
+      <integer>-15</integer>
+      <key>nine.num</key>
+      <integer>35</integer>
+      <key>numbersign</key>
+      <integer>-5</integer>
+      <key>one.num</key>
+      <integer>35</integer>
+      <key>ordfeminine</key>
+      <integer>45</integer>
+      <key>ordmasculine</key>
+      <integer>35</integer>
+      <key>parenright</key>
+      <integer>-5</integer>
+      <key>periodcentered</key>
+      <integer>-15</integer>
+      <key>plus</key>
+      <integer>-15</integer>
+      <key>public.kern2.backslash</key>
+      <integer>35</integer>
+      <key>public.kern2.braceright</key>
+      <integer>10</integer>
+      <key>public.kern2.colon</key>
+      <integer>-35</integer>
+      <key>public.kern2.dashes</key>
+      <integer>-15</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>-50</integer>
+      <key>public.kern2.minute</key>
+      <integer>40</integer>
+      <key>public.kern2.percent</key>
+      <integer>30</integer>
+      <key>public.kern2.period</key>
+      <integer>-115</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>55</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>45</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>40</integer>
+      <key>public.kern2.slash</key>
+      <integer>-60</integer>
+      <key>public.kern2.zero.prop</key>
+      <integer>-15</integer>
+      <key>question</key>
+      <integer>10</integer>
+      <key>servicemark</key>
+      <integer>15</integer>
+      <key>seven.midprop</key>
+      <integer>-15</integer>
+      <key>seven.num</key>
+      <integer>35</integer>
+      <key>six.midprop</key>
+      <integer>-10</integer>
+      <key>six.num</key>
+      <integer>30</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
+      <key>three.num</key>
+      <integer>35</integer>
+      <key>trademark</key>
+      <integer>15</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
+      <key>two.num</key>
+      <integer>35</integer>
+      <key>zero.num</key>
+      <integer>55</integer>
+    </dict>
+    <key>seven.num</key>
+    <dict>
+      <key>fraction</key>
+      <integer>-160</integer>
     </dict>
     <key>seven.oldprop</key>
     <dict>
@@ -12385,112 +12469,28 @@
       <key>zero.num</key>
       <integer>40</integer>
     </dict>
-    <key>seven.prop</key>
+    <key>seven.oldtab</key>
     <dict>
-      <key>Euro.proportional</key>
-      <integer>-20</integer>
-      <key>ampersand</key>
-      <integer>-60</integer>
-      <key>asterisk</key>
-      <integer>30</integer>
-      <key>asterisk.alt</key>
-      <integer>30</integer>
-      <key>at</key>
-      <integer>-15</integer>
-      <key>bullet</key>
-      <integer>-30</integer>
-      <key>cent.proportional</key>
-      <integer>-10</integer>
-      <key>degree</key>
-      <integer>40</integer>
-      <key>divide</key>
-      <integer>-20</integer>
       <key>eight.num</key>
       <integer>30</integer>
-      <key>eight.prop</key>
-      <integer>-10</integer>
       <key>five.num</key>
       <integer>30</integer>
-      <key>five.prop</key>
-      <integer>-30</integer>
       <key>four.num</key>
-      <integer>40</integer>
-      <key>four.prop</key>
-      <integer>-55</integer>
-      <key>greater</key>
-      <integer>10</integer>
-      <key>less</key>
-      <integer>-25</integer>
-      <key>minus</key>
-      <integer>-20</integer>
-      <key>multiply</key>
-      <integer>-15</integer>
-      <key>nine.num</key>
-      <integer>35</integer>
-      <key>numbersign</key>
-      <integer>-5</integer>
-      <key>one.num</key>
-      <integer>35</integer>
-      <key>ordfeminine</key>
-      <integer>45</integer>
-      <key>ordmasculine</key>
-      <integer>35</integer>
-      <key>parenright</key>
-      <integer>-5</integer>
-      <key>periodcentered</key>
-      <integer>-15</integer>
-      <key>plus</key>
-      <integer>-15</integer>
-      <key>public.kern2.backslash</key>
-      <integer>35</integer>
-      <key>public.kern2.braceright</key>
-      <integer>10</integer>
-      <key>public.kern2.colon</key>
-      <integer>-35</integer>
-      <key>public.kern2.dashes</key>
-      <integer>-15</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>-50</integer>
-      <key>public.kern2.minute</key>
-      <integer>40</integer>
-      <key>public.kern2.percent</key>
       <integer>30</integer>
-      <key>public.kern2.period</key>
-      <integer>-115</integer>
-      <key>public.kern2.quoteleft</key>
-      <integer>55</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>45</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>40</integer>
-      <key>public.kern2.slash</key>
-      <integer>-60</integer>
-      <key>public.kern2.zero.prop</key>
-      <integer>-15</integer>
-      <key>question</key>
-      <integer>10</integer>
-      <key>servicemark</key>
-      <integer>15</integer>
+      <key>nine.num</key>
+      <integer>30</integer>
+      <key>one.num</key>
+      <integer>30</integer>
       <key>seven.num</key>
-      <integer>35</integer>
-      <key>seven.prop</key>
-      <integer>-15</integer>
+      <integer>20</integer>
       <key>six.num</key>
       <integer>30</integer>
-      <key>six.prop</key>
-      <integer>-10</integer>
       <key>three.num</key>
-      <integer>35</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
-      <key>trademark</key>
-      <integer>15</integer>
+      <integer>30</integer>
       <key>two.num</key>
-      <integer>35</integer>
-      <key>two.prop</key>
-      <integer>5</integer>
+      <integer>30</integer>
       <key>zero.num</key>
-      <integer>55</integer>
+      <integer>20</integer>
     </dict>
     <key>six</key>
     <dict>
@@ -12505,15 +12505,6 @@
       <key>two.num</key>
       <integer>20</integer>
       <key>zero.num</key>
-      <integer>10</integer>
-    </dict>
-    <key>six.lin</key>
-    <dict>
-      <key>one.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>5</integer>
-      <key>two.num</key>
       <integer>10</integer>
     </dict>
     <key>six.linprop</key>
@@ -12615,12 +12606,7 @@
       <key>two.num</key>
       <integer>10</integer>
     </dict>
-    <key>six.num</key>
-    <dict>
-      <key>fraction</key>
-      <integer>-140</integer>
-    </dict>
-    <key>six.old</key>
+    <key>six.lintab</key>
     <dict>
       <key>one.num</key>
       <integer>10</integer>
@@ -12628,6 +12614,90 @@
       <integer>5</integer>
       <key>two.num</key>
       <integer>10</integer>
+    </dict>
+    <key>six.midprop</key>
+    <dict>
+      <key>ampersand</key>
+      <integer>5</integer>
+      <key>asterisk</key>
+      <integer>-5</integer>
+      <key>asterisk.alt</key>
+      <integer>-5</integer>
+      <key>at</key>
+      <integer>25</integer>
+      <key>cent.proportional</key>
+      <integer>20</integer>
+      <key>degree</key>
+      <integer>-10</integer>
+      <key>eight.midprop</key>
+      <integer>10</integer>
+      <key>exclam</key>
+      <integer>-5</integer>
+      <key>five.midprop</key>
+      <integer>-15</integer>
+      <key>five.num</key>
+      <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>20</integer>
+      <key>four.num</key>
+      <integer>5</integer>
+      <key>less</key>
+      <integer>-5</integer>
+      <key>nine.midprop</key>
+      <integer>-10</integer>
+      <key>nine.num</key>
+      <integer>5</integer>
+      <key>numbersign</key>
+      <integer>20</integer>
+      <key>one.midprop</key>
+      <integer>-20</integer>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>ordfeminine</key>
+      <integer>15</integer>
+      <key>parenright</key>
+      <integer>-5</integer>
+      <key>plus</key>
+      <integer>10</integer>
+      <key>public.kern2.backslash</key>
+      <integer>25</integer>
+      <key>public.kern2.colon</key>
+      <integer>-10</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>20</integer>
+      <key>public.kern2.minute</key>
+      <integer>10</integer>
+      <key>public.kern2.period</key>
+      <integer>-15</integer>
+      <key>public.kern2.quoteleft</key>
+      <integer>-5</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>5</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>10</integer>
+      <key>public.kern2.slash</key>
+      <integer>-15</integer>
+      <key>question</key>
+      <integer>-25</integer>
+      <key>seven.midprop</key>
+      <integer>-20</integer>
+      <key>six.num</key>
+      <integer>-5</integer>
+      <key>three.midprop</key>
+      <integer>-10</integer>
+      <key>three.num</key>
+      <integer>10</integer>
+      <key>two.midprop</key>
+      <integer>5</integer>
+      <key>two.num</key>
+      <integer>25</integer>
+      <key>zero.num</key>
+      <integer>10</integer>
+    </dict>
+    <key>six.num</key>
+    <dict>
+      <key>fraction</key>
+      <integer>-140</integer>
     </dict>
     <key>six.oldprop</key>
     <dict>
@@ -12706,83 +12776,13 @@
       <key>two.oldprop</key>
       <integer>5</integer>
     </dict>
-    <key>six.prop</key>
+    <key>six.oldtab</key>
     <dict>
-      <key>ampersand</key>
-      <integer>5</integer>
-      <key>asterisk</key>
-      <integer>-5</integer>
-      <key>asterisk.alt</key>
-      <integer>-5</integer>
-      <key>at</key>
-      <integer>25</integer>
-      <key>cent.proportional</key>
-      <integer>20</integer>
-      <key>degree</key>
-      <integer>-10</integer>
-      <key>eight.prop</key>
-      <integer>10</integer>
-      <key>exclam</key>
-      <integer>-5</integer>
-      <key>five.num</key>
-      <integer>10</integer>
-      <key>five.prop</key>
-      <integer>-15</integer>
-      <key>four.num</key>
-      <integer>5</integer>
-      <key>four.prop</key>
-      <integer>20</integer>
-      <key>less</key>
-      <integer>-5</integer>
-      <key>nine.num</key>
-      <integer>5</integer>
-      <key>nine.prop</key>
-      <integer>-10</integer>
-      <key>numbersign</key>
-      <integer>20</integer>
       <key>one.num</key>
       <integer>10</integer>
-      <key>one.prop</key>
-      <integer>-20</integer>
-      <key>ordfeminine</key>
-      <integer>15</integer>
-      <key>parenright</key>
-      <integer>-5</integer>
-      <key>plus</key>
-      <integer>10</integer>
-      <key>public.kern2.backslash</key>
-      <integer>25</integer>
-      <key>public.kern2.colon</key>
-      <integer>-10</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>20</integer>
-      <key>public.kern2.minute</key>
-      <integer>10</integer>
-      <key>public.kern2.period</key>
-      <integer>-15</integer>
-      <key>public.kern2.quoteleft</key>
-      <integer>-5</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>5</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>10</integer>
-      <key>public.kern2.slash</key>
-      <integer>-15</integer>
-      <key>question</key>
-      <integer>-25</integer>
-      <key>seven.prop</key>
-      <integer>-20</integer>
-      <key>six.num</key>
-      <integer>-5</integer>
       <key>three.num</key>
-      <integer>10</integer>
-      <key>three.prop</key>
-      <integer>-10</integer>
-      <key>two.num</key>
-      <integer>25</integer>
-      <key>two.prop</key>
       <integer>5</integer>
-      <key>zero.num</key>
+      <key>two.num</key>
       <integer>10</integer>
     </dict>
     <key>slash</key>
@@ -12803,26 +12803,26 @@
       <integer>10</integer>
       <key>four.linprop</key>
       <integer>15</integer>
+      <key>four.midprop</key>
+      <integer>10</integer>
       <key>four.oldprop</key>
       <integer>5</integer>
-      <key>four.prop</key>
-      <integer>10</integer>
-      <key>nine.oldprop</key>
+      <key>nine.midprop</key>
       <integer>-10</integer>
-      <key>nine.prop</key>
+      <key>nine.oldprop</key>
       <integer>-10</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
+      <key>one.midprop</key>
+      <integer>-5</integer>
       <key>one.oldprop</key>
       <integer>-15</integer>
-      <key>one.prop</key>
-      <integer>-5</integer>
       <key>seven.linprop</key>
       <integer>-15</integer>
+      <key>seven.midprop</key>
+      <integer>-10</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-10</integer>
       <key>three.lintab</key>
       <integer>5</integer>
       <key>three.oldprop</key>
@@ -12838,16 +12838,16 @@
       <integer>10</integer>
       <key>five.linprop</key>
       <integer>10</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-10</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.linprop</key>
       <integer>30</integer>
+      <key>four.midprop</key>
+      <integer>15</integer>
       <key>four.oldprop</key>
       <integer>5</integer>
-      <key>four.prop</key>
-      <integer>15</integer>
       <key>nine.linprop</key>
       <integer>5</integer>
       <key>nine.oldprop</key>
@@ -12862,18 +12862,18 @@
       <integer>15</integer>
       <key>seven.linprop</key>
       <integer>-10</integer>
+      <key>seven.midprop</key>
+      <integer>-5</integer>
       <key>seven.oldprop</key>
       <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-5</integer>
       <key>six.linprop</key>
       <integer>10</integer>
       <key>three.lintab</key>
       <integer>10</integer>
+      <key>three.midprop</key>
+      <integer>-5</integer>
       <key>three.oldprop</key>
       <integer>-10</integer>
-      <key>three.prop</key>
-      <integer>-5</integer>
       <key>two.linprop</key>
       <integer>10</integer>
       <key>two.oldprop</key>
@@ -12943,8 +12943,6 @@
     </dict>
     <key>three.lin</key>
     <dict>
-      <key>eight.num</key>
-      <integer>5</integer>
       <key>nine.num</key>
       <integer>5</integer>
       <key>one.num</key>
@@ -12977,7 +12975,7 @@
       <key>eight.linprop</key>
       <integer>10</integer>
       <key>eight.num</key>
-      <integer>-5</integer>
+      <integer>5</integer>
       <key>equal.lin</key>
       <integer>5</integer>
       <key>exclam</key>
@@ -13063,27 +13061,93 @@
       <key>two.num</key>
       <integer>5</integer>
     </dict>
+    <key>three.midprop</key>
+    <dict>
+      <key>Euro.proportional</key>
+      <integer>-5</integer>
+      <key>at</key>
+      <integer>-5</integer>
+      <key>bullet</key>
+      <integer>-10</integer>
+      <key>cent.proportional</key>
+      <integer>10</integer>
+      <key>degree</key>
+      <integer>-5</integer>
+      <key>divide</key>
+      <integer>5</integer>
+      <key>eight.midprop</key>
+      <integer>-5</integer>
+      <key>equal</key>
+      <integer>10</integer>
+      <key>exclam</key>
+      <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>5</integer>
+      <key>five.num</key>
+      <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>20</integer>
+      <key>four.num</key>
+      <integer>30</integer>
+      <key>less</key>
+      <integer>-10</integer>
+      <key>minus</key>
+      <integer>-5</integer>
+      <key>nine.num</key>
+      <integer>5</integer>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>ordfeminine</key>
+      <integer>20</integer>
+      <key>ordmasculine</key>
+      <integer>5</integer>
+      <key>parenright</key>
+      <integer>-10</integer>
+      <key>periodcentered</key>
+      <integer>-5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>-10</integer>
+      <key>public.kern2.braceright</key>
+      <integer>5</integer>
+      <key>public.kern2.colon</key>
+      <integer>-5</integer>
+      <key>public.kern2.dashes</key>
+      <integer>-5</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>-15</integer>
+      <key>public.kern2.guillemotright</key>
+      <integer>10</integer>
+      <key>public.kern2.period</key>
+      <integer>-15</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>-5</integer>
+      <key>public.kern2.slash</key>
+      <integer>15</integer>
+      <key>question</key>
+      <integer>-40</integer>
+      <key>seven.midprop</key>
+      <integer>-15</integer>
+      <key>seven.num</key>
+      <integer>-15</integer>
+      <key>six.num</key>
+      <integer>5</integer>
+      <key>three.midprop</key>
+      <integer>10</integer>
+      <key>three.num</key>
+      <integer>15</integer>
+      <key>trademark</key>
+      <integer>-15</integer>
+      <key>two.midprop</key>
+      <integer>20</integer>
+      <key>two.num</key>
+      <integer>10</integer>
+      <key>zero.num</key>
+      <integer>15</integer>
+    </dict>
     <key>three.num</key>
     <dict>
       <key>fraction</key>
       <integer>-125</integer>
-    </dict>
-    <key>three.old</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>5</integer>
-      <key>four.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>15</integer>
-      <key>six.num</key>
-      <integer>5</integer>
-      <key>three.num</key>
-      <integer>15</integer>
-      <key>two.num</key>
-      <integer>20</integer>
-      <key>zero.num</key>
-      <integer>10</integer>
     </dict>
     <key>three.oldprop</key>
     <dict>
@@ -13178,88 +13242,22 @@
       <key>two.oldprop</key>
       <integer>20</integer>
     </dict>
-    <key>three.prop</key>
+    <key>three.oldtab</key>
     <dict>
-      <key>Euro.proportional</key>
-      <integer>-5</integer>
-      <key>at</key>
-      <integer>-5</integer>
-      <key>bullet</key>
-      <integer>-10</integer>
-      <key>cent.proportional</key>
-      <integer>10</integer>
-      <key>degree</key>
-      <integer>-5</integer>
-      <key>divide</key>
-      <integer>5</integer>
-      <key>eight.prop</key>
-      <integer>-5</integer>
-      <key>equal</key>
-      <integer>10</integer>
-      <key>exclam</key>
-      <integer>-10</integer>
-      <key>five.num</key>
-      <integer>10</integer>
-      <key>five.prop</key>
+      <key>eight.num</key>
       <integer>5</integer>
       <key>four.num</key>
-      <integer>30</integer>
-      <key>four.prop</key>
-      <integer>20</integer>
-      <key>less</key>
-      <integer>-10</integer>
-      <key>minus</key>
-      <integer>-5</integer>
-      <key>nine.num</key>
-      <integer>5</integer>
+      <integer>10</integer>
       <key>one.num</key>
-      <integer>10</integer>
-      <key>ordfeminine</key>
-      <integer>20</integer>
-      <key>ordmasculine</key>
-      <integer>5</integer>
-      <key>parenright</key>
-      <integer>-10</integer>
-      <key>periodcentered</key>
-      <integer>-5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>-10</integer>
-      <key>public.kern2.braceright</key>
-      <integer>5</integer>
-      <key>public.kern2.colon</key>
-      <integer>-5</integer>
-      <key>public.kern2.dashes</key>
-      <integer>-5</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>-15</integer>
-      <key>public.kern2.guillemotright</key>
-      <integer>10</integer>
-      <key>public.kern2.period</key>
-      <integer>-15</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>-5</integer>
-      <key>public.kern2.slash</key>
       <integer>15</integer>
-      <key>question</key>
-      <integer>-40</integer>
-      <key>seven.num</key>
-      <integer>-15</integer>
-      <key>seven.prop</key>
-      <integer>-15</integer>
       <key>six.num</key>
       <integer>5</integer>
       <key>three.num</key>
       <integer>15</integer>
-      <key>three.prop</key>
-      <integer>10</integer>
-      <key>trademark</key>
-      <integer>-15</integer>
       <key>two.num</key>
-      <integer>10</integer>
-      <key>two.prop</key>
       <integer>20</integer>
       <key>zero.num</key>
-      <integer>15</integer>
+      <integer>10</integer>
     </dict>
     <key>two</key>
     <dict>
@@ -13279,29 +13277,6 @@
       <integer>15</integer>
       <key>zero.num</key>
       <integer>15</integer>
-    </dict>
-    <key>two.lin</key>
-    <dict>
-      <key>eight.num</key>
-      <integer>10</integer>
-      <key>five.num</key>
-      <integer>10</integer>
-      <key>four.num</key>
-      <integer>20</integer>
-      <key>nine.num</key>
-      <integer>10</integer>
-      <key>one.num</key>
-      <integer>20</integer>
-      <key>seven.num</key>
-      <integer>10</integer>
-      <key>six.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>20</integer>
-      <key>two.num</key>
-      <integer>20</integer>
-      <key>zero.num</key>
-      <integer>20</integer>
     </dict>
     <key>two.linprop</key>
     <dict>
@@ -13422,19 +13397,116 @@
       <key>zero.num</key>
       <integer>20</integer>
     </dict>
+    <key>two.lintab</key>
+    <dict>
+      <key>eight.num</key>
+      <integer>10</integer>
+      <key>five.num</key>
+      <integer>10</integer>
+      <key>four.num</key>
+      <integer>20</integer>
+      <key>nine.num</key>
+      <integer>10</integer>
+      <key>one.num</key>
+      <integer>20</integer>
+      <key>seven.num</key>
+      <integer>10</integer>
+      <key>six.num</key>
+      <integer>10</integer>
+      <key>three.num</key>
+      <integer>20</integer>
+      <key>two.num</key>
+      <integer>20</integer>
+      <key>zero.num</key>
+      <integer>20</integer>
+    </dict>
+    <key>two.midprop</key>
+    <dict>
+      <key>asterisk</key>
+      <integer>-5</integer>
+      <key>asterisk.alt</key>
+      <integer>-5</integer>
+      <key>at</key>
+      <integer>10</integer>
+      <key>bullet</key>
+      <integer>-5</integer>
+      <key>cent.proportional</key>
+      <integer>15</integer>
+      <key>degree</key>
+      <integer>-5</integer>
+      <key>divide</key>
+      <integer>5</integer>
+      <key>eight.midprop</key>
+      <integer>5</integer>
+      <key>eight.num</key>
+      <integer>5</integer>
+      <key>exclam</key>
+      <integer>-10</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
+      <key>five.num</key>
+      <integer>10</integer>
+      <key>four.midprop</key>
+      <integer>5</integer>
+      <key>four.num</key>
+      <integer>15</integer>
+      <key>less</key>
+      <integer>-5</integer>
+      <key>minus</key>
+      <integer>-5</integer>
+      <key>nine.num</key>
+      <integer>10</integer>
+      <key>one.midprop</key>
+      <integer>-10</integer>
+      <key>one.num</key>
+      <integer>10</integer>
+      <key>ordfeminine</key>
+      <integer>15</integer>
+      <key>ordmasculine</key>
+      <integer>-5</integer>
+      <key>periodcentered</key>
+      <integer>-5</integer>
+      <key>public.kern2.backslash</key>
+      <integer>-20</integer>
+      <key>public.kern2.colon</key>
+      <integer>-15</integer>
+      <key>public.kern2.guillemotleft</key>
+      <integer>10</integer>
+      <key>public.kern2.guillemotright</key>
+      <integer>5</integer>
+      <key>public.kern2.minute</key>
+      <integer>-15</integer>
+      <key>public.kern2.period</key>
+      <integer>-25</integer>
+      <key>public.kern2.quoteright</key>
+      <integer>-10</integer>
+      <key>public.kern2.quotesingle</key>
+      <integer>-15</integer>
+      <key>public.kern2.slash</key>
+      <integer>10</integer>
+      <key>question</key>
+      <integer>-40</integer>
+      <key>servicemark</key>
+      <integer>-5</integer>
+      <key>seven.midprop</key>
+      <integer>-15</integer>
+      <key>seven.num</key>
+      <integer>-25</integer>
+      <key>six.num</key>
+      <integer>-5</integer>
+      <key>three.num</key>
+      <integer>15</integer>
+      <key>trademark</key>
+      <integer>-10</integer>
+      <key>two.num</key>
+      <integer>15</integer>
+      <key>zero.num</key>
+      <integer>10</integer>
+    </dict>
     <key>two.num</key>
     <dict>
       <key>fraction</key>
       <integer>-80</integer>
-    </dict>
-    <key>two.old</key>
-    <dict>
-      <key>four.num</key>
-      <integer>10</integer>
-      <key>three.num</key>
-      <integer>10</integer>
-      <key>two.num</key>
-      <integer>10</integer>
     </dict>
     <key>two.oldprop</key>
     <dict>
@@ -13519,87 +13591,13 @@
       <key>two.num</key>
       <integer>15</integer>
     </dict>
-    <key>two.prop</key>
+    <key>two.oldtab</key>
     <dict>
-      <key>asterisk</key>
-      <integer>-5</integer>
-      <key>asterisk.alt</key>
-      <integer>-5</integer>
-      <key>at</key>
-      <integer>10</integer>
-      <key>bullet</key>
-      <integer>-5</integer>
-      <key>cent.proportional</key>
-      <integer>15</integer>
-      <key>degree</key>
-      <integer>-5</integer>
-      <key>divide</key>
-      <integer>5</integer>
-      <key>eight.num</key>
-      <integer>5</integer>
-      <key>eight.prop</key>
-      <integer>5</integer>
-      <key>exclam</key>
-      <integer>-10</integer>
-      <key>five.num</key>
-      <integer>10</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
       <key>four.num</key>
-      <integer>15</integer>
-      <key>four.prop</key>
-      <integer>5</integer>
-      <key>less</key>
-      <integer>-5</integer>
-      <key>minus</key>
-      <integer>-5</integer>
-      <key>nine.num</key>
       <integer>10</integer>
-      <key>one.num</key>
-      <integer>10</integer>
-      <key>one.prop</key>
-      <integer>-10</integer>
-      <key>ordfeminine</key>
-      <integer>15</integer>
-      <key>ordmasculine</key>
-      <integer>-5</integer>
-      <key>periodcentered</key>
-      <integer>-5</integer>
-      <key>public.kern2.backslash</key>
-      <integer>-20</integer>
-      <key>public.kern2.colon</key>
-      <integer>-15</integer>
-      <key>public.kern2.guillemotleft</key>
-      <integer>10</integer>
-      <key>public.kern2.guillemotright</key>
-      <integer>5</integer>
-      <key>public.kern2.minute</key>
-      <integer>-15</integer>
-      <key>public.kern2.period</key>
-      <integer>-25</integer>
-      <key>public.kern2.quoteright</key>
-      <integer>-10</integer>
-      <key>public.kern2.quotesingle</key>
-      <integer>-15</integer>
-      <key>public.kern2.slash</key>
-      <integer>10</integer>
-      <key>question</key>
-      <integer>-40</integer>
-      <key>servicemark</key>
-      <integer>-5</integer>
-      <key>seven.num</key>
-      <integer>-25</integer>
-      <key>seven.prop</key>
-      <integer>-15</integer>
-      <key>six.num</key>
-      <integer>-5</integer>
       <key>three.num</key>
-      <integer>15</integer>
-      <key>trademark</key>
-      <integer>-10</integer>
+      <integer>10</integer>
       <key>two.num</key>
-      <integer>15</integer>
-      <key>zero.num</key>
       <integer>10</integer>
     </dict>
     <key>uogonek</key>
@@ -13700,39 +13698,39 @@
     <dict>
       <key>eight.linprop</key>
       <integer>5</integer>
+      <key>five.midprop</key>
+      <integer>-5</integer>
       <key>five.oldprop</key>
       <integer>-5</integer>
-      <key>five.prop</key>
-      <integer>-5</integer>
-      <key>four.oldprop</key>
+      <key>four.midprop</key>
       <integer>-25</integer>
-      <key>four.prop</key>
+      <key>four.oldprop</key>
       <integer>-25</integer>
       <key>nine.linprop</key>
       <integer>15</integer>
       <key>one.linprop</key>
       <integer>-5</integer>
-      <key>one.oldprop</key>
+      <key>one.midprop</key>
       <integer>-20</integer>
-      <key>one.prop</key>
+      <key>one.oldprop</key>
       <integer>-20</integer>
       <key>seven.linprop</key>
       <integer>15</integer>
-      <key>seven.oldprop</key>
+      <key>seven.midprop</key>
       <integer>-10</integer>
-      <key>seven.prop</key>
+      <key>seven.oldprop</key>
       <integer>-10</integer>
       <key>three.lintab</key>
       <integer>15</integer>
-      <key>three.oldprop</key>
+      <key>three.midprop</key>
       <integer>-20</integer>
-      <key>three.prop</key>
+      <key>three.oldprop</key>
       <integer>-20</integer>
       <key>two.linprop</key>
       <integer>30</integer>
-      <key>two.oldprop</key>
+      <key>two.midprop</key>
       <integer>-5</integer>
-      <key>two.prop</key>
+      <key>two.oldprop</key>
       <integer>-5</integer>
     </dict>
     <key>zero</key>
@@ -13742,7 +13740,7 @@
       <key>seven.num</key>
       <integer>-10</integer>
     </dict>
-    <key>zero.lin</key>
+    <key>zero.lintab</key>
     <dict>
       <key>eight.num</key>
       <integer>10</integer>
@@ -13768,7 +13766,7 @@
       <key>fraction</key>
       <integer>-160</integer>
     </dict>
-    <key>zero.old</key>
+    <key>zero.oldtab</key>
     <dict>
       <key>one.num</key>
       <integer>15</integer>
