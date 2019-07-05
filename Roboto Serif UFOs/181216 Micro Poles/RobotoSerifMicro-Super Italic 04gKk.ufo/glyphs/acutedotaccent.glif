@@ -4,7 +4,8 @@
   <anchor x="218" y="543" name="top"/>
   <anchor x="218" y="543" name="top"/>
   <outline>
-    <component base="acute_dotaccent"/>
+    <component base="acute" xOffset="-23"/>
+    <component base="dotaccent" xOffset="-13" yOffset="292"/>
   </outline>
   <lib>
     <dict>

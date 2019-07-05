@@ -4,21 +4,6 @@
   <anchor x="245" y="539" name="_top"/>
   <outline>
     <contour>
-      <point x="187" y="693" type="line" smooth="yes"/>
-      <point x="169" y="764"/>
-      <point x="145" y="808"/>
-      <point x="86" y="808" type="curve" smooth="yes"/>
-      <point x="42" y="808"/>
-      <point x="16" y="776"/>
-      <point x="16" y="738" type="curve" smooth="yes"/>
-      <point x="16" y="704"/>
-      <point x="30" y="671"/>
-      <point x="95" y="618" type="curve" smooth="yes"/>
-      <point x="163" y="563" type="line"/>
-      <point x="216" y="563" type="line"/>
-      <point x="216" y="580" type="line"/>
-    </contour>
-    <contour>
       <point x="393" y="693" type="line" smooth="yes"/>
       <point x="375" y="764"/>
       <point x="351" y="808"/>
@@ -32,6 +17,21 @@
       <point x="369" y="563" type="line"/>
       <point x="422" y="563" type="line"/>
       <point x="422" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="693" type="line" smooth="yes"/>
+      <point x="169" y="764"/>
+      <point x="145" y="808"/>
+      <point x="86" y="808" type="curve" smooth="yes"/>
+      <point x="42" y="808"/>
+      <point x="16" y="776"/>
+      <point x="16" y="738" type="curve" smooth="yes"/>
+      <point x="16" y="704"/>
+      <point x="30" y="671"/>
+      <point x="95" y="618" type="curve" smooth="yes"/>
+      <point x="163" y="563" type="line"/>
+      <point x="216" y="563" type="line"/>
+      <point x="216" y="580" type="line"/>
     </contour>
   </outline>
   <lib>
