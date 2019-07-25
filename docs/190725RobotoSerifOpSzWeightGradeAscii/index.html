@@ -1,0 +1,540 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
+		<meta content="Text/html; charset=utf-8" http-equiv="Content-Type" />
+		<title>Commercial Type Web Fonts</title>
+		<link rel="stylesheet" type="Text/css" media="screen,projection" href="Roboto Serif WebFonts/fonts.css" />
+		<link rel="stylesheet" type="Text/css" media="screen,projection" href="style.css" />
+
+		<style type="Text/css">
+
+		.copy, h1 {
+			font-family: "Roboto Serif Text", Courier;
+			font-weight: 400;
+			font-style: normal;
+			font-variation-settings: "opsz" 100, "wght" 300, "grad" 0;
+		}
+
+		</style>
+
+	</head>
+	<body>
+
+<div id="header">
+
+	<table>
+
+
+		<tr>
+			<td><label for="wght">wght</label></td>
+			<td id="wght_min"></td>
+			<td><input type="range" min="0" max="1000" value="300" step="1" class="slider" id="wght" name="wght" >
+			<td id="wght_max"></td>
+			<td class="value" id="wght_value"></td>
+		</tr>
+		<tr>
+			<td><label for="opsz">opsz</label></td>
+			<td id="opsz_min"></td>
+			<td><input type="range" min="0" max="100" value="50" step="1" class="slider" id="opsz" name="opsz" >
+			<td id="opsz_max"></td>
+			<td class="value" id="opsz_value"></td>
+
+			<td><label class="opsz_match">Match opsz to font-size</td>
+			<td><input type="checkbox" id="opszcheckbox" onchange="opsz_match()"></td>
+			
+		</tr>
+		<tr>
+			<td><label for="grad">grad</label></td>
+			<td id="grad_min"></td>
+			<td><input type="range" min="-6" max="6" value="0" step="1" class="slider" id="grad" name="grad" >
+			<td id="grad_max"></td>
+			<td class="value" id="grad_value"></td>
+		</tr>
+
+		<tr>
+			<td><label for="instances">Named Instances</label></td>
+
+			<td colspan=4><select id="instances" name="instances" onchange="changeInstance(this.options[this.selectedIndex].value)">
+					<option>
+					<option>Serif Big Thin 
+					<option>Serif Big Extralight 
+					<option>Serif Big Light 
+					<option>Serif Big Regular 
+					<option>Serif Big Medium 
+					<option>Serif Big Semibold 
+					<option>Serif Big Bold 
+					<option>Serif Big Super 
+					<option>Serif Display Thin 
+					<option>Serif Display Extralight 
+					<option>Serif Display Light 
+					<option>Serif Display Regular 
+					<option>Serif Display Medium 
+					<option>Serif Display Semibold 
+					<option>Serif Display Bold 
+					<option>Serif Display Super 
+					<option>Serif Text G1 Thin 
+					<option>Serif Text G1 Light 
+					<option>Serif Text G1 Regular 
+					<option>Serif Text G1 Medium 
+					<option>Serif Text G1 Semibold 
+					<option>Serif Text G1 Bold 
+					<option>Serif Text G1 Super 
+					<option>Serif Text G2 Thin 
+					<option>Serif Text G2 Light 
+					<option>Serif Text G2 Regular 
+					<option>Serif Text G2 Medium 
+					<option>Serif Text G2 Semibold 
+					<option>Serif Text G2 Bold 
+					<option>Serif Text G2 Super 
+					<option>Serif Text G3 Thin 
+					<option>Serif Text G3 Light 
+					<option>Serif Text G3 Regular 
+					<option>Serif Text G3 Medium 
+					<option>Serif Text G3 Semibold 
+					<option>Serif Text G3 Bold 
+					<option>Serif Text G3 Super 
+					<option>Small Text Thin 
+					<option>Small Text Light 
+					<option>Small Text Regular 
+					<option>Small Text Medium 
+					<option>Small Text Semibold 
+					<option>Small Text Bold 
+					<option>Small Text Super 
+					<option>Micro Thin 
+					<option>Micro Light 
+					<option>Micro Regular 
+					<option>Micro Medium 
+					<option>Micro Semibold 
+					<option>Micro Bold 
+					<option>Micro Super 
+				</select>
+		</td>
+
+		<tr>
+			<td><label class="italic">Italic</td>
+			<td><input type="checkbox" id="italicheckbox" onchange="italicize()"></td>
+		</tr>
+
+	</table>
+</div>
+
+
+
+
+<table style="width:1200px">
+
+<!-- padding for header -->
+<tr style="height:130px;"><td>&nbsp;</td></tr>
+
+<tr>
+	<td class="pointsize"><h3>100</h3></td>
+	<td>
+		<h1 class="copy size100" contentEditable="true" >Roboto Serif</h1>
+	</td>
+</tr>
+
+
+<!-- 60 -->
+<tr>
+	<td class="pointsize"><h3>60</h3></td>
+	<td>
+		<p class="size60 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the</p>
+	</td>
+</tr>
+
+<!-- 48 -->
+<tr>
+	<td class="pointsize"><h3>48</h3></td>
+	<td>
+		<p class="size48 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a</p>
+	</td>
+</tr>
+
+<!-- 42 -->
+<tr>
+	<td class="pointsize"><h3>42</h3></td>
+	<td>
+		<p class="size42 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and</p>
+	</td>
+</tr>
+
+<!-- 36 -->
+<tr>
+	<td class="pointsize"><h3>36</h3></td>
+	<td>
+		<p class="size36 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 30 -->
+<tr>
+	<td class="pointsize"><h3>30</h3></td>
+	<td>
+		<p class="size30 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 24 -->
+<tr>
+	<td class="pointsize"><h3>24</h3></td>
+	<td>
+		<p class="size24 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 22 -->
+<tr>
+	<td class="pointsize"><h3>22</h3></td>
+	<td>
+		<p class="size22 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 20 -->
+<tr>
+	<td class="pointsize"><h3>20</h3></td>
+	<td>
+		<p class="size20 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 18 -->
+<tr>
+	<td class="pointsize"><h3>18</h3></td>
+	<td>
+		<p class="size18 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 16 -->
+<tr>
+	<td class="pointsize"><h3>16</h3></td>
+	<td>
+		<p class="size16 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 14 -->
+<tr>
+	<td class="pointsize"><h3>14</h3></td>
+	<td>
+		<p class="size14 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 13 -->
+<tr>
+	<td class="pointsize"><h3>13</h3></td>
+	<td>
+		<p class="size13 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 12 -->
+<tr>
+	<td class="pointsize"><h3>12</h3></td>
+	<td>
+		<p class="size12 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 11 -->
+<tr>
+	<td class="pointsize"><h3>11</h3></td>
+	<td>
+		<p class="size11 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 10 -->
+<tr>
+	<td class="pointsize"><h3>10</h3></td>
+	<td>
+		<p class="size10 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+<!-- 9 -->
+<tr>
+	<td class="pointsize"><h3>9</h3></td>
+	<td>
+		<p class="size9 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</td>
+</tr>
+
+</table>
+
+
+
+<!-- Three Columns -->
+
+
+<div class="three_column">
+	<div>
+		<p>Grade 0</p>
+		<p class="size14 copy grade0" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight  her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+	<div>
+		<p id="grade_value_white">Grade</p>
+		<p class="size14 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+	<div>
+		<p>Grade 6</p>
+		<p class="size14 copy grade6" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+</div>
+
+
+<!-- Black on White -->
+
+<div class="three_column black_on_white">
+	<div>
+		<p>Grade 0</p>
+		<p class="size14 copy grade0" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight  her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+	<div>
+		<p id="grade_value_black">Grade</p>
+		<p class="size14 copy" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+	<div>
+		<p>Grade 6</p>
+		<p class="size14 copy grade6" contentEditable="true" >Mabel Stark was taking a walk one evening in Venice, Calif., around 1911 when a sound lured her to the grounds of the Al G. Barnes Circus. Though the site was locked, "She found a rattletrap, unsecured gate and squeezed herself through," Roger Smith, a close friend, said. "There she found herself face to face with a mature Bengal named King." The sight of the caged tiger in twilight transfixed her. She had been working as a nurse and a carnival hoochie coochie dancer but now, all she could think about was being around tigers. Al Sands, the circus's manager, hired the eager woman as a horseback rider, but her burning ambition to work with tigers led her to the circus's wild animal trainer. Within a couple of years, she</p>
+	</div>
+</div>
+
+
+
+
+
+
+<script>
+
+	//
+	// Set Initial Values
+	//
+
+	// set slider min/max
+	document.getElementById("opsz_min").innerHTML = document.getElementById("opsz").min
+	document.getElementById("opsz_max").innerHTML = document.getElementById("opsz").max
+	document.getElementById("wght_min").innerHTML = document.getElementById("wght").min
+	document.getElementById("wght_max").innerHTML = document.getElementById("wght").max
+	document.getElementById("grad_min").innerHTML = document.getElementById("grad").min
+	document.getElementById("grad_max").innerHTML = document.getElementById("grad").max
+
+	// set Current value (the box next to the slider)
+	document.getElementById("opsz_value").innerHTML = document.getElementById("opsz").value
+	document.getElementById("wght_value").innerHTML = document.getElementById("wght").value
+	document.getElementById("grad_value").innerHTML = document.getElementById("grad").value
+
+	document.getElementById("grade_value_white").innerHTML = "Grade " + document.getElementById("grad").value
+	document.getElementById("grade_value_black").innerHTML = "Grade " + document.getElementById("grad").value
+
+
+	var dict = {
+		"Serif Big Thin" : { "grad" : 0, "wght" : 0, "opsz" : 100, },
+		"Serif Big Extralight" : { "grad" : 0, "wght" : 85, "opsz" : 100, },
+		"Serif Big Light" : { "grad" : 0, "wght" : 175, "opsz" : 100, },
+		"Serif Big Regular" : { "grad" : 0, "wght" : 320, "opsz" : 100, },
+		"Serif Big Medium" : { "grad" : 0, "wght" : 450, "opsz" : 100, },
+		"Serif Big Semibold" : { "grad" : 0, "wght" : 600, "opsz" : 100, },
+		"Serif Big Bold" : { "grad" : 0, "wght" : 750, "opsz" : 100, },
+		"Serif Big Super" : { "grad" : 0, "wght" : 1000, "opsz" : 100, },
+		"Serif Display Thin" : { "grad" : 0, "wght" : 0, "opsz" : 80, },
+		"Serif Display Extralight" : { "grad" : 0, "wght" : 85, "opsz" : 80, },
+		"Serif Display Light" : { "grad" : 0, "wght" : 175, "opsz" : 80, },
+		"Serif Display Regular" : { "grad" : 0, "wght" : 320, "opsz" : 80, },
+		"Serif Display Medium" : { "grad" : 0, "wght" : 450, "opsz" : 80, },
+		"Serif Display Semibold" : { "grad" : 0, "wght" : 600, "opsz" : 80, },
+		"Serif Display Bold" : { "grad" : 0, "wght" : 750, "opsz" : 80, },
+		"Serif Display Super" : { "grad" : 0, "wght" : 1000, "opsz" : 80, },
+		"Serif Text G1 Thin" : { "grad" : -6, "wght" : 0, "opsz" : 50, },
+		"Serif Text G1 Light" : { "grad" : -6, "wght" : 150, "opsz" : 50, },
+		"Serif Text G1 Regular" : { "grad" : -6, "wght" : 300, "opsz" : 50, },
+		"Serif Text G1 Medium" : { "grad" : -6, "wght" : 475, "opsz" : 50, },
+		"Serif Text G1 Semibold" : { "grad" : -6, "wght" : 650, "opsz" : 50, },
+		"Serif Text G1 Bold" : { "grad" : -6, "wght" : 800, "opsz" : 50, },
+		"Serif Text G1 Super" : { "grad" : -6, "wght" : 1000, "opsz" : 50, },
+		"Serif Text G2 Thin" : { "grad" : 0, "wght" : 0, "opsz" : 50, },
+		"Serif Text G2 Light" : { "grad" : 0, "wght" : 150, "opsz" : 50, },
+		"Serif Text G2 Regular" : { "grad" : 0, "wght" : 300, "opsz" : 50, },
+		"Serif Text G2 Medium" : { "grad" : 0, "wght" : 475, "opsz" : 50, },
+		"Serif Text G2 Semibold" : { "grad" : 0, "wght" : 650, "opsz" : 50, },
+		"Serif Text G2 Bold" : { "grad" : 0, "wght" : 800, "opsz" : 50, },
+		"Serif Text G2 Super" : { "grad" : 0, "wght" : 1000, "opsz" : 50, },
+		"Serif Text G3 Thin" : { "grad" : 6, "wght" : 0, "opsz" : 50, },
+		"Serif Text G3 Light" : { "grad" : 6, "wght" : 150, "opsz" : 50, },
+		"Serif Text G3 Regular" : { "grad" : 6, "wght" : 300, "opsz" : 50, },
+		"Serif Text G3 Medium" : { "grad" : 6, "wght" : 475, "opsz" : 50, },
+		"Serif Text G3 Semibold" : { "grad" : 6, "wght" : 650, "opsz" : 50, },
+		"Serif Text G3 Bold" : { "grad" : 6, "wght" : 800, "opsz" : 50, },
+		"Serif Text G3 Super" : { "grad" : 6, "wght" : 1000, "opsz" : 50, },
+		"Small Text Thin" : { "grad" : 0, "wght" : 0, "opsz" : 30, },
+		"Small Text Light" : { "grad" : 0, "wght" : 150, "opsz" : 30, },
+		"Small Text Regular" : { "grad" : 0, "wght" : 300, "opsz" : 30, },
+		"Small Text Medium" : { "grad" : 0, "wght" : 475, "opsz" : 30, },
+		"Small Text Semibold" : { "grad" : 0, "wght" : 650, "opsz" : 30, },
+		"Small Text Bold" : { "grad" : 0, "wght" : 800, "opsz" : 30, },
+		"Small Text Super" : { "grad" : 0, "wght" : 1000, "opsz" : 30, },
+		"Micro Thin" : { "grad" : 0, "wght" : 0, "opsz" : 0, },
+		"Micro Light" : { "grad" : 0, "wght" : 150, "opsz" : 0, },
+		"Micro Regular" : { "grad" : 0, "wght" : 350, "opsz" : 0, },
+		"Micro Medium" : { "grad" : 0, "wght" : 500, "opsz" : 0, },
+		"Micro Semibold" : { "grad" : 0, "wght" : 700, "opsz" : 0, },
+		"Micro Bold" : { "grad" : 0, "wght" : 850, "opsz" : 0, },
+		"Micro Super" : { "grad" : 0, "wght" : 1000, "opsz" : 0, },
+
+		};
+
+
+	function changeFont(opszvalue, wghtvalue, gradvalue) {
+
+		// changes font-variation for "Copy" elements
+		var c = document.getElementsByClassName("copy");
+	
+		for (i = 0; i < c.length; i++) {
+				c[i].style = "font-variation-settings: 'opsz' " + opszvalue + ", 'wght' " + wghtvalue + ", 'grad' " + gradvalue + ";"
+			};
+
+		// Match optical size to font-size
+		if (document.getElementById('opszcheckbox').checked) {
+			for (i = 0; i < c.length; i++) {
+
+				var style = window.getComputedStyle(c[i], null).getPropertyValue('font-size');
+				var fontSize = parseFloat(style);
+
+				c[i].style = "font-variation-settings: 'opsz' " + fontSize + ", 'wght' " + wghtvalue + ", 'grad' " + gradvalue + ";"
+				};
+		} else {};
+
+		// Set the static-grade elements
+		var c = document.getElementsByClassName("grade0");
+		for (i = 0; i < c.length; i++) {
+			if (document.getElementById('opszcheckbox').checked) {
+				var style = window.getComputedStyle(c[i], null).getPropertyValue('font-size');
+				var fontSize = parseFloat(style);
+				c[i].style = "font-variation-settings: 'opsz' " + fontSize + ", 'wght' " + wghtvalue + ", 'grad' " + 0 + ";"
+			} else {
+				c[i].style = "font-variation-settings: 'opsz' " + opszvalue + ", 'wght' " + wghtvalue + ", 'grad' " + 0 + ";"
+			};
+		};
+		
+		var c = document.getElementsByClassName("grade6");
+		for (i = 0; i < c.length; i++) {
+			if (document.getElementById('opszcheckbox').checked) {
+				var style = window.getComputedStyle(c[i], null).getPropertyValue('font-size');
+				var fontSize = parseFloat(style);
+				c[i].style = "font-variation-settings: 'opsz' " + fontSize + ", 'wght' " + wghtvalue + ", 'grad' " + 6 + ";"
+			} else {
+				c[i].style = "font-variation-settings: 'opsz' " + opszvalue + ", 'wght' " + wghtvalue + ", 'grad' " + 6 + ";"
+			};
+		};
+
+		document.getElementById("grade_value_white").innerHTML = "Grade " + gradvalue
+		document.getElementById("grade_value_black").innerHTML = "Grade " + gradvalue
+
+		// Make Italic
+		italicize();
+		
+	};
+
+
+	//
+	// pull-down instances
+	//
+	
+	function changeInstance(x) {
+		var opsz = 0
+		var wght = 0
+		var grad = 0
+
+		if (x in dict) {
+			opsz = dict[x]["opsz"]
+			wght = dict[x]["wght"]
+			grad = dict[x]["grad"]
+		};
+
+		//set sliders
+		document.getElementById("opsz").value = opsz
+		document.getElementById("wght").value = wght
+		document.getElementById("grad").value = grad
+
+		// set slider values
+		document.getElementById("opsz_value").innerHTML = opsz
+		document.getElementById("wght_value").innerHTML = wght
+		document.getElementById("grad_value").innerHTML = grad
+
+		//set font
+		changeFont(opsz, wght, grad);
+
+		};
+
+
+	//
+	// Sliders
+	//
+
+	// individual sliders activate group slider
+	var slider_opsz = document.getElementById("opsz");
+	slider_opsz.oninput = function() {	axisSliders() };
+	var slider_wght = document.getElementById("wght");
+	slider_wght.oninput = function() {	axisSliders() };
+	var slider_grad = document.getElementById("grad");
+	slider_grad.oninput = function() {	axisSliders() };
+
+
+	function axisSliders(sliders, samples) {
+		// All the sliders combined.
+		
+		opsz = document.getElementById("opsz").value
+		wght = document.getElementById("wght").value
+		grad = document.getElementById("grad").value
+
+		// update value box
+		document.getElementById("opsz_value").innerHTML = opsz
+		document.getElementById("wght_value").innerHTML = wght
+		document.getElementById("grad_value").innerHTML = grad
+
+		changeFont(opsz, wght, grad);
+
+		// match slider value to instances pull-down menu
+		var i = ''
+		for (x in dict) {
+			if (dict[x]["opsz"] == opsz && dict[x]["wght"] == wght && dict[x]["grad"] == grad) {
+				i = x
+			};
+		var element = document.getElementById('instances');
+			element.value = i;
+		};
+	};
+
+
+	function italicize() {
+			var c = document.getElementsByClassName("copy");
+			if (document.getElementById('italicheckbox').checked) {
+				// Italic
+				for (i = 0; i < c.length; i++) {
+					c[i].style.fontStyle = "italic"; };
+			} else {
+			// Roman
+				for (i = 0; i < c.length; i++) {
+					c[i].style.fontStyle = "normal"; };
+			};
+	};
+
+
+	function opsz_match() {
+			opsz = document.getElementById("opsz").value
+			wght = document.getElementById("wght").value
+			grad = document.getElementById("grad").value
+			changeFont(opsz, wght, grad);
+			};
+
+</script>
+
+
+	</body>
+</html>
+
+
+
