@@ -283,3 +283,5 @@ td {
 .case { font-feature-settings: "kern" 1, "liga" 1, "case" 1; }
 .case_lnum { font-feature-settings: "kern" 1, "liga" 1, "case" 1, "lnum" 1; }
 .calt { font-feature-settings: "kern" 1, "liga" 1, "calt" 1; }
+
+.lcatls { font-feature-settings: "kern" 1, "liga" 1, "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1, "ss05" 1; }
