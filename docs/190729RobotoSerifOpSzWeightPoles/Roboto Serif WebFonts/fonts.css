@@ -1,0 +1,282 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2016 Schwartzco Inc.
+	
+*/
+
+
+.RobotoSerifDisplay-Hairline-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifDisplay-HairlineItalic-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifDisplay-Regular-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifDisplay-RegularItalic-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifDisplay-Super-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifDisplay-SuperItalic-Web {
+    font-family: "Roboto Serif Display";
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-Hairline-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-HairlineItalic-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-Regular-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-RegularItalic-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-Super-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifMicro-SuperItalic-Web {
+    font-family: "Roboto Serif Micro";
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-Hairline-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-HairlineItalic-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-Regular-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-Italic-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-Super-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.RobotoSerifText-SuperItalic-Web {
+    font-family: "Roboto Serif Text";
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-Hairline-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-Hairline-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-HairlineItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-HairlineItalic-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-Regular-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-RegularItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-RegularItalic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-Super-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-Super-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Display";
+	src: url("RobotoSerifDisplay-SuperItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifDisplay-SuperItalic-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-Hairline-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-Hairline-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-HairlineItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-HairlineItalic-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-Regular-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-RegularItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-RegularItalic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-Super-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-Super-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Micro";
+	src: url("RobotoSerifMicro-SuperItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifMicro-SuperItalic-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-HairlineItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-HairlineItalic-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-Hairline-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-Hairline-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-Regular-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-Italic-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-Italic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-Super-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-Super-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Roboto Serif Text";
+	src: url("RobotoSerifText-SuperItalic-Web.woff2") format("woff2"),
+		     url("RobotoSerifText-SuperItalic-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: italic;
+	}

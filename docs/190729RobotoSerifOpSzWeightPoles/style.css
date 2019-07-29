@@ -1,0 +1,285 @@
+
+body {
+	background-color: white;
+	padding: 10px;
+	margin: 0px;
+	font-family: Verdana, Courier;
+	font-feature-settings: "liga", "kern";
+}
+
+
+
+
+#header {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom:10px;
+	position:fixed;
+	background-color: #60B6FF;
+	left: 0;
+	top: 0;
+	width: 100%;
+  display: grid;
+	grid-template-columns: 370px 370px auto;
+	grid-template-rows: 50px auto;
+	grid-gap: 0px;
+	justify-items: start;
+}
+
+#selectFont { grid-column: 1; grid-row: 1;}
+#selectItalic { grid-column: 2; grid-row: 1;}
+#selectSize { grid-column: 1; grid-row: 2;}
+#selectLanguage { grid-column: 2; grid-row: 2;}
+#selectSS { grid-column: 3; grid-row: 1/3;}
+#selectSS ul {
+  margin: 0;
+  list-style: none;
+}
+
+
+/* Drop Down Menu */
+select {
+  border: 1px solid #111;
+  background: #d3d3d3;
+	width: 275px;
+  height: 24px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+}
+	
+
+
+
+
+
+/* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 8px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 10;
+  left: 0;
+  height: 15px;
+  width: 15px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+
+
+
+
+/*  */
+
+.title {
+	font-family: "Graphik Web";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	color: grey;
+}
+
+
+
+.text {
+	font-family: "Roboto Serif Text";
+	font-weight: 400;
+	font-style: normal;
+	font-style: normal;
+	font-size: 28px;
+}
+
+.language_text {
+	font-family: "Roboto Serif Text";
+	font-weight: 400;
+	font-style: normal;
+	font-style: normal;
+	font-size: 28px;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 {
+	font-size:36px;
+}
+
+h3 {
+/* used for left-side point sizes */
+	font-size: 18px;
+}
+
+
+label {
+	font-family: "Graphik Web";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+
+}
+
+.size100 { font-size:100px; line-height: 110px; width: 100% }
+.size72 { font-size:72px; line-height: 76px; width: 100% }
+.size60 { font-size:60px; line-height: 64px; width: 100% }
+.size48 { font-size:48px; line-height: 54px; width: 100% }
+.size42 { font-size:42px; line-height: 48px; width: 100% }
+.size36 { font-size:36px; line-height: 42px; width: 100% }
+.size30 { font-size:30px; line-height: 35px; width: 100% }
+.size24 { font-size:24px; line-height: 30px; width: 100% }
+.size22 { font-size:22px; line-height: 29px; width: 100% }
+.size20 { font-size:20px; line-height: 28px; width: 100% }
+.size18 {	font-size:18px; line-height: 26px; width: 100%; }
+.size16 { font-size:16px; line-height: 24px; width: 95%; }
+.size14 { font-size:14px; line-height: 22px; width: 95%; }
+.size13 { font-size:13px; line-height: 19px; width: 90%; }
+.size12 { font-size:12px; line-height: 18px; width: 85%; }
+.size11 { font-size:11px; line-height: 17px; width: 80%; }
+.size10 { font-size:10px; line-height: 15px; width: 75%; }
+.size9 { font-size: 9px; line-height: 13px; width: 70%; }
+
+
+
+
+/* Table */
+
+td {
+	padding: 0 0 8px 10px;
+}
+
+.pointsize {
+	padding-right: 50px;
+}
+
+
+/* 3 column container */
+
+.three_column {
+	padding: 40px 40px 0px 40px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+	justify-items: start;
+  align-items: stretch;
+}
+
+.black_on_white {
+	color: white;
+	background-color: black;
+}
+
+/* OpenType Features */
+
+.numr { font-feature-settings: "kern" 1, "liga" 1, "numr" 1; }
+.dnom { font-feature-settings: "kern" 1, "liga" 1, "dnom" 1; }
+.sups { font-feature-settings: "kern" 1, "liga" 1, "sups" 1; }
+.subs { font-feature-settings: "kern" 1, "liga" 1, "subs" 1; }
+.sinf { font-feature-settings: "kern" 1, "liga" 1, "sinf" 1; }
+
+.frac { font-feature-settings: "kern" 1, "liga" 1, "frac" 1; }
+
+.locl { font-feature-settings: "kern" 1, "liga" 1, "locl" 1; }
+.liga { font-feature-settings: "kern" 1, "liga" 1, "liga" 1; }
+
+/* 
+# onum == oldtab
+# pnum == midprop, linprop(+lnum), oldprop(+onum), prop currency,
+# lnum == lintab
+# tnum == lintab(+), oldtab(+), currency
+ */
+
+
+.lnum { font-feature-settings: "kern" 1, "liga" 1, "lnum" 1; }
+.lnum_tnum { font-feature-settings: "kern" 1, "liga" 1, "lnum" 1, "tnum" 1;}
+.zero_lnum { font-feature-settings: "kern" 1, "liga" 1, "zero" 1, "lnum" 1; }
+
+.onum { font-feature-settings: "kern" 1, "liga" 1, "onum" 1; }
+.onum_tnum { font-feature-settings: "kern" 1, "liga" 1, "onum" 1, "tnum" 1;}
+.zero_onum { font-feature-settings: "kern" 1, "liga" 1, "zero" 1, "onum" 1; }
+
+.pnum { font-feature-settings: "kern" 1, "liga" 1, "pnum" 1; }
+.pnum_tnum { font-feature-settings: "kern" 1, "liga" 1, "pnum" 1, "tnum" 1;}
+.pnum_onum { font-feature-settings: "kern" 1, "liga" 1, "pnum" 1, "onum" 1;}
+.pnum_lnum { font-feature-settings: "kern" 1, "liga" 1, "pnum" 1, "lnum" 1;}
+.zero_pnum_lnum { font-feature-settings: "kern" 1, "liga" 1, "zero" 1, "pnum" 1, "lnum" 1;}
+.zero_pnum_onum { font-feature-settings: "kern" 1, "liga" 1, "zero" 1, "pnum" 1, "onum" 1;}
+
+.tnum { font-feature-settings: "kern" 1, "liga" 1, "tnum" 1; }
+
+.zero { font-feature-settings: "kern" 1, "liga" 1, "zero" 1; }
+
+.ss01 { font-feature-settings: "kern" 1, "liga" 1, "ss01" 1; }
+.ss02 { font-feature-settings: "kern" 1, "liga" 1, "ss02" 1; }
+.ss03 { font-feature-settings: "kern" 1, "liga" 1, "ss03" 1; }
+.ss04 { font-feature-settings: "kern" 1, "liga" 1, "ss04" 1; }
+
+/* Currency Alt */
+.ss05 { font-feature-settings: "kern" 1, "liga" 1, "ss05" 1; }
+.tnum_ss05 { font-feature-settings: "kern" 1, "liga" 1, "tnum" 1, "ss05" 1;}
+.pnum_ss05 { font-feature-settings: "kern" 1, "liga" 1, "pnum" 1, "ss05" 1;}
+
+
+.ss06 { font-feature-settings: "kern" 1, "liga" 1, "ss06" 1; }
+.ss07 { font-feature-settings: "kern" 1, "liga" 1, "ss07" 1; }
+.ss08 { font-feature-settings: "kern" 1, "liga" 1, "ss08" 1; }
+.ss09 { font-feature-settings: "kern" 1, "liga" 1, "ss09" 1; }
+
+.case { font-feature-settings: "kern" 1, "liga" 1, "case" 1; }
+.case_lnum { font-feature-settings: "kern" 1, "liga" 1, "case" 1, "lnum" 1; }
+.calt { font-feature-settings: "kern" 1, "liga" 1, "calt" 1; }
