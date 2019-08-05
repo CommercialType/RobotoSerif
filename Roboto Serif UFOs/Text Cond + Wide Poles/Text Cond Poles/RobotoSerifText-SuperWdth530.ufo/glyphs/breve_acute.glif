@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve_acute" format="2">
+  <advance width="426.34000000000003"/>
+  <anchor x="208.64" y="535.0" name="_top"/>
+  <outline>
+    <component base="acute" xOffset="-5.639999999999997" yOffset="192.8"/>
+    <component base="breve" xOffset="-24.439999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve_tilde" format="2">
+  <advance width="595.04"/>
+  <anchor x="303.05999999999995" y="524.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="379.4800000000001" y="764.0" type="curve" smooth="yes"/>
+      <point x="464.9800000000001" y="764.0"/>
+      <point x="518.62" y="816.152"/>
+      <point x="539.8599999999999" y="896.304" type="curve"/>
+      <point x="432.58000000000004" y="925.7840000000001" type="line"/>
+      <point x="421.96000000000004" y="894.44"/>
+      <point x="410.34000000000003" y="878.592"/>
+      <point x="380.48" y="878.592" type="curve" smooth="yes"/>
+      <point x="333.91999999999996" y="878.592"/>
+      <point x="303.05999999999995" y="923.616"/>
+      <point x="214.01999999999995" y="923.616" type="curve" smooth="yes"/>
+      <point x="117.9" y="923.616"/>
+      <point x="74.88000000000002" y="874.464"/>
+      <point x="55.64" y="791.976" type="curve"/>
+      <point x="162.92000000000002" y="764.3280000000001" type="line"/>
+      <point x="171.0" y="796.176"/>
+      <point x="183.15999999999997" y="810.856"/>
+      <point x="211.48000000000002" y="810.856" type="curve" smooth="yes"/>
+      <point x="254.5" y="810.856"/>
+      <point x="279.28000000000003" y="764.0"/>
+    </contour>
+    <contour>
+      <point x="297.52" y="560.032" type="curve" smooth="yes"/>
+      <point x="171.0" y="560.032"/>
+      <point x="84.5" y="620.344"/>
+      <point x="88.04000000000002" y="724.992" type="curve"/>
+      <point x="215.02" y="724.992" type="line"/>
+      <point x="221.1" y="684.472"/>
+      <point x="254.5" y="673.9599999999999"/>
+      <point x="301.06" y="673.9599999999999" type="curve" smooth="yes"/>
+      <point x="347.08000000000004" y="673.9599999999999"/>
+      <point x="379.4800000000001" y="684.472"/>
+      <point x="385.02" y="724.992" type="curve"/>
+      <point x="506.4600000000001" y="724.992" type="line"/>
+      <point x="510.0" y="620.344"/>
+      <point x="421.96000000000004" y="560.032"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

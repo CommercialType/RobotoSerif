@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+  <advance width="697.866"/>
+  <unicode hex="01A0"/>
+  <anchor x="330.67" y="742.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="439.52" y="660.22" type="curve"/>
+      <point x="619.682" y="643.92"/>
+      <point x="707.986" y="699.2"/>
+      <point x="706.774" y="877.0" type="curve"/>
+      <point x="555.76" y="877.0" type="line"/>
+      <point x="554.478" y="767.6"/>
+      <point x="503.336" y="720.0"/>
+      <point x="330.67" y="720.0" type="curve"/>
+      <point x="378.07" y="708.42"/>
+      <point x="405.712" y="674.8"/>
+    </contour>
+    <contour>
+      <point x="342.178" y="-10.0" type="curve" smooth="yes"/>
+      <point x="533.508" y="-10.0"/>
+      <point x="663.434" y="133.84"/>
+      <point x="663.434" y="355.0" type="curve" smooth="yes"/>
+      <point x="663.434" y="525.6"/>
+      <point x="587.4739999999999" y="645.86"/>
+      <point x="461.09000000000003" y="682.56" type="curve"/>
+      <point x="429.494" y="711.86"/>
+      <point x="388.87199999999996" y="720.0"/>
+      <point x="342.178" y="720.0" type="curve" smooth="yes"/>
+      <point x="150.084" y="720.0"/>
+      <point x="20.064" y="575.44"/>
+      <point x="20.064" y="355.0" type="curve" smooth="yes"/>
+      <point x="20.064" y="133.84"/>
+      <point x="150.084" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="342.178" y="84.39999999999999" type="curve" smooth="yes"/>
+      <point x="297.956" y="84.39999999999999"/>
+      <point x="274.738" y="177.46"/>
+      <point x="274.738" y="355.0" type="curve" smooth="yes"/>
+      <point x="274.738" y="532.54"/>
+      <point x="297.956" y="625.6"/>
+      <point x="342.178" y="625.6" type="curve" smooth="yes"/>
+      <point x="385.836" y="625.6"/>
+      <point x="408.85400000000004" y="532.54"/>
+      <point x="408.85400000000004" y="355.0" type="curve" smooth="yes"/>
+      <point x="408.85400000000004" y="177.46"/>
+      <point x="385.836" y="84.39999999999999"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

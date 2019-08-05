@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis_caron.uc" format="2">
+  <advance width="594.5"/>
+  <outline>
+    <component base="dieresis.uc" xOffset="29.160000000000004"/>
+    <component base="caron.uc" xOffset="49.16" yOffset="216.272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.568,0.6434,1</string>
+    </dict>
+  </lib>
+</glyph>

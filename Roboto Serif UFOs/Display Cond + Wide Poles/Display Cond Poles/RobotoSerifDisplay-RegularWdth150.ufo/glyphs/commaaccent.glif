@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="2">
+  <advance width="351.25"/>
+  <anchor x="169.75" y="33.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="164.8475" y="-306.75" type="line"/>
+      <point x="199.16700556915487" y="-260.552573365571"/>
+      <point x="218.835" y="-217.6"/>
+      <point x="218.835" y="-159.05" type="curve" smooth="yes"/>
+      <point x="218.835" y="-110.95"/>
+      <point x="199.37460396039603" y="-87.5"/>
+      <point x="170.8475" y="-87.5" type="curve" smooth="yes"/>
+      <point x="145.0746875" y="-87.5"/>
+      <point x="126.41499999999999" y="-110.2"/>
+      <point x="126.41499999999999" y="-142.8" type="curve" smooth="yes"/>
+      <point x="126.41499999999999" y="-174.55"/>
+      <point x="144.7775" y="-196.1"/>
+      <point x="168.8575" y="-196.1" type="curve" smooth="yes"/>
+      <point x="183.5625" y="-196.1"/>
+      <point x="189.635" y="-189.4"/>
+      <point x="195.98" y="-182.45" type="curve"/>
+      <point x="200.07264998962336" y="-172.64910624697347"/>
+      <point x="192.66757137588039" y="-171.2501427517608"/>
+      <point x="190.99" y="-179.15" type="curve"/>
+      <point x="186.7349876477384" y="-218.35004426227073"/>
+      <point x="157.1385117889546" y="-243.6999973606818"/>
+      <point x="119.515" y="-277.35" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

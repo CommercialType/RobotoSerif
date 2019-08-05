@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="599.0"/>
+  <anchor x="287.76" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="382.44" y="940.0" type="line"/>
+      <point x="386.9" y="981.1"/>
+      <point x="429.28" y="1014.6"/>
+      <point x="505.98" y="1014.6" type="curve" smooth="yes"/>
+      <point x="582.04" y="1014.6"/>
+      <point x="628.78" y="987.45"/>
+      <point x="628.78" y="942.25" type="curve" smooth="yes"/>
+      <point x="628.78" y="889.1"/>
+      <point x="562.04" y="867.1"/>
+      <point x="488.72" y="863.0" type="curve"/>
+      <point x="529.5799999999999" y="888.1" type="line"/>
+      <point x="529.5799999999999" y="837.15" type="line"/>
+      <point x="464.4" y="837.15" type="line"/>
+      <point x="464.4" y="896.25" type="line"/>
+      <point x="519.66" y="898.3"/>
+      <point x="545.6800000000001" y="914.15"/>
+      <point x="545.6800000000001" y="940.05" type="curve" smooth="yes"/>
+      <point x="545.6800000000001" y="959.8"/>
+      <point x="530.96" y="971.65"/>
+      <point x="505.14" y="971.65" type="curve" smooth="yes"/>
+      <point x="476.02" y="971.65"/>
+      <point x="462.46000000000004" y="958.85"/>
+      <point x="458.0" y="940.0" type="curve"/>
+    </contour>
+    <component base="circumflex.uc" xOffset="54.78"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>
