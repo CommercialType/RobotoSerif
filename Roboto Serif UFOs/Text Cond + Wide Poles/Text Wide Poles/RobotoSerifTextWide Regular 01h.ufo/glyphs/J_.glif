@@ -18,8 +18,8 @@
       <point x="175.43076923076922" y="52.0"/>
       <point x="133.27528028065456" y="73.63295962579394"/>
       <point x="112" y="102" type="curve"/>
-      <point x="74.39588505853949" y="149.76738924996334"/>
-      <point x="78.89539906954687" y="79.02743630962705"/>
+      <point x="91" y="101"/>
+      <point x="97" y="67"/>
       <point x="140" y="63" type="curve"/>
       <point x="140" y="163" type="line"/>
       <point x="39" y="163" type="line"/>
@@ -50,6 +50,8 @@
           <string>fontInfo</string>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
     </dict>
   </lib>
 </glyph>
