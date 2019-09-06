@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macron_dieresis.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_dieresis.uc" format="2">
   <advance width="588"/>
+  <anchor x="294" y="694" name="_top"/>
   <outline>
     <component base="macron.uc" xOffset="41"/>
     <component base="dieresis.uc" xOffset="41" yOffset="132"/>
-    <contour>
-      <point x="294" y="694" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

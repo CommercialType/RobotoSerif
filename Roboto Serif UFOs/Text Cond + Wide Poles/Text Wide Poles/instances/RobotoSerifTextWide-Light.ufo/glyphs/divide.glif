@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="654"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="386" y="174" type="curve" smooth="yes"/>
+      <point x="386" y="205"/>
+      <point x="361" y="226"/>
+      <point x="327" y="226" type="curve" smooth="yes"/>
+      <point x="293" y="226"/>
+      <point x="269" y="205"/>
+      <point x="269" y="174" type="curve" smooth="yes"/>
+      <point x="269" y="143"/>
+      <point x="293" y="122"/>
+      <point x="327" y="122" type="curve" smooth="yes"/>
+      <point x="361" y="122"/>
+      <point x="386" y="143"/>
+    </contour>
+    <contour>
+      <point x="386" y="509" type="curve" smooth="yes"/>
+      <point x="386" y="541"/>
+      <point x="361" y="562"/>
+      <point x="327" y="562" type="curve" smooth="yes"/>
+      <point x="293" y="562"/>
+      <point x="269" y="541"/>
+      <point x="269" y="509" type="curve" smooth="yes"/>
+      <point x="269" y="478"/>
+      <point x="293" y="457"/>
+      <point x="327" y="457" type="curve" smooth="yes"/>
+      <point x="361" y="457"/>
+      <point x="386" y="478"/>
+    </contour>
+    <component base="minus" xOffset="38"/>
+  </outline>
+</glyph>

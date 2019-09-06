@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaaccent" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
   <advance width="588"/>
+  <anchor x="286" y="33" name="_bottom"/>
   <outline>
     <contour>
       <point x="274" y="-307" type="line"/>
@@ -25,9 +26,6 @@
       <point x="311" y="-213"/>
       <point x="265" y="-249"/>
       <point x="212" y="-277" type="curve"/>
-    </contour>
-    <contour>
-      <point x="286" y="33" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>

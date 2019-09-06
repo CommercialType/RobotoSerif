@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tilde_acute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_acute" format="2">
   <advance width="689"/>
+  <anchor x="341" y="515" name="_top"/>
   <outline>
     <component base="tilde" xOffset="91"/>
     <component base="acute" xOffset="125" yOffset="201"/>
-    <contour>
-      <point x="341" y="515" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

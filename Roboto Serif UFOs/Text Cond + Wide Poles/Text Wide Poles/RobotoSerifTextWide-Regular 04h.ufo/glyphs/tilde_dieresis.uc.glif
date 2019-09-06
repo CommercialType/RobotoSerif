@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tilde_dieresis.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_dieresis.uc" format="2">
   <advance width="591"/>
+  <anchor x="295" y="694" name="_top"/>
   <outline>
     <component base="tilde.uc" xOffset="43"/>
     <component base="dieresis.uc" xOffset="43" yOffset="153"/>
-    <contour>
-      <point x="295" y="694" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

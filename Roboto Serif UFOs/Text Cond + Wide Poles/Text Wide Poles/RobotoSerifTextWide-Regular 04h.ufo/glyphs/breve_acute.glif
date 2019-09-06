@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve_acute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_acute" format="2">
   <advance width="599"/>
+  <anchor x="298" y="535" name="_top"/>
   <outline>
     <component base="acute" xOffset="74" yOffset="168"/>
     <component base="breve" xOffset="42"/>
-    <contour>
-      <point x="298" y="535" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

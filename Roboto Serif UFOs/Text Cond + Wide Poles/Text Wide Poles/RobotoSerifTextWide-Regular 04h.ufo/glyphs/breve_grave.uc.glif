@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve_grave.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_grave.uc" format="2">
   <advance width="599"/>
+  <anchor x="294" y="744" name="_top"/>
   <outline>
     <contour>
       <point x="270" y="1025" type="curve" smooth="yes"/>
@@ -18,9 +19,6 @@
       <point x="247" y="1053"/>
     </contour>
     <component base="breve.uc" xOffset="42"/>
-    <contour>
-      <point x="294" y="744" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresis_acute.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_acute.uc" format="2">
   <advance width="674"/>
+  <anchor x="337" y="694" name="_top"/>
   <outline>
     <component base="dieresis.uc" xOffset="83"/>
     <component base="acute.uc" xOffset="125" yOffset="172"/>
-    <contour>
-      <point x="337" y="694" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

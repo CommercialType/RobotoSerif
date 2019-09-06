@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex_acute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_acute" format="2">
   <advance width="599"/>
+  <anchor x="275" y="558" name="_top"/>
   <outline>
     <contour>
       <point x="481" y="820" type="curve" smooth="yes"/>
@@ -18,9 +19,6 @@
       <point x="497" y="857"/>
     </contour>
     <component base="circumflex" xOffset="42"/>
-    <contour>
-      <point x="275" y="558" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

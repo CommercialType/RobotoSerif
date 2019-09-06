@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <anchor x="-284" y="539" name="_top"/>
   <outline>
-    <component base="hungarumlaut" xScale="-1.0" xOffset="-74"/>
-    <contour>
-      <point x="-284" y="539" type="move" name="_top"/>
-    </contour>
+    <component base="hungarumlaut" xScale="-1" xOffset="-74"/>
   </outline>
 </glyph>

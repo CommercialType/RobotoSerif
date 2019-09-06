@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron_dotaccent.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron_dotaccent.uc" format="2">
   <advance width="698"/>
+  <anchor x="355" y="694" name="_top"/>
   <outline>
     <component base="caron.uc" xOffset="98"/>
     <component base="dotaccent.uc" xOffset="98" yOffset="142"/>
-    <contour>
-      <point x="355" y="694" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macron_grave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_grave" format="2">
   <advance width="738"/>
+  <anchor x="369" y="526" name="_top"/>
   <outline>
     <component base="macron" xOffset="117"/>
     <component base="grave" xOffset="125" yOffset="171"/>
-    <contour>
-      <point x="369" y="526" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

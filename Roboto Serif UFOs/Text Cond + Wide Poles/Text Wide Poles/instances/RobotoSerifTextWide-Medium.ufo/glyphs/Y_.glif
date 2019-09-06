@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="804"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="328" y="318" type="line"/>
+      <point x="328" y="92" type="line" smooth="yes"/>
+      <point x="328" y="63"/>
+      <point x="296" y="56"/>
+      <point x="252" y="56" type="curve" smooth="yes"/>
+      <point x="234" y="56" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="56" type="line"/>
+      <point x="556" y="56" type="line" smooth="yes"/>
+      <point x="513" y="56"/>
+      <point x="480" y="63"/>
+      <point x="480" y="92" type="curve" smooth="yes"/>
+      <point x="480" y="318" type="line"/>
+      <point x="465" y="271" type="line"/>
+      <point x="698" y="613" type="line" smooth="yes"/>
+      <point x="722" y="649"/>
+      <point x="750" y="654"/>
+      <point x="784" y="654" type="curve" smooth="yes"/>
+      <point x="789" y="654" type="line"/>
+      <point x="789" y="710" type="line"/>
+      <point x="538" y="710" type="line"/>
+      <point x="538" y="654" type="line"/>
+      <point x="554" y="654" type="line" smooth="yes"/>
+      <point x="590" y="654"/>
+      <point x="629" y="647"/>
+      <point x="629" y="636" type="curve"/>
+      <point x="419" y="324" type="line"/>
+      <point x="463" y="329" type="line"/>
+      <point x="247" y="644" type="line"/>
+      <point x="247" y="651"/>
+      <point x="280" y="654"/>
+      <point x="312" y="654" type="curve" smooth="yes"/>
+      <point x="331" y="654" type="line"/>
+      <point x="331" y="710" type="line"/>
+      <point x="14" y="710" type="line"/>
+      <point x="14" y="654" type="line"/>
+      <point x="20" y="654" type="line" smooth="yes"/>
+      <point x="53" y="654"/>
+      <point x="76" y="653"/>
+      <point x="94" y="628" type="curve" smooth="yes"/>
+      <point x="344" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="741" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="403" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

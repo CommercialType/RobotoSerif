@@ -1,0 +1,46 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2016 Schwartzco Inc.
+	
+*/
+
+
+
+@font-face {
+	font-family: "RobotoSerifTextItalic";
+	src: url("RobotoSerifSlantExploration-Italic-Web.woff2") format("woff2"),
+		     url("RobotoSerifSlantExploration-Italic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+	
+
+@font-face {
+	font-family: "RobotoSerifTextItalic1";
+	src: url("RobotoSerifSlantExploration-Italic1-Web.woff2") format("woff2"),
+		     url("RobotoSerifSlantExploration-Italic1-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+	
+@font-face {
+	font-family: "RobotoSerifTextItalic2";
+	src: url("RobotoSerifSlantExploration-Italic2-Web.woff2") format("woff2"),
+		     url("RobotoSerifSlantExploration-Italic2-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+	
+@font-face {
+	font-family: "RobotoSerifTextSlant";
+	src: url("RobotoSerifSlantExploration-Slant-Web.woff2") format("woff2"),
+		     url("RobotoSerifSlantExploration-Slant-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}	

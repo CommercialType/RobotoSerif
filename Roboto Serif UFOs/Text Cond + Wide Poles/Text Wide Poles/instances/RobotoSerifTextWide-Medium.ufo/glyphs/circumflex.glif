@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="590"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="360" y="736" type="line"/>
+      <point x="490" y="581" type="line"/>
+      <point x="490" y="567" type="line"/>
+      <point x="423" y="567" type="line"/>
+      <point x="263" y="679" type="line"/>
+      <point x="327" y="679" type="line"/>
+      <point x="167" y="567" type="line"/>
+      <point x="112" y="567" type="line"/>
+      <point x="112" y="581" type="line"/>
+      <point x="242" y="736" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="529" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

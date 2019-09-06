@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.uc" format="1">
+  <advance width="593"/>
+  <outline>
+    <contour>
+      <point x="297" y="750" type="curve" smooth="yes"/>
+      <point x="189" y="750"/>
+      <point x="107" y="801"/>
+      <point x="101" y="909" type="curve"/>
+      <point x="212" y="909" type="line"/>
+      <point x="219" y="867"/>
+      <point x="248" y="853"/>
+      <point x="300" y="853" type="curve" smooth="yes"/>
+      <point x="352" y="853"/>
+      <point x="380" y="867"/>
+      <point x="386" y="909" type="curve"/>
+      <point x="492" y="909" type="line"/>
+      <point x="485" y="801"/>
+      <point x="404" y="750"/>
+    </contour>
+    <contour>
+      <point x="297" y="694" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

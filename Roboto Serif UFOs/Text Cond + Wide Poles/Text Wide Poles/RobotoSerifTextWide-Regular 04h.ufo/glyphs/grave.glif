@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
   <advance width="588"/>
   <unicode hex="0060"/>
+  <anchor x="253" y="531" name="_top"/>
   <outline>
-    <component base="acute" xScale="-1.0" xOffset="493"/>
-    <contour>
-      <point x="253" y="531" type="move" name="_top"/>
-    </contour>
+    <component base="acute" xScale="-1" xOffset="493"/>
   </outline>
   <lib>
     <dict>

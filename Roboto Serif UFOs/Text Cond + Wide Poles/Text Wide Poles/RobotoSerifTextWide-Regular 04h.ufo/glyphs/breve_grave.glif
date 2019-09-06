@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve_grave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_grave" format="2">
   <advance width="599"/>
+  <anchor x="299" y="515" name="_top"/>
   <outline>
     <component base="breve" xOffset="42"/>
     <component base="grave" xOffset="56" yOffset="168"/>
-    <contour>
-      <point x="299" y="515" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

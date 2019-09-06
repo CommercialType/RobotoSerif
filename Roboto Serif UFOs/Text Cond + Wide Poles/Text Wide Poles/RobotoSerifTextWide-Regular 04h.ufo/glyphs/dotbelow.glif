@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotbelow" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
   <advance width="588"/>
+  <anchor x="294" y="-35" name="_bottom"/>
   <outline>
     <component base="dotaccent" xOffset="41" yOffset="-828"/>
-    <contour>
-      <point x="294" y="-35" type="move" name="_bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

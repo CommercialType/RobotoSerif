@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve" format="2">
   <advance width="588"/>
   <unicode hex="02D8"/>
+  <anchor x="295" y="517" name="_top"/>
   <outline>
     <contour>
       <point x="295" y="578" type="curve" smooth="yes"/>
@@ -18,9 +19,6 @@
       <point x="453" y="737" type="line"/>
       <point x="447" y="628"/>
       <point x="383" y="578"/>
-    </contour>
-    <contour>
-      <point x="295" y="517" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve_hook" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_hook" format="2">
   <advance width="599"/>
+  <anchor x="298" y="525" name="_top"/>
   <outline>
     <contour>
       <point x="184" y="830" type="line"/>
@@ -42,9 +43,6 @@
       <point x="453" y="735" type="line"/>
       <point x="447" y="627"/>
       <point x="383" y="578"/>
-    </contour>
-    <contour>
-      <point x="298" y="525" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

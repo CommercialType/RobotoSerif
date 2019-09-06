@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevebelow" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelow" format="2">
   <advance width="588"/>
+  <anchor x="298" y="-46" name="_bottom"/>
   <outline>
     <component base="breve" xOffset="42" yOffset="-817"/>
-    <contour>
-      <point x="298" y="-46" type="move" name="_bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

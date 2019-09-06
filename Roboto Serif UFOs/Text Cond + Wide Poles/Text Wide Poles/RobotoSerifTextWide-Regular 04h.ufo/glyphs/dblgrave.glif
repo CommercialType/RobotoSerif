@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgrave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgrave" format="2">
   <advance width="588"/>
+  <anchor x="277" y="539" name="_top"/>
   <outline>
-    <component base="hungarumlaut" xScale="-1.0" xOffset="543"/>
-    <contour>
-      <point x="277" y="539" type="move" name="_top"/>
-    </contour>
+    <component base="hungarumlaut" xScale="-1" xOffset="543"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaccent.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.uc" format="2">
   <advance width="588"/>
+  <anchor x="294" y="720" name="_top"/>
   <outline>
     <component base="dotaccent" xOffset="42" yOffset="165"/>
-    <contour>
-      <point x="294" y="720" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

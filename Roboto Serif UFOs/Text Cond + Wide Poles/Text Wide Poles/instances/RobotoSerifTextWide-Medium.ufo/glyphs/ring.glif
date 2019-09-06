@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="590"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="234" y="668" type="curve" smooth="yes"/>
+      <point x="234" y="707"/>
+      <point x="260" y="727"/>
+      <point x="295" y="727" type="curve" smooth="yes"/>
+      <point x="329" y="727"/>
+      <point x="356" y="707"/>
+      <point x="356" y="668" type="curve" smooth="yes"/>
+      <point x="356" y="629"/>
+      <point x="330" y="610"/>
+      <point x="295" y="610" type="curve" smooth="yes"/>
+      <point x="260" y="610"/>
+      <point x="234" y="629"/>
+    </contour>
+    <contour>
+      <point x="437" y="668" type="curve" smooth="yes"/>
+      <point x="437" y="733"/>
+      <point x="375" y="769"/>
+      <point x="295" y="769" type="curve" smooth="yes"/>
+      <point x="215" y="769"/>
+      <point x="152" y="733"/>
+      <point x="152" y="668" type="curve" smooth="yes"/>
+      <point x="152" y="603"/>
+      <point x="215" y="567"/>
+      <point x="295" y="567" type="curve" smooth="yes"/>
+      <point x="374" y="567"/>
+      <point x="437" y="603"/>
+    </contour>
+    <contour>
+      <point x="295" y="526" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

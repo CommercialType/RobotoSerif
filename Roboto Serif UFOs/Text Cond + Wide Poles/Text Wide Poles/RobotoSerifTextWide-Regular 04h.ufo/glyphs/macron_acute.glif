@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macron_acute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_acute" format="2">
   <advance width="658"/>
+  <anchor x="329" y="526" name="_top"/>
   <outline>
     <component base="macron" xOffset="76"/>
     <component base="acute" xOffset="103" yOffset="171"/>
-    <contour>
-      <point x="329" y="526" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

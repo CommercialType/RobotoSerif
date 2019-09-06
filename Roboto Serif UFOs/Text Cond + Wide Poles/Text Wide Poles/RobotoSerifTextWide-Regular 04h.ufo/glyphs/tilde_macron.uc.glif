@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tilde_macron.uc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_macron.uc" format="2">
   <advance width="619"/>
+  <anchor x="293" y="694" name="_top"/>
   <outline>
     <component base="tilde.uc" xOffset="42"/>
     <component base="macron.uc" xOffset="42" yOffset="153"/>
-    <contour>
-      <point x="293" y="694" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
