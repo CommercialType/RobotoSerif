@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.oldtab" format="2">
-  <advance width="658"/>
+  <advance width="664"/>
   <outline>
-    <component base="eight.old" xOffset="46"/>
+    <component base="eight.old"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
 </glyph>

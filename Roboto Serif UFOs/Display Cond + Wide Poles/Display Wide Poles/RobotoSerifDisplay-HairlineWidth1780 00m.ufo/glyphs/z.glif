@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="552"/>
+  <unicode hex="007A"/>
+  <guideline x="500" y="503" angle="229.07682233959682" identifier="TaoxUtYEM1"/>
+  <outline>
+    <contour>
+      <point x="70" y="1" type="line"/>
+      <point x="502" y="503" type="line"/>
+      <point x="502" y="518" type="line"/>
+      <point x="61" y="518" type="line"/>
+      <point x="61" y="379" type="line"/>
+      <point x="75" y="379" type="line"/>
+      <point x="84" y="461" type="line" smooth="yes"/>
+      <point x="88" y="497"/>
+      <point x="104" y="504"/>
+      <point x="226" y="504" type="curve" smooth="yes"/>
+      <point x="473" y="504" type="line"/>
+      <point x="465" y="512" type="line"/>
+      <point x="35" y="15" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="152" type="line"/>
+      <point x="503" y="152" type="line"/>
+      <point x="493" y="59" type="line" smooth="yes"/>
+      <point x="489" y="21"/>
+      <point x="461" y="14"/>
+      <point x="334" y="14" type="curve" smooth="yes"/>
+      <point x="57" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.3151,0.8535,1</string>
+    </dict>
+  </lib>
+</glyph>

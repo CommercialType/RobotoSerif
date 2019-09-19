@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.slashlintab" format="2">
-  <advance width="666"/>
+  <advance width="664"/>
   <outline>
-    <component base="zero.slashlin" xOffset="34.560000000000024"/>
+    <component base="zero.slashlin"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
 </glyph>

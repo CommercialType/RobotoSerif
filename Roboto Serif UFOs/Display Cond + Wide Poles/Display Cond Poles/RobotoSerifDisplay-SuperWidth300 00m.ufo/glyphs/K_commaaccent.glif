@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="636"/>
+  <unicode hex="0136"/>
+  <outline>
+    <component base="K" xOffset="-67.75999999999999"/>
+    <component base="commaaccent" xOffset="125.24000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

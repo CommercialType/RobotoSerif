@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin.proportional" format="2">
+  <advance width="431"/>
+  <outline>
+    <contour>
+      <point x="92" y="508" type="line"/>
+      <point x="86" y="456" type="line"/>
+      <point x="384" y="456" type="line"/>
+      <point x="390" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="585" type="curve" smooth="yes"/>
+      <point x="115" y="45" type="line" smooth="yes"/>
+      <point x="94" y="-145"/>
+      <point x="58" y="-177"/>
+      <point x="15" y="-177" type="curve" smooth="yes"/>
+      <point x="-5" y="-177"/>
+      <point x="-25" y="-169"/>
+      <point x="-41" y="-161" type="curve"/>
+      <point x="-46" y="-221" type="line"/>
+      <point x="-34" y="-228"/>
+      <point x="-11" y="-236"/>
+      <point x="16" y="-236" type="curve" smooth="yes"/>
+      <point x="103" y="-236"/>
+      <point x="174" y="-161"/>
+      <point x="199" y="56" type="curve" smooth="yes"/>
+      <point x="259" y="579" type="line" smooth="yes"/>
+      <point x="268" y="673"/>
+      <point x="302" y="705"/>
+      <point x="353" y="705" type="curve" smooth="yes"/>
+      <point x="380" y="705"/>
+      <point x="404" y="698"/>
+      <point x="429" y="686" type="curve"/>
+      <point x="433" y="745" type="line"/>
+      <point x="412" y="757"/>
+      <point x="379" y="764"/>
+      <point x="348" y="764" type="curve" smooth="yes"/>
+      <point x="252" y="764"/>
+      <point x="191" y="707"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="2">
+  <advance width="682"/>
+  <unicode hex="01AF"/>
+  <anchor x="338" y="663" name="top"/>
+  <outline>
+    <contour>
+      <point x="593" y="672" type="curve" smooth="yes"/>
+      <point x="666" y="690"/>
+      <point x="714" y="748"/>
+      <point x="714" y="877" type="curve"/>
+      <point x="637" y="877" type="line"/>
+      <point x="637" y="748"/>
+      <point x="629" y="710"/>
+      <point x="514" y="710" type="curve" smooth="yes"/>
+      <point x="419" y="710" type="line"/>
+      <point x="419" y="666" type="line"/>
+      <point x="426" y="666" type="line" smooth="yes"/>
+      <point x="456" y="666"/>
+      <point x="495" y="658"/>
+      <point x="495" y="644" type="curve" smooth="yes"/>
+      <point x="495" y="271" type="line" smooth="yes"/>
+      <point x="495" y="107"/>
+      <point x="433" y="52"/>
+      <point x="348" y="52" type="curve" smooth="yes"/>
+      <point x="260" y="52"/>
+      <point x="199" y="106"/>
+      <point x="199" y="271" type="curve" smooth="yes"/>
+      <point x="199" y="656" type="line" smooth="yes"/>
+      <point x="199" y="663"/>
+      <point x="238" y="666"/>
+      <point x="268" y="666" type="curve" smooth="yes"/>
+      <point x="275" y="666" type="line"/>
+      <point x="275" y="710" type="line"/>
+      <point x="34" y="710" type="line"/>
+      <point x="34" y="666" type="line"/>
+      <point x="43" y="666" type="line" smooth="yes"/>
+      <point x="81" y="666"/>
+      <point x="109" y="659"/>
+      <point x="109" y="630" type="curve" smooth="yes"/>
+      <point x="109" y="271" type="line" smooth="yes"/>
+      <point x="109" y="70"/>
+      <point x="204" y="-10"/>
+      <point x="335" y="-10" type="curve" smooth="yes"/>
+      <point x="455" y="-10"/>
+      <point x="551" y="70"/>
+      <point x="551" y="271" type="curve" smooth="yes"/>
+      <point x="551" y="626" type="line" smooth="yes"/>
+      <point x="551" y="653"/>
+      <point x="567" y="662"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

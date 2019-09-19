@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whitesquare" format="2">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="72.0" y="104.0" type="line"/>
+      <point x="423.0" y="104.0" type="line"/>
+      <point x="423.0" y="522.0" type="line"/>
+      <point x="72.0" y="522.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.0" y="159.0" type="line"/>
+      <point x="118.0" y="467.0" type="line"/>
+      <point x="377.0" y="467.0" type="line"/>
+      <point x="377.0" y="159.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>
