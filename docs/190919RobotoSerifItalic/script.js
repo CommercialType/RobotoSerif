@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		  clearTimeout(buttonTimer);
 			var v = document.getElementById("italicNumber").value
 			var i = v
-			if (v == 1) {	i = 0 } else { i = 1 };
+			if (v == 100) {	i = 0 } else { i = 100 };
 			updateUI(i)
 			changeFont()
 
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function updateUI(i) {
 	// convert input to a value
 	if (i == "Roman") { i = 0 }
-	else if (i == "Italic") {i = 1 } 
+	else if (i == "Italic") {i = 100 } 
 	else { i = i };
 
 	document.getElementById("italicSlider").value = i;
@@ -77,7 +77,7 @@ function italicSliderChange(){
 	
 function italicNumberChange(){
 	var v = document.getElementById("italicNumber").value
-	if (v > 1 ) {v = 1}
+	if (v > 100 ) {v = 100}
 	updateUI(v)
 	changeFont()
 	};
@@ -99,7 +99,7 @@ function changeFont() {
 // 	else {f = "RobotoSerifTextItalic" };
 
 	// use italicNumber for ital value
-	var v = document.getElementById("italicNumber").value
+	var v = document.getElementById("italicNumber").value/100
 	
 	var c = document.getElementsByClassName("testFont");
 	for (i = 0; i < c.length; i++) {
