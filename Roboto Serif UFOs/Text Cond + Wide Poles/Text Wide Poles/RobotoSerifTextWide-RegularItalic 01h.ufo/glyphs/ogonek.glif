@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="690"/>
+  <unicode hex="02DB"/>
+  <anchor x="410" y="9" name="_right"/>
+  <outline>
+    <contour>
+      <point x="517" y="35" type="line"/>
+      <point x="363" y="-31"/>
+      <point x="278" y="-76"/>
+      <point x="278" y="-149" type="curve" smooth="yes"/>
+      <point x="278" y="-205"/>
+      <point x="329" y="-236"/>
+      <point x="399" y="-236" type="curve" smooth="yes"/>
+      <point x="451" y="-236"/>
+      <point x="488" y="-216"/>
+      <point x="513" y="-192" type="curve"/>
+      <point x="488" y="-155" type="line"/>
+      <point x="470" y="-169"/>
+      <point x="447" y="-183"/>
+      <point x="422" y="-183" type="curve" smooth="yes"/>
+      <point x="395" y="-183"/>
+      <point x="378" y="-171"/>
+      <point x="378" y="-143" type="curve" smooth="yes"/>
+      <point x="378" y="-99"/>
+      <point x="411" y="-51"/>
+      <point x="545" y="10" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

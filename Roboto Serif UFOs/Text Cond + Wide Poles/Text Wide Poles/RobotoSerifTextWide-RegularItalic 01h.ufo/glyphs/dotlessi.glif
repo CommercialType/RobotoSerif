@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="354"/>
+  <unicode hex="0131"/>
+  <anchor x="189" y="508" name="top"/>
+  <outline>
+    <contour>
+      <point x="204" y="163" type="curve" smooth="yes"/>
+      <point x="274" y="508" type="line"/>
+      <point x="73" y="508" type="line"/>
+      <point x="63" y="461" type="line"/>
+      <point x="80" y="459" type="line" smooth="yes"/>
+      <point x="137" y="452"/>
+      <point x="166" y="444"/>
+      <point x="160" y="413" type="curve" smooth="yes"/>
+      <point x="113" y="181" type="line" smooth="yes"/>
+      <point x="101" y="122"/>
+      <point x="95" y="99"/>
+      <point x="95" y="73" type="curve" smooth="yes"/>
+      <point x="95" y="19"/>
+      <point x="138" y="-7"/>
+      <point x="200" y="-7" type="curve" smooth="yes"/>
+      <point x="244" y="-7"/>
+      <point x="281" y="7"/>
+      <point x="303" y="22" type="curve"/>
+      <point x="314" y="75" type="line"/>
+      <point x="302" y="71"/>
+      <point x="264" y="54"/>
+      <point x="228" y="54" type="curve" smooth="yes"/>
+      <point x="203" y="54"/>
+      <point x="192" y="63"/>
+      <point x="192" y="81" type="curve" smooth="yes"/>
+      <point x="192" y="96"/>
+      <point x="196" y="120"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
