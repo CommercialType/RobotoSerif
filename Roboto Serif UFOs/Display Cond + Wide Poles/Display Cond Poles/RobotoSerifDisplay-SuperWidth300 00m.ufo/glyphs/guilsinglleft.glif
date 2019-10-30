@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="264.6"/>
+  <advance width="265"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
@@ -14,4 +14,10 @@
       <point x="168.765" y="309.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6568,1,1</string>
+    </dict>
+  </lib>
 </glyph>

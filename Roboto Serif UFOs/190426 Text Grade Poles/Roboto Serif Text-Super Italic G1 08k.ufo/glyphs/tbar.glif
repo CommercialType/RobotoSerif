@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="425"/>
+  <unicode hex="0167"/>
+  <guideline x="419" y="393" angle="80.0" identifier="fnCFxZiq9c"/>
+  <guideline x="341" y="403" angle="90" identifier="pghs0LrCoB"/>
+  <guideline x="325" y="377" angle="80" identifier="Nci11kZQKd"/>
+  <outline>
+    <contour>
+      <point x="405" y="313" type="line"/>
+      <point x="2" y="313" type="line"/>
+      <point x="-8" y="258" type="line"/>
+      <point x="395" y="258" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Nci11kZQKd</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.fnCFxZiq9c</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.pghs0LrCoB</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

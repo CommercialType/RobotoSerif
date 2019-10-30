@@ -1,0 +1,28 @@
+A comparison between One Merged File (Romans+Italics+CursiveItalic) and Two Files Linked via STAT Table (Roman+Italic, CursiveItalic)
+
+One Merged File:
+Roboto Serif Slant-VF.ttf						281KB
+
+Web Formats:
+Roboto Serif Slant-VF.woff						128KB
+Roboto Serif Slant-VF.woff2					103KB
+
+
+
+STAT Table Linking:
+Roboto Serif Text Cursive-VF.ttf				141KB
+Roboto Serif Text Slant-VF.ttf					223KB
+Total:																	364KB
+
+
+Web Formats:
+Roboto Serif Text Cursive-VF.woff			65KB
+Roboto Serif Text Slant-VF.woff				100KB
+Total.woff															165KB
+Roboto Serif Text Cursive-VF.woff2			50KB
+Roboto Serif Text Slant-VF.woff2				88KB
+Total.woff2														138KB
+    
+
+Result:
+Stat is larger in file size by 83KB (woff: 37KB)(woff2: 35KB)

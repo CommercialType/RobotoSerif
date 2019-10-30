@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="832"/>
+  <unicode hex="0126"/>
+  <guideline x="45" y="653" angle="90" identifier="GMnC67969i"/>
+  <guideline x="788" y="643" angle="90" identifier="aCoTTvI2i4"/>
+  <outline>
+    <contour>
+      <point x="81" y="504.0" type="line"/>
+      <point x="824" y="504.0" type="line"/>
+      <point x="831" y="542.0" type="line"/>
+      <point x="88" y="542.0" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.GMnC67969i</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.aCoTTvI2i4</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

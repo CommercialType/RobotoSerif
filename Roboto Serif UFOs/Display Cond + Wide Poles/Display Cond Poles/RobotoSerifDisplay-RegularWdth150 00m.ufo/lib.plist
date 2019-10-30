@@ -123,6 +123,7 @@
       <string>Amacron</string>
       <string>Abreve</string>
       <string>Aogonek</string>
+      <string>Acaron</string>
       <string>Aringacute</string>
       <string>Adblgrave</string>
       <string>Ainvertedbreve</string>
@@ -194,6 +195,7 @@
       <string>Ibreve</string>
       <string>Iogonek</string>
       <string>Idotaccent</string>
+      <string>Icaron</string>
       <string>Idblgrave</string>
       <string>Iinvertedbreve</string>
       <string>Idieresisacute</string>
@@ -229,6 +231,7 @@
       <string>Obreve</string>
       <string>Ohungarumlaut</string>
       <string>Ohorn</string>
+      <string>Ocaron</string>
       <string>Oogonek</string>
       <string>Odblgrave</string>
       <string>Oinvertedbreve</string>
@@ -273,6 +276,7 @@
       <string>Scarondotaccent</string>
       <string>Sdotbelowdotaccent</string>
       <string>T</string>
+      <string>Tcommaaccent</string>
       <string>Tcaron</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
@@ -288,6 +292,7 @@
       <string>Uhungarumlaut</string>
       <string>Uogonek</string>
       <string>Uhorn</string>
+      <string>Ucaron</string>
       <string>Udieresiscaron</string>
       <string>Udblgrave</string>
       <string>Uinvertedbreve</string>
@@ -362,6 +367,9 @@
       <string>Ecircumflextilde.alt</string>
       <string>Ecircumflexdotbelow.alt</string>
       <string>F.alt</string>
+      <string>AE.alt</string>
+      <string>AEacute.alt</string>
+      <string>OE.alt</string>
       <string>Cacute.pl</string>
       <string>Nacute.pl</string>
       <string>Oacute.pl</string>
@@ -380,6 +388,7 @@
       <string>amacron</string>
       <string>abreve</string>
       <string>aogonek</string>
+      <string>acaron</string>
       <string>aringacute</string>
       <string>adblgrave</string>
       <string>ainvertedbreve</string>
@@ -460,6 +469,7 @@
       <string>imacron</string>
       <string>ibreve</string>
       <string>iogonek</string>
+      <string>icaron</string>
       <string>idblgrave</string>
       <string>iinvertedbreve</string>
       <string>idieresisacute</string>
@@ -495,6 +505,7 @@
       <string>obreve</string>
       <string>ohungarumlaut</string>
       <string>ohorn</string>
+      <string>ocaron</string>
       <string>oogonek</string>
       <string>odblgrave</string>
       <string>oinvertedbreve</string>
@@ -557,6 +568,7 @@
       <string>uhungarumlaut</string>
       <string>uogonek</string>
       <string>uhorn</string>
+      <string>ucaron</string>
       <string>udieresiscaron</string>
       <string>udblgrave</string>
       <string>uinvertedbreve</string>
@@ -602,12 +614,14 @@
       <string>hbar</string>
       <string>dotlessi</string>
       <string>ij</string>
+      <string>kgreenlandic</string>
       <string>ldot</string>
       <string>lslash</string>
       <string>napostrophe</string>
       <string>eng</string>
       <string>oe</string>
       <string>tbar</string>
+      <string>florin</string>
       <string>dotlessj</string>
       <string>f_f</string>
       <string>fi</string>
@@ -638,6 +652,7 @@
       <string>oacute.pl</string>
       <string>sacute.pl</string>
       <string>zacute.pl</string>
+      <string>florin.proportional</string>
       <string>f.short</string>
       <string>f_f.short</string>
       <string>mu</string>
@@ -671,10 +686,13 @@
       <string>macroncomb</string>
       <string>brevecomb</string>
       <string>dieresiscomb</string>
+      <string>hookabovecomb</string>
       <string>caroncomb</string>
+      <string>dotbelowcomb</string>
       <string>commaaccentcomb</string>
       <string>cedillacomb</string>
       <string>ogonekcomb</string>
+      <string>caroncomb.alt</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -695,16 +713,16 @@
       <string>seven.den</string>
       <string>eight.den</string>
       <string>nine.den</string>
-      <string>zero.lin</string>
-      <string>one.lin</string>
-      <string>two.lin</string>
-      <string>three.lin</string>
-      <string>four.lin</string>
-      <string>five.lin</string>
-      <string>six.lin</string>
-      <string>seven.lin</string>
-      <string>eight.lin</string>
-      <string>nine.lin</string>
+      <string>zero.linprop</string>
+      <string>one.linprop</string>
+      <string>two.linprop</string>
+      <string>three.linprop</string>
+      <string>four.linprop</string>
+      <string>five.linprop</string>
+      <string>six.linprop</string>
+      <string>seven.linprop</string>
+      <string>eight.linprop</string>
+      <string>nine.linprop</string>
       <string>zero.lintab</string>
       <string>one.lintab</string>
       <string>two.lintab</string>
@@ -715,6 +733,16 @@
       <string>seven.lintab</string>
       <string>eight.lintab</string>
       <string>nine.lintab</string>
+      <string>zero.midprop</string>
+      <string>one.midprop</string>
+      <string>two.midprop</string>
+      <string>three.midprop</string>
+      <string>four.midprop</string>
+      <string>five.midprop</string>
+      <string>six.midprop</string>
+      <string>seven.midprop</string>
+      <string>eight.midprop</string>
+      <string>nine.midprop</string>
       <string>zero.num</string>
       <string>one.num</string>
       <string>two.num</string>
@@ -725,16 +753,16 @@
       <string>seven.num</string>
       <string>eight.num</string>
       <string>nine.num</string>
-      <string>zero.old</string>
-      <string>one.old</string>
-      <string>two.old</string>
-      <string>three.old</string>
-      <string>four.old</string>
-      <string>five.old</string>
-      <string>six.old</string>
-      <string>seven.old</string>
-      <string>eight.old</string>
-      <string>nine.old</string>
+      <string>zero.oldprop</string>
+      <string>one.oldprop</string>
+      <string>two.oldprop</string>
+      <string>three.oldprop</string>
+      <string>four.oldprop</string>
+      <string>five.oldprop</string>
+      <string>six.oldprop</string>
+      <string>seven.oldprop</string>
+      <string>eight.oldprop</string>
+      <string>nine.oldprop</string>
       <string>zero.oldtab</string>
       <string>one.oldtab</string>
       <string>two.oldtab</string>
@@ -756,8 +784,9 @@
       <string>eight.sinf</string>
       <string>nine.sinf</string>
       <string>zero.slash</string>
-      <string>zero.slashlin</string>
+      <string>zero.slashlinprop</string>
       <string>zero.slashlintab</string>
+      <string>zero.slashmidprop</string>
       <string>zero.slashold</string>
       <string>zero.sub</string>
       <string>one.sub</string>
@@ -815,13 +844,17 @@
       <string>parenright.uc</string>
       <string>bracketright.uc</string>
       <string>braceright.uc</string>
+      <string>guillemotleft</string>
       <string>quoteleft</string>
       <string>quotedblleft</string>
       <string>guilsinglleft</string>
+      <string>guillemotleft.uc</string>
       <string>guilsinglleft.uc</string>
+      <string>guillemotright</string>
       <string>quoteright</string>
       <string>quotedblright</string>
       <string>guilsinglright</string>
+      <string>guillemotright.uc</string>
       <string>guilsinglright.uc</string>
       <string>exclam</string>
       <string>quotedbl</string>
@@ -913,11 +946,14 @@
       <string>sterling</string>
       <string>currency</string>
       <string>yen</string>
+      <string>thai:baht</string>
+      <string>colonmonetary</string>
       <string>franc</string>
       <string>lira</string>
       <string>naira</string>
       <string>peseta</string>
       <string>won</string>
+      <string>dong</string>
       <string>uni20AB</string>
       <string>Euro</string>
       <string>kip</string>
@@ -941,11 +977,14 @@
       <string>sterling.proportional</string>
       <string>currency.proportional</string>
       <string>yen.proportional</string>
+      <string>thai:baht.proportional</string>
+      <string>colonmonetary.proportional</string>
       <string>franc.proportional</string>
       <string>lira.proportional</string>
       <string>naira.proportional</string>
       <string>peseta.proportional</string>
       <string>won.proportional</string>
+      <string>dong.proportional</string>
       <string>uni20AB.proportional</string>
       <string>Euro.proportional</string>
       <string>kip.proportional</string>
@@ -1016,6 +1055,7 @@
       <string>registered</string>
       <string>degree</string>
       <string>numero</string>
+      <string>soundcopyright</string>
       <string>uni2117</string>
       <string>servicemark</string>
       <string>trademark</string>
@@ -1031,6 +1071,7 @@
       <string>uni25C2</string>
       <string>uni25C3</string>
       <string>lozenge</string>
+      <string>heart</string>
       <string>brokenbar.uc</string>
       <string>hook.uc</string>
       <string>space</string>
@@ -1038,9 +1079,11 @@
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>Ehookabove</string>
+      <string>IJacute</string>
       <string>Ihookabove</string>
       <string>Jacute</string>
       <string>SS</string>
+      <string>Tcedilla</string>
       <string>acutedotaccent</string>
       <string>arrowdownleft</string>
       <string>arrowdownright</string>
@@ -1080,7 +1123,6 @@
       <string>dotaccentcomb</string>
       <string>dotaccentmacron</string>
       <string>dotbelow</string>
-      <string>dotbelowcomb</string>
       <string>doubleprimemod</string>
       <string>ehookabove</string>
       <string>eightinferior</string>
@@ -1088,15 +1130,10 @@
       <string>firsttonechinese</string>
       <string>fiveinferior</string>
       <string>fivesuperior</string>
-      <string>florin</string>
       <string>fourinferior</string>
       <string>foursuperior</string>
       <string>fourthtonechinese</string>
-      <string>guillemotleft</string>
-      <string>guillemotright</string>
-      <string>heart</string>
       <string>heartsuitwhite</string>
-      <string>hookabovecomb</string>
       <string>horn</string>
       <string>horncomb</string>
       <string>hungarumlautcomb</string>
@@ -1104,9 +1141,9 @@
       <string>idotaccent</string>
       <string>idotless</string>
       <string>ihookabove</string>
+      <string>ijacute</string>
       <string>jacute</string>
       <string>jdotless</string>
-      <string>kgreenlandic</string>
       <string>liraTurkish</string>
       <string>literSign</string>
       <string>macronacute</string>
@@ -1148,7 +1185,6 @@
       <string>commaaccent.alt</string>
       <string>baht.proportional</string>
       <string>colonsign.proportional</string>
-      <string>florin.proportional</string>
       <string>liraTurkish.proportional</string>
       <string>rupeeIndian.proportional</string>
       <string>acutedotaccent.uc</string>
@@ -1166,8 +1202,6 @@
       <string>dieresiscaron.uc</string>
       <string>dieresismacron.uc</string>
       <string>dotaccentmacron.uc</string>
-      <string>guillemotleft.uc</string>
-      <string>guillemotright.uc</string>
       <string>macronacute.uc</string>
       <string>macrondieresis.uc</string>
       <string>macrongrave.uc</string>

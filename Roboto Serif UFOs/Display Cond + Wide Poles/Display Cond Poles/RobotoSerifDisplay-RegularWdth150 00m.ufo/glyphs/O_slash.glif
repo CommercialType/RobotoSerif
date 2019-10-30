@@ -2,41 +2,20 @@
 <glyph name="Oslash" format="2">
   <advance width="553"/>
   <unicode hex="00D8"/>
-  <anchor x="277.85" y="731.0" name="top"/>
+  <anchor x="275.0" y="731.0" name="top"/>
   <outline>
     <contour>
-      <point x="2.3525" y="-15.0" type="line"/>
-      <point x="44.01" y="-15.0" type="line"/>
-      <point x="548.2425000000001" y="725.0" type="line"/>
-      <point x="506.585" y="725.0" type="line"/>
+      <point x="42.0" y="-15.0" type="line"/>
+      <point x="82.0" y="-15.0" type="line"/>
+      <point x="508.0" y="725.0" type="line"/>
+      <point x="468.0" y="725.0" type="line"/>
     </contour>
-    <contour>
-      <point x="276.3125" y="-10.0" type="curve" smooth="yes"/>
-      <point x="415.61" y="-10.0"/>
-      <point x="525.56" y="138.7"/>
-      <point x="525.56" y="355.0" type="curve" smooth="yes"/>
-      <point x="525.56" y="572.25"/>
-      <point x="413.5025" y="720.0"/>
-      <point x="276.3125" y="720.0" type="curve" smooth="yes"/>
-      <point x="136.8875" y="720.0"/>
-      <point x="27.7875" y="572.25"/>
-      <point x="27.7875" y="355.0" type="curve" smooth="yes"/>
-      <point x="27.7875" y="138.7"/>
-      <point x="139.4675" y="-10.0"/>
-    </contour>
-    <contour>
-      <point x="275.69" y="29.2" type="curve" smooth="yes"/>
-      <point x="181.517931034475" y="29.2"/>
-      <point x="114.2525" y="134.8"/>
-      <point x="114.2525" y="355.0" type="curve" smooth="yes"/>
-      <point x="114.2525" y="555.7"/>
-      <point x="182.51285714285" y="680.8"/>
-      <point x="276.8075" y="680.8" type="curve" smooth="yes"/>
-      <point x="372.807068965525" y="680.8"/>
-      <point x="439.095" y="575.2"/>
-      <point x="439.095" y="355.0" type="curve" smooth="yes"/>
-      <point x="439.095" y="154.3"/>
-      <point x="371.68464285715" y="29.2"/>
-    </contour>
+    <component base="O" xOffset="36"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
 </glyph>

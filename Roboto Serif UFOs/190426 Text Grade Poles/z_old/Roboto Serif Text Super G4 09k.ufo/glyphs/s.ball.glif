@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s.ball" format="2">
+  <advance width="543"/>
+  <guideline x="64.92" y="176" angle="90" identifier="04CbTyxnEn"/>
+  <guideline x="0.0" y="528" angle="0" identifier="itM6eYPGJz"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.04CbTyxnEn</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.itM6eYPGJz</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

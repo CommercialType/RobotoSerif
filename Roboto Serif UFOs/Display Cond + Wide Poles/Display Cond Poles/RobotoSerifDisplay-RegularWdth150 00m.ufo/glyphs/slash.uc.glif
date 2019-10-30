@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slash.uc" format="2">
-  <advance width="290"/>
+  <advance width="271"/>
   <outline>
     <contour>
-      <point x="256.22" y="749.5" type="line"/>
-      <point x="20.4675" y="-38.75" type="line"/>
-      <point x="61.2125" y="-38.75" type="line"/>
-      <point x="296.965" y="749.5" type="line"/>
+      <point x="231" y="749" type="line"/>
+      <point x="-1" y="-39" type="line"/>
+      <point x="34" y="-39" type="line"/>
+      <point x="266" y="749" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6447,0.9238,1,1</string>
+    </dict>
+  </lib>
 </glyph>

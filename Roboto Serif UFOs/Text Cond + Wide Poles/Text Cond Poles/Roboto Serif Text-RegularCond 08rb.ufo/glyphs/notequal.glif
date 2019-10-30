@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="462"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="317.0" y="578.0" type="line"/>
+      <point x="59.0" y="99.0" type="line"/>
+      <point x="128.0" y="99.0" type="line"/>
+      <point x="387.0" y="578.0" type="line"/>
+    </contour>
+    <component base="equal" xOffset="-8" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

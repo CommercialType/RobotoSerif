@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.uc" format="2">
+  <advance width="500"/>
+  <guideline x="0" y="932" angle="0" identifier="Jo5E5QD9rr"/>
+  <guideline x="0" y="890" angle="0" identifier="24vA3d1E5H"/>
+  <guideline x="294" y="793" angle="0" identifier="xtHNt4LaSe"/>
+  <guideline x="0" y="750" angle="0" identifier="dF1ws9R2uC"/>
+  <guideline x="0" y="843" angle="0" identifier="T5FI8BdZ8e"/>
+  <guideline x="0" y="876" angle="0" identifier="bazsoysTiK"/>
+  <guideline x="0" y="805" angle="0" identifier="curT0JupYi"/>
+  <guideline x="0" y="772" angle="0" identifier="gHrLtsdSFi"/>
+  <anchor x="250.0" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="314" y="764" type="curve" smooth="yes"/>
+      <point x="381" y="764"/>
+      <point x="422" y="814"/>
+      <point x="449" y="883" type="curve"/>
+      <point x="385" y="912" type="line"/>
+      <point x="371" y="882"/>
+      <point x="354" y="860"/>
+      <point x="331" y="860" type="curve" smooth="yes"/>
+      <point x="286" y="860"/>
+      <point x="263" y="908"/>
+      <point x="194" y="908" type="curve" smooth="yes"/>
+      <point x="120" y="908"/>
+      <point x="87" y="857"/>
+      <point x="64" y="792" type="curve"/>
+      <point x="132" y="763" type="line"/>
+      <point x="145" y="794"/>
+      <point x="159" y="813"/>
+      <point x="182" y="813" type="curve" smooth="yes"/>
+      <point x="216" y="813"/>
+      <point x="246" y="764"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.24vA3d1E5H</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Jo5E5QD9rr</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.T5FI8BdZ8e</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.bazsoysTiK</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.curT0JupYi</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.dF1ws9R2uC</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.gHrLtsdSFi</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.xtHNt4LaSe</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>
