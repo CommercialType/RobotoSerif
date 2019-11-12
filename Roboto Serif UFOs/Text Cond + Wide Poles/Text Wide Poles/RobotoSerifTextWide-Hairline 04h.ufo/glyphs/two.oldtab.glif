@@ -2,12 +2,49 @@
 <glyph name="two.oldtab" format="2">
   <advance width="664"/>
   <outline>
-    <component base="two.old"/>
+    <contour>
+      <point x="326" y="528" type="curve" smooth="yes"/>
+      <point x="234" y="528"/>
+      <point x="165" y="501"/>
+      <point x="118" y="460" type="curve"/>
+      <point x="137" y="491"/>
+      <point x="125" y="496"/>
+      <point x="151" y="500" type="curve"/>
+      <point x="151" y="404" type="line"/>
+      <point x="102" y="404" type="line"/>
+      <point x="102" y="495" type="line"/>
+      <point x="143" y="526"/>
+      <point x="218" y="558"/>
+      <point x="326" y="558" type="curve" smooth="yes"/>
+      <point x="462.56140350877195" y="558.0"/>
+      <point x="550.0" y="495.0"/>
+      <point x="550" y="396" type="curve" smooth="yes"/>
+      <point x="550.0" y="239.0"/>
+      <point x="330.42855970728624" y="131.2106253413345"/>
+      <point x="117" y="24" type="curve"/>
+      <point x="114" y="26"/>
+      <point x="111" y="29"/>
+      <point x="114" y="32" type="curve"/>
+      <point x="395" y="32" type="line" smooth="yes"/>
+      <point x="497.0" y="32.0"/>
+      <point x="535" y="40"/>
+      <point x="541" y="80" type="curve" smooth="yes"/>
+      <point x="552" y="157" type="line"/>
+      <point x="579" y="157" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="38" type="line"/>
+      <point x="303.3629095620113" y="154.14491258372914"/>
+      <point x="507.0" y="251.0"/>
+      <point x="507" y="396" type="curve" smooth="yes"/>
+      <point x="507.0" y="480.0"/>
+      <point x="435.5783783783784" y="528.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,1,1</string>
+      <string>0,1,0.502,1</string>
     </dict>
   </lib>
 </glyph>

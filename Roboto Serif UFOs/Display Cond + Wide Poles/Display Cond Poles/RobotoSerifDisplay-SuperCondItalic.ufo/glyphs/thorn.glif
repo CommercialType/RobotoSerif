@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="519"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="-56" y="-223" type="line"/>
+      <point x="205" y="-223" type="line"/>
+      <point x="211" y="-186" type="line"/>
+      <point x="209" y="-186" type="line" smooth="yes"/>
+      <point x="185" y="-186"/>
+      <point x="172" y="-183"/>
+      <point x="174" y="-176" type="curve"/>
+      <point x="298" y="750" type="line"/>
+      <point x="70" y="750" type="line"/>
+      <point x="65" y="712" type="line"/>
+      <point x="73" y="710" type="line" smooth="yes"/>
+      <point x="83" y="706"/>
+      <point x="88" y="699"/>
+      <point x="86" y="680" type="curve" smooth="yes"/>
+      <point x="-28" y="-161" type="line" smooth="yes"/>
+      <point x="-31" y="-181"/>
+      <point x="-40" y="-186"/>
+      <point x="-50" y="-186" type="curve" smooth="yes"/>
+      <point x="-51" y="-186" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="-10" type="curve" smooth="yes"/>
+      <point x="411" y="-10"/>
+      <point x="505" y="161"/>
+      <point x="505" y="329" type="curve" smooth="yes"/>
+      <point x="505" y="469"/>
+      <point x="451" y="533"/>
+      <point x="383" y="533" type="curve" smooth="yes"/>
+      <point x="295" y="533"/>
+      <point x="244" y="451"/>
+      <point x="199" y="318" type="curve"/>
+      <point x="213" y="300" type="line"/>
+      <point x="240" y="393"/>
+      <point x="259" y="438"/>
+      <point x="278" y="438" type="curve" smooth="yes"/>
+      <point x="293" y="438"/>
+      <point x="298" y="408"/>
+      <point x="298" y="343" type="curve" smooth="yes"/>
+      <point x="298" y="220"/>
+      <point x="265" y="32"/>
+      <point x="218" y="32" type="curve" smooth="yes"/>
+      <point x="189" y="32"/>
+      <point x="182" y="66"/>
+      <point x="189" y="114" type="curve"/>
+      <point x="132" y="50" type="line"/>
+      <point x="169" y="11"/>
+      <point x="201" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.RL7kf2wrwo</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.XfWdoK0afP</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>
