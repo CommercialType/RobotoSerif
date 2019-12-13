@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="estimated" format="2">
-  <advance width="575.4"/>
+  <advance width="575"/>
   <unicode hex="212E"/>
   <outline>
     <contour>
@@ -36,10 +36,4 @@
       <point x="124.4" y="580.0" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

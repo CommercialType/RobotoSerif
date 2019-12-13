@@ -1,7 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.oldtab" format="2">
-  <advance width="423"/>
+  <advance width="400"/>
+  <guideline x="251" y="582" angle="63.57013448822722" identifier="P3F7udX6YT"/>
   <outline>
-    <component base="four.old" xOffset="-70.7"/>
+    <contour>
+      <point x="-3" y="71" type="line"/>
+      <point x="398" y="71" type="line"/>
+      <point x="398" y="195" type="line"/>
+      <point x="37" y="195" type="line"/>
+      <point x="37" y="157" type="line"/>
+      <point x="228" y="582" type="line"/>
+      <point x="223" y="609" type="line"/>
+      <point x="197" y="609" type="line"/>
+      <point x="-3" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="-77" type="line"/>
+      <point x="359" y="609" type="line"/>
+      <point x="207" y="609" type="line"/>
+      <point x="155" y="500" type="line"/>
+      <point x="155" y="-77" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5412,1,0.0738,1</string>
+    </dict>
+  </lib>
 </glyph>
