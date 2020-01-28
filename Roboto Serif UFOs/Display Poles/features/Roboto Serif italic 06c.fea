@@ -9,7 +9,7 @@ languagesystem latn CAT;
 languagesystem latn NLD;
 
 
-@EF_ALT_OFF = [E Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Egravedbl Einvertedbreve Emacrongrave Emacronacute Ecedillabreve Edotbelow Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow F];
+@EF_ALT_OFF = [E Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron Edblgrave Einvertedbreve Emacrongrave Emacronacute Ecedillabreve Edotbelow Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Ecircumflexdotbelow F];
 @EF_ALT_ON = [E.alt Egrave.alt Eacute.alt Ecircumflex.alt Edieresis.alt Emacron.alt Ebreve.alt Edotaccent.alt Eogonek.alt Ecaron.alt Edblgrave.alt Einvertedbreve.alt Emacrongrave.alt Emacronacute.alt Ecedillabreve.alt Edotbelow.alt Etilde.alt Ecircumflexacute.alt Ecircumflexgrave.alt Ecircumflexhookabove.alt Ecircumflextilde.alt Ecircumflexdotbelow.alt F.alt];
 
 @F_LC_ALT_OFF = [f f_f f_f_b f_f_h f_f_i f_f_j f_f_k f_f_l f_i f_j fi];
@@ -36,14 +36,14 @@ languagesystem latn NLD;
 @FIGURES_PROPLIN = [zero.linprop one.linprop two.linprop three.linprop four.linprop five.linprop six.linprop seven.linprop eight.linprop nine.linprop];
 @FIGURES_PROPOLD = [zero.oldprop one.oldprop two.oldprop three.oldprop four.oldprop five.oldprop six.oldprop seven.oldprop eight.oldprop nine.oldprop];
 
-@ZERO_SLASH_OFF = [zero zero zero.lintab zero.oldtab zero.midprop zero.linprop zero.oldprop];
-@ZERO_SLASH_ON = [zero.zero zero.slash zero.slashlin zero.slashold zero.propslash zero.slashlinprop zero.slasholdprop];
+@ZERO_SLASH_OFF = [zero zero.lintab zero.oldtab zero.midprop zero.linprop zero.oldprop];
+@ZERO_SLASH_ON = [zero.slash zero.slashlin zero.slashold zero.propslash zero.slashlinprop zero.slasholdprop];
 
 @PUNC_TAB_OFF = [period comma colon];
 @PUNC_TAB_ON = [period.tab comma.tab colon.tab];
 @PUNC_TAB_TRIGGERS = [@FIGURES @FIGURES_OSF @FIGURES_LIN];
 
-@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani hryvnia cedi tenge manat colonmonetary florin turkishlira naira indianrupee won];
+@PROP_CRRNCY_OFF = [dollar cent sterling yen lira peseta dong Euro kip peso guarani uni20B4 cedi uni20B8 manat colonmonetary florin liraTurkish naira rupeeIndian won];
 @PROP_CRRNCY_ON = [dollar.proportional cent.proportional sterling.proportional yen.proportional lira.proportional peseta.proportional dong.proportional Euro.proportional kip.proportional peso.proportional guarani.proportional uni20B4.proportional cedi.proportional uni20B8.proportional manat.proportional colonmonetary.proportional florin.proportional liraTurkish.proportional naira.proportional rupeeIndian.proportional won.proportional];
 
 # POLISH
@@ -200,8 +200,8 @@ feature numr {
 
 feature sups {
 	sub @FIGURES by @FIGURES_SUP;
-	sub plus by plus.superior;
-	sub minus by minus.superior;
+	sub plus by plus.sup;
+	sub minus by minus.sup;
 } sups;
 
 feature subs {

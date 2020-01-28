@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="787"/>
+  <unicode hex="004F"/>
+  <anchor x="395" y="741" name="top"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="769" y="397" type="curve" smooth="yes"/>
+      <point x="769" y="591"/>
+      <point x="633" y="720"/>
+      <point x="434" y="720" type="curve" smooth="yes"/>
+      <point x="172" y="720"/>
+      <point x="26" y="533"/>
+      <point x="26" y="313" type="curve" smooth="yes"/>
+      <point x="26" y="119"/>
+      <point x="163" y="-10"/>
+      <point x="361" y="-10" type="curve" smooth="yes"/>
+      <point x="623" y="-10"/>
+      <point x="769" y="177"/>
+    </contour>
+    <contour>
+      <point x="358" y="89" type="curve" smooth="yes" identifier="Lb8WSGhODz"/>
+      <point x="312" y="89" identifier="D9hHBHCIN1"/>
+      <point x="290" y="127" identifier="5LNDvrjdPM"/>
+      <point x="290" y="226" type="curve" identifier="mL3YqRQtCR"/>
+      <point x="290" y="284" identifier="H4JfI13PD8"/>
+      <point x="299" y="360" identifier="jghDvJkDsg"/>
+      <point x="313" y="425" type="curve" smooth="yes" identifier="1nV6aK9Hra"/>
+      <point x="337" y="539" identifier="L5Mr53xIDw"/>
+      <point x="378" y="621" identifier="sOQIaO1Wd9"/>
+      <point x="436" y="621" type="curve" smooth="yes" identifier="kkbJWNbQsS"/>
+      <point x="482" y="621" identifier="v2PHJCDCi6"/>
+      <point x="505" y="583" identifier="snop6P7v0J"/>
+      <point x="505" y="484" type="curve" identifier="7lmrpMAMnN"/>
+      <point x="505" y="426" identifier="5X9jK0CmmD"/>
+      <point x="495" y="351" identifier="W4nQttefrR"/>
+      <point x="481" y="285" type="curve" smooth="yes" identifier="5LC6Y6bkJW"/>
+      <point x="457" y="171" identifier="xA1InEGMb6"/>
+      <point x="416" y="89" identifier="rAw6EUV6vo"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
