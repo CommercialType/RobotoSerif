@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="519"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="261.085" y="24.965" type="line"/>
+      <point x="114.58" y="372.65" type="line"/>
+      <point x="115.65" y="339.28" type="line"/>
+      <point x="382.085" y="685.0" type="line"/>
+      <point x="369.335" y="683.105" type="line"/>
+      <point x="515.84" y="337.35" type="line"/>
+      <point x="514.77" y="372.65" type="line"/>
+      <point x="247.37" y="25.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="236.755" y="0.0" type="line"/>
+      <point x="268.63" y="0.0" type="line"/>
+      <point x="532.995" y="342.615" type="line"/>
+      <point x="538.1" y="368.35" type="line"/>
+      <point x="392.7" y="710.0" type="line"/>
+      <point x="360.825" y="710.0" type="line"/>
+      <point x="97.425" y="368.35" type="line"/>
+      <point x="92.32" y="342.615" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

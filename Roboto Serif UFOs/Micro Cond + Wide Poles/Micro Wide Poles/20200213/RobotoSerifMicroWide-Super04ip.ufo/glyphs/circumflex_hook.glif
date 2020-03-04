@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_hook" format="2">
+  <advance width="581"/>
+  <anchor x="269.0" y="571" name="_top"/>
+  <outline>
+    <contour>
+      <point x="358" y="937" type="line"/>
+      <point x="366" y="1024"/>
+      <point x="453" y="1068"/>
+      <point x="588" y="1068" type="curve" smooth="yes"/>
+      <point x="734" y="1068"/>
+      <point x="815" y="1035"/>
+      <point x="815" y="949" type="curve" smooth="yes"/>
+      <point x="815" y="848"/>
+      <point x="705" y="826"/>
+      <point x="572" y="823" type="curve"/>
+      <point x="642" y="873" type="line"/>
+      <point x="642" y="780" type="line"/>
+      <point x="522" y="780" type="line"/>
+      <point x="522" y="874" type="line"/>
+      <point x="610" y="877"/>
+      <point x="671" y="889"/>
+      <point x="671" y="938" type="curve" smooth="yes"/>
+      <point x="671" y="970"/>
+      <point x="637" y="987"/>
+      <point x="586" y="987" type="curve" smooth="yes"/>
+      <point x="532" y="987"/>
+      <point x="500" y="971"/>
+      <point x="495" y="937" type="curve"/>
+    </contour>
+    <component base="circumflex"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

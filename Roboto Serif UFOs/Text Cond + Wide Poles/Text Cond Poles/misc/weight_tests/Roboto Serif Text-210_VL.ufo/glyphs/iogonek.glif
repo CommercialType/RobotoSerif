@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="217"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="188.73" y="21.79" type="line"/>
+      <point x="88.84" y="-16.1"/>
+      <point x="26.74" y="-73.68"/>
+      <point x="26.74" y="-145.0" type="curve" smooth="yes"/>
+      <point x="26.74" y="-199.37"/>
+      <point x="57.79" y="-233.0"/>
+      <point x="111.26" y="-233.0" type="curve" smooth="yes"/>
+      <point x="146.31" y="-233.0"/>
+      <point x="175.94" y="-215.95"/>
+      <point x="205.94" y="-181.79" type="curve"/>
+      <point x="189.73" y="-162.95" type="line"/>
+      <point x="167.1" y="-190.32"/>
+      <point x="142.89" y="-203.79"/>
+      <point x="113.63" y="-203.79" type="curve" smooth="yes"/>
+      <point x="84.79" y="-203.79"/>
+      <point x="67.16" y="-183.95"/>
+      <point x="67.16" y="-145.0" type="curve" smooth="yes"/>
+      <point x="67.16" y="-82.89"/>
+      <point x="102.63" y="-40.89"/>
+      <point x="199.94" y="2.84" type="curve"/>
+    </contour>
+    <component base="i" yxScale="0.024826750174247403" xOffset="-11.85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

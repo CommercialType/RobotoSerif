@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.uc" format="2">
+  <advance width="423"/>
+  <anchor x="227.7297646209277" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="286.926251134519" y="772.0" type="curve" smooth="yes"/>
+      <point x="326.816251134519" y="772.0"/>
+      <point x="352.2407071400949" y="804.0"/>
+      <point x="372.6447924010725" y="867.0" type="curve"/>
+      <point x="348.47305990281495" y="877.21" type="line"/>
+      <point x="331.44137589445114" y="829.21"/>
+      <point x="317.9807071400949" y="804.21"/>
+      <point x="293.72070714009493" y="804.21" type="curve" smooth="yes"/>
+      <point x="250.20070714009492" y="804.21"/>
+      <point x="240.98823315264073" y="876.0"/>
+      <point x="182.04823315264073" y="876.0" type="curve" smooth="yes"/>
+      <point x="139.15823315264072" y="876.0"/>
+      <point x="118.5237771470648" y="844.0"/>
+      <point x="100.40417213660996" y="784.0" type="curve"/>
+      <point x="124.55107788469324" y="772.79" type="line"/>
+      <point x="138.50828164253437" y="817.79"/>
+      <point x="149.57377714706482" y="843.79"/>
+      <point x="176.04377714706482" y="843.79" type="curve" smooth="yes"/>
+      <point x="216.35377714706482" y="843.79"/>
+      <point x="227.986251134519" y="772.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="458"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="154" y="780" type="line"/>
+      <point x="154" y="404" type="line"/>
+      <point x="304" y="404" type="line"/>
+      <point x="304" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="218" type="line"/>
+      <point x="154" y="-158" type="line"/>
+      <point x="304" y="-158" type="line"/>
+      <point x="304" y="218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9899,0.4662,0.0324,1</string>
+    </dict>
+  </lib>
+</glyph>

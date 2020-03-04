@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.midprop" format="2">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="300" y="119" type="curve" smooth="yes"/>
+      <point x="441" y="679" type="line"/>
+      <point x="259" y="679" type="line"/>
+      <point x="217" y="635"/>
+      <point x="186" y="599"/>
+      <point x="97" y="598" type="curve"/>
+      <point x="69" y="483" type="line"/>
+      <point x="144" y="482"/>
+      <point x="181" y="506"/>
+      <point x="228" y="606" type="curve"/>
+      <point x="211" y="599" type="line"/>
+      <point x="90" y="119" type="line" smooth="yes"/>
+      <point x="80" y="81"/>
+      <point x="59" y="73"/>
+      <point x="25" y="73" type="curve" smooth="yes"/>
+      <point x="-12" y="73" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="359" y="73" type="line"/>
+      <point x="337" y="73" type="line" smooth="yes"/>
+      <point x="312" y="73"/>
+      <point x="290" y="81"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9962</real>
+        <real>1.0</real>
+        <real>0.5137</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>0.3922,0.962,0.8039,1</string>
+    </dict>
+  </lib>
+</glyph>

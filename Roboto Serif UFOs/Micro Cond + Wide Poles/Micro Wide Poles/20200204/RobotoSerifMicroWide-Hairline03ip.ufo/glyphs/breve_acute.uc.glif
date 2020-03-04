@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_acute.uc" format="2">
+  <advance width="574"/>
+  <anchor x="265.0" y="740" name="_top"/>
+  <outline>
+    <contour>
+      <point x="327" y="1077" type="curve" smooth="yes"/>
+      <point x="232" y="993" type="line"/>
+      <point x="232" y="972" type="line"/>
+      <point x="256" y="972" type="line"/>
+      <point x="394" y="1047" type="line" smooth="yes"/>
+      <point x="427" y="1064"/>
+      <point x="449" y="1074"/>
+      <point x="449" y="1098" type="curve" smooth="yes"/>
+      <point x="449" y="1118"/>
+      <point x="435" y="1133"/>
+      <point x="411" y="1133" type="curve" smooth="yes"/>
+      <point x="378" y="1133"/>
+      <point x="358" y="1106"/>
+    </contour>
+    <component base="breve.uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

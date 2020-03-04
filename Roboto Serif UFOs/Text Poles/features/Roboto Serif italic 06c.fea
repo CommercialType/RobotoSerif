@@ -200,8 +200,8 @@ feature numr {
 
 feature sups {
 	sub @FIGURES by @FIGURES_SUP;
-	sub plus by plus.superior;
-	sub minus by minus.superior;
+	sub plus by plus.sup;
+	sub minus by minus.sup;
 } sups;
 
 feature subs {

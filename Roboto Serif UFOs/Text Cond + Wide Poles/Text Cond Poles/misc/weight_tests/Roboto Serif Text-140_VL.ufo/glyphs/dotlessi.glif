@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="225"/>
+  <unicode hex="0131"/>
+  <anchor x="172.85115987460816" y="508.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="164.36" y="401.86" type="curve" smooth="yes"/>
+      <point x="134.5" y="231.94" type="line" smooth="yes"/>
+      <point x="128.48" y="195.82"/>
+      <point x="102.52" y="151.96"/>
+      <point x="102.52" y="123.58000000000001" type="curve" smooth="yes"/>
+      <point x="102.52" y="80.58000000000001"/>
+      <point x="119.88" y="61.60000000000001"/>
+      <point x="153.42" y="61.60000000000001" type="curve" smooth="yes"/>
+      <point x="173.2" y="61.60000000000001"/>
+      <point x="192.66" y="67.34"/>
+      <point x="203.84" y="74.22000000000001" type="curve"/>
+      <point x="210.56" y="72.82000000000001"/>
+      <point x="218.07999999999998" y="98.64000000000001"/>
+      <point x="217.38" y="94.58000000000001" type="curve"/>
+      <point x="202.76" y="85.12"/>
+      <point x="179.82" y="47.480000000000004"/>
+      <point x="165.2" y="47.480000000000004" type="curve" smooth="yes"/>
+      <point x="143.88" y="39.08"/>
+      <point x="135.6" y="42.84"/>
+      <point x="135.6" y="61.58" type="curve" smooth="yes"/>
+      <point x="135.6" y="79.94"/>
+      <point x="147.54" y="118.56"/>
+      <point x="160.3" y="155.54" type="curve" smooth="yes"/>
+      <point x="163.94" y="155.54"/>
+      <point x="217.02" y="437.44"/>
+      <point x="218.7" y="438.7" type="curve"/>
+      <point x="128.24" y="442.62" type="line"/>
+      <point x="127.12" y="442.34"/>
+      <point x="119.9" y="423.76"/>
+      <point x="115.14" y="423.76" type="curve"/>
+      <point x="112.06" y="423.76"/>
+      <point x="122.28" y="423.44"/>
+      <point x="122.28" y="427.08" type="curve" smooth="yes"/>
+      <point x="160.12" y="425.84"/>
+      <point x="168.4" y="423.36"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>
