@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.pl" format="2">
+  <advance width="413"/>
+  <anchor x="188.68886246520285" y="489.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="206.45669424913868" y="708.79" type="curve" smooth="yes"/>
+      <point x="177.35401930851796" y="593.0" type="line"/>
+      <point x="174.90399517877717" y="576.895" type="line"/>
+      <point x="190.11399517877717" y="576.895" type="line"/>
+      <point x="243.43978456263628" y="685.79" type="line" smooth="yes"/>
+      <point x="253.0229352004859" y="702.895"/>
+      <point x="261.5217063140091" y="716.895"/>
+      <point x="261.9436039356411" y="732.0" type="curve" smooth="yes"/>
+      <point x="262.28112203294666" y="744.0"/>
+      <point x="254.45738711403465" y="754.0"/>
+      <point x="240.24738711403464" y="754.0" type="curve" smooth="yes"/>
+      <point x="221.93238711403464" y="754.0"/>
+      <point x="215.37736298429385" y="738.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

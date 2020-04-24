@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="437"/>
+  <unicode hex="01A1"/>
+  <anchor x="216.05" y="538.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="236.7875" y="506.0" type="curve"/>
+      <point x="369.214572476365" y="490.899098428435"/>
+      <point x="424.0725" y="547.55"/>
+      <point x="424.0725" y="689.5" type="curve"/>
+      <point x="359.4425" y="689.5" type="line"/>
+      <point x="359.27" y="558.0"/>
+      <point x="333.5125" y="527.8"/>
+      <point x="214.64249999999998" y="527.8" type="curve"/>
+      <point x="215.115" y="527.05"/>
+      <point x="235.7975" y="506.2"/>
+    </contour>
+    <contour>
+      <point x="214.32" y="-10.2" type="curve"/>
+      <point x="324.9575" y="-10.2"/>
+      <point x="403.3025" y="99.7"/>
+      <point x="403.3025" y="257.95" type="curve" smooth="yes"/>
+      <point x="403.3025" y="387.9"/>
+      <point x="351.5975" y="485.9"/>
+      <point x="271.08" y="513.8" type="curve"/>
+      <point x="253.44" y="522.55"/>
+      <point x="234.6275" y="527.8"/>
+      <point x="214.32" y="527.8" type="curve" smooth="yes"/>
+      <point x="103.6825" y="527.8"/>
+      <point x="25.3375" y="416.0"/>
+      <point x="25.3375" y="257.85" type="curve" smooth="yes"/>
+      <point x="25.3375" y="99.7"/>
+      <point x="103.6825" y="-10.2"/>
+    </contour>
+    <contour>
+      <point x="214.32" y="24.95" type="curve"/>
+      <point x="143.76" y="24.95"/>
+      <point x="107.675" y="119.65"/>
+      <point x="107.675" y="257.85" type="curve" smooth="yes"/>
+      <point x="107.675" y="397.0"/>
+      <point x="143.76" y="492.65"/>
+      <point x="214.32" y="492.65" type="curve" smooth="yes"/>
+      <point x="284.88" y="492.65"/>
+      <point x="320.965" y="397.0"/>
+      <point x="320.965" y="257.85" type="curve" smooth="yes"/>
+      <point x="320.965" y="119.65"/>
+      <point x="284.88" y="24.95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

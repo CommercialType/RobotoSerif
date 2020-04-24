@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="420"/>
+  <unicode hex="02DC"/>
+  <anchor x="222.1281614546546" y="516.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="283.3476817422026" y="617.825" type="curve" smooth="yes"/>
+      <point x="327.9226817422026" y="617.825"/>
+      <point x="348.225" y="653.825"/>
+      <point x="368.275" y="720.3" type="curve"/>
+      <point x="342.925" y="728.0" type="line"/>
+      <point x="325.575" y="679.0"/>
+      <point x="316.40233516574705" y="650.175"/>
+      <point x="290.177335165747" y="650.175" type="curve" smooth="yes"/>
+      <point x="251.42733516574705" y="650.175"/>
+      <point x="242.24868871615092" y="727.0"/>
+      <point x="184.79868871615093" y="727.0" type="curve" smooth="yes"/>
+      <point x="144.39868871615093" y="727.0"/>
+      <point x="116.7" y="698.0"/>
+      <point x="101.65" y="623.225" type="curve"/>
+      <point x="126.0" y="617.825" type="line"/>
+      <point x="140.175" y="668.825"/>
+      <point x="152.7181086231207" y="693.825"/>
+      <point x="177.7681086231207" y="693.825" type="curve" smooth="yes"/>
+      <point x="216.86810862312072" y="693.825"/>
+      <point x="223.8976817422026" y="617.825"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_grave" format="2">
+  <advance width="418"/>
+  <anchor x="213.12370506505854" y="564.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="338.81948190402215" y="828.0" type="curve" smooth="yes"/>
+      <point x="394.4030841861638" y="707.0" type="line"/>
+      <point x="395.99391420227937" y="693.0" type="line"/>
+      <point x="383.9239142022794" y="693.0" type="line"/>
+      <point x="303.5519155088329" y="798.93" type="line" smooth="yes"/>
+      <point x="290.87953834755797" y="814.93"/>
+      <point x="277.16638761370336" y="831.93"/>
+      <point x="277.66323687984874" y="848.93" type="curve" smooth="yes"/>
+      <point x="278.0139540088926" y="861.0"/>
+      <point x="288.3762182830957" y="871.0"/>
+      <point x="301.5162182830957" y="871.0" type="curve" smooth="yes"/>
+      <point x="317.7962182830957" y="871.0"/>
+      <point x="325.39859544437064" y="855.0"/>
+    </contour>
+    <component base="circumflex" yxScale="0.029226427420316562" xOffset="4.07"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

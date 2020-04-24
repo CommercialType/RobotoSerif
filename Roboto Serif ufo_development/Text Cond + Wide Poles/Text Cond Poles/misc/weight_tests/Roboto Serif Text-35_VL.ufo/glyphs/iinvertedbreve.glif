@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="221"/>
+  <unicode hex="020B"/>
+  <outline>
+    <contour>
+      <point x="156.33519119462972" y="736.0" type="curve" smooth="yes"/>
+      <point x="102.9851911946297" y="736.0"/>
+      <point x="59.33115828516086" y="693.0"/>
+      <point x="42.25417630544114" y="594.965" type="curve"/>
+      <point x="67.32417630544114" y="594.965" type="line"/>
+      <point x="82.67332596359684" y="668.965"/>
+      <point x="110.74648463189268" y="693.965"/>
+      <point x="152.0264846318927" y="693.965" type="curve" smooth="yes"/>
+      <point x="205.5514846318927" y="693.965"/>
+      <point x="220.69071518974218" y="660.965"/>
+      <point x="216.68917630544112" y="594.965" type="curve"/>
+      <point x="242.75917630544114" y="594.965" type="line"/>
+      <point x="244.0624397727595" y="604.965"/>
+      <point x="244.3657032400778" y="614.965"/>
+      <point x="244.517334973737" y="619.965" type="curve" smooth="yes"/>
+      <point x="246.8524636720882" y="696.965"/>
+      <point x="214.7551911946297" y="736.0"/>
+    </contour>
+    <component base="dotlessi" yxScale="0.030326346731833854"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

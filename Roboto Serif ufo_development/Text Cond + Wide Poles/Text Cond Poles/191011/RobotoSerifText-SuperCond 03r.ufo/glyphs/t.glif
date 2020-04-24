@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="365.58"/>
+  <unicode hex="0074"/>
+  <anchor x="148.56" y="675.0" name="top"/>
+  <anchor x="307.24" y="681.0" name="right"/>
+  <anchor x="250.78" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-0.5800000000000001" y="433.44" type="line" identifier="54Ee0zqOy7"/>
+      <point x="354.68" y="433.44" type="line" identifier="GzFFuEVDKb"/>
+      <point x="354.68" y="512.7" type="line" identifier="SYZx2Eavk6"/>
+      <point x="165.62" y="512.7" type="line" identifier="TDhHnx7j9Y"/>
+      <point x="43.64" y="547.36" type="line" identifier="bdM5ezJ88E"/>
+      <point x="43.64" y="514.82" identifier="WFpJxphXTp"/>
+      <point x="24.1" y="507.7" identifier="2HupIiIXVx"/>
+      <point x="0.6000000000000014" y="507.7" type="curve" smooth="yes" identifier="VYUUzpRkps"/>
+      <point x="-0.5800000000000001" y="507.7" type="line" identifier="wT9v3auvNS"/>
+    </contour>
+    <contour>
+      <point x="261.82" y="165.2" type="curve" smooth="yes" identifier="IavN0B42RE"/>
+      <point x="261.82" y="651.76" type="line" identifier="mx7Kkok83N"/>
+      <point x="43.64" y="651.76" type="line" identifier="0JzJUvTT10"/>
+      <point x="43.64" y="500.0" type="line" identifier="gYuubW7gSZ"/>
+      <point x="37.64" y="492.0" type="line" identifier="AvpBliZz7W"/>
+      <point x="37.64" y="158.74" type="line" smooth="yes" identifier="NOLkT5emPc"/>
+      <point x="37.64" y="27.941775147928993" identifier="MhZo4Bve4V"/>
+      <point x="115.32" y="-10.0" identifier="PtHuHjui6g"/>
+      <point x="237.98" y="-10.0" type="curve" smooth="yes" identifier="ApDxumvQ0N"/>
+      <point x="299.24" y="-10.0" identifier="vrzCgvoNcm"/>
+      <point x="342.15999999999997" y="0.7599999999999998" identifier="46ArRopIbm"/>
+      <point x="353.34" y="8.76" type="curve" identifier="RHIYhSFwm8"/>
+      <point x="353.34" y="92.72" type="line" identifier="hmHGUiZGEX"/>
+      <point x="348.8" y="90.53999999999999" identifier="MS7nbNGVpY"/>
+      <point x="326.86" y="84.47999999999999" identifier="9aZMDn4tvn"/>
+      <point x="307.62" y="84.47999999999999" type="curve" smooth="yes" identifier="k5tBSWN2iH"/>
+      <point x="275.53999999999996" y="84.47999999999999" identifier="loDGCPYT7Z"/>
+      <point x="261.82" y="96.34785714285714" identifier="55juAkinpr"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

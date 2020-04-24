@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="227"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="200.0226817422026" y="617.825" type="curve" smooth="yes"/>
+      <point x="242.59768174220258" y="617.825"/>
+      <point x="261.8810418436901" y="653.825"/>
+      <point x="282.3894220212933" y="717.0" type="curve"/>
+      <point x="258.1496153856367" y="728.0" type="line"/>
+      <point x="243.17920858083423" y="679.0"/>
+      <point x="230.90233516574705" y="650.175"/>
+      <point x="205.85233516574704" y="650.175" type="curve" smooth="yes"/>
+      <point x="168.10233516574704" y="650.175"/>
+      <point x="164.09868871615092" y="727.0"/>
+      <point x="111.17368871615093" y="727.0" type="curve" smooth="yes"/>
+      <point x="73.77368871615093" y="727.0"/>
+      <point x="48.14681530106376" y="698.0"/>
+      <point x="30.858801776031758" y="629.825" type="curve"/>
+      <point x="54.07268174220258" y="617.825" type="line"/>
+      <point x="66.91994188597657" y="668.825"/>
+      <point x="82.0931086231207" y="693.825"/>
+      <point x="104.1431086231207" y="693.825" type="curve" smooth="yes"/>
+      <point x="138.7181086231207" y="693.825"/>
+      <point x="141.9226817422026" y="617.825"/>
+    </contour>
+    <component base="dotlessi" yxScale="0.025926669485764692"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

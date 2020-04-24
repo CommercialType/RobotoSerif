@@ -1,0 +1,38 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+@FIGURES = [zero one two three four five six seven eight nine];
+
+@FIGURES_OSF = [zero.oldtab one.oldtab two.oldtab three.oldtab four.oldtab five.oldtab six.oldtab seven.oldtab eight.oldtab nine.oldtab];
+@FIGURES_LIN = [zero.lintab one.lintab two.lintab three.lintab four.lintab five.lintab six.lintab seven.lintab eight.lintab nine.lintab];
+@FIGURES_PROP = [zero.midprop one.midprop two.midprop three.midprop four.midprop five.midprop six.midprop seven.midprop eight.midprop nine.midprop ];
+@FIGURES_PROPLIN = [zero.linprop one.linprop two.linprop three.linprop four.linprop five.linprop six.linprop seven.linprop eight.linprop nine.linprop];
+@FIGURES_PROPOLD = [zero.oldprop one.oldprop two.oldprop three.oldprop four.oldprop five.oldprop six.oldprop seven.oldprop eight.oldprop nine.oldprop];
+
+
+feature onum {
+    sub @FIGURES by @FIGURES_OSF;
+}onum;
+
+feature lnum {
+    sub @FIGURES by @FIGURES_LIN;
+}lnum;
+
+feature pnum {
+  sub @FIGURES by @FIGURES_PROP;
+  sub @FIGURES_LIN by @FIGURES_PROPLIN;
+  sub @FIGURES_OSF by @FIGURES_PROPOLD;
+#  sub @PROP_CRRNCY_OFF by @PROP_CRRNCY_ON;	
+}pnum;
+
+feature tnum {
+  sub @FIGURES_PROP by @FIGURES;
+  sub @FIGURES_PROPLIN by @FIGURES_LIN;
+  sub @FIGURES_PROPOLD by @FIGURES_OSF;
+#  sub @PROP_CRRNCY_ON by @PROP_CRRNCY_OFF;
+} tnum;
+
+feature ss01 {
+    sub @FIGURES by @FIGURES_PROP;
+}ss01;

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="221"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="154.02417630544113" y="594.965" type="curve" smooth="yes"/>
+      <point x="95.60417630544114" y="594.965"/>
+      <point x="62.541903827982665" y="634.0"/>
+      <point x="64.87703252633388" y="711.0" type="curve" smooth="yes"/>
+      <point x="65.02866425999304" y="716.0"/>
+      <point x="65.33192772731137" y="726.0"/>
+      <point x="66.63519119462971" y="736.0" type="curve"/>
+      <point x="92.70519119462972" y="736.0" type="line"/>
+      <point x="88.67332596359684" y="669.035"/>
+      <point x="103.84288286817817" y="637.0"/>
+      <point x="158.33288286817816" y="637.0" type="curve" smooth="yes"/>
+      <point x="198.6478828681782" y="637.0"/>
+      <point x="226.69071518974218" y="661.035"/>
+      <point x="243.0351911946297" y="736.0" type="curve"/>
+      <point x="268.10519119462975" y="736.0" type="line"/>
+      <point x="251.02820921491002" y="637.965"/>
+      <point x="206.40917630544115" y="594.965"/>
+    </contour>
+    <component base="dotlessi" yxScale="0.030326346731833854"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="2">
+  <advance width="417.75"/>
+  <anchor x="202.05" y="33.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="174.008" y="-335.1" type="line"/>
+      <point x="239.35069075477725" y="-269.6163920036354"/>
+      <point x="273.95" y="-211.12"/>
+      <point x="273.95" y="-143.66" type="curve" smooth="yes"/>
+      <point x="273.95" y="-77.74000000000001"/>
+      <point x="233.3521386138614" y="-47.00000000000001"/>
+      <point x="178.256" y="-47.00000000000001" type="curve" smooth="yes"/>
+      <point x="120.35050000000001" y="-47.00000000000001"/>
+      <point x="86.68" y="-80.9"/>
+      <point x="86.68" y="-123.22" type="curve" smooth="yes"/>
+      <point x="86.68" y="-167.12"/>
+      <point x="118.394" y="-197.72"/>
+      <point x="165.994" y="-197.72" type="curve" smooth="yes"/>
+      <point x="181.798" y="-197.72"/>
+      <point x="193.71800000000002" y="-196.86"/>
+      <point x="201.744" y="-191.14" type="curve"/>
+      <point x="197.17023970668723" y="-184.9456836494018"/>
+      <point x="188.39001755821909" y="-159.6686755003421"/>
+      <point x="190.6" y="-165.38" type="curve"/>
+      <point x="186.56365084273898" y="-206.9826899657319"/>
+      <point x="137.74526656778266" y="-239.67983959983596"/>
+      <point x="76.75999999999999" y="-283.02" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

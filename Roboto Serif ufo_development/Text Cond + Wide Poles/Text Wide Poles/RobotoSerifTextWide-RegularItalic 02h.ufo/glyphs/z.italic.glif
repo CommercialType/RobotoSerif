@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.italic" format="2">
+  <advance width="541"/>
+  <outline>
+    <contour>
+      <point x="137" y="39" type="line"/>
+      <point x="497" y="453" type="line"/>
+      <point x="495" y="508" type="line"/>
+      <point x="51" y="508" type="line"/>
+      <point x="56" y="346" type="line"/>
+      <point x="117" y="346" type="line"/>
+      <point x="125" y="411" type="line" smooth="yes"/>
+      <point x="130" y="447"/>
+      <point x="168" y="454"/>
+      <point x="268" y="454" type="curve" smooth="yes"/>
+      <point x="418" y="454" type="line"/>
+      <point x="400" y="467" type="line"/>
+      <point x="43" y="60" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="516" y="180" type="line"/>
+      <point x="454" y="180" type="line"/>
+      <point x="445" y="100" type="line" smooth="yes"/>
+      <point x="440" y="62"/>
+      <point x="401" y="55"/>
+      <point x="302" y="55" type="curve" smooth="yes"/>
+      <point x="123" y="55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

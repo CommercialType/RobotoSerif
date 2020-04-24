@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.den" format="2">
+  <advance width="262"/>
+  <unicode hex="E403"/>
+  <outline>
+    <contour>
+      <point x="155" y="52" type="curve" smooth="yes"/>
+      <point x="155" y="341" type="line"/>
+      <point x="133" y="341" type="line"/>
+      <point x="117" y="313"/>
+      <point x="87" y="299"/>
+      <point x="38" y="298" type="curve"/>
+      <point x="38" y="264" type="line"/>
+      <point x="83" y="263"/>
+      <point x="118" y="279"/>
+      <point x="127" y="313" type="curve"/>
+      <point x="119" y="307" type="line"/>
+      <point x="119" y="52" type="line" smooth="yes"/>
+      <point x="119" y="34"/>
+      <point x="100" y="30"/>
+      <point x="72" y="30" type="curve" smooth="yes"/>
+      <point x="46" y="30" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="30" type="line"/>
+      <point x="206" y="30" type="line" smooth="yes"/>
+      <point x="175" y="30"/>
+      <point x="155" y="34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

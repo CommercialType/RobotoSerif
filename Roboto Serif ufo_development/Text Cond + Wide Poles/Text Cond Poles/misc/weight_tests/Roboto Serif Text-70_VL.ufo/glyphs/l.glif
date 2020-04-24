@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="201"/>
+  <unicode hex="006C"/>
+  <anchor x="147.7447572815534" y="746.0" name="top"/>
+  <anchor x="236.57462783171522" y="735.0" name="right"/>
+  <anchor x="273.2261488673139" y="391.0" name="mid"/>
+  <anchor x="129.31466019417476" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="120.56" y="117.18" type="curve" smooth="yes"/>
+      <point x="229.65" y="735.0" type="line"/>
+      <point x="122.39" y="735.0" type="line"/>
+      <point x="118.32" y="715.58" type="line"/>
+      <point x="132.04" y="713.58" type="line" smooth="yes"/>
+      <point x="176.32" y="707.3"/>
+      <point x="185.37" y="695.72"/>
+      <point x="179.44" y="663.93" type="curve" smooth="yes"/>
+      <point x="82.63" y="112.86" type="line" smooth="yes"/>
+      <point x="79.07" y="92.85"/>
+      <point x="76.51" y="73.33"/>
+      <point x="76.51" y="57.14" type="curve" smooth="yes"/>
+      <point x="76.51" y="12.93"/>
+      <point x="97.21" y="-7.0"/>
+      <point x="141.07" y="-7.0" type="curve" smooth="yes"/>
+      <point x="163.35" y="-7.0"/>
+      <point x="183.98" y="0.28"/>
+      <point x="196.91" y="8.35" type="curve"/>
+      <point x="201.91" y="39.14" type="line"/>
+      <point x="185.54" y="28.77"/>
+      <point x="165.98" y="22.07"/>
+      <point x="146.86" y="22.07" type="curve" smooth="yes"/>
+      <point x="123.93" y="22.07"/>
+      <point x="112.79" y="32.07"/>
+      <point x="112.79" y="57.14" type="curve" smooth="yes"/>
+      <point x="112.79" y="72.12"/>
+      <point x="116.28" y="93.71"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>ascender</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

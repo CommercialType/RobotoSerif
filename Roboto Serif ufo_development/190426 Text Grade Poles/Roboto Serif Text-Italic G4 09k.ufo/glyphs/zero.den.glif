@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.den" format="2">
+  <advance width="324"/>
+  <unicode hex="E402"/>
+  <guideline x="0" y="308" angle="0" identifier="kLFBOIkrZ3"/>
+  <guideline x="0" y="-6" angle="0" identifier="CVIAvJE52p"/>
+  <guideline x="0" y="347" angle="0" identifier="WWe6ECWEp2"/>
+  <guideline x="327" y="33" angle="0" identifier="0rJ1IF31ac"/>
+  <outline>
+    <contour>
+      <point x="195" y="161" type="curve" smooth="yes"/>
+      <point x="185" y="100"/>
+      <point x="162" y="48"/>
+      <point x="120" y="48" type="curve"/>
+      <point x="80" y="48"/>
+      <point x="68" y="78"/>
+      <point x="68" y="116" type="curve" smooth="yes"/>
+      <point x="68" y="134"/>
+      <point x="70" y="157"/>
+      <point x="74" y="180" type="curve" smooth="yes"/>
+      <point x="84" y="241"/>
+      <point x="108" y="293"/>
+      <point x="149" y="293" type="curve"/>
+      <point x="189" y="293"/>
+      <point x="201" y="263"/>
+      <point x="201" y="225" type="curve" smooth="yes"/>
+      <point x="201" y="207"/>
+      <point x="199" y="184"/>
+    </contour>
+    <contour>
+      <point x="281" y="199" type="curve" smooth="yes"/>
+      <point x="281" y="273"/>
+      <point x="244" y="347"/>
+      <point x="156" y="347" type="curve" smooth="yes"/>
+      <point x="39" y="347"/>
+      <point x="-12" y="228"/>
+      <point x="-12" y="142" type="curve" smooth="yes"/>
+      <point x="-12" y="68"/>
+      <point x="24" y="-6"/>
+      <point x="112" y="-6" type="curve" smooth="yes"/>
+      <point x="230" y="-6"/>
+      <point x="281" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0rJ1IF31ac</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.CVIAvJE52p</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.WWe6ECWEp2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.kLFBOIkrZ3</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

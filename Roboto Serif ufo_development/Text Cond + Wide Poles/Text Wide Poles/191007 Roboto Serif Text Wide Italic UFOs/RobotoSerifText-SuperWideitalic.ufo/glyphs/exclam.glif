@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="423"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="441" y="714" type="line"/>
+      <point x="410" y="536"/>
+      <point x="339" y="444"/>
+      <point x="299" y="254" type="curve"/>
+      <point x="117" y="254" type="line"/>
+      <point x="154" y="461"/>
+      <point x="126" y="555"/>
+      <point x="158" y="714" type="curve"/>
+    </contour>
+    <component base="period" xOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

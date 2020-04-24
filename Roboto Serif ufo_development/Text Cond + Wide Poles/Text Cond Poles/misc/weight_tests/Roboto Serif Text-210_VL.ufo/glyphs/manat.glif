@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="475"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="308.1552601254581" y="720.0" type="line"/>
+      <point x="207.88987877526586" y="144.79" type="line"/>
+      <point x="240.72987877526586" y="144.79" type="line"/>
+      <point x="340.2052601254581" y="720.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300.7177826028059" y="590.0" type="curve"/>
+      <point x="157.20778260280596" y="590.0"/>
+      <point x="48.75760581778224" y="388.79"/>
+      <point x="-18.63" y="0.0" type="curve"/>
+      <point x="22.0" y="0.0" type="line"/>
+      <point x="87.07829881708525" y="385.0"/>
+      <point x="178.6978068477528" y="560.79"/>
+      <point x="296.7878068477528" y="560.79" type="curve"/>
+      <point x="418.8778068477528" y="560.79"/>
+      <point x="446.0531255672595" y="385.79"/>
+      <point x="380.95" y="0.0" type="curve"/>
+      <point x="421.58" y="0.0" type="line"/>
+      <point x="486.6086453167367" y="382.79"/>
+      <point x="441.80778260280596" y="590.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

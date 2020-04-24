@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde" format="2">
+  <advance width="424"/>
+  <anchor x="221.13921709130565" y="524.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="294.9896918860872" y="780.79" type="curve" smooth="yes"/>
+      <point x="332.6696918860872" y="780.79"/>
+      <point x="356.3041478916631" y="812.79"/>
+      <point x="376.7578866529892" y="878.0" type="curve"/>
+      <point x="352.1909809049059" y="889.0" type="line"/>
+      <point x="337.4189503968906" y="843.21"/>
+      <point x="324.9944943913147" y="811.21"/>
+      <point x="301.94449439131466" y="811.21" type="curve" smooth="yes"/>
+      <point x="267.26449439131466" y="811.21"/>
+      <point x="266.62098090490593" y="889.0"/>
+      <point x="211.10098090490595" y="889.0" type="curve" smooth="yes"/>
+      <point x="173.42098090490595" y="889.0"/>
+      <point x="150.095831900027" y="861.0"/>
+      <point x="132.3079593878297" y="791.0" type="curve"/>
+      <point x="156.66486513591298" y="779.79" type="line"/>
+      <point x="169.8951631456708" y="835.58"/>
+      <point x="182.86135164950426" y="857.58"/>
+      <point x="204.12135164950428" y="857.58" type="curve" smooth="yes"/>
+      <point x="241.01135164950426" y="857.58"/>
+      <point x="240.67969188608723" y="780.79"/>
+    </contour>
+    <contour>
+      <point x="235.2719163536772" y="594.79" type="curve" smooth="yes"/>
+      <point x="287.3719163536772" y="594.79"/>
+      <point x="332.02015961047283" y="633.79"/>
+      <point x="350.0449136258066" y="722.0" type="curve"/>
+      <point x="323.6249136258066" y="722.0" type="line"/>
+      <point x="307.1960016146548" y="658.21"/>
+      <point x="279.9946398609956" y="637.0"/>
+      <point x="240.3146398609956" y="637.0" type="curve" smooth="yes"/>
+      <point x="198.8446398609956" y="637.0"/>
+      <point x="170.09221436343506" y="651.21"/>
+      <point x="171.64491362580662" y="722.0" type="curve"/>
+      <point x="143.22491362580664" y="722.0" type="line"/>
+      <point x="143.1007798749354" y="717.0"/>
+      <point x="143.02629962441264" y="714.0"/>
+      <point x="142.97664612406416" y="711.79" type="curve" smooth="yes"/>
+      <point x="141.04015961047284" y="634.0"/>
+      <point x="174.7519163536772" y="594.79"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

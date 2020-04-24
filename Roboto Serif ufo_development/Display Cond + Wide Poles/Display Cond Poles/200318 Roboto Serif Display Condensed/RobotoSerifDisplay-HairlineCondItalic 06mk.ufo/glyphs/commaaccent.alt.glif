@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent.alt" format="2">
+  <advance width="343"/>
+  <anchor x="203.78235294117647" y="518" name="_top"/>
+  <anchor x="233.0382352941176" y="712" name="center"/>
+  <outline>
+    <component base="commaaccent" xScale="-1" yScale="-1" xOffset="296" yOffset="540"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6568,1,1</string>
+    </dict>
+  </lib>
+</glyph>

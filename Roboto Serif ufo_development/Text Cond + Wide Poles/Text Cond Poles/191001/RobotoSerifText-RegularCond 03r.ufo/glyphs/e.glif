@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="447"/>
+  <unicode hex="0065"/>
+  <guideline x="234" y="466.0" angle="90" identifier="4TsReOb0IG"/>
+  <anchor x="234" y="508" name="top"/>
+  <anchor x="389" y="1" name="right"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="243" y="-10.0" type="curve" smooth="yes"/>
+      <point x="323" y="-10.0"/>
+      <point x="377" y="32"/>
+      <point x="408.0" y="109.0" type="curve"/>
+      <point x="364.0" y="136.0" type="line"/>
+      <point x="339" y="76"/>
+      <point x="306" y="42"/>
+      <point x="246" y="42" type="curve" smooth="yes"/>
+      <point x="172" y="42.0"/>
+      <point x="124.0" y="105"/>
+      <point x="124.0" y="250.0" type="curve" smooth="yes"/>
+      <point x="124" y="405"/>
+      <point x="169.0" y="466.0"/>
+      <point x="235.0" y="466.0" type="curve" smooth="yes"/>
+      <point x="288" y="466"/>
+      <point x="324.0" y="430"/>
+      <point x="324.0" y="265.0" type="curve"/>
+      <point x="347.0" y="286.0" type="line"/>
+      <point x="109.0" y="286.0" type="line"/>
+      <point x="109.0" y="235.0" type="line"/>
+      <point x="413.0" y="235.0" type="line"/>
+      <point x="413.0" y="455"/>
+      <point x="333" y="518"/>
+      <point x="235.0" y="518.0" type="curve" smooth="yes"/>
+      <point x="126.0" y="518.0"/>
+      <point x="36.0" y="432"/>
+      <point x="36.0" y="252.0" type="curve" smooth="yes"/>
+      <point x="36" y="78"/>
+      <point x="120" y="-10.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

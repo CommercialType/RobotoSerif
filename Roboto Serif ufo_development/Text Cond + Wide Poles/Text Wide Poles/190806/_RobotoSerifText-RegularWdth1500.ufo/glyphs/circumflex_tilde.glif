@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_tilde" format="2">
+  <advance width="587.5"/>
+  <anchor x="287.04" y="551.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="369.3" y="766.45" type="curve" smooth="yes"/>
+      <point x="431.12" y="766.45"/>
+      <point x="470.69273041668" y="808.61629317795"/>
+      <point x="489.92" y="879.2" type="curve"/>
+      <point x="438.52" y="896.95" type="line"/>
+      <point x="425.28" y="859.25"/>
+      <point x="410.68" y="834.75"/>
+      <point x="378.4" y="834.75" type="curve" smooth="yes"/>
+      <point x="331.56" y="834.75"/>
+      <point x="295.84000000000003" y="894.05"/>
+      <point x="223.24" y="894.05" type="curve" smooth="yes"/>
+      <point x="157.51999999999998" y="894.05"/>
+      <point x="123.84616368305998" y="854.670568445875"/>
+      <point x="107.12" y="780.4" type="curve"/>
+      <point x="159.01999999999998" y="763.7" type="line"/>
+      <point x="168.68" y="804.2"/>
+      <point x="182.96" y="826.8"/>
+      <point x="215.72" y="826.8" type="curve" smooth="yes"/>
+      <point x="256.52" y="826.8"/>
+      <point x="290.82" y="766.45"/>
+    </contour>
+    <contour>
+      <point x="337.54" y="721.8" type="line"/>
+      <point x="463.70000000000005" y="580.8" type="line"/>
+      <point x="463.70000000000005" y="570.1" type="line"/>
+      <point x="414.62" y="570.1" type="line"/>
+      <point x="274.15999999999997" y="667.95" type="line"/>
+      <point x="301.98" y="667.95" type="line"/>
+      <point x="161.84" y="570.1" type="line"/>
+      <point x="124.03999999999999" y="570.1" type="line"/>
+      <point x="124.03999999999999" y="580.8" type="line"/>
+      <point x="249.8" y="721.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

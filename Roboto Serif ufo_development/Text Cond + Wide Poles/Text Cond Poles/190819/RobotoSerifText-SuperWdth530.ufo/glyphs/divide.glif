@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="467.88"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="332.776" y="129.42000000000002" type="curve" smooth="yes"/>
+      <point x="332.776" y="182.62"/>
+      <point x="297.226" y="220.38"/>
+      <point x="233.94" y="220.38" type="curve" smooth="yes"/>
+      <point x="170.854" y="220.38"/>
+      <point x="135.104" y="182.62"/>
+      <point x="135.104" y="129.42000000000002" type="curve" smooth="yes"/>
+      <point x="135.104" y="74.64"/>
+      <point x="170.854" y="37.74000000000001"/>
+      <point x="233.94" y="37.74000000000001" type="curve" smooth="yes"/>
+      <point x="297.226" y="37.74000000000001"/>
+      <point x="332.776" y="74.64"/>
+    </contour>
+    <contour>
+      <point x="332.776" y="552.44" type="curve" smooth="yes"/>
+      <point x="332.776" y="606.5"/>
+      <point x="297.226" y="644.26"/>
+      <point x="233.94" y="644.26" type="curve" smooth="yes"/>
+      <point x="170.854" y="644.26"/>
+      <point x="135.104" y="606.5"/>
+      <point x="135.104" y="552.44" type="curve" smooth="yes"/>
+      <point x="135.104" y="498.66"/>
+      <point x="170.854" y="461.62"/>
+      <point x="233.94" y="461.62" type="curve" smooth="yes"/>
+      <point x="297.226" y="461.62"/>
+      <point x="332.776" y="498.66"/>
+    </contour>
+    <component base="minus" xOffset="-32.523999999999994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

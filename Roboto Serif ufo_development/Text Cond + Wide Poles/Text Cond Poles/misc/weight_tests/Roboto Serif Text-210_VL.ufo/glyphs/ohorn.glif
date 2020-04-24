@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="460"/>
+  <unicode hex="01A1"/>
+  <anchor x="229.86612646870938" y="508.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="205.94207899790902" y="-12.0" type="curve" smooth="yes"/>
+      <point x="334.032078997909" y="-12.0"/>
+      <point x="427.6716112735234" y="134.79"/>
+      <point x="431.4701040501833" y="288.0" type="curve" smooth="yes"/>
+      <point x="433.77899181638827" y="381.0"/>
+      <point x="395.46891908154777" y="467.79"/>
+      <point x="317.3837215867752" y="497.79" type="curve"/>
+      <point x="331.790280835207" y="488.79" type="line"/>
+      <point x="331.93924133625245" y="494.79" type="line"/>
+      <point x="318.35889483660094" y="496.79" type="line"/>
+      <point x="335.44510758538127" y="489.79"/>
+      <point x="353.1858005846842" y="485.79"/>
+      <point x="367.02580058468425" y="485.79" type="curve" smooth="yes"/>
+      <point x="441.8058005846842" y="485.79"/>
+      <point x="491.6188463467073" y="554.79"/>
+      <point x="521.1063238693595" y="685.0" type="curve"/>
+      <point x="484.26632386935944" y="685.0" type="line"/>
+      <point x="460.162633597927" y="562.0"/>
+      <point x="420.7219890885177" y="508.0"/>
+      <point x="356.5719890885177" y="508.0" type="curve" smooth="yes"/>
+      <point x="328.1019890885177" y="508.0"/>
+      <point x="305.51025659026016" y="518.0"/>
+      <point x="265.41025659026013" y="518.0" type="curve" smooth="yes"/>
+      <point x="137.32025659026016" y="518.0"/>
+      <point x="43.680724314645786" y="371.21"/>
+      <point x="39.88223153798593" y="218.0" type="curve" smooth="yes"/>
+      <point x="36.75406101603076" y="91.79"/>
+      <point x="104.32207899790903" y="-12.0"/>
+    </contour>
+    <contour>
+      <point x="207.4520547529622" y="17.21" type="curve" smooth="yes"/>
+      <point x="124.2520547529622" y="17.21"/>
+      <point x="77.63232851777323" y="102.0"/>
+      <point x="80.53705828816018" y="218.79" type="curve" smooth="yes"/>
+      <point x="81.55495504530433" y="259.79"/>
+      <point x="89.01767855262271" y="302.0"/>
+      <point x="103.61592180941837" y="341.0" type="curve" smooth="yes"/>
+      <point x="132.1465420738809" y="423.79"/>
+      <point x="187.700280835207" y="488.79"/>
+      <point x="264.690280835207" y="488.79" type="curve" smooth="yes"/>
+      <point x="347.100280835207" y="488.79"/>
+      <point x="393.7200070703959" y="404.0"/>
+      <point x="390.81527730000903" y="287.21" type="curve" smooth="yes"/>
+      <point x="389.79738054286486" y="246.21"/>
+      <point x="382.33465703554646" y="204.0"/>
+      <point x="367.73641377875083" y="165.0" type="curve" smooth="yes"/>
+      <point x="339.2057935142883" y="82.21"/>
+      <point x="283.6520547529622" y="17.21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.3,0.3,0.3,0.3</string>
+    </dict>
+  </lib>
+</glyph>

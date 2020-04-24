@@ -1,0 +1,1147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wdth" name="width" minimum="0" maximum="1000" default="0"/>
+    <axis tag="opsz" name="optical_size" minimum="-6" maximum="6" default="0"/>
+    <axis tag="wgth" name="weight" minimum="0" maximum="1000" default="0"/>
+    <axis tag="grad" name="grade" minimum="-1" maximum="3" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Roboto Serif Text-Super Italic G4 08k.ufo" familyname="Roboto Serif Text" stylename="Super Italic G4">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Super Italic G1 08k.ufo" familyname="Roboto Serif Text" stylename="Super Italic G1">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Super Italic 16kg.ufo" familyname="Roboto Serif Text" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Regular Italic G4 09k.ufo" familyname="Roboto Serif Text" stylename="Regular Italic G4">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Regular Italic G1 09k.ufo" familyname="Roboto Serif Text" stylename="Regular Italic G1">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Regular Italic 26Kg.ufo" familyname="Roboto Serif Text" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Hairline Italic G4 07k.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Hairline Italic G1 07k.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text-Hairline Italic 18k.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Wide-Super Italic 08h.ufo" familyname="Roboto Serif Text Wide" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Wide-Regular Italic 07h.ufo" familyname="Roboto Serif Text Wide" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Wide-Hairline Italic 05h.ufo" familyname="Roboto Serif Text Wide" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Cond-Super Italic 01g.ufo" familyname="Roboto Serif Text" stylename="Super Italic Cond">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Cond-Regular Italic 01g.ufo" familyname="Roboto Serif Text" stylename="Regular Italic Cond">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Text Cond-Hairline Italic 01g.ufo" familyname="Roboto Serif Text" stylename="Hairline Italic Cond">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Super Italic 04gKk.ufo" familyname="Roboto Serif Micro" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Regular Italic 09gKk.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Hairline Italic 07gKk.ufo" familyname="Roboto Serif Micro" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Wide-Super Italic06ip.ufo" familyname="Roboto Serif Micro Wide" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Wide-Regular Italic 06ip.ufo" familyname="Roboto Serif Micro Wide" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Wide-Hairline Italic06ip.ufo" familyname="Roboto Serif Micro Wide" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Cond-Super Italic 9fzK.ufo" familyname="Roboto Serif Micro Cond" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Cond-Regular Italic 9fzK.ufo" familyname="Roboto Serif Micro Cond" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro Cond-Hairline Italic 9fzK.ufo" familyname="Roboto Serif Micro Cond" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Super Italic 13gk.ufo" familyname="Roboto Serif Display" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Regular Italic 19gk.ufo" familyname="Roboto Serif Display" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Hairline Italic 12g.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Wide-Super Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Wide-Regular Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Wide-Hairline Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Cond-Super Italic 05mk.ufo" familyname="Roboto Serif Display Cond" stylename="Super Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Cond-Regular Italic 05mk.ufo" familyname="Roboto Serif Display Cond" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display Cond-Hairline Italic 06mk.ufo" familyname="Roboto Serif Display Cond" stylename="Hairline Italic">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="0"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Roboto Serif Text" stylename="Light Italic" filename="Roboto Serif Text-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Medium Italic" filename="Roboto Serif Text-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Bold Italic" filename="Roboto Serif Text-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Black Italic" filename="Roboto Serif Text-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Light Italic" filename="Roboto Serif Micro-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif  Micro" stylename="Medium Italic" filename="Roboto Serif Micro-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Bold Italic" filename="Roboto Serif Micro-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro" stylename="Black Italic" filename="Roboto Serif Micro-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Light Italic" filename="Roboto Serif Big-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Medium Italic" filename="Roboto Serif Big-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Bold Italic" filename="Roboto Serif Big-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Black Italic" filename="Roboto Serif Big-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Light Italic" filename="Roboto Serif Display-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Medium Italic" filename="Roboto Serif Display-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Bold Italic" filename="Roboto Serif Display-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display" stylename="Black Italic" filename="Roboto Serif Display-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Light Italic" filename="Roboto Serif Small-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif  Small" stylename="Medium Italic" filename="Roboto Serif Small-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Bold Italic" filename="Roboto Serif Small-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Black Italic" filename="Roboto Serif Small-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Hairline Italic" filename="Roboto Serif Big-Hairline Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Regular Italic" filename="Roboto Serif Big-Regular Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big" stylename="Super Italic" filename="Roboto Serif Big-Super Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Hairline Italic" filename="Roboto Serif Small-Hairline Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Regular Italic" filename="Roboto Serif Small-Regular Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small" stylename="Super Italic" filename="Roboto Serif Small-Super Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Light Italic G1" filename="Roboto Serif Text-Light Italic G1.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Light Italic G4" filename="Roboto Serif Text-Light Italic G4.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Medium Italic G1" filename="Roboto Serif Text-Medium Italic G1.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Medium Italic G4" filename="Roboto Serif Text-Medium Italic G4.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Bold Italic G1" filename="Roboto Serif Text-Bold Italic G1.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Bold Italic G4" filename="Roboto Serif Text-Bold Italic G4.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Black Italic G1" filename="Roboto Serif Text-Black Italic G1.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="3"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text" stylename="Black Italic G4" filename="Roboto Serif Text-Black Italic G4.ufo">
+      <location>
+        <dimension name="width" xvalue="500"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Cond" stylename="Light Italic" filename="Roboto Serif Text Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Cond" stylename="Medium Italic" filename="Roboto Serif Text Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Cond" stylename="Bold Italic" filename="Roboto Serif Text Cond-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Cond" stylename="Black Italic" filename="Roboto Serif Text Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Wide" stylename="Light Italic" filename="Roboto Serif Text Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Wide" stylename="Medium Italic" filename="Roboto Serif Text Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Wide" stylename="Bold Italic" filename="Roboto Serif Text Wide-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Text Wide" stylename="Black Italic" filename="Roboto Serif Text Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="0"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Cond" stylename="Light Italic" filename="Roboto Serif Micro Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Cond" stylename="Medium Italic" filename="Roboto Serif Micro Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Cond" stylename="Bold Italic" filename="Roboto Serif Micro Cond-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Cond" stylename="Black Italic" filename="Roboto Serif Micro Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Wide" stylename="Light Italic" filename="Roboto Serif Micro Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Wide" stylename="Medium Italic" filename="Roboto Serif Micro Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Wide" stylename="Bold Italic" filename="Roboto Serif Micro Wide-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Micro Wide" stylename="Black Italic" filename="Roboto Serif Micro Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Cond" stylename="Light Italic" filename="Roboto Serif Display Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Cond" stylename="Medium Italic" filename="Roboto Serif Display Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Cond" stylename="Bold Italic" filename="Roboto Serif Display Cond-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Cond" stylename="Black Italic" filename="Roboto Serif Display Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Wide" stylename="Light Italic" filename="Roboto Serif Display Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Wide" stylename="Medium Italic" filename="Roboto Serif Display Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Wide" stylename="Bold Italic" filename="Roboto Serif Display Wide-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Display Wide" stylename="Black Italic" filename="Roboto Serif Display Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="6"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Light Italic" filename="Roboto Serif Small Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Medium Italic" filename="Roboto Serif Small Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Bold Italic" filename="Roboto Serif Small Cond-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Black Italic" filename="Roboto Serif Small Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Light Italic" filename="Roboto Serif Small Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Medium Italic" filename="Roboto Serif Small Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Bold Italic" filename="Roboto Serif Small Wide-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Black Italic" filename="Roboto Serif Small Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Light Italic" filename="Roboto Serif Bigl Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Medium Italic" filename="Roboto Serif Big Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Bold Italic" filename="Roboto Serif Big Cond-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Black Italic" filename="Roboto Serif Big Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Light Italic" filename="Roboto Serif Big Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Medium Italic" filename="Roboto Serif Big Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Bold Italic" filename="Roboto Serif Big Wide-Bold Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="745"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Black Italic" filename="Roboto Serif Big Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Light Italic" filename="Roboto Serif Small Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Medium Italic" filename="Roboto Serif Small Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Cond" stylename="Black Italic" filename="Roboto Serif Small Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Light Italic" filename="Roboto Serif Small Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Medium Italic" filename="Roboto Serif Small Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Small Wide" stylename="Black Italic" filename="Roboto Serif Small Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="-3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Light Italic" filename="Roboto Serif Bigl Cond-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Medium Italic" filename="Roboto Serif Big Cond-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Cond" stylename="Black Italic" filename="Roboto Serif Big Cond-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="0"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Light Italic" filename="Roboto Serif Big Wide-Light Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="140"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Medium Italic" filename="Roboto Serif Big Wide-Medium Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="520"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif Big Wide" stylename="Black Italic" filename="Roboto Serif Big Wide-Black Italic.ufo">
+      <location>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="optical_size" xvalue="3"/>
+        <dimension name="weight" xvalue="855"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcaron" format="2">
+  <advance width="603"/>
+  <unicode hex="01E6"/>
+  <outline>
+    <component base="G"/>
+    <component base="caron.uc" xOffset="149.11566152229324" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

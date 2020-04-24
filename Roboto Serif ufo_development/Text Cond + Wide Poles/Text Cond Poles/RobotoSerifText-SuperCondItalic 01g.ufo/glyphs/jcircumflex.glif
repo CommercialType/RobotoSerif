@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex" format="2">
+  <advance width="325"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="257" y="731" type="line"/>
+      <point x="324" y="581" type="line"/>
+      <point x="320" y="557" type="line"/>
+      <point x="223" y="557" type="line"/>
+      <point x="98" y="674" type="line"/>
+      <point x="255" y="674" type="line"/>
+      <point x="100" y="557" type="line"/>
+      <point x="3" y="557" type="line"/>
+      <point x="7" y="581" type="line"/>
+      <point x="123" y="731" type="line"/>
+    </contour>
+    <component base="dotlessj" xOffset="-24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

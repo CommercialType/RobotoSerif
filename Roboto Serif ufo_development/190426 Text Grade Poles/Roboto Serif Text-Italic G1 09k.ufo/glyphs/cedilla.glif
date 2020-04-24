@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="600"/>
+  <unicode hex="00B8"/>
+  <guideline x="0" y="-236" angle="0" identifier="u8GRwPjTI4"/>
+  <guideline x="0" y="-190" angle="0" identifier="NS5dAf7bOt"/>
+  <guideline x="0" y="-58" angle="0" identifier="EBdBUCxBtF"/>
+  <guideline x="0" y="-95" angle="0" identifier="pKk26Ad6BH"/>
+  <anchor x="297.0" y="34" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="240" y="-236" type="curve" smooth="yes"/>
+      <point x="310" y="-236"/>
+      <point x="360" y="-201"/>
+      <point x="360" y="-142" type="curve"/>
+      <point x="360" y="-87"/>
+      <point x="313" y="-65"/>
+      <point x="238" y="-62" type="curve"/>
+      <point x="235" y="-76" type="line"/>
+      <point x="302" y="4" type="line"/>
+      <point x="240" y="4" type="line"/>
+      <point x="205" y="-85" type="line"/>
+      <point x="218" y="-85" type="line" smooth="yes"/>
+      <point x="267.0" y="-85.0"/>
+      <point x="285" y="-109"/>
+      <point x="285" y="-142" type="curve" smooth="yes"/>
+      <point x="285" y="-171"/>
+      <point x="269" y="-197"/>
+      <point x="234" y="-197" type="curve"/>
+      <point x="197" y="-197"/>
+      <point x="169" y="-173"/>
+      <point x="156" y="-145" type="curve"/>
+      <point x="124" y="-166" type="line"/>
+      <point x="143" y="-208"/>
+      <point x="180" y="-236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.EBdBUCxBtF</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.NS5dAf7bOt</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.pKk26Ad6BH</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.u8GRwPjTI4</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

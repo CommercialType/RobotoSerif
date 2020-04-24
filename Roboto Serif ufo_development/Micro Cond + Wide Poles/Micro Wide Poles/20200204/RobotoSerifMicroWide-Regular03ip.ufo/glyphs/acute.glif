@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="530"/>
+  <unicode hex="00B4"/>
+  <guideline x="227" y="634" angle="90" identifier="sa2fOKq7dN"/>
+  <anchor x="227" y="565" name="_top"/>
+  <outline>
+    <contour>
+      <point x="282" y="807" type="curve" smooth="yes"/>
+      <point x="197" y="686" type="line"/>
+      <point x="197" y="661" type="line"/>
+      <point x="227" y="661" type="line"/>
+      <point x="368" y="752" type="line" smooth="yes"/>
+      <point x="403" y="775"/>
+      <point x="416" y="792"/>
+      <point x="416" y="819" type="curve" smooth="yes"/>
+      <point x="416" y="845"/>
+      <point x="395" y="869"/>
+      <point x="360" y="869" type="curve" smooth="yes"/>
+      <point x="322" y="869"/>
+      <point x="304" y="839"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

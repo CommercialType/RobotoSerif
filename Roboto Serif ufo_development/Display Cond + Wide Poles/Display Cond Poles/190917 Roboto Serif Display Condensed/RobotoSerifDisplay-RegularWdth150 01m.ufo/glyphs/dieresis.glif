@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="350"/>
+  <unicode hex="00A8"/>
+  <anchor x="175.2" y="526.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="98.22" y="613.0" type="curve" smooth="yes"/>
+      <point x="126.085" y="613.0"/>
+      <point x="146.22" y="636.65"/>
+      <point x="146.22" y="674.85" type="curve" smooth="yes"/>
+      <point x="146.22" y="712.1"/>
+      <point x="126.085" y="735.75"/>
+      <point x="98.22" y="735.75" type="curve" smooth="yes"/>
+      <point x="70.3775" y="735.75"/>
+      <point x="50.0925" y="712.1"/>
+      <point x="50.0925" y="674.85" type="curve" smooth="yes"/>
+      <point x="50.0925" y="636.6"/>
+      <point x="70.3775" y="613.0"/>
+    </contour>
+    <contour>
+      <point x="253.0075" y="613.0" type="curve" smooth="yes"/>
+      <point x="281.0225" y="613.0"/>
+      <point x="301.1575" y="636.65"/>
+      <point x="301.1575" y="674.85" type="curve" smooth="yes"/>
+      <point x="301.1575" y="712.1"/>
+      <point x="281.0225" y="735.75"/>
+      <point x="253.0075" y="735.75" type="curve" smooth="yes"/>
+      <point x="225.165" y="735.75"/>
+      <point x="204.88" y="712.1"/>
+      <point x="204.88" y="674.85" type="curve" smooth="yes"/>
+      <point x="204.88" y="636.6"/>
+      <point x="225.165" y="613.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
