@@ -1059,8 +1059,26 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4613370768</string>
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
@@ -2110,6 +2128,72 @@
       <string>f_i.alt</string>
       <string>f_j.alt</string>
       <string>fi.alt</string>
+      <string>f.alt.copy_1</string>
+      <string>fi.alt.copy_1</string>
+      <string>a.slnt</string>
+      <string>b.slnt</string>
+      <string>c.slnt</string>
+      <string>d.slnt</string>
+      <string>e.slnt</string>
+      <string>f.slnt</string>
+      <string>f_b.slnt</string>
+      <string>f_f.slnt</string>
+      <string>f_f_b.slnt</string>
+      <string>f_f_h.slnt</string>
+      <string>f_f_i.slnt</string>
+      <string>f_f_j.slnt</string>
+      <string>f_f_k.slnt</string>
+      <string>f_f_l.slnt</string>
+      <string>f_h.slnt</string>
+      <string>f_i.slnt</string>
+      <string>f_j.slnt</string>
+      <string>f_k.slnt</string>
+      <string>f_l.slnt</string>
+      <string>g.slnt</string>
+      <string>h.slnt</string>
+      <string>i.slnt</string>
+      <string>j.slnt</string>
+      <string>k.slnt</string>
+      <string>l.slnt</string>
+      <string>m.slnt</string>
+      <string>n.slnt</string>
+      <string>o.slnt</string>
+      <string>p.slnt</string>
+      <string>q.slnt</string>
+      <string>r.slnt</string>
+      <string>s.slnt</string>
+      <string>t.slnt</string>
+      <string>u.slnt</string>
+      <string>v.slnt</string>
+      <string>w.slnt</string>
+      <string>x.slnt</string>
+      <string>y.slnt</string>
+      <string>z.slnt</string>
+      <string>germandbls.slnt</string>
+      <string>ae.slnt</string>
+      <string>eth.slnt</string>
+      <string>thorn.slnt</string>
+      <string>dcroat.slnt</string>
+      <string>hbar.slnt</string>
+      <string>dotlessi.slnt</string>
+      <string>kgreenlandic.slnt</string>
+      <string>ldot.slnt</string>
+      <string>lslash.slnt</string>
+      <string>eng.slnt</string>
+      <string>oe.slnt</string>
+      <string>tbar.slnt</string>
+      <string>dotlessj.slnt</string>
+      <string>schwa.slnt</string>
+      <string>fi.slnt</string>
+      <string>fl.slnt</string>
+      <string>uhorn.slnt</string>
+      <string>ordfeminine.slnt</string>
+      <string>Pcircle.copy_1</string>
+      <string>litre</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>
