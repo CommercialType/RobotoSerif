@@ -5,12 +5,12 @@ echo "Building Variable Fonts\n"
 # Roman
 fontmake -o variable -m roman/Roboto\ Serif\ Variable\ Romans.designspace
 # rename to match Google Naming Spec
-mv variable_ttf/Roboto\ Serif\ Variable\ Romans-VF.ttf variable_ttf/RobotoSerifText[grad,opsz,wdth,wgth].ttf
+mv variable_ttf/Roboto\ Serif\ Variable\ Romans-VF.ttf variable_ttf/RobotoSerif[grad,opsz,wdth,wgth].ttf
 
 # Italic
 fontmake -o variable -m italic/Roboto\ Serif\ Variable\ Italics.designspace
 # rename to match Google Naming Spec
-mv variable_ttf/Roboto\ Serif\ Variable\ Italics-VF.ttf variable_ttf/RobotoSerifText-Italic[grad,opsz,wdth,wgth].ttf
+mv variable_ttf/Roboto\ Serif\ Variable\ Italics-VF.ttf variable_ttf/RobotoSerif-Italic[grad,opsz,wdth,wgth].ttf
 
 
 echo "\n\nPost Processing: Adding DSIG\n\n"
