@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb" format="2">
-  <advance width="426"/>
   <unicode hex="0304"/>
-  <anchor x="213.0" y="526" name="_top"/>
+  <anchor x="-213.0" y="526" name="_top"/>
   <outline>
-    <component base="macron"/>
+    <component base="macron" xOffset="-426"/>
   </outline>
   <lib>
     <dict>
