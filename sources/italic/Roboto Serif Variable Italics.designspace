@@ -563,9 +563,105 @@
         <dimension name="Grade" xvalue="-1"/>
       </location>
     </source>
+    <source filename="Roboto Serif Micro-Super Italic G4.ufo" familyname="Roboto Serif Micro" stylename="Super Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Super Italic G1.ufo" familyname="Roboto Serif Micro" stylename="Super Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Regular Italic G4.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Regular Italic G1.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Hairline Italic G4.ufo" familyname="Roboto Serif" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Micro-Hairline Italic G1.ufo" familyname="Roboto Serif Micro" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Super Italic G4.ufo" familyname="Roboto Serif Display" stylename="Super Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Super Italic G1.ufo" familyname="Roboto Serif Display" stylename="Super Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Regular Italic G4.ufo" familyname="Roboto Serif Display" stylename="Regular Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Regular Italic G1.ufo" familyname="Roboto Serif Display" stylename="Regular Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Hairline Italic G4.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto Serif Display-Hairline Italic G1.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
   </sources>
   <instances>
-    <instance name="RobotoSerif-opsz8-wght100-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Thin" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght100-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Thin Italic" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -575,7 +671,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght100-wdth100-grad0" familyname="Roboto Serif" stylename="8px Thin" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght100-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Thin Italic" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -585,7 +681,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght100-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Thin" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght100-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Thin Italic" filename="ufo_instances/RobotoSerif-opsz8-wght100-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -595,7 +691,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght200-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed ExtraLight" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght200-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -605,7 +701,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght200-wdth100-grad0" familyname="Roboto Serif" stylename="8px ExtraLight" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght200-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -615,7 +711,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght200-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded ExtraLight" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght200-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz8-wght200-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -625,7 +721,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght300-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Light" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght300-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Light Italic" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -635,7 +731,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght300-wdth100-grad0" familyname="Roboto Serif" stylename="8px Light" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght300-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Light Italic" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -645,7 +741,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght300-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Light" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght300-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Light Italic" filename="ufo_instances/RobotoSerif-opsz8-wght300-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -655,7 +751,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght400-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Regular" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght400-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Regular Italic" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -665,7 +761,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght400-wdth100-grad0" familyname="Roboto Serif" stylename="8px Regular" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght400-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Regular Italic" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -675,7 +771,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght400-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Regular" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght400-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Regular Italic" filename="ufo_instances/RobotoSerif-opsz8-wght400-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -685,7 +781,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght500-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Medium" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght500-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Medium Italic" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -695,7 +791,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght500-wdth100-grad0" familyname="Roboto Serif" stylename="8px Medium" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght500-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Medium Italic" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -705,7 +801,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght500-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Medium" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght500-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Medium Italic" filename="ufo_instances/RobotoSerif-opsz8-wght500-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -715,7 +811,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght600-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed SemiBold" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght600-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -725,7 +821,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght600-wdth100-grad0" familyname="Roboto Serif" stylename="8px SemiBold" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght600-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -735,7 +831,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght600-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded SemiBold" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght600-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght600-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -745,7 +841,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght700-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Bold" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth50-grad0.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz8-wght700-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Bold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth50-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -755,7 +851,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght700-wdth100-grad0" familyname="Roboto Serif" stylename="8px Bold" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth100-grad0.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz8-wght700-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Bold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth100-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -765,7 +861,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght700-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Bold" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth150-grad0.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz8-wght700-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Bold Italic" filename="ufo_instances/RobotoSerif-opsz8-wght700-wdth150-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 8px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -775,7 +871,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght900-wdth50-grad0" familyname="Roboto Serif" stylename="8px Condensed Black" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght900-wdth50-grad0-italic" familyname="Roboto Serif" stylename="8px Condensed Black Italic" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -785,7 +881,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght900-wdth100-grad0" familyname="Roboto Serif" stylename="8px Black" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght900-wdth100-grad0-italic" familyname="Roboto Serif" stylename="8px Black Italic" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -795,7 +891,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz8-wght900-wdth150-grad0" familyname="Roboto Serif" stylename="8px Expanded Black" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz8-wght900-wdth150-grad0-italic" familyname="Roboto Serif" stylename="8px Expanded Black Italic" filename="ufo_instances/RobotoSerif-opsz8-wght900-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
@@ -805,7 +901,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght100-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Thin" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght100-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Thin Italic" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -815,7 +911,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght100-wdth100-grad0" familyname="Roboto Serif" stylename="14px Thin" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght100-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Thin Italic" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -825,7 +921,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght100-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Thin" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght100-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Thin Italic" filename="ufo_instances/RobotoSerif-opsz14-wght100-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -835,7 +931,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght200-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed ExtraLight" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght200-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -845,7 +941,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght200-wdth100-grad0" familyname="Roboto Serif" stylename="14px ExtraLight" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght200-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -855,7 +951,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght200-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded ExtraLight" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght200-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz14-wght200-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -865,7 +961,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght300-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Light" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght300-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Light Italic" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -875,7 +971,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght300-wdth100-grad0" familyname="Roboto Serif" stylename="14px Light" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght300-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Light Italic" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -885,7 +981,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght300-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Light" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght300-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Light Italic" filename="ufo_instances/RobotoSerif-opsz14-wght300-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -895,7 +991,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght400-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Regular" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght400-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Regular Italic" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -905,7 +1001,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght400-wdth100-grad0" familyname="Roboto Serif" stylename="14px Regular" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght400-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Regular Italic" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -915,7 +1011,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght400-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Regular" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght400-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Regular Italic" filename="ufo_instances/RobotoSerif-opsz14-wght400-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -925,7 +1021,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght500-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Medium" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght500-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Medium Italic" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -935,7 +1031,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght500-wdth100-grad0" familyname="Roboto Serif" stylename="14px Medium" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght500-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Medium Italic" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -945,7 +1041,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght500-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Medium" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght500-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Medium Italic" filename="ufo_instances/RobotoSerif-opsz14-wght500-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -955,7 +1051,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght600-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed SemiBold" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght600-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -965,7 +1061,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght600-wdth100-grad0" familyname="Roboto Serif" stylename="14px SemiBold" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght600-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -975,7 +1071,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght600-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded SemiBold" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght600-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght600-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -985,7 +1081,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght700-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Bold" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth50-grad0.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz14-wght700-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Bold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth50-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -995,7 +1091,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght700-wdth100-grad0" familyname="Roboto Serif" stylename="14px Bold" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth100-grad0.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz14-wght700-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Bold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth100-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -1005,7 +1101,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght700-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Bold" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth150-grad0.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz14-wght700-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Bold Italic" filename="ufo_instances/RobotoSerif-opsz14-wght700-wdth150-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 14px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -1015,7 +1111,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght900-wdth50-grad0" familyname="Roboto Serif" stylename="14px Condensed Black" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght900-wdth50-grad0-italic" familyname="Roboto Serif" stylename="14px Condensed Black Italic" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -1025,7 +1121,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght900-wdth100-grad0" familyname="Roboto Serif" stylename="14px Black" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght900-wdth100-grad0-italic" familyname="Roboto Serif" stylename="14px Black Italic" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -1035,7 +1131,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz14-wght900-wdth150-grad0" familyname="Roboto Serif" stylename="14px Expanded Black" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz14-wght900-wdth150-grad0-italic" familyname="Roboto Serif" stylename="14px Expanded Black Italic" filename="ufo_instances/RobotoSerif-opsz14-wght900-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="14"/>
@@ -1045,7 +1141,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght100-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Thin" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght100-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Thin Italic" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1055,7 +1151,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght100-wdth100-grad0" familyname="Roboto Serif" stylename="20px Thin" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght100-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Thin Italic" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1065,7 +1161,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght100-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Thin" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght100-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Thin Italic" filename="ufo_instances/RobotoSerif-opsz20-wght100-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1075,7 +1171,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght200-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed ExtraLight" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght200-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1085,7 +1181,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght200-wdth100-grad0" familyname="Roboto Serif" stylename="20px ExtraLight" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght200-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1095,7 +1191,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght200-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded ExtraLight" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght200-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz20-wght200-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1105,7 +1201,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght300-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Light" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght300-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Light Italic" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1115,7 +1211,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght300-wdth100-grad0" familyname="Roboto Serif" stylename="20px Light" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght300-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Light Italic" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1125,7 +1221,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght300-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Light" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght300-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Light Italic" filename="ufo_instances/RobotoSerif-opsz20-wght300-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1135,7 +1231,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght400-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Regular" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght400-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Regular Italic" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1145,7 +1241,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght400-wdth100-grad0" familyname="Roboto Serif" stylename="20px Regular" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght400-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Regular Italic" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1155,7 +1251,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght400-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Regular" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght400-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Regular Italic" filename="ufo_instances/RobotoSerif-opsz20-wght400-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1165,7 +1261,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght500-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Medium" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght500-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Medium Italic" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1175,7 +1271,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght500-wdth100-grad0" familyname="Roboto Serif" stylename="20px Medium" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght500-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Medium Italic" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1185,7 +1281,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght500-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Medium" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght500-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Medium Italic" filename="ufo_instances/RobotoSerif-opsz20-wght500-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1195,7 +1291,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght600-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed SemiBold" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght600-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1205,7 +1301,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght600-wdth100-grad0" familyname="Roboto Serif" stylename="20px SemiBold" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght600-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1215,7 +1311,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght600-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded SemiBold" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght600-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght600-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1225,7 +1321,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght700-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Bold" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth50-grad0.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz20-wght700-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Bold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth50-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1235,7 +1331,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght700-wdth100-grad0" familyname="Roboto Serif" stylename="20px Bold" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth100-grad0.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz20-wght700-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Bold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth100-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1245,7 +1341,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght700-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Bold" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth150-grad0.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz20-wght700-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Bold Italic" filename="ufo_instances/RobotoSerif-opsz20-wght700-wdth150-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 20px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1255,7 +1351,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght900-wdth50-grad0" familyname="Roboto Serif" stylename="20px Condensed Black" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght900-wdth50-grad0-italic" familyname="Roboto Serif" stylename="20px Condensed Black Italic" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1265,7 +1361,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght900-wdth100-grad0" familyname="Roboto Serif" stylename="20px Black" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght900-wdth100-grad0-italic" familyname="Roboto Serif" stylename="20px Black Italic" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1275,7 +1371,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz20-wght900-wdth150-grad0" familyname="Roboto Serif" stylename="20px Expanded Black" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz20-wght900-wdth150-grad0-italic" familyname="Roboto Serif" stylename="20px Expanded Black Italic" filename="ufo_instances/RobotoSerif-opsz20-wght900-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
@@ -1285,7 +1381,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght100-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Thin" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght100-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Thin Italic" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1295,7 +1391,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght100-wdth100-grad0" familyname="Roboto Serif" stylename="60px Thin" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght100-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Thin Italic" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1305,7 +1401,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght100-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Thin" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght100-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Thin Italic" filename="ufo_instances/RobotoSerif-opsz60-wght100-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1315,7 +1411,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght200-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed ExtraLight" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght200-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1325,7 +1421,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght200-wdth100-grad0" familyname="Roboto Serif" stylename="60px ExtraLight" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght200-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1335,7 +1431,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght200-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded ExtraLight" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght200-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz60-wght200-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1345,7 +1441,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght300-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Light" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght300-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Light Italic" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1355,7 +1451,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght300-wdth100-grad0" familyname="Roboto Serif" stylename="60px Light" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght300-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Light Italic" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1365,7 +1461,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght300-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Light" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght300-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Light Italic" filename="ufo_instances/RobotoSerif-opsz60-wght300-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1375,7 +1471,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght400-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Regular" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght400-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Regular Italic" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1385,7 +1481,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght400-wdth100-grad0" familyname="Roboto Serif" stylename="60px Regular" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght400-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Regular Italic" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1395,7 +1491,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght400-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Regular" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght400-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Regular Italic" filename="ufo_instances/RobotoSerif-opsz60-wght400-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1405,7 +1501,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght500-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Medium" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght500-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Medium Italic" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1415,7 +1511,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght500-wdth100-grad0" familyname="Roboto Serif" stylename="60px Medium" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght500-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Medium Italic" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1425,7 +1521,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght500-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Medium" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght500-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Medium Italic" filename="ufo_instances/RobotoSerif-opsz60-wght500-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1435,7 +1531,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght600-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed SemiBold" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght600-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1445,7 +1541,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght600-wdth100-grad0" familyname="Roboto Serif" stylename="60px SemiBold" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght600-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1455,7 +1551,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght600-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded SemiBold" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght600-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght600-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1465,7 +1561,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght700-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Bold" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth50-grad0.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz60-wght700-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Bold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth50-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1475,7 +1571,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght700-wdth100-grad0" familyname="Roboto Serif" stylename="60px Bold" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth100-grad0.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz60-wght700-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Bold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth100-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1485,7 +1581,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght700-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Bold" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth150-grad0.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz60-wght700-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Bold Italic" filename="ufo_instances/RobotoSerif-opsz60-wght700-wdth150-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 60px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1495,7 +1591,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght900-wdth50-grad0" familyname="Roboto Serif" stylename="60px Condensed Black" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght900-wdth50-grad0-italic" familyname="Roboto Serif" stylename="60px Condensed Black Italic" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1505,7 +1601,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght900-wdth100-grad0" familyname="Roboto Serif" stylename="60px Black" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght900-wdth100-grad0-italic" familyname="Roboto Serif" stylename="60px Black Italic" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1515,7 +1611,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz60-wght900-wdth150-grad0" familyname="Roboto Serif" stylename="60px Expanded Black" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz60-wght900-wdth150-grad0-italic" familyname="Roboto Serif" stylename="60px Expanded Black Italic" filename="ufo_instances/RobotoSerif-opsz60-wght900-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="60"/>
@@ -1525,7 +1621,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght100-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Thin" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght100-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Thin Italic" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1535,7 +1631,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght100-wdth100-grad0" familyname="Roboto Serif" stylename="100px Thin" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght100-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Thin Italic" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1545,7 +1641,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght100-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Thin" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght100-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Thin Italic" filename="ufo_instances/RobotoSerif-opsz100-wght100-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1555,7 +1651,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght200-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed ExtraLight" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght200-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1565,7 +1661,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght200-wdth100-grad0" familyname="Roboto Serif" stylename="100px ExtraLight" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght200-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1575,7 +1671,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght200-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded ExtraLight" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght200-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded ExtraLight Italic" filename="ufo_instances/RobotoSerif-opsz100-wght200-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1585,7 +1681,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght300-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Light" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght300-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Light Italic" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1595,7 +1691,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght300-wdth100-grad0" familyname="Roboto Serif" stylename="100px Light" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght300-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Light Italic" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1605,7 +1701,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght300-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Light" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght300-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Light Italic" filename="ufo_instances/RobotoSerif-opsz100-wght300-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1615,7 +1711,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght400-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Regular" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght400-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Regular Italic" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1625,7 +1721,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght400-wdth100-grad0" familyname="Roboto Serif" stylename="100px Regular" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght400-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Regular Italic" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1635,7 +1731,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght400-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Regular" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght400-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Regular Italic" filename="ufo_instances/RobotoSerif-opsz100-wght400-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1645,7 +1741,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght500-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Medium" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght500-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Medium Italic" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1655,7 +1751,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght500-wdth100-grad0" familyname="Roboto Serif" stylename="100px Medium" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght500-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Medium Italic" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1665,7 +1761,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght500-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Medium" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght500-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Medium Italic" filename="ufo_instances/RobotoSerif-opsz100-wght500-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1675,7 +1771,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght600-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed SemiBold" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght600-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1685,7 +1781,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght600-wdth100-grad0" familyname="Roboto Serif" stylename="100px SemiBold" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght600-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1695,7 +1791,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght600-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded SemiBold" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght600-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded SemiBold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght600-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1705,7 +1801,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght700-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Bold" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth50-grad0.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz100-wght700-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Bold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth50-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1715,7 +1811,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght700-wdth100-grad0" familyname="Roboto Serif" stylename="100px Bold" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth100-grad0.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz100-wght700-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Bold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth100-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1725,7 +1821,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght700-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Bold" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth150-grad0.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
+    <instance name="RobotoSerif-opsz100-wght700-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Bold Italic" filename="ufo_instances/RobotoSerif-opsz100-wght700-wdth150-grad0-italic.ufo" stylemapfamilyname="Roboto Serif 100px Regular" stylemapstylename="bold">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1735,7 +1831,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght900-wdth50-grad0" familyname="Roboto Serif" stylename="100px Condensed Black" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth50-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght900-wdth50-grad0-italic" familyname="Roboto Serif" stylename="100px Condensed Black Italic" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth50-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1745,7 +1841,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght900-wdth100-grad0" familyname="Roboto Serif" stylename="100px Black" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth100-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght900-wdth100-grad0-italic" familyname="Roboto Serif" stylename="100px Black Italic" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth100-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="100"/>
@@ -1755,7 +1851,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="RobotoSerif-opsz100-wght900-wdth150-grad0" familyname="Roboto Serif" stylename="100px Expanded Black" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth150-grad0.ufo">
+    <instance name="RobotoSerif-opsz100-wght900-wdth150-grad0-italic" familyname="Roboto Serif" stylename="100px Expanded Black Italic" filename="ufo_instances/RobotoSerif-opsz100-wght900-wdth150-grad0-italic.ufo">
       <location>
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="100"/>
