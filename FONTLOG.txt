@@ -2,14 +2,19 @@ FONTLOG for Roboto Serif Text
 
 ChangeLog
 
-Roboto Serif v1.004 (11 September 2020)
+
+Roboto Serif v1.004 (12 April 2021)
+- Release to public
+
+
+Roboto Serif v0.004 (11 September 2020)
 
 - Sources: Added 24 sources to improve grad axis across all optical sizes
 - License: Updated license in fonts with text from OFL.txt
 - Sources: combining accents set to zero width, negative offset.
 
 
-Roboto Serif v1.003 (17 June 2020)
+Roboto Serif v0.003 (17 June 2020)
 
 - Family Name: rename from "Roboto Serif Text" to "Roboto Serif"
 - glyph outlines: Moved overlapped points in the apex of A (and other characters with similar problem) closer together so they wouldn’t poke out in the grade deltas.
@@ -37,7 +42,7 @@ Roboto Serif v1.003 (17 June 2020)
 - build_variable.sh: updated to be more robust
 
 
-Roboto Serif Text v1.002 (4 May 2020)
+Roboto Serif Text v0.002 (4 May 2020)
 - copyright change to "Copyright 2020 The Roboto Serif Project Authors" to match Google spec.
 - rename instance names to match Google spec.
 - fix glyph names: thai:baht renamed to baht, thai:baht.proportional renamed to baht.proportional
@@ -59,5 +64,5 @@ postscriptUnderlineThickness = 100
 - add commands to build.sh: gftools fix-nonhinting and gftools fix-dsig
 
 
-Roboto Serif Text v1.001 (20 April 2020)
+Roboto Serif Text v0.001 (20 April 2020)
 - Initial release
