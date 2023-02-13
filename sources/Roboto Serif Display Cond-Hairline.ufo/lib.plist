@@ -1381,8 +1381,9 @@
       <string>Scarondotaccent</string>
       <string>Sdotbelowdotaccent</string>
       <string>T</string>
-      <string>Tcommaaccent</string>
+      <string>Tcedilla</string>
       <string>Tcaron</string>
+      <string>Tcommaaccent</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
       <string>U</string>
@@ -1474,7 +1475,7 @@
       <string>Gjecyr</string>
       <string>Decyr</string>
       <string>Iecyr</string>
-      <string>uni0400</string>
+      <string>Iegravecyr</string>
       <string>Iocyr</string>
       <string>Iebrevecyr</string>
       <string>Zhecyr</string>
@@ -1695,8 +1696,9 @@
       <string>scarondotaccent</string>
       <string>sdotbelowdotaccent</string>
       <string>t</string>
-      <string>tcommaaccent</string>
+      <string>tcedilla</string>
       <string>tcaron</string>
+      <string>tcommaaccent</string>
       <string>tdotbelow</string>
       <string>tlinebelow</string>
       <string>tdieresis</string>
@@ -1782,7 +1784,7 @@
       <string>gjecyr</string>
       <string>decyr</string>
       <string>iecyr</string>
-      <string>uni0450</string>
+      <string>iegravecyr</string>
       <string>iocyr</string>
       <string>iebrevecyr</string>
       <string>zhecyr</string>
@@ -2103,7 +2105,6 @@
       <string>Ebrevecyr</string>
       <string>ebrevecyr</string>
       <string>Jacute</string>
-      <string>Tcedilla</string>
       <string>Yamacron</string>
       <string>Yumacron</string>
       <string>brevebelow</string>
@@ -2117,7 +2118,6 @@
       <string>idotaccent</string>
       <string>jacute</string>
       <string>macronbelow</string>
-      <string>tcedilla</string>
       <string>yamacron</string>
       <string>yumacron</string>
       <string>f_f</string>
@@ -2476,52 +2476,6 @@
       <string>f_i.alt</string>
       <string>f_j.alt</string>
       <string>fi.alt</string>
-      <string>breve.cyr</string>
-      <string>breve.cyr.uc</string>
-      <string>Be</string>
-      <string>De</string>
-      <string>Dje</string>
-      <string>Ecyr</string>
-      <string>Ef</string>
-      <string>El</string>
-      <string>Gheup</string>
-      <string>Io</string>
-      <string>Lje</string>
-      <string>Soft</string>
-      <string>Tedescender</string>
-      <string>Tse</string>
-      <string>Tshe</string>
-      <string>Ya</string>
-      <string>Yi</string>
-      <string>Yu</string>
-      <string>Ze</string>
-      <string>be</string>
-      <string>de</string>
-      <string>dzhe</string>
-      <string>ecyr</string>
-      <string>ef</string>
-      <string>el</string>
-      <string>en</string>
-      <string>endescender</string>
-      <string>esdescendercyr</string>
-      <string>ghe</string>
-      <string>gheup</string>
-      <string>io</string>
-      <string>ka</string>
-      <string>kadescender</string>
-      <string>liraTurkish</string>
-      <string>lje</string>
-      <string>nje</string>
-      <string>pe</string>
-      <string>sha</string>
-      <string>shcha</string>
-      <string>tse</string>
-      <string>ya</string>
-      <string>yi</string>
-      <string>yu</string>
-      <string>ze</string>
-      <string>zhe</string>
-      <string>zhedescender</string>
     </array>
   </dict>
 </plist>

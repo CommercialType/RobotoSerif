@@ -1460,8 +1460,9 @@
       <string>Scarondotaccent</string>
       <string>Sdotbelowdotaccent</string>
       <string>T</string>
-      <string>Tcommaaccent</string>
+      <string>Tcedilla</string>
       <string>Tcaron</string>
+      <string>Tcommaaccent</string>
       <string>Tdotbelow</string>
       <string>Tlinebelow</string>
       <string>U</string>
@@ -1553,7 +1554,7 @@
       <string>Gjecyr</string>
       <string>Decyr</string>
       <string>Iecyr</string>
-      <string>uni0400</string>
+      <string>Iegravecyr</string>
       <string>Iocyr</string>
       <string>Iebrevecyr</string>
       <string>Zhecyr</string>
@@ -1774,8 +1775,9 @@
       <string>scarondotaccent</string>
       <string>sdotbelowdotaccent</string>
       <string>t</string>
-      <string>tcommaaccent</string>
+      <string>tcedilla</string>
       <string>tcaron</string>
+      <string>tcommaaccent</string>
       <string>tdotbelow</string>
       <string>tlinebelow</string>
       <string>tdieresis</string>
@@ -1861,7 +1863,7 @@
       <string>gjecyr</string>
       <string>decyr</string>
       <string>iecyr</string>
-      <string>uni0450</string>
+      <string>iegravecyr</string>
       <string>iocyr</string>
       <string>iebrevecyr</string>
       <string>zhecyr</string>
@@ -2182,7 +2184,6 @@
       <string>Ebrevecyr</string>
       <string>ebrevecyr</string>
       <string>Jacute</string>
-      <string>Tcedilla</string>
       <string>Yamacron</string>
       <string>Yumacron</string>
       <string>brevebelow</string>
@@ -2196,7 +2197,6 @@
       <string>idotaccent</string>
       <string>jacute</string>
       <string>macronbelow</string>
-      <string>tcedilla</string>
       <string>yamacron</string>
       <string>yumacron</string>
       <string>f_f</string>
@@ -2235,11 +2235,6 @@
       <string>eight.num</string>
       <string>nine.num</string>
       <string>be.locl</string>
-      <string>de.locl</string>
-      <string>ghe.locl</string>
-      <string>pe.locl</string>
-      <string>te.locl</string>
-      <string>zhe.bgr.alt1</string>
       <string>period.tab</string>
       <string>comma.tab</string>
       <string>colon.tab</string>
@@ -2432,8 +2427,6 @@
       <string>ze.bgr</string>
       <string>zhe.bgr</string>
       <string>Iebrevecyr.alt1</string>
-      <string>zhebrevecyr.alt1</string>
-      <string>zhedieresiscyr.alt1</string>
       <string>Iemacroncyr.alt1</string>
       <string>Emacroncyr.alt1</string>
       <string>Ebrevecyr.alt1</string>
@@ -2441,8 +2434,6 @@
       <string>Ie.alt1</string>
       <string>Ieukran.alt1</string>
       <string>Io.alt1</string>
-      <string>zhe.alt1</string>
-      <string>zhedescender.alt1</string>
       <string>f.short</string>
       <string>f_f.short</string>
       <string>Eng.afr</string>
@@ -2509,6 +2500,32 @@
       <string>AE.alt</string>
       <string>AEacute.alt</string>
       <string>OE.alt</string>
+      <string>a.alt</string>
+      <string>agrave.alt</string>
+      <string>aacute.alt</string>
+      <string>acircumflex.alt</string>
+      <string>atilde.alt</string>
+      <string>adieresis.alt</string>
+      <string>aring.alt</string>
+      <string>amacron.alt</string>
+      <string>abreve.alt</string>
+      <string>aogonek.alt</string>
+      <string>acaron.alt</string>
+      <string>aringacute.alt</string>
+      <string>adblgrave.alt</string>
+      <string>ainvertedbreve.alt</string>
+      <string>adotbelow.alt</string>
+      <string>ahoi.alt</string>
+      <string>acircumflexacute.alt</string>
+      <string>acircumflexgrave.alt</string>
+      <string>acircumflexhoi.alt</string>
+      <string>acircumflextilde.alt</string>
+      <string>acircumflexdotbelow.alt</string>
+      <string>abreveacute.alt</string>
+      <string>abrevegrave.alt</string>
+      <string>abrevehoi.alt</string>
+      <string>abrevetilde.alt</string>
+      <string>abrevedotbelow.alt</string>
       <string>f.alt</string>
       <string>g.alt</string>
       <string>gcircumflex.alt</string>
@@ -2517,12 +2534,16 @@
       <string>gcommaaccent.alt</string>
       <string>gcaron.alt</string>
       <string>gmacron.alt</string>
+      <string>acyr.alt</string>
+      <string>abrevecyr.alt</string>
+      <string>adieresiscyr.alt</string>
       <string>caron.alt</string>
       <string>caroncomb.alt</string>
       <string>dollar.alt</string>
       <string>cent.alt</string>
       <string>sterling.alt</string>
       <string>lira.alt</string>
+      <string>amacroncyr.alt</string>
       <string>commaaccent.alt</string>
       <string>f_f.alt</string>
       <string>f_f_b.alt</string>

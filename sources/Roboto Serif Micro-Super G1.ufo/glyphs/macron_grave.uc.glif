@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron_grave.uc" format="2">
   <advance width="500"/>
+  <anchor x="250" y="694" name="_top"/>
   <outline>
     <component base="macron.uc"/>
     <component base="grave.uc" xOffset="-38" yOffset="219"/>

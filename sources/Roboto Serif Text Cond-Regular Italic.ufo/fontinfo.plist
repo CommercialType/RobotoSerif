@@ -142,7 +142,7 @@
     <key>openTypeHeadCreated</key>
     <string>2020/04/09 13:42:57</string>
     <key>openTypeHheaAscender</key>
-    <integer>927</integer>
+    <integer>928</integer>
     <key>openTypeHheaDescender</key>
     <integer>-244</integer>
     <key>openTypeHheaLineGap</key>
@@ -152,7 +152,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>https://www.commercialtype.com/</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright 2017 The Roboto Serif Project Authors (https://github.com/CommercialType/RobotoSerif)
+    <string>Copyright 2013 The Roboto Serif Project Authors (https://github.com/googlefonts/roboto-serif)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -278,12 +278,16 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <integer>0</integer>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>927</integer>
+    <integer>1048</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-244</integer>
+    <integer>-271</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
@@ -317,9 +321,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <key>openTypeOS2WidthClass</key>
     <integer>3</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1152</integer>
+    <integer>1048</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>305</integer>
+    <integer>251</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-11</integer>

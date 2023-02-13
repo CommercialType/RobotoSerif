@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis_macron.uc" format="2">
   <advance width="560"/>
+  <anchor x="280" y="694" name="_top"/>
   <outline>
     <component base="dieresis.uc" xOffset="30"/>
     <component base="macron.uc" xOffset="30" yOffset="193"/>
